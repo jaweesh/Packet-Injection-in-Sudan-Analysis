@@ -26,7 +26,7 @@ analysis will be on this page while samples will have their own folder, executab
 
 when updating linux repositories one notices a hash mismatch and have to connect to a VPN in order to successfully update the system repositories which indicate that ISPs like MTN, Zain and Sudani have some sort of packet injection on the fly, however some people would say this is a caching proxy which is invalid claim as chaching proxies does not tamper with the packge, it may cache an older version but will not change a package structure so it is not the case here.
 
-running update from MTN network results in an mismatch size and ignored
+running linux update from MTN network results in an mismatch size and ignored
 
 ```
 apt-get update
@@ -133,11 +133,11 @@ Accept-Ranges: bytes
 200 OK
 Registered socket 3 for persistent reuse.
 Length: 5500784 (5.2M) [application/octet-stream]
-Saving to: ‘cav_installer.exe.2’
+Saving to: ‘cav_installer.exe’
 
-cav_installer.exe.2                             100%[====================================================================================================>]   5.25M   880KB/s    in 9.4s    
+cav_installer.exe                             100%[====================================================================================================>]   5.25M   880KB/s    in 9.4s    
 
-2018-03-13 14:17:14 (570 KB/s) - ‘cav_installer.exe.2’ saved [5500784/5500784]
+2018-03-13 14:17:14 (570 KB/s) - ‘cav_installer.exe’ saved [5500784/5500784]
 
 
 
@@ -150,5 +150,5 @@ sha256sum *
 
 ## Conclusions
 
-
+there is some sort of packet interception and modification on the fly for unencrypted download and traffic, however a VPN connection will prevent this from happening.
 
