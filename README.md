@@ -163,7 +163,11 @@ In 2015 HackingTeam, an Italian based IT company that sells offensive intrusion 
 On the leak a contract with Sudan valued at 480,000 Euro and dated July 2, 2012 was published as part of the 400GB cache, in addition, a maintainance list named Sudan as a customer, but one that was "not officially supported".
 ``` https://www.csoonline.com/article/2944333/data-breach/hacking-team-responds-to-data-breach-issues-public-threats-and-denials.html ```
 
+
 ## Conclusions
 
 there is some sort of packet interception and modification on the fly for unencrypted download and traffic, however a VPN connection will prevent this from happening.
 
+
+## Contributions
+I would like to invite my fellow InfoSec folks to collaborate by PR so we can all be in the light 
