@@ -60,7 +60,7 @@ E: Some index files failed to download. They have been ignored, or old ones used
 | IP | net | Date reported | notes |
 | :--- | :--- | :--- | :--- |
 | 172.19.66.104 | PRIVATE IP SPACE | 13-March-2018 | indicates inside MTN network device |
-|  |  |  |  |
+| 41.223.201.247 | Zain |  | IP is down |
 
 Trying to download an Antivirus software over unencrypted HTTP channel results in the same IP address redirection and size mismatch, however when downloading the same file over a VPN results in a proper safe download of the file
 
@@ -148,6 +148,10 @@ sha256sum *
 
 ![](/assets/2018-03-13_02h50_14.jpg)
 
+
+an old WhatsApp download from a strange IP address
+
+![](/assets/whatsapp-evill-download.PNG)
 
 ## Past stories and leaks
 In 2013 reports found that Blue Coat's tools have been used to censor web sites and monitor the communications of dissidents, activists and jounalists in Sudan, Iran and Syria. These countires are sanctined and sales of such devices, technology and systems are prohibited by law but they managed to get them and utilize them.
