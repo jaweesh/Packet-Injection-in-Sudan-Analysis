@@ -10,3 +10,8 @@ ls -la *
 -rw-r--r-- 1 root root 5,500,784 Nov 24 10:44 cav_installer-intercepted.exe
 -rw-r--r-- 1 root root 5,546,232 Feb 21 14:42 cav_installer-original.exe
 ```
+
+vbindiff screenshot
+
+![](/assets/2018-03-13_02h56_50.jpg)
+
