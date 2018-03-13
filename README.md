@@ -36,5 +36,3 @@ when updating linux repositories one notices a hash mismatch and have to connect
 
 
 
-![](/assets/2018-03-13_02h50_14.jpg)
-
