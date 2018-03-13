@@ -30,6 +30,28 @@ running update from MTN network results in an mismatch size and ignored
 
 ```
 apt-get update
+Get:1 http://kali-za.bitcrack.net/kali kali-rolling InRelease [30.5 kB]
+Get:2 http://kali-za.bitcrack.net/kali kali-rolling/main i386 Packages [15.9 MB]
+Get:3 http://kali-za.bitcrack.net/kali kali-rolling/main i386 Contents (deb) [33.9 MB]                                                                                                      
+Err:3 http://kali-za.bitcrack.net/kali kali-rolling/main i386 Contents (deb)                                                                                                                
+  File has unexpected size (32613856 != 33858927). Mirror sync in progress? [IP: 172.19.66.104 80]
+  Hashes of expected file:
+   - Filesize:33858927 [weak]
+   - SHA256:dbde5770ab080420d319c9e0017bc02acd4d7af859176d4a7eb48a954da77e85
+   - SHA1:32a011cc46fa16ac7c266010afc8f25ce3e50a08 [weak]
+   - MD5Sum:39c82afd6f4b1bdda0f0f03d2369a3fe [weak]
+  Release file created at: Tue, 13 Mar 2018 06:05:18 +0000
+Fetched 15.9 MB in 27s (579 kB/s)                                                                                                                                                           
+Reading package lists... Done
+E: Failed to fetch http://172.19.66.104:80/videoplayer/Contents-i386.gz?ich_u_r_i=5822d70054b7a4f932aa42e6efd1a6e0&ich_s_t_a_r_t=0&ich_e_n_d=0&ich_k_e_y=ad2b5c90b231a53049d2521a25604a0e4db61d405213ad8bbadbfbc1e219b072&ich_t_y_p_e=1&ich_d_i_s_k_i_d=12&ich_s_e_q=2679810&ich_u_n_i_t=1  File has unexpected size (32613856 != 33858927). Mirror sync in progress? [IP: 172.19.66.104 80]
+   Hashes of expected file:
+    - Filesize:33858927 [weak]
+    - SHA256:dbde5770ab080420d319c9e0017bc02acd4d7af859176d4a7eb48a954da77e85
+    - SHA1:32a011cc46fa16ac7c266010afc8f25ce3e50a08 [weak]
+    - MD5Sum:39c82afd6f4b1bdda0f0f03d2369a3fe [weak]
+   Release file created at: Tue, 13 Mar 2018 06:05:18 +0000
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+
 ```
 
 ![](/assets/2018-03-13_14h05_25.jpg)
@@ -41,10 +63,7 @@ apt-get update
 | 172.19.66.104 | PRIVATE IP SPACE | 13-March-2018 | indicates inside MTN network device |
 |  |  |  |  |
 
-
-
 Trying to download an Antivirus software over unencrypted HTTP channel results in the same IP address redirection and size mismatch, however when downloading the same file over a VPN results in a proper safe download of the file
-
 
 ```
 wget -d  "http://download.comodo.com/cis/download/installs/1000/standalone/cav_installer.exe"
@@ -126,36 +145,11 @@ cav_installer.exe.2                             100%[===========================
 sha256sum *
 24f071a2cad7c90b31bf6a3d380ac960d582684379b8ebee1359c3a610f04814  cav_installer-over-VPN.exe
 2f3effd8f5598264ec0f39f6880ccf46c1cab8168abfe283a70a3ee4c0c8fffd  cav_installer-intercepted.exe
-
 ```
 
 ![](/assets/2018-03-13_02h50_14.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Conclusions 
-
-
+## Conclusions
 
 
 
