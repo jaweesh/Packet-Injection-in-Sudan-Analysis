@@ -1,8 +1,8 @@
-# Packet-Injection-in-Sudan-Analysis
+# Shady downloads and redirections
 
 To analyze samples downloaded over insecure channel and secure channels
 
-## Intro and Disclaimers
+## Introduction and Disclaimers
 
 I created this repository to analyze, collect samples and collaborate efforts towards what is now affecting all ISPs in Sudan \(Zain, MTN and Sudani\).
 
@@ -51,7 +51,6 @@ E: Failed to fetch http://172.19.66.104:80/videoplayer/Contents-i386.gz?ich_u_r_
     - MD5Sum:39c82afd6f4b1bdda0f0f03d2369a3fe [weak]
    Release file created at: Tue, 13 Mar 2018 06:05:18 +0000
 E: Some index files failed to download. They have been ignored, or old ones used instead.
-
 ```
 
 ![](/assets/2018-03-13_14h05_25.jpg)
