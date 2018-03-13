@@ -148,6 +148,21 @@ sha256sum *
 
 ![](/assets/2018-03-13_02h50_14.jpg)
 
+
+## Past stories and leaks
+In 2013 reports found that Blue Coat's tools have been used to censor web sites and monitor the communications of dissidents, activists and jounalists in Sudan, Iran and Syria. These countires are sanctined and sales of such devices, technology and systems are prohibited by law but they managed to get them and utilize them.
+ ``` https://www.washingtonpost.com/world/national-security/report-web-monitoring-devices-made-by-us-firm-blue-coat-detected-in-iran-sudan/2013/07/08/09877ad6-e7cf-11e2-a301-ea5a8116d211_story.html?utm_term=.01efb1ac0017 ```
+
+In Sudan, the Citizen Lab identified the Blue Coat devices on the networks of commercial Internet service provider Canar Telecom. The country, which also faces U.S. sanctions, continues to use the Internet to restrict freedom of expression and crack down on journalists. Sudanese Internet service providers have censored Web sites covering sensitive political protests.
+``` same source ```
+
+In 2014 a Zitizen Lab report revealed edidence that Hacking Team's RCS (Remote Control System) was being used by the Sudanese government, something the Italian company flat-out denied.
+``` https://citizenlab.ca/storage/bluecoat/CitLab-PlanetBlueCoatRedux-FINAL.pdf ```
+
+In 2015 HackingTeam, an Italian based IT company that sells offensive intrusion and surveillance software to governments, law enforement agencies and corporations was hacked and 400GB of data including internal emails, nvoices and source code was leaked and WikiLeaks has an indexed files you can lookup. However HackingTeam stated before that it has never done business with Sudan.
+On the leak a contract with Sudan valued at 480,000 Euro and dated July 2, 2012 was published as part of the 400GB cache, in addition, a maintainance list named Sudan as a customer, but one that was "not officially supported".
+``` https://www.csoonline.com/article/2944333/data-breach/hacking-team-responds-to-data-breach-issues-public-threats-and-denials.html ```
+
 ## Conclusions
 
 there is some sort of packet interception and modification on the fly for unencrypted download and traffic, however a VPN connection will prevent this from happening.
