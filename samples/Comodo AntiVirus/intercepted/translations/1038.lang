@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Magyar - By Community" LANGID="1038" RTL="0">
+	<string id="106" value="A csomag sérült.\r\nTelepítés megszakítva" />
+	<string id="107" value="A telepítő nem támogatja a cél platformot." />
+	<string id="108" value="COMODO Váltás" />
+	<string id="109" value="%s telepítő" />
+	<string id="110" value="%s váltás..." />
+	<string id="111" value="Nem menthető a licenc információ.\r\n%s" />
+	<string id="112" value="Ez az opció átállítja a számítógép elsődleges és a másodlagos DNS kiszolgáló címeit a következőkre: 8.26.56.26 és 156.154.70.22. A váltás után az összes alkalmazás biztonságosabb és gyorsabb szervereket fog használni az internethez kapcsolódva." />
+	<string id="113" value="Ön elérte a licence által engedélyezett telepítések maximális számát." />
+	<string id="114" value="COMODO licenckezelő" />
+	<string id="115" value="Számítógépe dátum/idő értéke nincs helyesen beállítva. Kérem, javítsa és próbálja ismét." />
+	<string id="116" value="A bevitt licenckulcs lejárt." />
+	<string id="117" value="Hiba: %u. %s" />
+	<string id="118" value="Nem sikerült a telepítő inicializálása, érvénytelen adatformátum." />
+	<string id="119" value="Új telepítő verzió érhető el.\r\nA telepítő most frissíteni fogja magát.\r\nSzeretné folytatni?" />
+	<string id="120" value="A megadott ismétlődés intervallum nem támogatott" />
+	<string id="121" value="A nyomtatás nem inicializálható." />
+	<string id="122" value="A termék aktiválása visszavonásra került. Lépjen kapcsolatba a rendszer adminisztrátorával." />
+	<string id="123" value="%s telepítése..." />
+	<string id="124" value="COMODO Telepítő" />
+	<string id="125" value="Elfogad és telepít" />
+	<string id="126" value="Elfogad és vált" />
+	<string id="127" value="Biztosan megszakítja a csomagok telepítését?" />
+	<string id="128" value="A telepítés végrehajtásához engedélyre van szüksége." />
+	<string id="129" value="Licencszerződés megtekintése" />
+	<string id="130" value="A COMODO telepítő nem indítható újra.\r\n%s\r\nKérem, indítsa újra manuálisan." />
+	<string id="131" value="Telepítés személyre szabása" />
+	<string id="132" value="Váltás személyre szabása" />
+	<string id="133" value="A konfigurációs változások életbe lépéséhez újra kell indítani a számítógépet.\nAzonnali újraindításhoz klikkeljen az 'Igen'-re, amennyiben később, manuálisan szeretné ezt megtenni, nyomja meg a'Nem'-et." />
+	<string id="134" value="Kérjük, várjon..." />
+	<string id="135" value="Ez a művelet nem engedélyezett" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="A számítógépére telepített CCS kezelése, a megadott szerver segítségével, nem lehetséges. Győződjön meg arról, hogy valóban helyes IT and Security Manager szerver adatokat adott meg vagy további segítségért lépjen kapcsolatba a hálózati adminisztrátorával." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Hiba %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="A beírt felhasználónév vagy jelszó érvénytelen" />
+	<string id="144" value="A rendszer nem újraindítható.\r\n%s\r\nKérem, indítsa újra manuálisan." />
+	<string id="145" value="Hiba %d: %s" />
+	<string id="148" value="HTTP állapotkód: %u." />
+	<string id="153" value="A beírt e-mail cím érvénytelen.\r\nKérem, írjon be érvényes e-mail címet." />
+	<string id="154" value="A megadott licenckulcs érvénytelen.\r\nKérem, írjon be érvényes licenckulcsot." />
+	<string id="155" value="Nem létrehozható %s mappa.\r\n%s" />
+	<string id="156" value="Nem található a WEB API felhasználóval egyező azonosító" />
+	<string id="158" value="Fizetési átjáró hiba" />
+	<string id="160" value="%s nem telepíthető\r\n%s\r\nSzeretné újból megpróbálni?" />
+	<string id="165" value="Nem letölthető %s fájlt" />
+	<string id="166" value="Nem írható %s fájl" />
+	<string id="167" value="Nem sikerült a telepítő inicializáció. Kérem, ellenőrizze Internetes kapcsolatát.\r\n%s" />
+	<string id="168" value="Nem sikerült a telepítő inicializáció. Kérem, ellenőrizze a fájlrendszer hozzáférés jogait.\r\n%s" />
+	<string id="169" value="A felhasználó nem rendelkezik ID kivonattal a számla igényléséhez" />
+	<string id="170" value="Ezekhez a fizetési feltételekhez nem hozható létre ismétlődő elem" />
+	<string id="171" value="Azonosítási hiba" />
+	<string id="172" value="A kiválasztott nyelvet nem támogatja az operációs rendszer." />
+	<string id="173" value="A termék telepítés nem folytatódhat, mert a kiválasztott nyelvet nem támogatja az operációs rendszer." />
+	<string id="175" value="%s nem telepíthető\r\n%s" />
+	<string id="183" value="%s telepítése" />
+	<string id="184" value="%s letöltése..." />
+	<string id="190" value="A folytatáshoz szükséges a számítógép újraindítása.\r\nSzeretné most újraindítani?" />
+	<string id="192" value="A termékek telepítéséhez a számítógép újraindítása szükséges. Újraindítás után a telepítés automatikusan folytatódni fog.\r\nÚjraindítja most?" />
+	<string id="193" value="A telepítés folytatásához először el kell távolítani a régi COMODO tűzfalat/Internet Security-t.\r\Ez %s miatt nem lehetséges, ezért manuálisan kell eltávolítania és a %s-t újraindítania." />
+	<string id="194" value="Licenckulcs szükségletek" />
+	<string id="195" value="A licenckulcs csak 'A' és 'F' közé eső betűket tartalmazhat" />
+	<string id="196" value="Hol van a licenckulcsom?" />
+	<string id="197" value="Ha termékét az Interneten keresztül vásárolta, licenckulcsát valószínűleg a tranzakciónál megadott email címre küldték. Ha rendelkezik telepítő DVD/CD-vel, a licenckulccsal kapcsolatosan kérem nézze át a DVD/CD hátulját." />
+	<string id="199" value="Kérem, ne törölje vagy módosítsa ezt a fájlt. A %s terméknek szüksége van rá a megfelelő befejezéshez.\r\nA fájl automatikusan eltávolításra kerül a telepítés befejeztével." />
+	<string id="202" value="Érvénytelen ujjlenyomat." />
+	<string id="205" value="Érvénytelen XML kérés." />
+	<string id="206" value="Érvénytelen paraméterek." />
+	<string id="207" value="Érvénytelen licenckulcs." />
+	<string id="208" value="Ismeretlen terület" />
+	<string id="209" value="Ismeretlen árazási feltételek" />
+	<string id="210" value="Érvénytelen kérés típus." />
+	<string id="217" value="Számla kérés sikertelen: nem hozható létre új számla." />
+	<string id="220" value="Ismeretlen hiba lépett fel." />
+	<string id="222" value="Érvénytelen mód." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Nem található inicializációs adatfájl." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Megszakítás. Kérem, várjon..." />
+	<string id="235" value="Kérem, folytatás előtt frissítse %s termékét." />
+	<string id="236" value="A jelenlegi telepítő állapot nem menthető megfelelően, hogy az újraindítás után folytatódni tudjon.\r\nKérem, indítsa újra számítógépét és indítsa el a COMODO telepítőt manuálisan." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="A telepítő inicializálás sikertelen. A tárolt adat formátuma érvénytelen." />
+	<string id="239" value="A termékek telepítésének folytatásához a számítógép újraindítása szükséges. Újraindítás után a telepítés automatikusan folytatódik. Kérem, ne vegye ki a COMODO telepítő DVD-t a telepítés befejezéséig.\r\nÚjraindítja most?" />
+	<string id="246" value="Nem indítható a telepítés - sérült csomag." />
+	<string id="250" value="A telepítés folytatása %s termékének bezárását igényli. Kérem, zárja be %s programját és kattintson az 'Igen' gombra a folytatáshoz." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Garancia aktiválás előtt kérem, aktiválja licenckulcsát." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Ismeretlen XML válasz a CAM szervertől." />
+	<string id="295" value="A bevitt licenckulcs típusa nem egyezik a telepítendő termék típusával." />
+	<string id="313" value="Az Ön licencének aktiválása, kérem, várjon..." />
+	<string id="346" value="Újra" />
+	<string id="366" value="Internet kapcsolat szükséges." />
+	<string id="367" value="Licencének beszerzéséhez a telepítőnek kapcsolódnia kell a COMODO licencközpontjához." />
+	<string id="368" value="Győződjön meg arról, hogy biztosan kapcsolódik az internethez, majd nyomja meg az &quot;Próbálja újra&quot; gombot." />
+	<string id="369" value="Sikeresen aktiváltuk és frissítettük az Ön termékét." />
+	<string id="374" value="Engedélyezem a beazonosítatlan programok elküldését a COMODO-nak 'Felhő alapú viselkedés elemzésre' és elfogadom az &lt;link&gt;Adatkezelési szabályzatot.&lt;/link&gt;" />
+	<string id="375" value="Beta" />
+	<string id="377" value="Az &quot;%s&quot; gombra kattintva Ön engedélyezi a telepítést és elfogadja a &lt;link&gt;Felhasználói licencszerződést.&lt;/link&gt;" />
+	<string id="383" value="Licencének aktiválása nem lehetséges.\n%s" />
+	<string id="385" value="A folytatáshoz legalább egy terméket ki kell választania." />
+	<string id="386" value="Termék méret:  %s" />
+	<string id="387" value="Teljes letöltés méret:  %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Inkompatibilis termékek" />
+	<string id="32001" value="Ablak csökkentése" />
+	<string id="32002" value="Ablak bezárása" />
+	<string id="32003" value="Telepít" />
+	<string id="32004" value="Licenc kezelő" />
+	<string id="32005" value="Igen" />
+	<string id="32006" value="Nem" />
+	<string id="32007" value="Újra" />
+	<string id="32008" value="OK" />
+	<string id="32009" value="Mégsem" />
+	<string id="32010" value="Megszakít" />
+	<string id="32011" value="Mellőz" />
+	<string id="32012" value="Folytat" />
+	<string id="32013" value="Próbálja újra" />
+	<string id="32014" value="Telepítő" />
+	<string id="32015" value="Vissza" />
+	<string id="32016" value="Nyomtat" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Tallóz" />
+	<string id="32019" value="Következő" />
+	<string id="32020" value="Bezár" />
+	<string id="32021" value="Tudjon meg többet" />
+	<string id="32022" value="Befejezés" />
+	<string id="32023" value="Átugrás" />
+	<string id="32024" value="Elfogad" />
+	<string id="32102" value="&lt;strong&gt;Szükséges csomagok telepítése&lt;/strong&gt;&lt;br /&gt; A funkció működéséhez plusz csomagok telepítése szükséges." />
+	<string id="32103" value="A következők kerültek letöltésre és telepítésre:" />
+	<string id="32104" value="Csomag neve" />
+	<string id="32105" value="Licenc szerződés" />
+	<string id="32106" value="Méret" />
+	<string id="32107" value=" Az &quot;Elfogad és telepít&quot;gombra kattintva Ön elfogadja a licencszerződés minden részét." />
+	<string id="32108" value="Elfogad és telepít" />
+	<string id="32109" value="A termék telepítése közben egy hiba jelentkezett:" />
+	<string id="32110" value="Próbálja újra" />
+	<string id="32111" value="Telepítés előkészítése..." />
+	<string id="32112" value="Ön sikeresen aktiválta a termékét." />
+	<string id="32113" value="Folytat" />
+	<string id="32114" value="Várjon, míg licence aktiválásra kerül..." />
+	<string id="32115" value="A termék aktiválása közben egy hiba jelentkezett:" />
+	<string id="32116" value="Próbálja újra" />
+	<string id="32117" value="&lt;strong&gt;Licenc aktiválása&lt;/strong&gt;&lt;br /&gt;A termék aktiválásához adja meg a licenckulcsát" />
+	<string id="32118" value="Aktiváláshoz:" />
+	<string id="32119" value="Győződjön meg arról, hogy valóban csatlakozik az internethez" />
+	<string id="32120" value="Licenckulcs megadása vagy &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;kattintson ide,&lt;/a&gt; hogy szerezzen egyet" />
+	<string id="32121" value="Aktiválja a licencét és regisztrálja a termékét" />
+	<string id="32122" value="Licenckulcs:" />
+	<string id="32123" value="Aktivál" />
+	<string id="32124" value="&lt;strong&gt;Termék regisztrálása&lt;/strong&gt;&lt;br /&gt;Új COMODO fiók létrehozása" />
+	<string id="32125" value="* Keresztnév" />
+	<string id="32126" value="* Vezetéknév" />
+	<string id="32127" value="* Email cím" />
+	<string id="32128" value="Ország" />
+	<string id="32129" value="Város" />
+	<string id="32130" value="Állam" />
+	<string id="32131" value="Cím" />
+	<string id="32132" value="Válasszon egy felhasználónevet és jelszót, majd hozza létre COMODO fiókját. Fiókja segítségével kezelheti a licenceit az &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt; oldalon keresztül" />
+	<string id="32133" value="* Felhasználónév" />
+	<string id="32134" value="* Jelszó" />
+	<string id="32135" value="* Kötelező mező" />
+	<string id="32136" value="Jelentkezés" />
+	<string id="32137" value="Afganisztán" />
+	<string id="32138" value="Albánia" />
+	<string id="32139" value="Algeria" />
+	<string id="32140" value="Amerikai Szamoa" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarktisz" />
+	<string id="32145" value="Antigua és Barbadosz" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenia" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Ausztrália" />
+	<string id="32150" value="Ausztria" />
+	<string id="32151" value="Azerbajdzsán" />
+	<string id="32152" value="Bahama-szigetek Nassau" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Banglades" />
+	<string id="32155" value="Barbadosz" />
+	<string id="32156" value="Belorusszia" />
+	<string id="32157" value="Belgium" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhután" />
+	<string id="32162" value="Bolívia" />
+	<string id="32163" value="Bosznia-Herzegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Bouvet-sziget" />
+	<string id="32166" value="Brazília" />
+	<string id="32167" value="Brit Indiai-Óceániai Terület" />
+	<string id="32168" value="Brunei" />
+	<string id="32169" value="Bulgária" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Kambodzsa" />
+	<string id="32173" value="Kamerun" />
+	<string id="32174" value="Kanada" />
+	<string id="32175" value="Zöld-foki szigetek" />
+	<string id="32176" value="Kajmán-szigetek" />
+	<string id="32177" value="Közép-Afrikai Köztársaság" />
+	<string id="32178" value="Csád" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="Kína" />
+	<string id="32181" value="Karácsony-sziget" />
+	<string id="32182" value="Coco-szigetek" />
+	<string id="32183" value="Kolumbia" />
+	<string id="32184" value="Comoros" />
+	<string id="32185" value="Kongo" />
+	<string id="32186" value="Kongói Demokratikus Köztársaság" />
+	<string id="32187" value="Cook-szigetek" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Cote d'Ivoire" />
+	<string id="32190" value="Horvátország" />
+	<string id="32191" value="Kuba" />
+	<string id="32192" value="Ciprus" />
+	<string id="32193" value="Cseh Köztársaság" />
+	<string id="32194" value="Dánia" />
+	<string id="32195" value="Dzsibuti" />
+	<string id="32196" value="Dominika" />
+	<string id="32197" value="Dominikai Köztársaság" />
+	<string id="32198" value="Kelet-Timor" />
+	<string id="32199" value="Equador" />
+	<string id="32200" value="Egyiptom" />
+	<string id="32201" value="Salvador" />
+	<string id="32202" value="Egyenlítői Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Észtország" />
+	<string id="32205" value="Etiópia" />
+	<string id="32206" value="Falkland-szigetek" />
+	<string id="32207" value="Faröer-szigetek" />
+	<string id="32208" value="Fidzsi-szigetek" />
+	<string id="32209" value="Finnország" />
+	<string id="32210" value="Franciaország" />
+	<string id="32211" value="French Guiana" />
+	<string id="32212" value="Francia Polinézia" />
+	<string id="32213" value="Francia Déli Területek" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Grúzia" />
+	<string id="32217" value="Németország" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltár" />
+	<string id="32220" value="Görögország" />
+	<string id="32221" value="Grönland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe-szigetek" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea" />
+	<string id="32227" value="Guinea-Bissau" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard-sziget és McDonald-szigetek" />
+	<string id="32231" value="Vatikán" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hongkong" />
+	<string id="32234" value="Magyarország" />
+	<string id="32235" value="Izland" />
+	<string id="32236" value="India" />
+	<string id="32237" value="Indonézia" />
+	<string id="32238" value="Irán" />
+	<string id="32239" value="Irak" />
+	<string id="32240" value="Írország" />
+	<string id="32241" value="Izrael" />
+	<string id="32242" value="Olaszország" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Japán" />
+	<string id="32245" value="Jordánia" />
+	<string id="32246" value="Kazahsztán" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati Köztársaság Tuvalu" />
+	<string id="32249" value="Koreai NDK" />
+	<string id="32250" value="Dél-Korea" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kirgizisztán" />
+	<string id="32253" value="Lao People's Democratic Köztársaság" />
+	<string id="32254" value="Lettország" />
+	<string id="32255" value="Libanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Libéria" />
+	<string id="32258" value="Libyan Arab Jamahiriya" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Litvánia" />
+	<string id="32261" value="Luxembourg" />
+	<string id="32262" value="Macao" />
+	<string id="32263" value="Makedónia" />
+	<string id="32264" value="Madagaszkár" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malájzia" />
+	<string id="32267" value="Maldív-szigetek" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Málta" />
+	<string id="32270" value="Marshall-szigetek" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauritania" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexikó" />
+	<string id="32276" value="Mikronézia" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongólia" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Marokkó" />
+	<string id="32282" value="Mozambik" />
+	<string id="32283" value="Burma" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepál" />
+	<string id="32287" value="Holland Antillák" />
+	<string id="32288" value="Hollandia" />
+	<string id="32289" value="Új-Kaledonia" />
+	<string id="32290" value="Új-Zéland" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigéria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolk szigetek" />
+	<string id="32296" value="Észak-Mariana-szigetek" />
+	<string id="32297" value="Norvégia" />
+	<string id="32298" value="Omán" />
+	<string id="32299" value="Pakisztán" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Palesztína" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua és Új-Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Fülöp-szigetek" />
+	<string id="32307" value="Pitcairn-sziget" />
+	<string id="32308" value="Lengyelország" />
+	<string id="32309" value="Portugália" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Románia" />
+	<string id="32314" value="Oroszország" />
+	<string id="32315" value="Ruanda" />
+	<string id="32316" value="Saint Barthélemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts és Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (francia rész)" />
+	<string id="32321" value="Saint Pierre és Miquelon" />
+	<string id="32322" value="Saint Vincent Grenada" />
+	<string id="32323" value="Nyugat-Szamoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome és Principe" />
+	<string id="32326" value="Szaud-Arábia" />
+	<string id="32327" value="Szenegambia" />
+	<string id="32328" value="Seychelles-szigetek" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Szingapúr" />
+	<string id="32331" value="Szlovákia" />
+	<string id="32332" value="Szlovénia" />
+	<string id="32333" value="Solomon-szigetek" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="Dél-Afrikai Köztársaság" />
+	<string id="32336" value="Dél-Georgia és Déli-Sandwich-szigetek" />
+	<string id="32337" value="Spanyolország" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Szudán" />
+	<string id="32340" value="Suriname" />
+	<string id="32341" value="Svalbard and Jan Mayen" />
+	<string id="32342" value="Szvázi" />
+	<string id="32343" value="Svédország" />
+	<string id="32344" value="Svájc" />
+	<string id="32345" value="Szíria" />
+	<string id="32346" value="Taiwan" />
+	<string id="32347" value="Tadzsikisztán" />
+	<string id="32348" value="Tanzánia" />
+	<string id="32349" value="Thaiföld" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau-szigetek" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad és Tobago" />
+	<string id="32354" value="Tunézia" />
+	<string id="32355" value="Törökország" />
+	<string id="32356" value="Türkmenisztán" />
+	<string id="32357" value="Turks- és Caicos-szigetek" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukrajna" />
+	<string id="32361" value="Egyesült Arab Emirátusok" />
+	<string id="32362" value="Egyesült Királyság" />
+	<string id="32363" value="Amerikai Egyesült Államok" />
+	<string id="32364" value="United States Minor Outlying Islands" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Üzbegisztán" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnámi Köztársaság" />
+	<string id="32370" value="Brit Virgin-szigetek" />
+	<string id="32371" value="Amerikai Virgin-szigetek." />
+	<string id="32372" value="Wallis és Futuna" />
+	<string id="32373" value="Nyugat Szahara" />
+	<string id="32374" value="Jemeni Arab Köztársaság" />
+	<string id="32375" value="Jugoszlávia" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaszka" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="Új-Mexikó" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="Észak-Karolina" />
+	<string id="32411" value="Észak-Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="Dél-Karolina" />
+	<string id="32418" value="Dél-Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="Nyugat-Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="Brit Kolumbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="Új Brunswick" />
+	<string id="32432" value="Újfunland" />
+	<string id="32433" value="Északnyugati területek" />
+	<string id="32434" value="Új Skócia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Edward herceg sziget" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Válassza ki a nyelvet" />
+	<string id="32442" value="Küldjenek nekem COMODO híreket, ajánlatokat és kedvezményeket a következő email címre:" />
+	<string id="32443" value="A DNS beállításaim Comodo biztonságos DNS szervereire történő átállításával engedélyezem a megnövelt biztonságot, miközben internetezem (weblapok gyorsabb betöltődése, fokozott online biztonság)." />
+	<string id="32444" value="A nem megbízható fájlok felhő alapú viselkedés elemzésének bekapcsolása (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Adatkezelési szabályzat&lt;/a&gt;)" />
+	<string id="32445" value="Segíteni akarok a COMODO-nak, ezért a Yahoo! legyen a kezdőlapom és a kereső szolgáltatóm (az összes támogatott böngészőben)." />
+	<string id="32446" value="Az &quot;Elfogad és telepít&quot; gombra kattintva Ön engedélyezi a telepítést és elfogadja a Felhasználói licencszerződést" />
+	<string id="32447" value="Telepítés személyre szabása" />
+	<string id="32449" value="Olvassa el a felhasználói licencszerződést:" />
+	<string id="32450" value="Telepítési lehetőségek" />
+	<string id="32451" value="Konfigurációs lehetőségek" />
+	<string id="32452" value="Fájlok helye" />
+	<string id="32453" value="Termék mérete:" />
+	<string id="32454" value="Teljes letöltési méret:" />
+	<string id="32455" value="Amennyire csak lehet, ne mutassa a biztonsági kérdéseket." />
+	<string id="32456" value="A biztonsági konfiguráció határozza meg a Tűzfal, a Fokozott Védelem, a Containment és az Antivírus működését oly módon, hogy a lehető legtöbb értesítésre válaszoljanak automatikusan." />
+	<string id="32457" value="Válassza ki a telepítés helyét:" />
+	<string id="32458" value="Ez a program a &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt; Béta változata" />
+	<string id="32459" value="Alapvetően speciális felhasználóknak, béta tesztereknek ajánlott a használata." />
+	<string id="32460" value="Kritikus hibákat tartalmazhat, melyek súlyos problémákat okozhatnak." />
+	<string id="32461" value="Munkaeszközre ne telepítse ezt a programot." />
+	<string id="32462" value="Szeretné folytatni?" />
+	<string id="32463" value="Az &quot;Elfogad és vált&quot; gombra kattintva Ön engedélyezi a telepítést és elfogadja a Felhasználói licencszerződést." />
+	<string id="32464" value="Vár és folytat (%u)" />
+	<string id="32465" value="A rendszer egy másik telepítési folyamat miatt foglalt.\n\nVárjon, míg az befejeződik, majd a telepítés folytatásához nyomja meg az Újra gombot.\nA'Mégsem' megnyomásával kiléphet a telepítésből.\nHa megnyomja a 'Vár és folytat' gombot, akkor a telepítés automatikusan folytatódik, amint az előző telepítési folyamat befejezésre kerül." />
+	<string id="32466" value="Licenckulcs másolása" />
+	<string id="32467" value="Licenckulcs beillesztése" />
+	<string id="32468" value="Az összes mező törlése" />
+	<string id="32470" value="Yandex összetevők telepítése; " />
+	<string id="32471" value="A Yandex legyen a kezdőlapom (az összes támogatott böngészőben)." />
+	<string id="32472" value="A Yandex legyen a keresőszolgáltatóm (az összes támogatott böngészőben)." />
+	<string id="32772" value="Várjon, a garancia aktiválása folyamatban..." />
+	<string id="32775" value="Gratulálunk!" />
+	<string id="32776" value="Ön sikeresen befejezte a telepítést." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Egy tanúsított technikus&lt;/strong&gt; segíthet&lt;br /&gt;&lt;strong&gt;Önnek beállítani a programot,&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;INGYEN&lt;/strong&gt;" />
+	<string id="32778" value="Rövid idejű ajánlat" />
+	<string id="32779" value="hív" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;licencszerződés&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;licencszerződés&lt;/a&gt;" />
+	<string id="32786" value="A felhasználónévnek legalább %d karakterből kell állnia" />
+	<string id="32787" value="A jelszónak legalább %d karakterből kell állnia" />
+	<string id="32788" value="Nem egyezik a felhasználónév és a jelszó" />
+	<string id="32791" value="Anonim programhasználati statisztika (pld. összeomlások, hibák, klikkelések stb.) küldése a COMODO-nak, hogy javíthassák a termék minőségét." />
+	<string id="32793" value="Adja meg az IT and Security Manager Szerver adatait:" />
+	<string id="32794" value="IT and Security Manager Szerver:" />
+	<string id="32795" value="IT and Security Manager Szerver Port:" />
+	<string id="32796" value="&lt;strong&gt;%s aktiválása&lt;/strong&gt;" />
+	<string id="32797" value="Aktiválás licenckulccsal" />
+	<string id="32798" value="Válassza ki az aktiválandó összetevőket:" />
+	<string id="32799" value="CCS Containment és Antivírus" />
+	<string id="32800" value="CCS Containment és Tűzfal" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS csomag (Containment, Antivírus és Tűzfal" />
+	<string id="32803" value="Aktiválás IT and Security Manager Szerverrel" />
+	<string id="32804" value="Akkor válassza ezt a lehetőséget, ha rendelkezik valós licenckulccsal és azt szeretné használni" />
+	<string id="32805" value="Akkor válassza ezt a lehetőséget, ha ezen végpont kezeléséhez a IT and Security Manager használná" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;licencszerződés&lt;/a&gt; és az &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;adatkezelési szabályzatot&lt;/a&gt;" />
+	<string id="32807" value="Felhasználónév" />
+	<string id="32808" value="Jelszó" />
+	<string id="32809" value="&lt;strong&gt;Termék regisztrálása&lt;/strong&gt;&lt;br /&gt;Licenckulcsának aktiválása a COMODO fiók használatával" />
+	<string id="32810" value="Nem rendelkezem COMODO fiókkal" />
+	<string id="32811" value="Már rendelkezem COMODO fiókkal" />
+	<string id="32812" value="Telepíteni szeretném a Yandex Browser Manager-t, ami így mindig védeni fogja a böngészőm beállításait." />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;licencszerződés&lt;/a&gt;" />
+	<string id="34028" value="Másol" />
+	<string id="34029" value="Összes kiválasztása" />
+	<string id="34410" value="Visszavonás" />
+	<string id="34411" value="Kivágás" />
+	<string id="34412" value="Beillesztés" />
+	<string id="34413" value="A kiválasztott programok frissítéseinek ellenőrzése a COMODO szerverein, mielőtt telepítésre kerülnének a merevlemezről." />
+	<string id="34414" value="Újabb változatok ellenőrzése..." />
+	<string id="34415" value="A lépés kihagyása" />
+	<string id="34416" value="Elérhető egy újabb változat" />
+	<string id="34417" value="A merevlemezen lévők használata helyett a kiválasztott programokfrissítések letöltése és telepítése:" />
+	<string id="34418" value="Változat" />
+	<string id="34419" value="Az aktiválási folyamathoz szükséges egy COMODO felhasználói fiók. Ha már rendelkezik ilyen fiókkal, akkor nem kel újabbat létrehoznia." />
+	<string id="34420" value="Válassza ezt az opciót, ha még nem rendelkezik COMODO felhasználói fiókkal. Ez a varázsló segít önnek létrehozni egyet." />
+	<string id="34421" value="Már létező COMODO fiók használatához adja meg a szükséges adatokat." />
+	<string id="34422" value="Frissítési hiba\n\nA CIS 5.xx változat felhasználói csak a CIS 7.0. beiktatott változatán keresztül tudnak CIS 8.0 változatra frissíteni, ezért kérjük, hogy először frissítsenek a 7.0 változatra, majd folytassák a frissítést a 8.0. változatra." />
+	<string id="34423" value="Chromodo böngésző beállítása, mint alapértelmezett böngésző" />
+	<string id="34424" value="A meglévő Google Chrome parancsikonok cseréje a Chromodoéra az asztalon és a Start menűben" />
+	<string id="34425" value="Google Chrome beállítások importálása (előzmények, könyvjelzők, sütik stb) a Chromodo böngészőbe" />
+	<string id="34426" value="Adja meg licenckulcsát" />
+	<string id="34427" value="A letöltés sikeresen befejeződött" />
+	<string id="34428" value="Elfogad és folytat" />
+	<string id="34429" value="Ha szeretné, akkor megszakíthatja az internetes kapcsolatot és telepítheti a csomagot offline." />
+	<string id="34430" value="Az &quot;Elfogad és folytat&quot; gombra kattintva Ön engedélyezi a telepítést és elfogadja a Felhasználói licencszerződést" />
+	<string id="34431" value="Antivírus, Tűzfal és AntiMalware védelem" />
+	<string id="34432" value="Jogosulatlan hozzáférés elleni védelem" />
+	<string id="34433" value="Vírusok és kártevők elleni védelem" />
+	<string id="34434" value="24/7 élő PC támogatás" />
+	<string id="34435" value="Gyors és biztonságos internetezés" />
+	<string id="34436" value="Adatvesztés elleni védelem" />
+	<string id="34437" value="A Chromodo a következő kiterjesztésekkel érkezik, hogy fokozza a web alapú kártevők elleni védelmet:" />
+	<string id="34438" value="COMODO Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;licencszerződés&lt;/a&gt;" />
+	<string id="34441" value="Egy könnyen használható, minden az egyben online adatmentő megoldás" />
+	<string id="34442" value="beleértve &lt;strong&gt;GeekBuddy&lt;/strong&gt; és &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="beleértve &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="beleértve &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="A Chromodo egy gyors és sokoldalú, Chromium alapú webböngésző, ami magával hozza a COMODO páratlan szintű biztonságát." />
+	<string id="34446" value="Engedélyezni kell a TLS protokollt az IE biztonsági beállításaiban." />
+	<string id="34447" value="A TLS protokol engedélyezése:\n1. az Internet Explorerben menjen az Eszközökbe. -&gt; Kattintson az Internet beállításokra.\n2. Válassza a Speciális fület.\n3. Menjen a Biztonság részbe.\n4. Válassza ki a &quot;TLS 1.xx&quot; négyzetét.\n5. Nyomja meg az OK gombot." />
+	<string id="34448" value="A %s nem telepíthető, mert a COMODO Cloud AV már telepítve van a számítógépre.\n\nA %s telepítése előtt távolítsa el a CCAV-ot." />
+	<string id="34449" value="beleértve &lt;strong&gt;GeekBuddy&lt;/strong&gt; és &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="beleértve &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Alkalmazások futtatása egy biztonságos, elszigetelt környezetben" />
+	<string id="34452" value="Biztonságos kapcsolat a fontos és érzékeny weboldalakhoz" />
+	<string id="34453" value="Üdvözöljük!" />
+	<string id="34454" value="Ön arra készül, hogy telepítse a %s-t %s, az összes eszközének biztonsága és védelme érdekében" />
+	<string id="34455" value="A &quot;%s&quot; gombra kattintással Ön elismeri, hogy elolvasta és elfogadta a %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Licenc szerződést&lt;/a&gt; és az &lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Adatkezelési szabályzatot&lt;/a&gt;" />
+	<string id="34456" value="Elfogadom" />
+	<string id="34457" value="Chromodo böngészővel és GeekBuddy-val" />
+	<string id="34458" value="Dragon böngészővel, Biztonságos Vásárlással és GeekBuddy-val" />
+	<string id="34459" value="Chromodo böngészővel" />
+	<string id="34460" value="Dragon böngészővel" />
+	<string id="34461" value="GeekBuddy-val" />
+	<string id="34462" value="Yandex Elements telepítése (böngésző kiegészítők)" />
+	<string id="34463" value="A Yandex legyen a kezdőlapom*" />
+	<string id="34464" value="A Yandex legyen a keresőszolgáltatóm*" />
+	<string id="34465" value="Legyen egy Új Yandex lapom*" />
+	<string id="34466" value="* az összes támogatott böngészőben" />
+	<string id="34467" value="A &quot;%s&quot; gombra kattintással Ön elismeri, hogy elolvasta és elfogadta" />
+	<string id="34470" value="Ingyenes változat telepítése" />
+	<string id="34471" value="PRO telepítése" />
+	<string id="34472" value="Próbálja ki 30 napig a PRO változatot" />
+	<string id="34473" value="Próbálja ki 30 napig a COMPLETE változatot" />
+	<string id="34474" value="Próbálja ki 30 napig a PRO változatot.&lt;br /&gt;Utána fog kapni egy kérdést, hogy szeretne e visszaváltani az ingyenes változatra" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Próbálja ki 30 napig a COMPLETE változatot.&lt;br /&gt;Utána fog kapni egy kérdést, hogy szeretne e visszaváltani az ingyenes változatra" />
+	<string id="34477" value="Antivírus" />
+	<string id="34478" value="Tűzfal" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Biztonságos vásárlás" />
+	<string id="34483" value="24/7 élő segítség" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Telepítési könyvtár" />
+	<string id="34487" value="A DNS kiszolgálom cseréje a COMODO biztonságos DNS rendszerére (fokozott online biztonság, weboldalak gyorsabb elérése). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Mi ez?&lt;/a&gt;" />
+	<string id="34488" value="A megbízhatatlan fájlok &quot;Felhő alapú viselkedés elemzésének&quot; engedélyezése (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Adatkezelési szabályzat&lt;/a&gt;)" />
+	<string id="34489" value="Anonim programhasználati statisztikák (pld. összeomlások, hibák, kattintások stb.) küldése a COMODO-nak, a program minőségének javításához." />
+	<string id="34490" value="Személyre szab" />
+	<string id="34491" value="Teljes méret:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Fájl besorolás" />
+	<string id="34494" value="Weboldal szűrés" />
+	<string id="34495" value="Biztonságos vásárlás" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 élő segítség" />
+	<string id="34501" value="Biztonságos. Kontrollált.&lt;br /&gt;Ismeretlen alkalmazások futtatása biztonságos, elszigetelt környezetben." />
+	<string id="34502" value="Megbízható vagy káros?&lt;br /&gt;Bármilyen fájl hírnevének ellenőrzése a mi globális adatbázisunkban." />
+	<string id="34503" value="Védje gyermekét és önmagát a kártevőket vagy nem kívánatos tartalmakat rejtő oldalaktól" />
+	<string id="34504" value="Biztonság az Ön adatai és pénze számára.&lt;br /&gt;Győződjön meg arról, hogy senki sem képes online megszerezni az Ön értékes adatait" />
+	<string id="34505" value="Szerezze be az ingyenes Mobile Antivirus alkalmazásunkat az androidos eszközei számára" />
+	<string id="34506" value="Nincs mód az adatai elvesztésére.&lt;br /&gt;Az Ön összes adata titkosítva van és a felhőben található." />
+	<string id="34507" value="Nyilvános Wi-Fi-t használ?&lt;br /&gt;Most már az is biztonságos." />
+	<string id="34508" value="Segítségre van szüksége?&lt;br /&gt;Lépjen kapcsolatba a mi technikusainkal" />
+	<string id="34509" value="INGYENES TELEPÍTÉS" />
+	<string id="34510" value="Gratulálunk!" />
+	<string id="34511" value="Ön sikeresen befejezte a telepítést." />
+	<string id="34512" value="Küldjenek nekem COMODO híreket és ajánlatokat a következő e-mail címre:" />
+	<string id="34513" value="Vírusok érzékelése, blokkolása és eltávolítása a számítógépekről és a hálózatokról. Folyamatos védelem a valósidejű hozzáféréskori vizsgálat segítségével. A vírusadatbázisunk naponta automatikusan frissül." />
+	<string id="34514" value="Díjnyertes tűzfal. A bejövő és kimenő forgalom szűrése és a pc automatikus láthatatlanná tétele, hogy a rendszerbe történő behatolásokat, az adat szivárgásokat és a kártevők terjedését megelőzze." />
+	<string id="34515" value="Egy elszigetelt műveleti környezet a futó ismeretlen, nem megbízható és gyanús alkalmazások számára. Nagyszerű megoldás a megbízhatatlan eredetű programok tesztelésére. Az Auto-Containment funkció biztosítja az alkalmazások elszigetelését, az előre meghatározott vagy az egyedi szabályok alapján." />
+	<string id="34516" value="A kiszolgáló alapú behatolás megelőző rendszer (HIPS) egy megelőző technológia, amely lehetővé teszi a futó programok viselkedés elemzését és képes leállítani bármilyen gyanús tevékenységet. A HIPS automatikusan védi a kritikus rendszer fájlokat, mappákat és registry kulcsokat, hogy megelőzze a káros programok jogosulatlan módosításait." />
+	<string id="34517" value="Monitorozza és megőrzi a számítógépen futó folyamatok aktivitásainak bejegyzéseit és lehetővé teszi a programok potenciálisan nem kívánatos műveleteinek visszafordítását anélkül, hogy a teljes programot blokkolnia kellene." />
+	<string id="34518" value="Az online bankolás és vásárlás extrém biztonságáról gondoskodik oly módon, hogy Ön az internethez csak egy nagyon biztonságos, virtuális környezetben kapcsolódik." />
+	<string id="34519" value="Élő, korlátlan távsegítség az Ön számítógépes problémáihoz. Csak kattintson az asztali ikonra és chateljen egy Geekkel, aki az ön szeme láttára megoldja a problémákat és segít a számítógép és a Windows optimális beállításában, a levelező és nyomtató beállításokban, bármilyen program telepítésében és sok minden másban..." />
+	<string id="34520" value="Egy könnyen használható, minden az egyben online adatmentő megoldás. Lehetővé teszi bármilyen adat mentését vagy helyreállítását, az egyszerű fájloktól a teljes rendszerig. Az adatok tárolása és titkosítása a legfejlettebb titkosítási technikák használatával történik. Az összes kommunikáció SSL alapú titkosítása az ön rendszere és a COMODO szerverei között." />
+	<string id="34521" value="Biztonságos vezetékes és vezeték nélküli kommunikáció az Ön számítógépe és más számítógépek között. Biztonságossá teszi a netezést a nyilvános helyeken, például kávézókban, hotelekben, reptereken stb. Az Ön és az adatainak biztonságban tartása, távol a bűnözők kezeitől, az Ön online tevékenységei alatt, a számítógép összes be és kimenő forgalmának teljes titkosítása segítségével." />
+	<string id="34522" value="A Yahoo! legyen a kezdőlapom, a keresőszolgáltatóm és az új lapom*" />
+	<string id="34524" value="Hozzájárulások" />
+	<string id="34525" value="Összetevők" />
+	<string id="34526" value="Yandex Browser Manager telepítése" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Licenc szerződés&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Licenc szerződés&lt;/a&gt;" />
+	<string id="34529" value="A web böngészési élményem fokozása miatt a Yahoo! legyen a kezdőlapom, a keresőszolgáltatóm és az új lapom (az összes támogatott böngészőben)" />
+	<string id="34530" value="Az alkalmazás telepítésével Ön elismeri, hogy elolvasta és elfogadta a %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Licenc szerződést&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Licenc szerződés&lt;/a&gt;" />
+	<string id="34531" value="Ha még nincs licenckulcsa, most beszerezheti" />
+	<string id="34532" value="Licenckulcs beszerzése" />
+	<string id="34533" value="Licenc aktiválása" />
+	<string id="34534" value="Hívja a &lt;strong&gt;+1888-258-7142&lt;/strong&gt; telefonszámot, hogy egy minősített technikus megoldhassa az Ön problémáját" />
+	<string id="34535" value="&lt;strong&gt;Termék regisztrálása&lt;/strong&gt;&lt;span&gt;Az Ön licenckulcsának aktiválása COMODO fiók segítségével&lt;/span&gt;" />
+	<string id="34536" value="A megadott e-mail cím érvénytelen" />
+	<string id="34537" value="Jelszó nem egyezik" />
+	<string id="34538" value="Válasszon országot" />
+	<string id="34539" value="&lt;strong&gt;Licenc aktiválása&lt;/strong&gt;&lt;span&gt;Licenckulcs megadása az Ön termékének aktiválásához&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Termék regisztrálása&lt;/strong&gt;&lt;span&gt;Az Ön licenckulcsának aktiválása COMODO fiók segítségével&lt;/span&gt;" />
+	<string id="34541" value="Egy COMODO fiók szükséges az aktiválási művelet folytatásához." />
+	<string id="34542" value="Új fiók létrehozása" />
+	<string id="34543" value="* Jelszó újboli megadása" />
+	<string id="34544" value="E-mail" />
+	<string id="34545" value="Jelszó" />
+	<string id="34546" value="Elfelejtett jelszó" />
+	<string id="34547" value="Bejelentkezés" />
+	<string id="34548" value="A termék aktiválása közben egy hiba jelentkezett" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;Internet Explorerben menjen a z Eszközökbe -&gt; Internet beállítások&lt;/li&gt;&lt;li&gt;Válassza ki a speciális fület&lt;/li&gt;&lt;li&gt;Görgesse le a biztonsági részhez&lt;/li&gt;&lt;li&gt;Válassza ki a &quot;TLS 1.xx-et&quot;&lt;/li&gt;&lt;li&gt;Nyomja meg az OK gombot&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Ellenőrizze internet kapcsolatát" />
+	<string id="34551" value="Aktiválás" />
+	<string id="34552" value="Nem található a CIS diagnosztikai alkalmazása." />
+	<string id="34553" value="A CIS diagnosztika elindítása nem lehetséges. Hiba kód %u" />
+	<string id="34554" value="A %s eltávolítása..." />
+	<string id="34555" value="A %s módosítása..." />
+	<string id="34556" value="Biztosan szeretné megszakítani az eltávolítást?" />
+	<string id="34557" value="A %s módosítása nem lehetséges" />
+	<string id="34558" value="A %s javítása nem lehetséges" />
+	<string id="34560" value="Javítás" />
+	<string id="34561" value="Módosítás" />
+	<string id="34562" value="Eltávolítás" />
+	<string id="34563" value="Az összeomlásokat vagy lassulásokat okozó hibák javítása." />
+	<string id="34564" value="Ellenőrizze, hogy mely összetevők kerültek telepítésre." />
+	<string id="34565" value="A &lt;b&gt;%s&lt;/b&gt; eltávolítása." />
+	<string id="34566" value="Termék kiválasztása" />
+	<string id="34567" value="A %s nagyon fontos biztonsági megoldásokkal érkezik az Ön számítógépe számára. A folytatáshoz válassza ki azokat a termékeket, amiket telepíteni szeretne vagy azokat ne jelölje be, amiket szeretne eltávolítani." />
+	<string id="34568" value="COMODO tűzfal telepítése (Ajánlott)" />
+	<string id="34569" value="A COMODO tűzfal számítógépre történő telepítéséhez válassza ezt az opciót. HA más tűzfal már telepítve van a számítógépre, akkor a folytatás előtt azt el kell távolítania." />
+	<string id="34570" value="COMODO Antivirus telepítése (Ajánlott)" />
+	<string id="34571" value="A COMODO Antivirus számítógépre történő telepítéséhez válassza ezt az opciót. HA más antivírus már telepítve van a számítógépre, akkor a folytatás előtt azt el kell távolítania." />
+	<string id="34572" value="Ennyi volt." />
+	<string id="34573" value="Ön módosította a %s-t." />
+	<string id="34574" value="Eltávolítás előkészítése..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Védtelenül maradni rossz dolog." />
+	<string id="34577" value="Szeretné kipróbálni a mi felhő alapú, ultrakönnyű és erőteljes antivírusunkat?" />
+	<string id="34578" value="A COMODO Cloud Antivirus letöltése és telepítése" />
+	<string id="34579" value="A COMODO Cloud Antivirus telepítésre kerül, amint az eltávolítási folyamat befejeződött. Az eltávolítási folyamat befejezéséhez szükséges a számítógépének újraindítása." />
+	<string id="34580" value="Mi a fő oka annak, hogy a COMODO eltávolítása mellett döntött? &lt;b&gt;(Válassza ki a megfelelőt)&lt;/b&gt;" />
+	<string id="34581" value="A COMODO túl sok erőforrását használta a számítógépemnek" />
+	<string id="34582" value="Túl sok riasztást kaptam" />
+	<string id="34583" value="A COMODO olyan programokat blokkolt, amiket futtatni akartam" />
+	<string id="34584" value="Nem vagyok általánosan elégedett a termékkel" />
+	<string id="34585" value="Találtam egy másik, jobban tetsző programot" />
+	<string id="34586" value="Más ok (kérjük, adja meg)" />
+	<string id="34587" value="Ön eltávolította a %s-t." />
+	<string id="34588" value="Viszont van még egy ajánlatunk az Ön számára. Tekintse meg a &lt;a href='#' id='id_products'&gt;termékeinket&lt;/a&gt; vagy lépjen kapcsolatba a vezetőnkel, ha bármilyen kérdése van." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Válasszi ki, hogy mit szeretne tenni a %s alkalmazással" />
+	<string id="34591" value="Újra szeretném telepíteni" />
+	<string id="34592" value="A &lt;b&gt;%s&lt;/b&gt; eltávolításra kerül az Ön rendszeréről, így újra tudja telepíteni vagy cserélni egy másik változatra." />
+	<string id="34593" value="Véglegesen szeretném eltávolítani" />
+	<string id="34594" value="A &lt;b&gt;%s&lt;/b&gt; véglegesen eltávolításra kerül az Ön rendszeréről, ám még később újra tudja telepíteni." />
+	<string id="34595" value="Módosítás előkészítése..." />
+	<string id="34596" value="Letöltés előkészítése..." />
+	<string id="34597" value="Egy hiba jelentkezett a COMODO Internet Security módosítása közben" />
+	<string id="34598" value="Egy hiba jelentkezett a COMODO Internet Security eltávolítása közben" />
+	<string id="34599" value="Összetevők hozzáadása, eltávolítása vagy javítása" />
+	<string id="34600" value="Összetevők eltávolítása vagy javítása" />
+	<string id="34601" value="Nem kompatibilis program eltávolítása: %s" />
+	<string id="34602" value="Azt tanácsoljuk, hogy a számítógép biztonsága érdekében tartsa a COMODO Internet Security programot napra készen" />
+	<string id="34603" value="A COMODO Internet Security a vírus monitorozás, Auto-Containment és viselkedés elemzési technikák erőteljes kombinációját használja a számítógép azonnali védelméhez, az összes ismert és ismeretlen kártevő ellen." />
+	<string id="34604" value="Másik telepítési művelet már folyamatban. Várjon a befejezéséig." />
+	<string id="34605" value="Másik aktiválási művelet már folyamatban. Várjon a befejezéséig." />
+	<string id="34606" value="Most már a man-in-the-middle támadások elleni védelemmel is rendelkezik!" />
+	<string id="34607" value="Az eltávolított termék telepítő csomagja a Comodo Internet Security Essentials (ISE) programot is tartalmazta, ami védelmet biztosít a man-in-the-middle támadások ellen. Az ISE eltávolítása viszont csak elkülönítve lehetséges. Ha szeretné folytatni, akkor kattintson a &lt;a href='#' id='id_ise_how_to_remove'&gt;ide&lt;/a&gt; , hogy megtudja, hogyan teheti meg." />
+	<string id="34608" value="Comodo Dragon böngésző beállítása, mint alapértelmezett böngésző" />
+	<string id="34609" value="Google Chrome beállítások importálása (előzmények, könyvjelzők, sütik stb) a Comodo Dragon böngészőbe" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

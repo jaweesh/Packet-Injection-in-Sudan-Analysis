@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Українська – By Community" LANGID="1058" RTL="0">
+	<string id="106" value="Пакунок пошкоджено.\r\nВстановлення скасовано" />
+	<string id="107" value="Пакунок встановлення не підтримує цю платформу." />
+	<string id="108" value="Оновлення" />
+	<string id="109" value="Встановлювач %s" />
+	<string id="110" value="Оновлення %s..." />
+	<string id="111" value="Неможливо зберегти інформацію про ліцензію.\r\n%s" />
+	<string id="112" value="Ця опція змінить параметри первинного та вторинного DNS на Вашому комп’ютері на 8.26.56.26 та 156.154.70.22 відповідно. Після цього всі програми будуть використовувати більш швидкі та надійні DNS-сервери при доступі в Інтернет." />
+	<string id="113" value="Ви досягли максимальної кількості встановлень, дозволених Вашою ліцензією." />
+	<string id="114" value="Керування ліцензіями COMODO" />
+	<string id="115" value="Дата/час на Вашому комп’ютері встановлені хибно. Будь ласка, виправте їх та спробуйте знову." />
+	<string id="116" value="Ви ввели прострочений ліцензійний ключ" />
+	<string id="117" value="Помилка: %u. %s" />
+	<string id="118" value="Помилка ініціалізації встановлювача. Хибний формат даних." />
+	<string id="119" value="Доступна нова версія встановлювача.\r\nНа наступному етапі відбудеться його оновлення.\r\nПродовжити?" />
+	<string id="120" value="Наданий інтервал не підтримується" />
+	<string id="121" value="Помилка при ініціалізації друку." />
+	<string id="122" value="Активацію продукту скасовано. Зв’яжіться з Вашим системним адміністратором." />
+	<string id="123" value="Встановлення %s..." />
+	<string id="124" value="Встановлення COMODO" />
+	<string id="125" value="Погодитись і встановити" />
+	<string id="126" value="Погодитись і оновитись" />
+	<string id="127" value="Ви впевнені, що бажаєте скасувати встановлення?" />
+	<string id="128" value="Ви повинні мати відповідні права для продовження встановлення." />
+	<string id="129" value="Переглянути ліцензійну угоду" />
+	<string id="130" value="Неможливо перезапустити встановлювач COMODO.\r\n%s\r\nБудь ласка, перезапустіть його власноруч." />
+	<string id="131" value="Налаштувати встановлення" />
+	<string id="132" value="Налаштувати оновлення" />
+	<string id="133" value="Щоб зміни набрали чинності, треба перезавантажити систему.\nНатисніть &quot;Так&quot;, щоб зробити це зараз, або &quot;Ні&quot;, якщо Ви плануєте перезавантажуватись пізніше." />
+	<string id="134" value="Будь ласка, зачекайте..." />
+	<string id="135" value="Цю дію заборонено" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="CCS, встановлений на Вашому ПК, не може керуватись за допомогою зазначеного сервера. Будь ласка, переконайтеся, що Ви вводите правильну адресу сервера IT and Security Manager або зверніться за допомогою до адміністратора мережі." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Помилка %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Введено хибний логін або пароль" />
+	<string id="144" value="Не вдалось перезавантажити систему.\r\n%s\r\nБудь ласка, перезавантажте комп’ютер власноруч." />
+	<string id="145" value="Помилка %d: %s" />
+	<string id="148" value="Статус HTTP-запиту: %u." />
+	<string id="153" value="Ви ввели недійсну адресу ел. пошти.\r\nБудь ласка, введіть дійсну адресу." />
+	<string id="154" value="Ви ввели недійсний ліцензійний ключ.\r\nБудь ласка, введіть правильний ключ." />
+	<string id="155" value="Не вдається створити каталог %s.\r\n%s" />
+	<string id="156" value="Не вдалось знайти користувача WEB API з заданим логіном" />
+	<string id="158" value="Помилка шлюзу оплати" />
+	<string id="160" value="Неможливо встановити %s\r\n%s\r\nЧи бажаєте Ви спробувати знову?" />
+	<string id="165" value="Неможливо завантажити %s" />
+	<string id="166" value="Неможливо записати %s" />
+	<string id="167" value="Помилка ініціалізації встановлювача. Будь ласка, перевірте Ваше Інтернет-з’єднання та/або налаштування з’єднання Internet Explorer.\r\n%s" />
+	<string id="168" value="Помилка ініціалізації встановлювача. Будь ласка, перевірте чи достатньо у Вас прав для доступу до диску.\r\n%s" />
+	<string id="169" value="У користувача немає абстрактного ідентифікатора для запиту рахунку" />
+	<string id="170" value="Неможливо створити рекурентний об’єкт для цих умов придбання" />
+	<string id="171" value="Помилка авторизації" />
+	<string id="172" value="Вибрана мова не підтримується Вашою операційною системою." />
+	<string id="173" value="Встановлення продукту не може бути продовжене, тому що вибрана мова не підтримується Вашою операційною системою." />
+	<string id="175" value="Неможливо встановити %s\r\n%s" />
+	<string id="183" value="Встановити %s" />
+	<string id="184" value="Завантаження %s..." />
+	<string id="190" value="Щоб продовжити, Вам треба перезавантажити комп’ютер.\r\nПерезавантажити зараз?" />
+	<string id="192" value="Для продовження встановлення продуктів слід перезавантажити Ваш комп’ютер. Після перезавантаження встановлення продовжиться автоматично.\r\nПерезавантажити зараз?" />
+	<string id="193" value="Для продовження встановлення Вам треба видалити стару версію COMODO Firewall/Internet Security.\r\nОскільки %s не може це зробити самостійно, будь ласка, видаліть цю застарілу програму власноруч і перезапустіть %s." />
+	<string id="194" value="Вимоги до ліцензійного ключа" />
+	<string id="195" value="Ліцензійний ключ може містити лише літери від &quot;A&quot; до &quot;F&quot; та цифри" />
+	<string id="196" value="Де мій ліцензійний ключ?" />
+	<string id="197" value="Якщо Ви придбали Ваш продукт через Інтернет, Ваш ліцензійний ключ надійде Вам на адресу ел. пошти, який Ви зазначили під час придбання. Якщо у Вас є встановлювальний DVD/CD, використовуйте ліцензійний ключ, зазначений на звороті упаковки DVD/CD." />
+	<string id="199" value="Будь ласка, не змінюйте та не видаляйте цей файл. %s потребує його для коректного завершення своєї роботи.\r\nЦей файл буде видалено автоматично після завершення встановлення." />
+	<string id="202" value="Недійсний підпис" />
+	<string id="205" value="Хибний XML-запит" />
+	<string id="206" value="Хибні параметри" />
+	<string id="207" value="Недійсний ліцензійний ключ" />
+	<string id="208" value="Невідома область" />
+	<string id="209" value="Хибні умови придбання" />
+	<string id="210" value="Некоректний тип запиту" />
+	<string id="217" value="Помилка запиту рахунку: Не вдалось створити новий рахунок" />
+	<string id="220" value="Відбулась невідома помилка" />
+	<string id="222" value="Хибний режим." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Не вдалось знайти файл ініціалізації даних." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Скасування. Будь ласка, зачекайте..." />
+	<string id="235" value="Будь ласка, перед продовженням оновіть Ваш %s." />
+	<string id="236" value="Поточний стан встановлювача не може бути збережено для правильного відновлення встановлення після перезавантаження.\r\nБудь ласка, перезапустіть Ваш комп’ютер та запустіть Встановлювач COMODO власноруч." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Помилка ініціалізації встановлювача. Хибний формат збережених даних." />
+	<string id="239" value="Для продовження встановлення продуктів слід перезавантажити Ваш комп’ютер. Після перезавантаження встановлення продовжиться автоматично. Будь ласка, не витягайте DVD зі встановлювачем COMODO до завершення встановлення.\r\nПерезавантажити зараз?" />
+	<string id="246" value="Неможливо запустити встановлення – пакунок пошкоджено." />
+	<string id="250" value="Для продовження встановлення треба закрити %s. Будь ласка, закрийте %s і повторіть спробу, натиснувши кнопку &quot;Так&quot;." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Перед активацією гарантії, будь ласка, спочатку активуйте свій ліцензійний ключ." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Невідома XML-відповідь від CAM-сервера" />
+	<string id="295" value="Уведений ліцензійний ключ не відповідає типу продукту, який Ви намагаєтесь встановлювати" />
+	<string id="313" value="Активація Вашої ліцензії, будь ласка зачекайте..." />
+	<string id="346" value="Повторити" />
+	<string id="366" value="Потрібне Інтернет-з’єднання." />
+	<string id="367" value="Для того щоб отримати ліцензію, встановлювач повинен з’єднатись з центром ліцензування COMODO." />
+	<string id="368" value="Будь ласка, переконайтесь, що Ви під’єднані до Інтернету, та натисніть кнопку &quot;Спробувати знову&quot;." />
+	<string id="369" value="Ми вдало активували Вашу ліцензію та оновили Ваш продукт." />
+	<string id="374" value="Я хочу увімкнути &quot;Хмаринковий аналіз поведінки програм&quot;, надсилаючи нерозпізнані програми у COMODO з дотриманням умов &lt;link&gt;Політики конфіденційності&lt;/link&gt;." />
+	<string id="375" value="Бета" />
+	<string id="377" value="Натискаючи кнопку &quot;%s&quot;, Ви погоджуєтесь зі встановленням та умовами &lt;link&gt;Ліцензійної угоди користувача&lt;/link&gt;:" />
+	<string id="383" value="Неможливо активувати Вашу ліцензію.\n%s" />
+	<string id="385" value="Для продовження Ви повинні обрати принаймні один продукт." />
+	<string id="386" value="Розмір продукту: %s" />
+	<string id="387" value="Загальний розмір завантаження: %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Несумісні продукти" />
+	<string id="32001" value="Згорнути вікно" />
+	<string id="32002" value="Закрити вікно" />
+	<string id="32003" value="Встановити" />
+	<string id="32004" value="Керування ліцензіями" />
+	<string id="32005" value="Так" />
+	<string id="32006" value="Ні" />
+	<string id="32007" value="Повторити" />
+	<string id="32008" value="Гаразд" />
+	<string id="32009" value="Скасувати" />
+	<string id="32010" value="Перервати" />
+	<string id="32011" value="Ігнорувати" />
+	<string id="32012" value="Продовжити" />
+	<string id="32013" value="Спробувати знову" />
+	<string id="32014" value="Встановлювач" />
+	<string id="32015" value="Назад" />
+	<string id="32016" value="Роздрукувати" />
+	<string id="32017" value="МБ" />
+	<string id="32018" value="Огляд" />
+	<string id="32019" value="Далі" />
+	<string id="32020" value="Закрити" />
+	<string id="32021" value="Дізнатись більше" />
+	<string id="32022" value="Завершити" />
+	<string id="32023" value="Пропустити" />
+	<string id="32024" value="Прийняти" />
+	<string id="32102" value="&lt;strong&gt;Встановити необхідні пакунки&lt;/strong&gt;&lt;br /&gt;Ця функція потребує встановлення додаткових пакунків." />
+	<string id="32103" value="Необхідно завантажити та встановити наступне:" />
+	<string id="32104" value="Назва пакунка" />
+	<string id="32105" value="Ліцензійна угода" />
+	<string id="32106" value="Розмір" />
+	<string id="32107" value="Натиснувши &quot;Погодитись і встановити&quot;, Ви погоджуєтесь з усіма ліцензійними угодами користувача вищезазначених пакунків." />
+	<string id="32108" value="Погодитись і встановити" />
+	<string id="32109" value="Помилка встановлення продукту:" />
+	<string id="32110" value="Спробувати знову" />
+	<string id="32111" value="Підготовка до встановлення..." />
+	<string id="32112" value="Ви вдало активували Ваш продукт." />
+	<string id="32113" value="Продовжити" />
+	<string id="32114" value="Будь ласка, зачекайте поки активується Ваша ліцензія..." />
+	<string id="32115" value="Помилка активації продукту:" />
+	<string id="32116" value="Спробувати знову" />
+	<string id="32117" value="&lt;strong&gt;Активувати ліцензію&lt;/strong&gt;&lt;br /&gt;Введіть свій ліцензійний ключ для активації продукту" />
+	<string id="32118" value="Для активації:" />
+	<string id="32119" value="Переконайтесь що Ви під’єднані до Інтернету" />
+	<string id="32120" value="Уведіть ліцензійний ключ або &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;натисніть тут&lt;/a&gt; для його отримання" />
+	<string id="32121" value="Активуйте ліцензію та зареєструйте Ваш продукт" />
+	<string id="32122" value="Ліцензійний ключ:" />
+	<string id="32123" value="Активувати" />
+	<string id="32124" value="&lt;strong&gt;Реєстрація продукту&lt;/strong&gt;&lt;br /&gt;Створити новий обліковий запис COMODO" />
+	<string id="32125" value="* Ім’я" />
+	<string id="32126" value="* Прізвище" />
+	<string id="32127" value="* Адреса ел. пошти" />
+	<string id="32128" value="Країна" />
+	<string id="32129" value="Місто" />
+	<string id="32130" value="Штат" />
+	<string id="32131" value="Адреса" />
+	<string id="32132" value="Оберіть ім’я користувача та пароль для створення облікового запису COMODO. Ви можете використовувати Ваш обліковий запис для керування Вашими ліцензіями через &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Ім’я користувача" />
+	<string id="32134" value="* Пароль" />
+	<string id="32135" value="* Обов’язкове поле" />
+	<string id="32136" value="Реєстрація" />
+	<string id="32137" value="Афганістан" />
+	<string id="32138" value="Албанія" />
+	<string id="32139" value="Алжир" />
+	<string id="32140" value="Американське Самоа" />
+	<string id="32141" value="Андорра" />
+	<string id="32142" value="Ангола" />
+	<string id="32143" value="Ангілья" />
+	<string id="32144" value="Антарктика" />
+	<string id="32145" value="Антигуа і Барбуда" />
+	<string id="32146" value="Аргентина" />
+	<string id="32147" value="Вірменія" />
+	<string id="32148" value="Аруба" />
+	<string id="32149" value="Австралія" />
+	<string id="32150" value="Австрія" />
+	<string id="32151" value="Азербайджан" />
+	<string id="32152" value="Багами" />
+	<string id="32153" value="Бахрейн" />
+	<string id="32154" value="Бангладеш" />
+	<string id="32155" value="Барбадос" />
+	<string id="32156" value="Білорусь" />
+	<string id="32157" value="Бельгія" />
+	<string id="32158" value="Беліз" />
+	<string id="32159" value="Бенін" />
+	<string id="32160" value="Бермуди" />
+	<string id="32161" value="Бутан" />
+	<string id="32162" value="Болівія" />
+	<string id="32163" value="Боснія і Герцеговина" />
+	<string id="32164" value="Ботсвана" />
+	<string id="32165" value="Острів Буве" />
+	<string id="32166" value="Бразилія" />
+	<string id="32167" value="Британська територія в Індійському океані" />
+	<string id="32168" value="Бруней" />
+	<string id="32169" value="Болгарія" />
+	<string id="32170" value="Буркіна-Фасо" />
+	<string id="32171" value="Бурунді" />
+	<string id="32172" value="Камбоджа" />
+	<string id="32173" value="Камерун" />
+	<string id="32174" value="Канада" />
+	<string id="32175" value="Острови Зеленого Мису" />
+	<string id="32176" value="Кайманові острови" />
+	<string id="32177" value="Центральноафриканська Республіка" />
+	<string id="32178" value="Чад" />
+	<string id="32179" value="Чилі" />
+	<string id="32180" value="Китай" />
+	<string id="32181" value="Острів Різдва" />
+	<string id="32182" value="Кокосові острови" />
+	<string id="32183" value="Колумбія" />
+	<string id="32184" value="Коморські острови" />
+	<string id="32185" value="Республіка Конго" />
+	<string id="32186" value="Демократична Республіка Конго" />
+	<string id="32187" value="Острови Кука" />
+	<string id="32188" value="Коста-Рика" />
+	<string id="32189" value="Кот-д'Івуар" />
+	<string id="32190" value="Хорватія" />
+	<string id="32191" value="Куба" />
+	<string id="32192" value="Кіпр" />
+	<string id="32193" value="Чеська республіка" />
+	<string id="32194" value="Данія" />
+	<string id="32195" value="Джибуті" />
+	<string id="32196" value="Острів Домініка" />
+	<string id="32197" value="Домініканська Республіка" />
+	<string id="32198" value="Східний Тімор" />
+	<string id="32199" value="Еквадор" />
+	<string id="32200" value="Єгипет" />
+	<string id="32201" value="Сальвадор" />
+	<string id="32202" value="Екваторіальна Гвінея" />
+	<string id="32203" value="Еритрея" />
+	<string id="32204" value="Естонія" />
+	<string id="32205" value="Ефіопія" />
+	<string id="32206" value="Фолклендські острови (Мальдіви)" />
+	<string id="32207" value="Фарерські острови" />
+	<string id="32208" value="Фіджі" />
+	<string id="32209" value="Фінляндія" />
+	<string id="32210" value="Франція" />
+	<string id="32211" value="Французька Гвіана" />
+	<string id="32212" value="Французька Полінезія" />
+	<string id="32213" value="Французькі Південні Території" />
+	<string id="32214" value="Габон" />
+	<string id="32215" value="Гамбія" />
+	<string id="32216" value="Грузія" />
+	<string id="32217" value="Німеччина" />
+	<string id="32218" value="Гана" />
+	<string id="32219" value="Гібралтар" />
+	<string id="32220" value="Греція" />
+	<string id="32221" value="Гренландія" />
+	<string id="32222" value="Гренада" />
+	<string id="32223" value="Гваделупа" />
+	<string id="32224" value="Гуам" />
+	<string id="32225" value="Гватемала" />
+	<string id="32226" value="Гвінея" />
+	<string id="32227" value="Гвінея-Бісау" />
+	<string id="32228" value="Гайана" />
+	<string id="32229" value="Гаїті" />
+	<string id="32230" value="Острів Херд і Острови Макдональд" />
+	<string id="32231" value="Ватикан" />
+	<string id="32232" value="Гондурас" />
+	<string id="32233" value="Гонконг" />
+	<string id="32234" value="Угорщина" />
+	<string id="32235" value="Ісландія" />
+	<string id="32236" value="Індія" />
+	<string id="32237" value="Індонезія" />
+	<string id="32238" value="Іран" />
+	<string id="32239" value="Ірак" />
+	<string id="32240" value="Ірландія" />
+	<string id="32241" value="Ізраїль" />
+	<string id="32242" value="Італія" />
+	<string id="32243" value="Ямайка" />
+	<string id="32244" value="Японія" />
+	<string id="32245" value="Йорданія" />
+	<string id="32246" value="Казахстан" />
+	<string id="32247" value="Кенія" />
+	<string id="32248" value="Кірибаті" />
+	<string id="32249" value="Демократична Республіка Корея" />
+	<string id="32250" value="Республіка Корея" />
+	<string id="32251" value="Кувейт" />
+	<string id="32252" value="Киргизстан" />
+	<string id="32253" value="Лаос" />
+	<string id="32254" value="Латвія" />
+	<string id="32255" value="Ліван" />
+	<string id="32256" value="Лесото" />
+	<string id="32257" value="Ліберія" />
+	<string id="32258" value="Лівія" />
+	<string id="32259" value="Ліхтенштейн" />
+	<string id="32260" value="Литва" />
+	<string id="32261" value="Люксембург" />
+	<string id="32262" value="Макао" />
+	<string id="32263" value="Македонія" />
+	<string id="32264" value="Мадагаскар" />
+	<string id="32265" value="Малаві" />
+	<string id="32266" value="Малайзія" />
+	<string id="32267" value="Мальдіви" />
+	<string id="32268" value="Малі" />
+	<string id="32269" value="Мальта" />
+	<string id="32270" value="Маршаллові острови" />
+	<string id="32271" value="Мартиніка" />
+	<string id="32272" value="Мавританія" />
+	<string id="32273" value="Маврикій" />
+	<string id="32274" value="Майотта" />
+	<string id="32275" value="Мексика" />
+	<string id="32276" value="Мікронезія" />
+	<string id="32277" value="Молдова" />
+	<string id="32278" value="Монако" />
+	<string id="32279" value="Монголія" />
+	<string id="32280" value="Монтсеррат" />
+	<string id="32281" value="Марокко" />
+	<string id="32282" value="Мозамбік" />
+	<string id="32283" value="М’янма" />
+	<string id="32284" value="Намібія" />
+	<string id="32285" value="Науру" />
+	<string id="32286" value="Непал" />
+	<string id="32287" value="Антильські острови" />
+	<string id="32288" value="Нідерланди" />
+	<string id="32289" value="Нова Каледонія" />
+	<string id="32290" value="Нова Зеландія" />
+	<string id="32291" value="Нікарагуа" />
+	<string id="32292" value="Нігер" />
+	<string id="32293" value="Нігерія" />
+	<string id="32294" value="Ніуе" />
+	<string id="32295" value="Норфолк" />
+	<string id="32296" value="Північні Маріанські острови" />
+	<string id="32297" value="Норвегія" />
+	<string id="32298" value="Оман" />
+	<string id="32299" value="Пакистан" />
+	<string id="32300" value="Палау" />
+	<string id="32301" value="Палестина" />
+	<string id="32302" value="Панама" />
+	<string id="32303" value="Папуа Нова Гвінея" />
+	<string id="32304" value="Парагвай" />
+	<string id="32305" value="Перу" />
+	<string id="32306" value="Філіппіни" />
+	<string id="32307" value="Піткерн" />
+	<string id="32308" value="Польща" />
+	<string id="32309" value="Португалія" />
+	<string id="32310" value="Пуерто-Рико" />
+	<string id="32311" value="Катар" />
+	<string id="32312" value="Реюньйон" />
+	<string id="32313" value="Румунія" />
+	<string id="32314" value="Росія" />
+	<string id="32315" value="Руанда" />
+	<string id="32316" value="Сен-Бартельмі" />
+	<string id="32317" value="Острів Святої Єлени" />
+	<string id="32318" value="Сент-Кітс і Невіс" />
+	<string id="32319" value="Сент-Люсія" />
+	<string id="32320" value="Сент-Мартин (французька частина)" />
+	<string id="32321" value="Сен-П’єр і Мікелон" />
+	<string id="32322" value="Сент-Вінсент і Гренадіни" />
+	<string id="32323" value="Самоа" />
+	<string id="32324" value="Сан-Марино" />
+	<string id="32325" value="Сан-Томе і Принсипі" />
+	<string id="32326" value="Саудівська Аравія" />
+	<string id="32327" value="Сенегал" />
+	<string id="32328" value="Сейшельські острови" />
+	<string id="32329" value="Сьєрра-Леоне" />
+	<string id="32330" value="Сингапур" />
+	<string id="32331" value="Словаччина" />
+	<string id="32332" value="Словенія" />
+	<string id="32333" value="Соломонові острови" />
+	<string id="32334" value="Сомалі" />
+	<string id="32335" value="Південно-Африканська Республіка" />
+	<string id="32336" value="Південна Джорджія і Південні Сандвічеві Острови" />
+	<string id="32337" value="Іспанія" />
+	<string id="32338" value="Шрі-Ланка" />
+	<string id="32339" value="Судан" />
+	<string id="32340" value="Суринам" />
+	<string id="32341" value="Свальбард і Ян-Маєн" />
+	<string id="32342" value="Свазіленд" />
+	<string id="32343" value="Швеція" />
+	<string id="32344" value="Швейцарія" />
+	<string id="32345" value="Сирія" />
+	<string id="32346" value="Тайвань" />
+	<string id="32347" value="Таджикистан" />
+	<string id="32348" value="Танзанія" />
+	<string id="32349" value="Таїланд" />
+	<string id="32350" value="Того" />
+	<string id="32351" value="Токелау" />
+	<string id="32352" value="Тонга" />
+	<string id="32353" value="Тринідад і Тобаго" />
+	<string id="32354" value="Туніс" />
+	<string id="32355" value="Туреччина" />
+	<string id="32356" value="Туркменістан" />
+	<string id="32357" value="Острови Тьоркс і Кайкос" />
+	<string id="32358" value="Тувалу" />
+	<string id="32359" value="Уганда" />
+	<string id="32360" value="Україна" />
+	<string id="32361" value="Об’єднані Арабські Емірати" />
+	<string id="32362" value="Сполучене Королівство Великої Британії і Північної Ірландії" />
+	<string id="32363" value="Сполучені Штати Америки" />
+	<string id="32364" value="Зовнішні малі острови США" />
+	<string id="32365" value="Уругвай" />
+	<string id="32366" value="Узбекистан" />
+	<string id="32367" value="Вануату" />
+	<string id="32368" value="Венесуела" />
+	<string id="32369" value="В’єтнам" />
+	<string id="32370" value="Віргінські острови (Великобританія)" />
+	<string id="32371" value="Віргінські острови (США)" />
+	<string id="32372" value="Острова Уолліс і Футуна" />
+	<string id="32373" value="Західна Сахара" />
+	<string id="32374" value="Ємен" />
+	<string id="32375" value="Югославія" />
+	<string id="32376" value="Замбія" />
+	<string id="32377" value="Алабама" />
+	<string id="32378" value="Аляска" />
+	<string id="32379" value="Аризона" />
+	<string id="32380" value="Арканзас" />
+	<string id="32381" value="Каліфорнія" />
+	<string id="32382" value="Колорадо" />
+	<string id="32383" value="Коннектикут" />
+	<string id="32384" value="Округ Колумбія" />
+	<string id="32385" value="Делавер" />
+	<string id="32386" value="Флорида" />
+	<string id="32387" value="Джорджія" />
+	<string id="32388" value="Гаваї" />
+	<string id="32389" value="Айдахо" />
+	<string id="32390" value="Іллінойс" />
+	<string id="32391" value="Індіана" />
+	<string id="32392" value="Айова" />
+	<string id="32393" value="Канзас" />
+	<string id="32394" value="Кентуккі" />
+	<string id="32395" value="Луїзіана" />
+	<string id="32396" value="Мен" />
+	<string id="32397" value="Меріленд" />
+	<string id="32398" value="Массачусетс" />
+	<string id="32399" value="Мічиган" />
+	<string id="32400" value="Міннесота" />
+	<string id="32401" value="Міссісіпі" />
+	<string id="32402" value="Міссурі" />
+	<string id="32403" value="Монтана" />
+	<string id="32404" value="Небраска" />
+	<string id="32405" value="Невада" />
+	<string id="32406" value="Нью-Гемпшир" />
+	<string id="32407" value="Нью-Джерсі" />
+	<string id="32408" value="Нью-Мексико" />
+	<string id="32409" value="Нью-Йорк" />
+	<string id="32410" value="Північна Кароліна" />
+	<string id="32411" value="Північна Дакота" />
+	<string id="32412" value="Огайо" />
+	<string id="32413" value="Оклахома" />
+	<string id="32414" value="Орегон" />
+	<string id="32415" value="Пенсильванія" />
+	<string id="32416" value="Род-Айленд" />
+	<string id="32417" value="Південна Кароліна" />
+	<string id="32418" value="Південна Дакота" />
+	<string id="32419" value="Теннессі" />
+	<string id="32420" value="Техас" />
+	<string id="32421" value="Юта" />
+	<string id="32422" value="Вермонт" />
+	<string id="32423" value="Вірджинія" />
+	<string id="32424" value="Вашингтон" />
+	<string id="32425" value="Західна Вірджинія" />
+	<string id="32426" value="Вісконсин" />
+	<string id="32427" value="Вайомінг" />
+	<string id="32428" value="Альберта" />
+	<string id="32429" value="Британська Колумбія" />
+	<string id="32430" value="Манітоба" />
+	<string id="32431" value="Нью-Брансуік" />
+	<string id="32432" value="Ньюфаундленд" />
+	<string id="32433" value="Північно-західні Території" />
+	<string id="32434" value="Нова Шотландія" />
+	<string id="32435" value="Нунавут" />
+	<string id="32436" value="Онтаріо" />
+	<string id="32437" value="Острів Принца Едуарда" />
+	<string id="32438" value="Квебек" />
+	<string id="32439" value="Саскачеван" />
+	<string id="32440" value="Юкон" />
+	<string id="32441" value="Виберіть мову" />
+	<string id="32442" value="Надсилати мені новини, інформацію про пропозиції та знижки на продукти COMODO на адресу ел. пошти:" />
+	<string id="32443" value="Отримати додатковий захист в Інтернеті, змінивши мої DNS-сервери на сервери COMODO Secure DNS (швидша обробка сторінок, поліпшена безпека в мережі)." />
+	<string id="32444" value="Увімкнути хмаринковий аналіз поведінки недовірених файлів (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Політика конфіденційності&lt;/a&gt;)" />
+	<string id="32445" value="Я хочу допомогти COMODO, встановивши Yahoo! домашньою сторінкою та стандартним постачальником пошуку (стосується всіх оглядачів тенет, що підтримуються)" />
+	<string id="32446" value="Натискаючи кнопку &quot;Погодитись і встановити&quot;, Ви погоджуєтесь зі встановленням та умовами Ліцензійної угоди користувача:" />
+	<string id="32447" value="Налаштувати встановлення" />
+	<string id="32449" value="Будь ласка, прочитайте ліцензійну угоду:" />
+	<string id="32450" value="Опції встановлення" />
+	<string id="32451" value="Опції конфігурації" />
+	<string id="32452" value="Розташування файлів" />
+	<string id="32453" value="Розмір продукту:" />
+	<string id="32454" value="Загальний розмір завантаження:" />
+	<string id="32455" value="Якщо можливо, не показувати попередження, що вимагають від користувача прийняття рішень щодо безпеки" />
+	<string id="32456" value="Ця конфігурація безпеки налаштовує роботу Брандмауера, Посиленого Захисту, модуля Containment та Антивірусу таким чином, що прийняття рішень щодо безпеки, коли це можливо, буде відбуватись у автоматичному режимі." />
+	<string id="32457" value="Вибір шляху встановлення:" />
+	<string id="32458" value="Ця програма є Бета-версією &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Вона призначена для особливих користувачів, які займаються бета-тестуванням." />
+	<string id="32460" value="Вона може містити суттєві помилки, що можуть призвести до серйозних проблем." />
+	<string id="32461" value="Не встановлюйте цю програму на виробництві." />
+	<string id="32462" value="Чи бажаєте Ви продовжити?" />
+	<string id="32463" value="Натискаючи кнопку &quot;Погодитись і оновитись&quot;, Ви погоджуєтесь зі встановленням та умовами Ліцензійної угоди користувача:" />
+	<string id="32464" value="Зачекати і продовжити (%u)" />
+	<string id="32465" value="Система зайнята іншим процесом встановлення.\n\nБудь ласка, зачекайте на її завершення та натисніть &quot;Повторити&quot; для продовження встановлення.\nВи можете натиснути &quot;Скасувати&quot; для виходу із майстра встановлення.\nЯкщо Ви натиснете &quot;Зачекати і продовжити&quot;, встановлення автоматично продовжиться після завершення попереднього процесу встановлення." />
+	<string id="32466" value="Копіювати ліцензійний ключ" />
+	<string id="32467" value="Вставити ліцензійний ключ" />
+	<string id="32468" value="Очистити всі поля" />
+	<string id="32470" value="Я хочу встановити Елементи Яндекса." />
+	<string id="32471" value="Зробити Яндекс домашньою сторінкою (стосується всіх оглядачів тенет, що підтримуються)." />
+	<string id="32472" value="Зробити Яндекс стандартним засобом пошуку (стосується всіх оглядачів тенет, що підтримуються)." />
+	<string id="32772" value="Будь ласка, зачекайте поки активується Ваша гарантія..." />
+	<string id="32775" value="Вітаємо!" />
+	<string id="32776" value="Ви вдало завершили встановлення." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Сертифікований спеціаліст&lt;/strong&gt; може зараз &lt;strong class=&quot;green&quot;&gt;безкоштовно&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;допомогти Вам з його налаштуванням&lt;/strong&gt;" />
+	<string id="32778" value="Пропозиція обмежена за часом!" />
+	<string id="32779" value="Телефонуйте" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Ліцензійна угода&lt;/a&gt;" />
+	<string id="32785" value="Елементи Яндекса &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Ліцензійна угода&lt;/a&gt;" />
+	<string id="32786" value="Логін повинен бути щонайменше %d символи" />
+	<string id="32787" value="Пароль повинен бути щонайменше %d символів" />
+	<string id="32788" value="Логін та пароль не повинні співпадати" />
+	<string id="32791" value="Анонімно надсилати статистику використання (наприклад, аварії, помилки, притиски тощо) програми до COMODO, для поліпшення її якості." />
+	<string id="32793" value="Будь ласка, зазначте подробиці сервера IT and Security Manager нижче:" />
+	<string id="32794" value="Сервер IT and Security Manager:" />
+	<string id="32795" value="Порт сервера IT and Security Manager:" />
+	<string id="32796" value="&lt;strong&gt;Активувати %s&lt;/strong&gt;" />
+	<string id="32797" value="Активувати з ліцензійним ключем" />
+	<string id="32798" value="Оберіть компоненти для активації:" />
+	<string id="32799" value="Антивірус і Containment CCS" />
+	<string id="32800" value="Брандмауер і Containment CCS" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="Весь комплект CCS (Containment, Антивірус і Брандмауер)" />
+	<string id="32803" value="Активувати, використовуючи сервер IT and Security Manager" />
+	<string id="32804" value="Оберіть цей варіант, якщо у Вас є дійсний ліцензійний ключ і Ви хочете використати його" />
+	<string id="32805" value="Оберіть цей варіант, якщо Ви використовуєте портал IT and Security Manager для керування цією станцією" />
+	<string id="32806" value="&lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Ліцензійна угода&lt;/a&gt; %s та &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Політика конфіденційності&lt;/a&gt;" />
+	<string id="32807" value="Ім’я користувача" />
+	<string id="32808" value="Пароль" />
+	<string id="32809" value="&lt;strong&gt;Реєстрація продукту&lt;/strong&gt;&lt;br /&gt;Активувати ліцензійний ключ з допомогою облікового запису COMODO" />
+	<string id="32810" value="У мене немає облікового запису COMODO" />
+	<string id="32811" value="У мене вже є обліковий запис COMODO" />
+	<string id="32812" value="Я хочу встановити Менеджер браузерів від Яндекс, який буде завжди захищати налаштування мого браузеру." />
+	<string id="32813" value="Менеджер браузерів від Яндекс &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Ліцензійна угода&lt;/a&gt;" />
+	<string id="34028" value="Копіювати" />
+	<string id="34029" value="Вибрати все" />
+	<string id="34410" value="Скасувати" />
+	<string id="34411" value="Вирізати" />
+	<string id="34412" value="Вставити" />
+	<string id="34413" value="Перевірити наявність новіших версій вибраних програм на серверах COMODO перед їх встановленням з диску." />
+	<string id="34414" value="Перевірка наявності новіших версій..." />
+	<string id="34415" value="Пропустити цей крок" />
+	<string id="34416" value="Доступна новіша версія" />
+	<string id="34417" value="Завантажити та встановити оновлені версії вибраних програм замість присутніх на диску:" />
+	<string id="34418" value="Версія" />
+	<string id="34419" value="Щоб продовжити процес активації, Вам потрібен обліковий запис COMODO. Якщо він у Вас вже є, то непотрібно створювати новий." />
+	<string id="34420" value="Виберіть цей варіант, якщо у Вас немає облікового запису COMODO. Цей майстер допоможе Вам його створити." />
+	<string id="34421" value="Введіть Ваші дані, об використовувати існуючий обліковий запис COMODO." />
+	<string id="34422" value="Помилка оновлення\n\nКористувачі CIS версії 5.xx можуть перейти до версії 8.0 лише через проміжне оновлення до версії 7.0. Будь ласка, спершу оновіть CIS до версії 7.0, а вже потім до версії 8.0." />
+	<string id="34423" value="Зробити Chromodo стандартним браузером." />
+	<string id="34424" value="Замінити існуючі ярлики Google Chrome на ярлики Chromodo на робочому столі та в меню „Пуск“." />
+	<string id="34425" value="Імпортувати налаштування Google Chrome (історію, закладки, куки і т.д.) в браузер Chromodo." />
+	<string id="34426" value="Уведіть ліцензійний ключ" />
+	<string id="34427" value="Завантаження вдало завершено" />
+	<string id="34428" value="Погодитись і продовжити" />
+	<string id="34429" value="За бажанням Ви можете від’єднатись від Інтернету, щоб встановити пакунок автономно." />
+	<string id="34430" value="Натискаючи кнопку &quot;Погодитись і продовжити&quot;, Ви погоджуєтесь зі встановленням та умовами Ліцензійної угоди користувача:" />
+	<string id="34431" value="Антивірус, брандмауер і захист від шкідників" />
+	<string id="34432" value="Захист від неавторизованого доступу" />
+	<string id="34433" value="Захист від вірусів і шкідників" />
+	<string id="34434" value="Цілодобова підтримка" />
+	<string id="34435" value="Швидке та безпечне відвідування Інтернету" />
+	<string id="34436" value="Захист від втрати даних" />
+	<string id="34437" value="Chromodo постачається з розширеннями для покращення захисту від мережевих загроз:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Ліцензійна угода&lt;/a&gt;" />
+	<string id="34441" value="Просте у використання та універсальне онлайн-рішення для резервного копіювання даних" />
+	<string id="34442" value="з &lt;strong&gt;GeekBuddy&lt;/strong&gt; та &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="з &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="з &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo — швидкий та універсальний Інтернет-браузер, що базується на технології Chromium з безпрецедентним рівнем безпеки від Comodo." />
+	<string id="34446" value="Ви повинні увімкнути використання протоколу TLS у налаштуваннях безпеки IE." />
+	<string id="34447" value="Щоб увімкнути протокол TLS:\n1. В Internet Explorer оберіть меню „Знаряддя“ -&gt; „Властивості браузера“.\n2. Перейдіть до вкладки „Додатково“.\n3. Знайдіть розділ „Безпека“.\n4. Поставте прапорець навпроти „Використовувати TLS 1.xx“\n5. Натисніть кнопку „OK“." />
+	<string id="34448" value="Неможливо встановити %s, тому що на цьому комп’ютері встановлено COMODO Cloud AV.\n\nБудь ласка, видаліть CCAV перед встановленням %s." />
+	<string id="34449" value="з &lt;strong&gt;GeekBuddy&lt;/strong&gt; та &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="з &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Запускати невідомі програми у безпечному ізольованому середовищі" />
+	<string id="34452" value="Безпечне відвідування сайтів, що містять Ваші важливі та конфіденційні дані" />
+	<string id="34453" value="Вітаємо!" />
+	<string id="34454" value="Ви збираєтесь встановити %s %s, щоб убезпечити та захистити всі свої пристрої" />
+	<string id="34455" value="Натискаючи кнопку „%s“, Ви погоджуєтесь, що приймаєте умови &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;Ліцензійної угоди&lt;/a&gt; %s та &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Політики конфіденційності&lt;/a&gt;" />
+	<string id="34456" value="Я згоден" />
+	<string id="34457" value="з браузером Chromodo та GeekBuddy" />
+	<string id="34458" value="з браузером Dragon, Безпечними покупками та GeekBuddy" />
+	<string id="34459" value="з браузером Chromodo" />
+	<string id="34460" value="з браузером Dragon" />
+	<string id="34461" value="з GeekBuddy" />
+	<string id="34462" value="Встановити розширення браузера Елементи Яндекса" />
+	<string id="34463" value="Встановити Яндекс моєю домашньою сторінкою*" />
+	<string id="34464" value="Встановити Яндекс моєю пошуковою системою*" />
+	<string id="34465" value="Відкривати Яндекс на новій вкладці браузера*" />
+	<string id="34466" value="* застосовується для всіх браузерів, що підтримуються" />
+	<string id="34467" value="Натискаючи кнопку „%s“, Ви погоджуєтесь, що приймаєте умови" />
+	<string id="34470" value="Встановити безкоштовну версію" />
+	<string id="34471" value="Встановити версію PRO" />
+	<string id="34472" value="Встановити 30-денну пробну версію PRO" />
+	<string id="34473" value="Встановити 30-денну пробну версію COMPLETE" />
+	<string id="34474" value="Встановити 30-денну пробну версію PRO.&lt;br /&gt;По завершенні пробного періоду Ви зможете перейти на безкоштовну версію" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Встановити 30-денну пробну версію COMPLETE.&lt;br /&gt;По завершенні пробного періоду Ви зможете перейти на безкоштовну версію" />
+	<string id="34477" value="Антивірус" />
+	<string id="34478" value="Брандмауер" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Безпечні покупки" />
+	<string id="34483" value="Цілодобова технічна підтримка" />
+	<string id="34484" value="Резервне копіювання COMODO" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Тека для встановлення" />
+	<string id="34487" value="Змінити постачальника DNS на COMODO Secure DNS для більш швидкої резолюції адрес веб-сторінок та поліпшення онлайн-безпеки. &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Що це?&lt;/a&gt;" />
+	<string id="34488" value="Увімкнути „Хмаринковий аналіз поведінки“ недовірених файлів (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Політика конфіденційності&lt;/a&gt;)" />
+	<string id="34489" value="Анонімно надсилати статистику використання (наприклад, аварії, помилки, притиски тощо) програми до COMODO, для поліпшення її якості." />
+	<string id="34490" value="Налаштування" />
+	<string id="34491" value="Загальний розмір:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Рейтинг файлів" />
+	<string id="34494" value="Фільтрування сайтів" />
+	<string id="34495" value="Безпечні покупки" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Cloud Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="Цілодобова технічна підтримка GeekBuddy" />
+	<string id="34501" value="Контролюйте свою безпеку.&lt;br /&gt;Запускайте невідомі програми у безпечному ізольованому середовищі." />
+	<string id="34502" value="Безпечний чи шкідливий?&lt;br /&gt;Перевіряйте репутацію файлів у нашій глобальній базі." />
+	<string id="34503" value="Захистіть себе та своїх дітей від сайтів, що містять шкідників та небажаний вміст" />
+	<string id="34504" value="Захистіть Ваші дані та гроші.&lt;br /&gt;Переконайтесь, що ніхто не отримає доступ до Ваших конфіденційних даних у мережі" />
+	<string id="34505" value="Встановіть безкоштовний антивірус для мобільних Android-пристроїв" />
+	<string id="34506" value="Не переймайтесь втратою даних.&lt;br /&gt;Всі Ваші дані будуть зберігатись зашифрованими на безпечних хмарних серверах." />
+	<string id="34507" value="Користуєтесь відкритими публічними Wi-Fi?&lt;br /&gt;Тепер це безпечно." />
+	<string id="34508" value="Потрібна допомога?&lt;br /&gt;Звертайтесь до нашої служби технічної підтримки в будь-який час" />
+	<string id="34509" value="Безкоштовне встановлення" />
+	<string id="34510" value="Вітаємо!" />
+	<string id="34511" value="Ви вдало завершили встановлення." />
+	<string id="34512" value="Надсилати мені новини, інформацію про пропозиції та знижки на продукти COMODO на адресу ел. пошти:" />
+	<string id="34513" value="Виявляє, блокує та видаляє віруси на стільникових комп’ютерах і в мережах. Постійно захищає в режимі реального часу скануючи за доступом до системи. Щоденні оновлення бази даних вірусів." />
+	<string id="34514" value="Відзначений нагородами брандмауер. Автоматично робить ПК невидимим для нападників. Фільтрує трафік Вашого комп’ютера." />
+	<string id="34515" value="Ізольоване робоче середовище для запуску невідомих, неперевірених і сумнівних додатків. Добре підходить для тестування програмного забезпечення, отриманого з ненадійних джерел. Функція Aвто-Containment дозволяє ізолювати додатки відповідно до стандартних або користувацьких політик." />
+	<string id="34516" value="Централізована система запобігання вторгнень (HIPS) — це проактивна технологія, що дозволяє аналізувати поведінку запущених програм і зупинити будь-яку підозрілу активність. HIPS автоматично захищає важливі системні файли, теки та записи реєстру, для запобігання несанкціонованих змін шкідливими програмами." />
+	<string id="34517" value="Контролює та веде облік активності процесів, запущених на Вашому комп’ютері, та надає можливість скасувати потенційно небажані дії програм без обов’язкового їх повного блокування." />
+	<string id="34518" value="Забезпечує високий рівень безпеки онлайн-взаєморозрахунків та покупок, дозволяючи під’єднуватись до Інтернету через добре захищене віртуальне середовище. Підключатися до чутливих сайтів у середині спеціального середовища з підвищеною безпекою." />
+	<string id="34519" value="Необмежена віддалена підтримка для проблем з Вашим ПК. Просто натисніть піктограму на стільниці та поспілкуйтесь з Вашим помічником, який виправить проблеми на Ваших очах та допоможе з вдосконаленням налаштувань ПК та Windows, пошти та принтерів, встановленні будь-яких програм і чимало чого іншого..." />
+	<string id="34520" value="Просте у використанні, все-в-одному онлайн-рішення резервного копіювання. Резервне копіювання та відновлення будь-якої кількості даних, від одного файла до цілої системи. Дані зберігаються із застосуванням найновіших сучасних технологій шифрування. Всі комунікації між Вашою системою та серверами Comodo захищено SSL-шифруванням." />
+	<string id="34521" value="Забезпечує захист бездротового і дротового зв'язку між вашим та іншими комп'ютерами. Робить інтернет-серфінг безпечним в точках громадського доступу в Інтернет, таких як кафе, готелі, аеропорти тощо. Захищає приватну інформацію від потрапляння в руки до комп'ютерних злочинців під час онлайн-сесій. Забезпечує повне шифрування вихідного та вхідного трафіку." />
+	<string id="34522" value="Зробити Яндекс моєю домашньою сторінкою, засобом пошуку та новою вкладкою браузера*" />
+	<string id="34524" value="Повноваження" />
+	<string id="34525" value="Компоненти" />
+	<string id="34526" value="Встановити Менеджер браузерів від Яндекс" />
+	<string id="34527" value="&lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Ліцензійна угода&lt;/a&gt; на Елементи Яндекса" />
+	<string id="34528" value="&lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Ліцензійна угода&lt;/a&gt; на Менеджера браузерів від Яндекса" />
+	<string id="34529" value="Поліпшити Інтернет-серфінг, установивши Yahoo! моєю домашньою сторінкою, новою вкладкою та типовим засобом пошуку (для всіх підтримуваних браузерів)" />
+	<string id="34530" value="Встановлюючи цю програму, Ви погоджуєтесь, що приймаєте умови &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Ліцензійної угоди&lt;/a&gt; %s та &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Ліцензійної угоди&lt;/a&gt; Yahoo!" />
+	<string id="34531" value="Якщо у Вас немає ліцензійного ключа, Ви його можете отримати" />
+	<string id="34532" value="Отримати ліцензійний ключ" />
+	<string id="34533" value="Активувати ліцензію" />
+	<string id="34534" value="Зателефонуйте за номером &lt;strong&gt;+1888-258-7142&lt;/strong&gt; і наш сертифікований спеціаліст допоможе Вам вирішити проблему" />
+	<string id="34535" value="&lt;strong&gt;Реєстрація продукту&lt;/strong&gt;&lt;span&gt;Активувати ліцензійний ключ з допомогою облікового запису COMODO&lt;/span&gt;" />
+	<string id="34536" value="Зазначена адреса ел. пошти недійсна" />
+	<string id="34537" value="Паролі не збігаються" />
+	<string id="34538" value="Виберіть країну" />
+	<string id="34539" value="&lt;strong&gt;Активувати ліцензію&lt;/strong&gt;&lt;span&gt;Введіть свій ліцензійний ключ для активації продукту&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Реєстрація продукту&lt;/strong&gt;&lt;span&gt;Активувати ліцензійний ключ з допомогою облікового запису COMODO&lt;/span&gt;" />
+	<string id="34541" value="Для продовження активації потрібен обліковий запис COMODO." />
+	<string id="34542" value="Створити новий обліковий запис" />
+	<string id="34543" value="* Повторіть пароль" />
+	<string id="34544" value="Ел. пошта" />
+	<string id="34545" value="Пароль" />
+	<string id="34546" value="Забули пароль?" />
+	<string id="34547" value="Увійти" />
+	<string id="34548" value="Помилка активації продукту" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;В Internet Explorer оберіть меню „Знаряддя“ -&gt; „Властивості браузера“&lt;/li&gt;&lt;li&gt;Перейдіть до вкладки „Додатково“&lt;/li&gt;&lt;li&gt;Знайдіть розділ „Безпека“&lt;/li&gt;&lt;li&gt;Поставте прапорець навпроти „Використовувати TLS 1.xx“&lt;/li&gt;&lt;li&gt;Натисніть кнопку „OK“&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Перевірте підключення до Інтернету" />
+	<string id="34551" value="Активування" />
+	<string id="34552" value="Інструмент діагностики CIS не знайдено." />
+	<string id="34553" value="Неможливо запустити діагностику CIS. Код помилки: %u" />
+	<string id="34554" value="Видалення %s..." />
+	<string id="34555" value="Зміна %s..." />
+	<string id="34556" value="Ви впевнені, що бажаєте скасувати видалення?" />
+	<string id="34557" value="Неможливо змінити %s" />
+	<string id="34558" value="Неможливо видалити %s" />
+	<string id="34560" value="Відновити" />
+	<string id="34561" value="Змінити" />
+	<string id="34562" value="Видалити" />
+	<string id="34563" value="Виправлення проблем, що могли спричиняти зависання та збої." />
+	<string id="34564" value="Перевірте, які функції програми встановлено." />
+	<string id="34565" value="Видалити &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Вибір продукту" />
+	<string id="34567" value="%s постачається з колекцією рішень для забезпечення безпеки Вашого ПК. Будь ласка, виберіть продукти, які б Ви хотіли встановити, або приберіть прапорці з тих, які не треба встановлювати." />
+	<string id="34568" value="Встановити COMODO Firewall (рекомендовано)" />
+	<string id="34569" value="Виберіть цей варіант, щоб встановити COMODO Firewall. Якщо на Вашому комп'ютері вже встановлено якийсь брандмауер, перед продовженням встановлення треба буде його видалити." />
+	<string id="34570" value="Встановити COMODO Antivirus (рекомендовано)" />
+	<string id="34571" value="Виберіть цей варіант, щоб встановити COMODO Antivirus. Якщо на Вашому комп’ютері вже встановлено якийсь антивірус, перед продовженням встановлення треба буде його видалити." />
+	<string id="34572" value="Ось і все." />
+	<string id="34573" value="Зміни в %s виконано." />
+	<string id="34574" value="Підготовка до видалення..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Залишати комп’ютер незахищеним — неправильно." />
+	<string id="34577" value="Чи хочете Ви спробувати наш нересурсоємний, проте потужний хмаринковий Антивірус?" />
+	<string id="34578" value="Завантажте та встановіть COMODO Cloud Antivirus" />
+	<string id="34579" value="COMODO Cloud Antivirus буде встановлено по завершенні процесу видалення. Для завершення видалення, Вам треба буде перезавантажити комп’ютер." />
+	<string id="34580" value="Що є головною причиною того, що Ви вирішили видалити COMODO? &lt;b&gt;(Виберіть потрібне)&lt;/b&gt;" />
+	<string id="34581" value="COMODO використовував чимало ресурсів мого ПК" />
+	<string id="34582" value="Я отримував забагато попереджень" />
+	<string id="34583" value="COMODO блокував програми, які я хотів запустити" />
+	<string id="34584" value="Я не зовсім задоволений продуктом" />
+	<string id="34585" value="Я знайшов іншу програму, що мені подобається більше" />
+	<string id="34586" value="Інше (будь ласка, зазначте)" />
+	<string id="34587" value="Видалення %s завершено." />
+	<string id="34588" value="Проте, можливо у нас ще є що запропонувати Вам. Будь ласка, ознайомтесь з &lt;a href='#' id='id_products'&gt;нашою продукцією&lt;/a&gt; або, за наявності будь-яких питань, зв’яжіться з нашим менеджером." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Будь ласка, виберіть, що Ви хочете зробити з %s" />
+	<string id="34591" value="Я хочу перевстановити його" />
+	<string id="34592" value="Це видалить &lt;b&gt;%s&lt;/b&gt; з Вашої системи і Ви зможете повторно встановити або замінити його на іншу версію." />
+	<string id="34593" value="Я хочу повністю видалити його" />
+	<string id="34594" value="Це повністю видалить &lt;b&gt;%s&lt;/b&gt; з Вашої системи, проте Ви ще зможете повторно встановити його пізніше." />
+	<string id="34595" value="Підготовка до зміни..." />
+	<string id="34596" value="Підготовка до завантаження..." />
+	<string id="34597" value="Помилка під час зміни COMODO Internet Security" />
+	<string id="34598" value="Помилка під час видалення COMODO Internet Security" />
+	<string id="34599" value="Додати, вилучити чи відновити компоненти" />
+	<string id="34600" value="Вилучення чи відновлення компонентів" />
+	<string id="34601" value="Видалення конфліктуючих програм: %s" />
+	<string id="34602" value="Ми рекомендуємо підтримувати Comodo Internet Security в актуальному стані, щоб захистити комп’ютер від будь-яких можливих ризиків" />
+	<string id="34603" value="Comodo Internet Security використовує потужну комбінацію технологій моніторингу вірусів, Авто-Containment та поведінкового аналізу, що дозволяє негайно захистити Ваш комп’ютер від усіх відомих і невідомих шкідників." />
+	<string id="34604" value="Виконується інший процес встановлення. Будь ласка, дочекайтесь його завершення." />
+	<string id="34605" value="Виконується інший процес активації. Будь ласка, дочекайтесь його завершення." />
+	<string id="34606" value="Тепер із захистом від вразливості, відомої як атака „людина посередині“!" />
+	<string id="34607" value="В пакунок щойно видалено продукту включено Comodo Internet Security Essentials (ISE), що захищає від вразливості, відомої як атака „людина посередині“. ISE треба видалити окремо. Якщо Ви хочете видалити цю програму, натисніть &lt;a href='#' id='id_ise_how_to_remove'&gt;тут&lt;/a&gt;, щоб дізнатись як це зробити." />
+	<string id="34608" value="Зробити Comodo Dragon стандартним браузером." />
+	<string id="34609" value="Імпортувати налаштування Google Chrome (історію, закладки, куки і т.д.) в браузер Comodo Dragon." />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

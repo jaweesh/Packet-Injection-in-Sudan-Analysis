@@ -154,6 +154,8 @@ an old WhatsApp download from a strange IP address
 ![](/assets/whatsapp-evill-download.PNG)
 
 ## Past stories and leaks
+
+
 In 2013 reports found that Blue Coat's tools have been used to censor web sites and monitor the communications of dissidents, activists and jounalists in Sudan, Iran and Syria. These countires are sanctined and sales of such devices, technology and systems are prohibited by law but they managed to get them and utilize them.
  ``` https://www.washingtonpost.com/world/national-security/report-web-monitoring-devices-made-by-us-firm-blue-coat-detected-in-iran-sudan/2013/07/08/09877ad6-e7cf-11e2-a301-ea5a8116d211_story.html?utm_term=.01efb1ac0017 ```
 
@@ -167,6 +169,9 @@ In 2015 HackingTeam, an Italian based IT company that sells offensive intrusion 
 On the leak a contract with Sudan valued at 480,000 Euro and dated July 2, 2012 was published as part of the 400GB cache, in addition, a maintainance list named Sudan as a customer, but one that was "not officially supported".
 ``` https://www.csoonline.com/article/2944333/data-breach/hacking-team-responds-to-data-breach-issues-public-threats-and-denials.html ```
 
+
+In 2016 a friend of mine faced the same issue
+``` https://twitter.com/el_ammari/status/723555290550013957 ```
 
 ## Conclusions
 

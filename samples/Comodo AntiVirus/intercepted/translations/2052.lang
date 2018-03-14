@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="中文(简体) - By COMODO" LANGID="2052" RTL="0">
+	<string id="106" value="安装包损坏。\r\n安装中止" />
+	<string id="107" value="不支持在目标平台进行安装。" />
+	<string id="108" value="升级到新版本" />
+	<string id="109" value="%s安装程序" />
+	<string id="110" value="正在升级%s……" />
+	<string id="111" value="无法储存许可证信息。\r\n%s" />
+	<string id="112" value="这个选项将把您的主DNS和辅助DNS分别改为8.26.56.26和156.154.70.22， 修改之后, 所有应用程序将使用更快捷，更安全的DNS服务器访问网络。" />
+	<string id="113" value="您的安装数量已达到您的许可证所允许安装的最大数量。" />
+	<string id="114" value="COMODO许可证管理" />
+	<string id="115" value="您的计算机的日期/时间设置不正确，请更正后再试一次。" />
+	<string id="116" value="您输入的许可证密钥已过期" />
+	<string id="117" value="错误: %u. %s" />
+	<string id="118" value="初始化安装程序失败，无效的数据格式。" />
+	<string id="119" value="发现新版本的安装程序。\r\n安装程序现在将进行自我更新。\r\n是否继续？" />
+	<string id="120" value="不支持给定的循环间隔" />
+	<string id="121" value="初始化打印失败。" />
+	<string id="122" value="产品激活已被撤销。请联系您的系统管理员。" />
+	<string id="123" value="正在安装 %s……" />
+	<string id="124" value="COMODO安装程序" />
+	<string id="125" value="同意并安装" />
+	<string id="126" value="同意并且升级" />
+	<string id="127" value="您确定取消安装？" />
+	<string id="128" value="您需要相应权限来进行安装。" />
+	<string id="129" value="查看许可协议" />
+	<string id="130" value="无法自动重启COMODO安装程序。\r\n%s\r\n请手动重启安装程序。" />
+	<string id="131" value="自定义安装" />
+	<string id="132" value="自定义升级" />
+	<string id="133" value="您必须重启系统来使配置的更改生效。\n点击‘是’现在重启，如果您想一会手动重启请点击‘否’。" />
+	<string id="134" value="请稍后……" />
+	<string id="135" value="不允许的操作" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="您电脑上安装的CCS不能由指定的服务器管理，请确保您进入正确的IT and Security Manager服务器或者向您的网络管理员寻求帮助。" />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="错误 %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="输入的帐号和密码无效" />
+	<string id="144" value="无法重启系统.\r\n%s\r\n请手动重启计算机。" />
+	<string id="145" value="错误 %d: %s" />
+	<string id="148" value="HTTP状态代码: %u." />
+	<string id="153" value="指定的电子邮件地址无效。\r\n请输入有效的电子邮件地址。" />
+	<string id="154" value="您提供的许可证密钥无效。\r\n请输入有效的许可证密钥。" />
+	<string id="155" value="无法创建文件夹 %s.\r\n%s" />
+	<string id="156" value="无法找到指定的WEB API用户" />
+	<string id="158" value="支付网关错误" />
+	<string id="160" value="无法安装 %s\r\n%s\r\n是否重试一次？" />
+	<string id="165" value="无法下载文件 %s" />
+	<string id="166" value="无法写入文件 %s" />
+	<string id="167" value="初始化安装程序失败， 请检查您的Internet连接和(或)IE浏览器设置。\r\n%s" />
+	<string id="168" value="初始化安装程序失败， 请检查您的文件系统访问权限。\r\n%s" />
+	<string id="169" value="用户没有发票要求的抽象ID" />
+	<string id="170" value="无法为这些价格条款建立经常性项目" />
+	<string id="171" value="授权错误" />
+	<string id="172" value="您的操作系统不支持所选择的语言。" />
+	<string id="173" value="产品安装无法继续，因为您的操作系统不支持所选择的语言。" />
+	<string id="175" value="无法安装%s\r\n%s" />
+	<string id="183" value="安装%s" />
+	<string id="184" value="正在下载 %s……" />
+	<string id="190" value="想要继续, 你需要重启电脑.\r\n你想现在重新启动吗?" />
+	<string id="192" value="为了进行产品的安装您的计算机需要重新启动。重新启动后会自动继续安装。\r\n现在重启吗？" />
+	<string id="193" value="要继续安装您必须卸载旧的COMODO Firewall/Internet Security.\r\n由于这不能由%s完成, 请手动卸载旧的软件并重启%s." />
+	<string id="194" value="许可证密钥要求" />
+	<string id="195" value="许可证密钥只能包含字母'A'到'F'与数字" />
+	<string id="196" value="如何得到我的许可证密钥？" />
+	<string id="197" value="如果您是通过Internet购买的产品，您的许可证密钥会通过电子邮件发送到您购买时指定的电子邮箱中。 如果您有安装的DVD/CD， 请在DVD的背面查找许可密钥。" />
+	<string id="199" value="请不要修改或者删除这个文件， %s需要它以正确完成工作。\r\n这个文件将会在安装完成后被自动删除。" />
+	<string id="202" value="无效的指纹。" />
+	<string id="205" value="无效的XML请求。" />
+	<string id="206" value="无效的参数。" />
+	<string id="207" value="无效的许可证密钥。" />
+	<string id="208" value="未知区域" />
+	<string id="209" value="未知定价条款" />
+	<string id="210" value="错误的请求类型。" />
+	<string id="217" value="清单需求失败: 无法创建新清单。" />
+	<string id="220" value="发生未知的错误。" />
+	<string id="222" value="无效的模式。" />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="找不到初始化数据文件。" />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="正在取消， 请稍候..." />
+	<string id="235" value="请在继续前升级您的%s." />
+	<string id="236" value="当前安装状态无法保存，重启后将无法正确恢复安装。\r\n请重启您的计算机并手动启动COMODO安装程序。" />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="初始化安装失败，无效的存储数据格式。" />
+	<string id="239" value="为了进行产品的安装您的计算机需要重新启动，重新启动后会自动继续安装。请在完成安装前不要取出COMODO安装DVD.\r\n现在重启吗？" />
+	<string id="246" value="无法启动安装 - 安装包损坏。" />
+	<string id="250" value="需要关闭%s才能继续安装。请关闭%s并按'是'按钮重试。" />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="在激活保证前，请首先激活您的许可证密钥。" />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="来自CAM服务器的未知XML答复。" />
+	<string id="295" value="您输入的许可证密钥与您要安装的产品类型不匹配。" />
+	<string id="313" value="正在激活您的许可证号，请稍后..." />
+	<string id="346" value="重试" />
+	<string id="366" value="需要连接英特网。" />
+	<string id="367" value="为了获取您的许可证，安装程序需要连接到COMODO许可中心。" />
+	<string id="368" value="请确保您已经连接到英特网然后点击&quot;重试&quot; 按钮。" />
+	<string id="369" value="我们已经成功的激活了您的许可证并且对您的产品进行了升级。" />
+	<string id="374" value="我想对无法识别的程序开启“基于云的行为分析”，通过将他们提交到COMODO并遵守&lt;link&gt;隐私协议&lt;/link&gt;。" />
+	<string id="375" value="Beta" />
+	<string id="377" value="通过点击&quot;%s&quot;按钮， 您将同意安装以及&lt;/link&gt;下方的 &lt;link&gt;用户许可协议。：" />
+	<string id="383" value="无法激活许可证。\n%s" />
+	<string id="385" value="为了继续进行，您必须至少选择一个产品。" />
+	<string id="386" value="产品大小:  %s" />
+	<string id="387" value="总下载量:  %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="不兼容产品" />
+	<string id="32001" value="最小化窗口" />
+	<string id="32002" value="关闭窗口" />
+	<string id="32003" value="安装" />
+	<string id="32004" value="许可证管理" />
+	<string id="32005" value="是" />
+	<string id="32006" value="否" />
+	<string id="32007" value="重试" />
+	<string id="32008" value="确定" />
+	<string id="32009" value="取消" />
+	<string id="32010" value="中止" />
+	<string id="32011" value="忽略" />
+	<string id="32012" value="继续" />
+	<string id="32013" value="重试" />
+	<string id="32014" value="安装包" />
+	<string id="32015" value="后退" />
+	<string id="32016" value="打印" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="浏览" />
+	<string id="32019" value="下一步" />
+	<string id="32020" value="关闭" />
+	<string id="32021" value="了解更多" />
+	<string id="32022" value="完成" />
+	<string id="32023" value="跳过" />
+	<string id="32024" value="接受" />
+	<string id="32102" value="&lt;strong&gt;安装所需要的软件包&lt;/strong&gt;&lt;br /&gt;此功能需要安装额外的软件包。" />
+	<string id="32103" value="以下各项必须下载并安装:" />
+	<string id="32104" value="软件包名称" />
+	<string id="32105" value="许可协议" />
+	<string id="32106" value="大小" />
+	<string id="32107" value="点击&quot;同意并安装&quot;，您将同意上面列出的所有软件包的用户许可协议。" />
+	<string id="32108" value="同意并安装" />
+	<string id="32109" value="在安装产品时发生错误:" />
+	<string id="32110" value="重试" />
+	<string id="32111" value="准备安装..." />
+	<string id="32112" value="您已成功激活您的产品。" />
+	<string id="32113" value="继续" />
+	<string id="32114" value="您的许可证正在被激活，请稍后……" />
+	<string id="32115" value="激活产品时发生错误:" />
+	<string id="32116" value="重试" />
+	<string id="32117" value="&lt;strong&gt;激活许可证&lt;/strong&gt;&lt;br /&gt;输入您的许可证密钥来激活您的产品" />
+	<string id="32118" value="为了激活:" />
+	<string id="32119" value="确保您已经连接到英特网" />
+	<string id="32120" value="输入您的许可证密钥或者 &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;点此&lt;/a&gt;获取" />
+	<string id="32121" value="激活许可证并注册您的产品" />
+	<string id="32122" value="许可证密钥:" />
+	<string id="32123" value="激活" />
+	<string id="32124" value="&lt;strong&gt;注册产品&lt;/strong&gt;&lt;br /&gt;创建新的COMODO账户" />
+	<string id="32125" value="* 名字" />
+	<string id="32126" value="* 姓" />
+	<string id="32127" value="* 电子邮件地址" />
+	<string id="32128" value="国家" />
+	<string id="32129" value="城市" />
+	<string id="32130" value="省" />
+	<string id="32131" value="地址" />
+	<string id="32132" value="选择一个用户名密码并创建COMODO账户。 您可以通过以下网址使用您的账户来管理许可证 &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* 用户名" />
+	<string id="32134" value="* 密码" />
+	<string id="32135" value="*为必填" />
+	<string id="32136" value="注册" />
+	<string id="32137" value="阿富汗" />
+	<string id="32138" value="阿尔巴尼亚" />
+	<string id="32139" value="阿尔及利亚" />
+	<string id="32140" value="美属萨摩亚" />
+	<string id="32141" value="安道尔" />
+	<string id="32142" value="安哥拉" />
+	<string id="32143" value="安圭拉" />
+	<string id="32144" value="南极洲" />
+	<string id="32145" value="安提瓜和巴布达" />
+	<string id="32146" value="阿根廷" />
+	<string id="32147" value="亚美尼亚" />
+	<string id="32148" value="阿鲁巴" />
+	<string id="32149" value="澳大利亚" />
+	<string id="32150" value="奥地利" />
+	<string id="32151" value="阿塞拜疆" />
+	<string id="32152" value="巴哈马" />
+	<string id="32153" value="巴林" />
+	<string id="32154" value="孟加拉国" />
+	<string id="32155" value="巴巴多斯" />
+	<string id="32156" value="白俄罗斯" />
+	<string id="32157" value="比利时" />
+	<string id="32158" value="伯利兹" />
+	<string id="32159" value="贝宁" />
+	<string id="32160" value="百慕大" />
+	<string id="32161" value="不丹" />
+	<string id="32162" value="玻利维亚" />
+	<string id="32163" value="波斯尼亚和黑塞哥维那" />
+	<string id="32164" value="博茨瓦纳" />
+	<string id="32165" value="布维岛" />
+	<string id="32166" value="巴西" />
+	<string id="32167" value="英属印度洋领地" />
+	<string id="32168" value="文莱达鲁萨兰国" />
+	<string id="32169" value="保加利亚" />
+	<string id="32170" value="布基纳法索" />
+	<string id="32171" value="布隆迪" />
+	<string id="32172" value="柬埔寨" />
+	<string id="32173" value="喀麦隆" />
+	<string id="32174" value="加拿大" />
+	<string id="32175" value="佛得角" />
+	<string id="32176" value="开曼群岛" />
+	<string id="32177" value="中非共和国" />
+	<string id="32178" value="乍得" />
+	<string id="32179" value="智利" />
+	<string id="32180" value="中国" />
+	<string id="32181" value="圣诞岛" />
+	<string id="32182" value="科科斯（基林）群岛" />
+	<string id="32183" value="哥伦比亚" />
+	<string id="32184" value="科摩罗" />
+	<string id="32185" value="刚果共和国" />
+	<string id="32186" value="刚果民主共和国" />
+	<string id="32187" value="库克群岛" />
+	<string id="32188" value="哥斯达黎加" />
+	<string id="32189" value="科特迪瓦" />
+	<string id="32190" value="克罗地亚" />
+	<string id="32191" value="古巴" />
+	<string id="32192" value="塞浦路斯" />
+	<string id="32193" value="捷克共和国" />
+	<string id="32194" value="丹麦" />
+	<string id="32195" value="吉布提" />
+	<string id="32196" value="多米尼加" />
+	<string id="32197" value="多米尼加共和国" />
+	<string id="32198" value="东帝汶" />
+	<string id="32199" value="厄瓜多尔" />
+	<string id="32200" value="埃及" />
+	<string id="32201" value="厄瓜多尔" />
+	<string id="32202" value="赤道几内亚" />
+	<string id="32203" value="厄立特里亚" />
+	<string id="32204" value="爱沙尼亚" />
+	<string id="32205" value="埃塞俄比亚" />
+	<string id="32206" value="福克兰群岛（马尔维纳斯群岛）" />
+	<string id="32207" value="法罗群岛" />
+	<string id="32208" value="斐济" />
+	<string id="32209" value="芬兰" />
+	<string id="32210" value="法国" />
+	<string id="32211" value="法属圭亚那" />
+	<string id="32212" value="法属波利尼西亚" />
+	<string id="32213" value="法属南部领土" />
+	<string id="32214" value="加蓬" />
+	<string id="32215" value="冈比亚" />
+	<string id="32216" value="格鲁吉亚" />
+	<string id="32217" value="德国" />
+	<string id="32218" value="加纳" />
+	<string id="32219" value="直布罗陀" />
+	<string id="32220" value="希腊" />
+	<string id="32221" value="格陵兰" />
+	<string id="32222" value="格林纳达" />
+	<string id="32223" value="瓜德罗普岛" />
+	<string id="32224" value="关岛" />
+	<string id="32225" value="危地马拉" />
+	<string id="32226" value="几内亚" />
+	<string id="32227" value="几内亚比绍" />
+	<string id="32228" value="圭亚那" />
+	<string id="32229" value="海地" />
+	<string id="32230" value="赫德与麦克唐纳群岛" />
+	<string id="32231" value="罗马教廷（梵蒂冈城国）" />
+	<string id="32232" value="洪都拉斯" />
+	<string id="32233" value="香港" />
+	<string id="32234" value="匈牙利" />
+	<string id="32235" value="冰岛" />
+	<string id="32236" value="印度" />
+	<string id="32237" value="印度尼西亚" />
+	<string id="32238" value="伊朗" />
+	<string id="32239" value="伊拉克" />
+	<string id="32240" value="爱尔兰" />
+	<string id="32241" value="以色列" />
+	<string id="32242" value="意大利" />
+	<string id="32243" value="牙买加" />
+	<string id="32244" value="日本" />
+	<string id="32245" value="约旦" />
+	<string id="32246" value="哈萨克斯坦" />
+	<string id="32247" value="肯尼亚" />
+	<string id="32248" value="基里巴斯" />
+	<string id="32249" value="朝鲜民主人民共和国" />
+	<string id="32250" value="韩国" />
+	<string id="32251" value="科威特" />
+	<string id="32252" value="吉尔吉斯斯坦" />
+	<string id="32253" value="老挝人民民主共和国" />
+	<string id="32254" value="拉脱维亚" />
+	<string id="32255" value="黎巴嫩" />
+	<string id="32256" value="莱索托" />
+	<string id="32257" value="利比里亚" />
+	<string id="32258" value="利比亚" />
+	<string id="32259" value="列支敦士登" />
+	<string id="32260" value="立陶宛" />
+	<string id="32261" value="卢森堡" />
+	<string id="32262" value="澳门" />
+	<string id="32263" value="马其顿" />
+	<string id="32264" value="马达加斯加" />
+	<string id="32265" value="马拉维" />
+	<string id="32266" value="马来西亚" />
+	<string id="32267" value="马尔代夫" />
+	<string id="32268" value="马里" />
+	<string id="32269" value="马耳他" />
+	<string id="32270" value="马绍尔群岛" />
+	<string id="32271" value="马提尼克岛" />
+	<string id="32272" value="毛里塔尼亚" />
+	<string id="32273" value="毛里求斯" />
+	<string id="32274" value="马约特" />
+	<string id="32275" value="墨西哥" />
+	<string id="32276" value="密克罗尼西亚" />
+	<string id="32277" value="摩尔多瓦共和国" />
+	<string id="32278" value="摩纳哥" />
+	<string id="32279" value="蒙古" />
+	<string id="32280" value="蒙特塞拉特" />
+	<string id="32281" value="摩洛哥" />
+	<string id="32282" value="莫桑比克" />
+	<string id="32283" value="缅甸" />
+	<string id="32284" value="纳米比亚" />
+	<string id="32285" value="瑙鲁" />
+	<string id="32286" value="尼泊尔" />
+	<string id="32287" value="荷属安的列斯" />
+	<string id="32288" value="荷兰" />
+	<string id="32289" value="新喀里多尼亚" />
+	<string id="32290" value="新西兰" />
+	<string id="32291" value="尼加拉瓜" />
+	<string id="32292" value="尼日尔" />
+	<string id="32293" value="尼日利亚" />
+	<string id="32294" value="纽埃" />
+	<string id="32295" value="诺福克岛" />
+	<string id="32296" value="北马里亚纳群岛" />
+	<string id="32297" value="挪威" />
+	<string id="32298" value="阿曼" />
+	<string id="32299" value="巴基斯坦" />
+	<string id="32300" value="帕劳" />
+	<string id="32301" value="巴勒斯坦领土(被占领)" />
+	<string id="32302" value="巴拿马" />
+	<string id="32303" value="巴布亚新几内亚" />
+	<string id="32304" value="巴拉圭" />
+	<string id="32305" value="秘鲁" />
+	<string id="32306" value="菲律宾" />
+	<string id="32307" value="皮特凯恩" />
+	<string id="32308" value="波兰" />
+	<string id="32309" value="葡萄牙" />
+	<string id="32310" value="波多黎各" />
+	<string id="32311" value="卡塔尔" />
+	<string id="32312" value="留尼汪" />
+	<string id="32313" value="罗马尼亚" />
+	<string id="32314" value="俄罗斯" />
+	<string id="32315" value="卢旺达" />
+	<string id="32316" value="圣巴泰勒米" />
+	<string id="32317" value="圣赫勒拿" />
+	<string id="32318" value="圣基茨和尼维斯" />
+	<string id="32319" value="圣卢西亚" />
+	<string id="32320" value="圣马丁（法国部分）" />
+	<string id="32321" value="圣皮埃尔岛和密克隆" />
+	<string id="32322" value="圣文森特和格林纳丁斯" />
+	<string id="32323" value="萨摩亚" />
+	<string id="32324" value="圣马力诺" />
+	<string id="32325" value="圣多美和普林西比" />
+	<string id="32326" value="沙特阿拉伯" />
+	<string id="32327" value="塞内加尔" />
+	<string id="32328" value="塞舌尔群岛" />
+	<string id="32329" value="塞拉利昂" />
+	<string id="32330" value="新加坡" />
+	<string id="32331" value="斯洛伐克" />
+	<string id="32332" value="斯洛文尼亚" />
+	<string id="32333" value="所罗门群岛" />
+	<string id="32334" value="索马里" />
+	<string id="32335" value="南非" />
+	<string id="32336" value="南乔治亚岛和南桑威奇群岛" />
+	<string id="32337" value="西班牙" />
+	<string id="32338" value="斯里兰卡" />
+	<string id="32339" value="苏丹" />
+	<string id="32340" value="苏里南" />
+	<string id="32341" value="斯瓦尔巴特和扬马延" />
+	<string id="32342" value="斯威士兰" />
+	<string id="32343" value="瑞典" />
+	<string id="32344" value="瑞士" />
+	<string id="32345" value="叙利亚" />
+	<string id="32346" value="台湾地区" />
+	<string id="32347" value="塔吉克斯坦" />
+	<string id="32348" value="坦桑尼亚" />
+	<string id="32349" value="泰国" />
+	<string id="32350" value="多哥" />
+	<string id="32351" value="托克劳" />
+	<string id="32352" value="汤加" />
+	<string id="32353" value="特立尼达和多巴哥" />
+	<string id="32354" value="突尼斯" />
+	<string id="32355" value="土耳其" />
+	<string id="32356" value="土库曼斯坦" />
+	<string id="32357" value="特克斯和凯科斯群岛" />
+	<string id="32358" value="图瓦卢" />
+	<string id="32359" value="乌干达" />
+	<string id="32360" value="乌克兰" />
+	<string id="32361" value="阿拉伯联合酋长国" />
+	<string id="32362" value="英国" />
+	<string id="32363" value="美国" />
+	<string id="32364" value="美国边远小岛" />
+	<string id="32365" value="乌拉圭" />
+	<string id="32366" value="乌兹别克斯坦" />
+	<string id="32367" value="瓦努阿图" />
+	<string id="32368" value="委内瑞拉" />
+	<string id="32369" value="越南" />
+	<string id="32370" value="英属维尔京群岛" />
+	<string id="32371" value="美属维尔京群岛" />
+	<string id="32372" value="瓦利斯群岛和富图纳群岛" />
+	<string id="32373" value="西撒哈拉" />
+	<string id="32374" value="也门" />
+	<string id="32375" value="南斯拉夫" />
+	<string id="32376" value="赞比亚" />
+	<string id="32377" value="阿拉巴马州" />
+	<string id="32378" value="阿拉斯加州" />
+	<string id="32379" value="亚利桑那州" />
+	<string id="32380" value="阿肯色州" />
+	<string id="32381" value="加利福尼亚州" />
+	<string id="32382" value="科罗拉多州" />
+	<string id="32383" value="康涅狄格州" />
+	<string id="32384" value="特区" />
+	<string id="32385" value="特拉华州" />
+	<string id="32386" value="佛罗里达州" />
+	<string id="32387" value="格鲁吉亚" />
+	<string id="32388" value="夏威夷州" />
+	<string id="32389" value="爱达荷州" />
+	<string id="32390" value="伊利诺伊州" />
+	<string id="32391" value="印第安纳州" />
+	<string id="32392" value="艾奥瓦" />
+	<string id="32393" value="堪萨斯州" />
+	<string id="32394" value="肯塔基州" />
+	<string id="32395" value="路易斯安那州" />
+	<string id="32396" value="缅因州" />
+	<string id="32397" value="马里兰州" />
+	<string id="32398" value="马萨诸塞州" />
+	<string id="32399" value="密歇根州" />
+	<string id="32400" value="明尼苏达州" />
+	<string id="32401" value="密西西比州" />
+	<string id="32402" value="密苏里州" />
+	<string id="32403" value="蒙大拿州" />
+	<string id="32404" value="内布拉斯加州" />
+	<string id="32405" value="内华达州" />
+	<string id="32406" value="新罕布什尔州" />
+	<string id="32407" value="新泽西州" />
+	<string id="32408" value="新墨西哥州" />
+	<string id="32409" value="纽约州" />
+	<string id="32410" value="北卡罗来纳州" />
+	<string id="32411" value="北达科他州" />
+	<string id="32412" value="俄亥俄州" />
+	<string id="32413" value="俄克拉何马州" />
+	<string id="32414" value="俄勒冈州" />
+	<string id="32415" value="宾夕法尼亚州" />
+	<string id="32416" value="罗得岛州" />
+	<string id="32417" value="南卡罗来纳州" />
+	<string id="32418" value="南达科他州" />
+	<string id="32419" value="田纳西州" />
+	<string id="32420" value="德克萨斯州" />
+	<string id="32421" value="犹他州" />
+	<string id="32422" value="佛蒙特州" />
+	<string id="32423" value="弗吉尼亚州" />
+	<string id="32424" value="华盛顿" />
+	<string id="32425" value="西弗吉尼亚州" />
+	<string id="32426" value="威斯康星" />
+	<string id="32427" value="怀俄明州" />
+	<string id="32428" value="亚伯达" />
+	<string id="32429" value="不列颠哥伦比亚" />
+	<string id="32430" value="曼尼托巴" />
+	<string id="32431" value="新伯伦瑞克省" />
+	<string id="32432" value="纽芬兰" />
+	<string id="32433" value="新斯科细亚省" />
+	<string id="32434" value="西北地区" />
+	<string id="32435" value="努勒维特" />
+	<string id="32436" value="安大略" />
+	<string id="32437" value="爱德华王子岛" />
+	<string id="32438" value="魁北克" />
+	<string id="32439" value="萨斯喀彻温" />
+	<string id="32440" value="育空" />
+	<string id="32441" value="选择语言" />
+	<string id="32442" value="向我发送 COMODO 新闻、 优惠和折扣到以下电子邮件地址:" />
+	<string id="32443" value="通过将我的DNS设置成 COMODO 安全DNS服务器，使我在网络上更加安全（更快地解析网页，提高在线安全性）。" />
+	<string id="32444" value="对于不受信任的文件开启基于云的行为分析(&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;隐私协议&lt;/a&gt;)" />
+	<string id="32445" value="我想把我的主页和搜索引擎设置为Yahoo!， 以便更好的帮助COMODO (应用于所有受支持的浏览器)" />
+	<string id="32446" value="通过点击&quot;同意并安装&quot;按钮,您将同意安装以及下方的用户许可协议:" />
+	<string id="32447" value="自定义安装" />
+	<string id="32449" value="请阅读用户许可协议:" />
+	<string id="32450" value="安装选项" />
+	<string id="32451" value="配置选项" />
+	<string id="32452" value="文件位置" />
+	<string id="32453" value="产品大小:" />
+	<string id="32454" value="总下载量:" />
+	<string id="32455" value="要求安全决策的警报尽量不弹" />
+	<string id="32456" value="此项安全配置将设置防火墙，高级保护，Containment以及反病毒，它将尽可能多的对弹出警告进行自动回答。" />
+	<string id="32457" value="选择安装路径:" />
+	<string id="32458" value="本软件是&lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;的BETA版本" />
+	<string id="32459" value="为参与BETA测试的特殊用户准备。" />
+	<string id="32460" value="可能含有会导致严重问题的缺陷。" />
+	<string id="32461" value="请不要在您的工作机上安装。" />
+	<string id="32462" value="您确定继续吗？" />
+	<string id="32463" value="通过点击&quot;同意并且升级&quot;按钮，您将同意安装以及下方的用户许可协议:" />
+	<string id="32464" value="等待并继续(%u)" />
+	<string id="32465" value="系统繁忙，正在安装另一程序。\n\n请等待其安装完成，并点击“重试”按钮来继续您的安装。\n您也可以点击“取消”按钮来退出您的安装。\n如果您点击“等待并继续”，之前的程序安装完成后，您的安装程序将会自动开始。" />
+	<string id="32466" value="复制许可证密钥" />
+	<string id="32467" value="粘贴许可证密钥" />
+	<string id="32468" value="清除所有字段" />
+	<string id="32470" value="我想要安装Yandex Elements。" />
+	<string id="32471" value="设置我的主页为Yandex（应用于所有受支持的浏览器）。" />
+	<string id="32472" value="设置我的搜索引擎为Yandex（应用于所有受支持的浏览器）。" />
+	<string id="32772" value="请稍等，您的证书正在被激活……" />
+	<string id="32775" value="祝贺您！" />
+	<string id="32776" value="您已经成功完成了安装。" />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;通过认证的技术人员&lt;/strong&gt; 现在可以&lt;br /&gt;&lt;strong&gt;帮助您配置软件，&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;（免费）&lt;/strong&gt;" />
+	<string id="32778" value="限时免费服务" />
+	<string id="32779" value="请拨打" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;许可证协议&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;许可证协议&lt;/a&gt;" />
+	<string id="32786" value="用户名必须至少%d个字符" />
+	<string id="32787" value="密码必须至少%d个字符" />
+	<string id="32788" value="用户名和密码不可以相同" />
+	<string id="32791" value="发送匿名程序的使用状态（如：崩溃、错误、点击等）到COMODO，以提高产品的质量。" />
+	<string id="32793" value="请在下方输入IT and Security Manager服务器的详细信息：" />
+	<string id="32794" value="IT and Security Manager服务器：" />
+	<string id="32795" value="IT and Security Manager服务器端口：" />
+	<string id="32796" value="&lt;strong&gt;激活%s&lt;/strong&gt;" />
+	<string id="32797" value="使用许可证密钥激活" />
+	<string id="32798" value="选择要激活的组件:" />
+	<string id="32799" value="CCS中的Containment和反病毒" />
+	<string id="32800" value="CCS中的Containment和防火墙" />
+	<string id="32801" value="CCS中的Containment" />
+	<string id="32802" value="CCS套装(Containment，反病毒和防火墙)" />
+	<string id="32803" value="通过IT and Security Manager服务器激活" />
+	<string id="32804" value="选择这个选项，如果你拥有一个有效的许可证密钥,并且想要使用它" />
+	<string id="32805" value="选择这个选项，如果你正在使用IT and Security Manager门户来管理此终端" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;许可证协议&lt;/a&gt;并&lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;隐私协议&lt;/a&gt;" />
+	<string id="32807" value="用户名" />
+	<string id="32808" value="密码" />
+	<string id="32809" value="&lt;strong&gt;注册产品&lt;/strong&gt;&lt;br /&gt;使用COMODO账户来激活您的证书密钥" />
+	<string id="32810" value="我没有COMODO账户" />
+	<string id="32811" value="我已有COMODO账户" />
+	<string id="32812" value="我想要安装Yandex Browser Manager来持续保护我的浏览器设置。" />
+	<string id="32813" value="Yandex Browser Manager&lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;许可证协议&lt;/a&gt;" />
+	<string id="34028" value="复制" />
+	<string id="34029" value="全部选择" />
+	<string id="34410" value="撤销" />
+	<string id="34411" value="剪切" />
+	<string id="34412" value="粘贴" />
+	<string id="34413" value="在从磁盘安装前，检查所选程序在COMODO服务器上的新版本。" />
+	<string id="34414" value="正在检查新版本……" />
+	<string id="34415" value="跳过此步骤" />
+	<string id="34416" value="存在新版本" />
+	<string id="34417" value="下载并安装更新程序版本替换磁盘上的版本：" />
+	<string id="34418" value="版本" />
+	<string id="34419" value="需要COMODO账户，来继续激活程序，如果您已经有一个帐户，不需要创建一个新的。" />
+	<string id="34420" value="如果您没有COMODO帐户，请选择此项。该向导将帮助您创建一个新的帐户。" />
+	<string id="34421" value="在下面输入您的凭据以便使用您已有的COMODO账户。" />
+	<string id="34422" value="升级错误\n\n CIS 5.xx版的用户只能通过中间版本CIS v.7.0，升级到CIS v.8.0。请先升级到7.0版本，然后继续升级到v.8.0版本。" />
+	<string id="34423" value="将 Chromodo 设置为默认浏览器。" />
+	<string id="34424" value="用 Chromodo 的快捷方式替换桌面和开始菜单已存在的 Google Chrome 快捷方式。" />
+	<string id="34425" value="将谷歌Chrome浏览器设置 (历史记录, 书签, 缓存等.)导入Chromodo浏览器." />
+	<string id="34426" value="输入您的许可证密钥" />
+	<string id="34427" value="下载成功" />
+	<string id="34428" value="同意并继续" />
+	<string id="34429" value="如果你愿意，你将断开网络离线安装此安装包。" />
+	<string id="34430" value="通过点击&quot;同意并继续&quot;按钮,您将同意安装以及下方的用户许可协议:" />
+	<string id="34431" value="反病毒, 防火墙和反恶意软件保护" />
+	<string id="34432" value="防范未经授权的访问" />
+	<string id="34433" value="防范病毒和恶意软件" />
+	<string id="34434" value="在任何时间即时获得我们技术人员的帮助" />
+	<string id="34435" value="快速并安全的互联网冲浪" />
+	<string id="34436" value="数据丢失保护" />
+	<string id="34437" value="Chromodo附带以下提高网络安全性的扩展程序:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo&lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;许可证协议&lt;/a&gt;" />
+	<string id="34441" value="一个易使用，一体化的在线备份解决方案" />
+	<string id="34442" value="用&lt;strong&gt;GeekBuddy&lt;/strong&gt;和&lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="用&lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="用&lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo 浏览器是一种快速并且通用的互联网浏览器，它是基于谷歌浏览器技术并且自带了COMODO高级安全防护." />
+	<string id="34446" value="您必须在IE安全设置里启用TLS协议." />
+	<string id="34447" value="要启用TLS协议:\n1. 在internet Explorer中, 转到工具 -&gt; Internet 选项.\n2. 选择高级选项卡.\n3. 向下滚动到安全部分.\n4. 选中复选框 &quot;使用 TLS 1.xx&quot;\n5. 请按确定按钮." />
+	<string id="34448" value="%s不能安装因为这台电脑上已经安装了COMODO Cloud AV .\n\n请您在安装%s 前先卸载CCAV." />
+	<string id="34449" value="用&lt;strong&gt;GeekBuddy&lt;/strong&gt;和&lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="用&lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="在安全、隔离的环境中运行未知的应用程序" />
+	<string id="34452" value="安全地连接重要并且敏感的网站" />
+	<string id="34453" value="欢迎!" />
+	<string id="34454" value="您将要安装%s %s到安全环境并保护您的所有设备" />
+	<string id="34455" value="通过点击 &quot;%s&quot;, 您同意您已经阅读并且接受 %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;许可协议&lt;/a&gt;并&lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;隐私协议&lt;/a&gt;" />
+	<string id="34456" value="我同意" />
+	<string id="34457" value="包含Chromodo浏览器和GeekBuddy" />
+	<string id="34458" value="包含Dragon浏览器,安全购物和GeekBuddy" />
+	<string id="34459" value="包含Chromodo浏览器" />
+	<string id="34460" value="包含Dragon浏览器" />
+	<string id="34461" value="包含GeekBuddy" />
+	<string id="34462" value="安装Yandex Elements (浏览器扩展组件)" />
+	<string id="34463" value="将我的主页设置为Yandex*" />
+	<string id="34464" value="将我的搜索引擎设置为Yandex*" />
+	<string id="34465" value="将我的浏览器的新标签设置为Yandex*" />
+	<string id="34466" value="* 应用到所有支持的浏览器" />
+	<string id="34467" value="通过点击 &quot;%s&quot;, 您同意您已经阅读并且接受" />
+	<string id="34470" value="安装免费版本" />
+	<string id="34471" value="安装专业版" />
+	<string id="34472" value="尝试30天试用的专业版" />
+	<string id="34473" value="尝试30天试用的完整版" />
+	<string id="34474" value="尝试30天试用的专业版.&lt;br /&gt;您将被要求重新回到免费版本" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="尝试30天试用的完整版.&lt;br /&gt;您将被要求重新回到免费版本" />
+	<string id="34477" value="反病毒" />
+	<string id="34478" value="防火墙" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="安全购物" />
+	<string id="34483" value="24/7在线支持" />
+	<string id="34484" value="COMODO备份" />
+	<string id="34485" value="信任的连接" />
+	<string id="34486" value="安装目录" />
+	<string id="34487" value="将我的DNS改为COMODO安全DNS(改良在线安全, 更快的解析web页面). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;这是什么？&lt;/a&gt;" />
+	<string id="34488" value="开启 &quot;基于云的行为分析&quot; 不信任的文件 (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;隐私协议&lt;/a&gt;)" />
+	<string id="34489" value="发送匿名程序的使用状态（如：崩溃、错误、点击等）到COMODO，以提高产品的质量。" />
+	<string id="34490" value="自定义" />
+	<string id="34491" value="总大小:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="文件评级" />
+	<string id="34494" value="网站过滤" />
+	<string id="34495" value="安全购物" />
+	<string id="34496" value="COMODO手机安全" />
+	<string id="34497" value="COMODO备份" />
+	<string id="34499" value="信任的连接" />
+	<string id="34500" value="Geekbuddy 24/7 在线支持" />
+	<string id="34501" value="保持安全. 在控制之中.&lt;br /&gt;将未知的应用程序运行在安全隔离的环境里." />
+	<string id="34502" value="信任的还是恶意文件?&lt;br /&gt;检查任何文件在我们全球数据库中的声誉." />
+	<string id="34503" value="保护您和您的孩子免受恶意软件或者不良网站的侵害" />
+	<string id="34504" value="保护您的数据和金钱.&lt;br /&gt;确保没有人拦截您的在线敏感信息" />
+	<string id="34505" value="免费获得杀毒软件来保护您的Android系统" />
+	<string id="34506" value="不会丢失数据.&lt;br /&gt;您的所有数据都是被加密的并且保存在云端." />
+	<string id="34507" value="使用公共无线网络?&lt;br /&gt;现在它是安全的." />
+	<string id="34508" value="您需要帮助吗?&lt;br /&gt;联系我们的专家24/7" />
+	<string id="34509" value="免费安装" />
+	<string id="34510" value="祝贺你!" />
+	<string id="34511" value="您已经成功地完成了安装." />
+	<string id="34512" value="发送给我COMODO新闻, 特价和折扣信息发送到下面的电子邮件地址:" />
+	<string id="34513" value="从终端和网络检测，阻止并且消除病毒. 用实时访问扫描不断地保护并自动更新病毒库." />
+	<string id="34514" value="获奖的防火墙. 自动使计算机对攻击者不可见. 筛选他人与您的计算机的通信." />
+	<string id="34515" value="为运行未知的，不信任和可疑的应用程序提供一个隔离的操作环境. 更好的检测未知来源软件. 启用自动Containment功能允许按照预设和自定义的策略隔离应用程序." />
+	<string id="34516" value="基于主机的入侵防御系统（HIPS）是一个主动防御的技术，能够分析程序运行状态并阻止任何可疑的活动. HIPS自动保护系统的关键文件，文件夹和注册表，以防止被恶意程序进行未经授权的修改." />
+	<string id="34517" value="监视并且保存在计算机上运行的进程的活动记录，并提供了能够矫正潜在的不良行为，而不必完全拦截软件." />
+	<string id="34518" value="通过允许您在一个极其安全的虚拟环境中连接到互联网，为网上银行和购物提供了高度的安全性. 从一个专门的，安全的环境中连接到敏感的网站.按键记录器保护功能防止黑客记录你的键盘输入。内置防病毒模块扫除在线病毒，蠕虫和木马。远程接管保护将阻止黑客截屏。进程隔离帮您在其他进程中隐藏敏感的个人数据.SSL检查阻止入侵者窃听你的连接。" />
+	<string id="34519" value="在线，您的电脑问题获得无限的远程支持.只需点击桌面图标与你的电脑玩家聊天，便可以修复您眼前的问题并帮助pc机与windows设置优化、邮件和打印机安装，安装任何软件和更多..." />
+	<string id="34520" value="一个易使用，一体化的在线备份解决方案.不论是备份和恢复单一文件还是整个系统.以最新的加密技术存储数据.保护您的系统与通过SSL加密的云安全之间的所有通信." />
+	<string id="34521" value="保护您的计算机和其他计算机之间的无线和有线通信.使在公共场所上网冲浪安全，如咖啡店、酒店、机场等. 在您联机会话过程中提供完全加密的通信，让您和您的隐私信息保证安全，以防落入犯罪分子手中." />
+	<string id="34522" value="将我的主页, 搜索引擎和浏览器的新标签设置为Yandex*" />
+	<string id="34524" value="权限" />
+	<string id="34525" value="组件" />
+	<string id="34526" value="安装Yandex Browser Manager" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;许可协议&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;许可协议&lt;/a&gt;" />
+	<string id="34529" value="通过设置Yahoo!为我的主页，新标签页和默认搜索引擎提升我的网页浏览体验。(所有支持的浏览器)" />
+	<string id="34530" value="通过安装这个应用程序, 您同意您已经阅读并且接受 %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;许可协议&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;许可协议&lt;/a&gt;" />
+	<string id="34531" value="如果您没有许可证密钥，您可以获取一个" />
+	<string id="34532" value="获取许可证密钥" />
+	<string id="34533" value="激活许可证" />
+	<string id="34534" value="拨打 &lt;strong&gt;+1888-258-7142&lt;/strong&gt; 认证的技术人员为您修复此问题" />
+	<string id="34535" value="&lt;strong&gt;注册产品&lt;/strong&gt;&lt;span&gt;使用COMODO账户激活您的产品&lt;/span&gt;" />
+	<string id="34536" value="指定的电子邮件地址无效" />
+	<string id="34537" value="密码不符" />
+	<string id="34538" value="请选择国家" />
+	<string id="34539" value="&lt;strong&gt;激活许可证&lt;/strong&gt;&lt;span&gt;输入许可证密钥激活您的产品&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;注册产品&lt;/strong&gt;&lt;span&gt;使用COMODO账户激活您的产品&lt;/span&gt;" />
+	<string id="34541" value="为了继续激活需要一个COMODO账户." />
+	<string id="34542" value="创建新账户" />
+	<string id="34543" value="* 重新输入密码" />
+	<string id="34544" value="电子邮件" />
+	<string id="34545" value="密码" />
+	<string id="34546" value="忘记密码" />
+	<string id="34547" value="登录" />
+	<string id="34548" value="激活产品时出错" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;在internet Explorer中, 转到工具 -&gt; Internet 选项&lt;/li&gt;&lt;li&gt;选择高级选项卡&lt;/li&gt;&lt;li&gt;向下滚动到安全部分&lt;/li&gt;&lt;li&gt;选中复选框 &quot;使用 TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;请按确定按钮&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="请检查您的网络连接" />
+	<string id="34551" value="正在激活..." />
+	<string id="34552" value="找不到CIS诊断应用程序。" />
+	<string id="34553" value="不能启动CIS诊断。 错误码: %u" />
+	<string id="34554" value="正在卸载%s..." />
+	<string id="34555" value="更改%s..." />
+	<string id="34556" value="您确定要取消卸载？" />
+	<string id="34557" value="不能更改 %s" />
+	<string id="34558" value="不能卸载 %s" />
+	<string id="34560" value="修复" />
+	<string id="34561" value="更改" />
+	<string id="34562" value="卸载" />
+	<string id="34563" value="修复了可能会导致系统变慢或者崩溃的问题。" />
+	<string id="34564" value="检查安装的程序功能。" />
+	<string id="34565" value="卸载 &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="产品选择" />
+	<string id="34567" value="%s为您的电脑带来了多个重要安全解决方案的集合。 请选择您想要安装的产品或者取消选择您想要卸载的产品才能继续。" />
+	<string id="34568" value="安装 COMODO Firewall (推荐)" />
+	<string id="34569" value="选择这个选项在您的电脑上安装COMODO Firewall。如果您已经安装了其他防火墙软件，您需要卸载它才能继续安装。" />
+	<string id="34570" value="安装 COMODO Antivirus (推荐)" />
+	<string id="34571" value="选择这个选项在您的电脑上安装COMODO Antivirus。如果您已经安装了其他防病毒软件，您需要卸载它才能继续安装。" />
+	<string id="34572" value="好了" />
+	<string id="34573" value="您已经更改了%s." />
+	<string id="34574" value="准备卸载..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="处于不保护状态是错误的。" />
+	<string id="34577" value="您想要尝试我们基于云计算，轻量级并且功能强大的防病毒软件吗？" />
+	<string id="34578" value="下载安装COMODO Cloud Antivirus" />
+	<string id="34579" value="卸载过程完成后，将安装COMODO Cloud Antivirus。为了完成卸载过程您需要重启电脑。" />
+	<string id="34580" value="您决定卸载COMODO的主要原因是什么? &lt;b&gt;(选择它应用)&lt;/b&gt;" />
+	<string id="34581" value="COMODO占用了我太多的电脑资源" />
+	<string id="34582" value="我收到了太多的警报" />
+	<string id="34583" value="COMODO拦截了我想要运行的程序" />
+	<string id="34584" value="不满意整个产品" />
+	<string id="34585" value="我发现了我更喜欢的另外一个程序" />
+	<string id="34586" value="其它 (请详细说明)" />
+	<string id="34587" value="您已经删除 %s." />
+	<string id="34588" value="但是, 或许我们仍然有一些产品可以提供给您。 请查阅 &lt;a href='#' id='id_products'&gt;我们的产品&lt;/a&gt; 或者如果您有任何问题请联系我们的管理员。" />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="请选择您想用%s做什么" />
+	<string id="34591" value="我希望重新安装它" />
+	<string id="34592" value="它将被删除 &lt;b&gt;%s&lt;/b&gt; 从您的系统里，所以您可以重新安装或者替换它用一个不同的版本。" />
+	<string id="34593" value="我希望永久删除它" />
+	<string id="34594" value="它将被永久删除 &lt;b&gt;%s&lt;/b&gt; 从您的系统里，但是您以后可以再次安装它。" />
+	<string id="34595" value="准备更改..." />
+	<string id="34596" value="准备下载..." />
+	<string id="34597" value="更改COMODO Internet Security时发生错误" />
+	<string id="34598" value="卸载COMODO Internet Security时发生错误" />
+	<string id="34599" value="添加，删除或者修复组件" />
+	<string id="34600" value="删除或者修复组件" />
+	<string id="34601" value="卸载冲突的软件: %s" />
+	<string id="34602" value="我们建议保持COMODO互联网安全套装最新以保护您的计算机免受危险" />
+	<string id="34603" value="COMODO互联网安全套装使用一种强大的病毒监控组合，启用自动Containment和行为分析技术能够立即保护您的计算机远离各种已知和未知的恶意软件。" />
+	<string id="34604" value="另外一个安装进程正在运行中。请等待它安装完成。" />
+	<string id="34605" value="另外一个激活进程正在运行中。请等待它激活完成。" />
+	<string id="34606" value="现在可以防御中间人攻击！" />
+	<string id="34607" value="您刚刚卸载的产品安装包内包含防止中间人攻击的Comodo 网络安全软件(ISE)，ISE需要单独卸载。如果您想移除它，点击 &lt;a href='#' id='id_ise_how_to_remove'&gt;这里&lt;/a&gt; 学习如何使用。" />
+	<string id="34608" value="将 Comodo Dragon 设置为默认浏览器。" />
+	<string id="34609" value="将谷歌Chrome浏览器设置 (历史记录, 书签, 缓存等.)导入Comodo Dragon浏览器." />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

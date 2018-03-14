@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Română - By COMODO" LANGID="1048" RTL="0">
+	<string id="106" value="Pachetul este corupt.\r\nInstalarea a fost anulată." />
+	<string id="107" value="Această instalare nu este suportată de platforma țintă." />
+	<string id="108" value="Actualizare COMODO" />
+	<string id="109" value="%s Instalator" />
+	<string id="110" value="Actualizare %s..." />
+	<string id="111" value="Nu se pot salva informațiile licenței.\r\n%s" />
+	<string id="112" value="Această opțiune va modifica setările DNS primare și secundare ale calculatorului cu 8.26.56.26 și respectiv 156.154.70.22. După aceasta, toate aplicațiile vor folosi serverele DNS care sunt mai rapide și mai sigure în timpul de accesării internetului." />
+	<string id="113" value="Ați atins numărul maxim de instalări permis de licența dumneavoastră." />
+	<string id="114" value="Managementul de licență COMODO" />
+	<string id="115" value="Data și timpul computerul nu sunt setate corect. Vă rugăm să corectați și încercați din nou." />
+	<string id="116" value="Cheia de licență introdusă a expirat" />
+	<string id="117" value="Eroare: %u. %s" />
+	<string id="118" value="Imposibil de inițializat instalarea. Formatul timpului este invalid." />
+	<string id="119" value="O nouă versiune a programului de instalare este disponibilă.\r\nProgramul de instalare urmează să se actualizeze.\r\nDoriți să continuați?" />
+	<string id="120" value="Intervalul recurent dat nu este suportat." />
+	<string id="121" value="Eșuare la inițializarea imprimării." />
+	<string id="122" value="Activarea produsului a fost revocată. Contactați administratorul de sistem." />
+	<string id="123" value="Instalare %s..." />
+	<string id="124" value="Instalare COMODO" />
+	<string id="125" value="De acord și instalați" />
+	<string id="126" value="De acord și actualizați" />
+	<string id="127" value="Sunteți siguri ca doriți sa opriți instalarea?" />
+	<string id="128" value="Aveți nevoie de permisiuni pentru a continua instalarea." />
+	<string id="129" value="Vezi Acord de licență" />
+	<string id="130" value="Instalatorul COMODO nu poate fi repornit.\r\n%s\r\nVă rugăm să îl porniți manual." />
+	<string id="131" value="Instalare personalizată" />
+	<string id="132" value="Actualizare personalizată" />
+	<string id="133" value="Trebuie să reporniți sistemul pentru ca modificările de configurare să intre în vigoare.\nApasați 'Da' pentru a restarta calculatorul acum sau 'Nu' dacă plănuiți sa restartați calculatorul mai târziu." />
+	<string id="134" value="Vă rugăm așteptați..." />
+	<string id="135" value="Această acțiune este anulată" />
+	<string id="136" value="COMODO Antivirus pentru Servere" />
+	<string id="137" value="CCS instalat pe calculator nu poate fi gestionat de către serverul specificat. Asigurați-vă că introduceți corect detaliile server-ului IT and Security Manager sau consultați administratorul de rețea pentru asistență." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Eroare %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Numele sau parola introduse sunt greșite" />
+	<string id="144" value="Sistemul nu a putut fi restartat.\r\n%s\r\nVă rugăm restartați calculatorul manual." />
+	<string id="145" value="Eroare %d: %s" />
+	<string id="148" value="Codul de stare HTTP: %u." />
+	<string id="153" value="Adresa de e-mail specificată este invalidă.\r\nVă rugăm introduceți o adresă de e-mail validă." />
+	<string id="154" value="Cheia de licență furnizată este invalidă.\r\n.Vă rugăm introduceți o cheie de licența validă" />
+	<string id="155" value="Directorul nu poate fi creat %s.\r\n%s" />
+	<string id="156" value="Nu se poate găsi utilizatorul WEB API cu autentificarea specificată." />
+	<string id="158" value="Eroare portal plată" />
+	<string id="160" value="Nu se poate instala %s\r\n%s\r\nDoriți să încercați din nou?" />
+	<string id="165" value="Nu se poate descărca %s" />
+	<string id="166" value="Nu se poate scrie %s" />
+	<string id="167" value="Eșec la inițializarea instalării. Vă rugăm să verificați conexiunea la Internet și / sau setările de conectare din Internet Explorer.\r\n%s" />
+	<string id="168" value="Eșec la inițializarea instalării. Vă rugăm verificați-vă drepturile de acces la fișierele de sistem.\r\n%s" />
+	<string id="169" value="Utilizatorul nu deține identitate abstractă pentru a putea solicita factura." />
+	<string id="170" value="Nu se poate crea element recurent pentru acești termeni de stabilire a prețurilor" />
+	<string id="171" value="Eroare de autorizare" />
+	<string id="172" value="Limba selectată nu este acceptată de sistemul de operare." />
+	<string id="173" value="Instalarea produsului nu poate continua, pentru că limba selectată nu este acceptată de sistemul de operare." />
+	<string id="175" value="Nu se poate instala %s\r\n%s" />
+	<string id="183" value="Instalează %s" />
+	<string id="184" value="Descărcare %s..." />
+	<string id="190" value="Trebuie să reporniți calculatorul pentru ca instalare să poată continua.\r\nReporniți acum?" />
+	<string id="192" value="Pentru a continua cu instalarea produselor calculatorul dumneavoastră trebuie să fie repornit. După repornirea instalarea va continua în mod automat.\r\nReporniți acum?" />
+	<string id="193" value="Pentru a continua cu instalarea trebuie să dezinstalați versiunile mai vechi ale COMODO Firewall/Internet Security.\r\nDeoarece nu se poate face prin %s, dezinstalați aplicațiile vechi manual și apoi reporniți calculatorul %s." />
+	<string id="194" value="Cerințe ale cheii de licență" />
+	<string id="195" value="Cheia de licență poate conține doar litere de la 'A' la 'F' și cifre" />
+	<string id="196" value="Unde se afla cheia mea de licența?" />
+	<string id="197" value="Dacă ați achiziționat produsul prin Internet, cheia de licență ar trebui să fie trimisă la adresa de e-mail pe care ați specificato în timpul tranzacției. Dacă aveți un DVD / CD de instalare, vă rugăm să consultați partea din spate a DVD / CD pentru cheia de licență." />
+	<string id="199" value="Vă rugăm nu modificați sau ștergeți acest fișier. %s are nevoie pentru a termina activitatea în mod corect.\r\nAcest fișier va fi eliminat automat la finalizarea instalării." />
+	<string id="202" value="Amprentă digitală invalidă" />
+	<string id="205" value="Cerere XML invalidă" />
+	<string id="206" value="Parametrii invalizi" />
+	<string id="207" value="Cheie de licența invalidă" />
+	<string id="208" value="Zonă necunoscută" />
+	<string id="209" value="Termeni necunoscuți de stabilire a prețurilor" />
+	<string id="210" value="Tipul de cerere este incorect" />
+	<string id="217" value="Cerere de facturare eșuată: Nu s-a putut crea o noua factură" />
+	<string id="220" value="A apărut o eroare necunoscută" />
+	<string id="222" value="Mod invalid." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Nu se poate găsi fișierul de date de inițializare." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Revocarea. Vă rugăm așteptați..." />
+	<string id="235" value="Vă rugăm să actualizați %s înainte de a continua." />
+	<string id="236" value="Prezenta stare a instalării nu poate fi salvată pentru a putea fi reluată în mod corespunzător după repornire.\r\nVă rugăm reporniți calculatorul si lansați manual instalerul COMODO." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Imposibil de inițializat de instalare. Formatul de date stocate este invalid." />
+	<string id="239" value="Pentru a continua cu instalarea produselor, computerul dvs. trebuie să fie repornit. Instalarea va continua în mod automat după repornire. Vă rugăm să nu scoateți DVD-ul cu aplicația COMODO până se încheie instalarea\r\nReporniți acum?" />
+	<string id="246" value="Nu se poate lansa configuratorul de instalare - Pachetul este corupt." />
+	<string id="250" value="Pentru ca instalarea să poată continua %s trebuiesc închise. Vă rugăm închideți %s și apăsați butonul 'Da' pentru a reîncerca." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Înainte de activarea garanției, vă rugăm activați cheia de licență întâi." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Răspuns XML necunoscut de la server-ul CAM" />
+	<string id="295" value="Cheia de licență pe care ați introdus nu se potrivește cu tipul de produs pe care încercați să-l instalați" />
+	<string id="313" value="Activarea licenței, vă rugăm așteptați..." />
+	<string id="346" value="Reîncercați" />
+	<string id="366" value="Este necesară o conexiune la Internet." />
+	<string id="367" value="Pentru a obține licența, programul de instalare trebuie să se conecteze la centrul de licență COMODO." />
+	<string id="368" value="Asigurați-vă că sunteți conectat la Internet și apăsați &quot;Încercați din nou&quot; button." />
+	<string id="369" value="Am activat cu succes licența și actualizat produsul." />
+	<string id="374" value="Doresc să activez “Analiza comportamentala bazata pe cloud” a programelor necunoscute prin a le prezenta către COMODO cu privire la &lt;link&gt;Politica de Confidențialitate.&lt;/link&gt;" />
+	<string id="375" value="Beta" />
+	<string id="377" value="Prin apăsarea butonului &quot;%s&quot;, ești de acord cu instalarea produsului și acceptați termenii și condițiile ale &lt;link&gt;Acordului de utilizare a licenței&lt;/link&gt;:" />
+	<string id="383" value="Nu se poate activa licența dumneavoastră.\n%s" />
+	<string id="385" value="Pentru a continua, trebuie să selectați cel puțin un produs." />
+	<string id="386" value="Mărimea produsului:   %s" />
+	<string id="387" value="Mărimea totală de descărcare:   %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus pentru servere" />
+	<string id="429" value="Produse incompatibile" />
+	<string id="32001" value="Minimizează fereastra" />
+	<string id="32002" value="Închide fereastra" />
+	<string id="32003" value="Instalare" />
+	<string id="32004" value="Administrarea licenței" />
+	<string id="32005" value="Da" />
+	<string id="32006" value="Nu" />
+	<string id="32007" value="Reîncercați" />
+	<string id="32008" value="Bine" />
+	<string id="32009" value="Anulare" />
+	<string id="32010" value="Anulare" />
+	<string id="32011" value="Ignorare" />
+	<string id="32012" value="Continuați" />
+	<string id="32013" value="Încercați din nou" />
+	<string id="32014" value="Instalator" />
+	<string id="32015" value="Înapoi" />
+	<string id="32016" value="Imprimare" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Căutați" />
+	<string id="32019" value="Următorul" />
+	<string id="32020" value="Închideți" />
+	<string id="32021" value="Aflați mai multe" />
+	<string id="32022" value="Terminat" />
+	<string id="32023" value="Sări peste" />
+	<string id="32024" value="Acceptă" />
+	<string id="32102" value="&lt;strong&gt;Instalați pachetele necesare&lt;/strong&gt;&lt;br /&gt;Această caracteristică necesită instalarea de pachete suplimentare." />
+	<string id="32103" value="Următoarele trebuie descărcate și instalate:" />
+	<string id="32104" value="Numele pachetului" />
+	<string id="32105" value="Acord de Licență" />
+	<string id="32106" value="Mărime" />
+	<string id="32107" value="Apăsând &quot;De acord și instalați&quot;, Sunteți de acord cu acordurilor de licență de utilizare pentru toate pachetele enumerate mai sus." />
+	<string id="32108" value="De acord și instalați" />
+	<string id="32109" value="A apărut o eroare în timpul instalării produsului:" />
+	<string id="32110" value="Încercați din nou" />
+	<string id="32111" value="Pregătirea instalării..." />
+	<string id="32112" value="Ați activat cu succes produsul." />
+	<string id="32113" value="Continuați" />
+	<string id="32114" value="Vă rugăm să așteptați cat timp licența dvs. este activata..." />
+	<string id="32115" value="A apărut o eroare în timpul activării produsului:" />
+	<string id="32116" value="Încercați din nou" />
+	<string id="32117" value="&lt;strong&gt;Activarea Licenței&lt;/strong&gt;&lt;br /&gt;Introduceți cheia de licență pentru a activa produsul" />
+	<string id="32118" value="Pentru a activa:" />
+	<string id="32119" value="Asigurați-vă că sunteți conectat la Internet" />
+	<string id="32120" value="Introduceți cheia de licență sau &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;apăsați aici&lt;/a&gt; pentru a obține una" />
+	<string id="32121" value="Activați licența și înregistrați-vă produsul" />
+	<string id="32122" value="Cheia de licența:" />
+	<string id="32123" value="Activați" />
+	<string id="32124" value="&lt;strong&gt;Înregistrați produsul&lt;/strong&gt;&lt;br /&gt;Creați un cont COMODO nou" />
+	<string id="32125" value="* Prenume" />
+	<string id="32126" value="* Nume familie" />
+	<string id="32127" value="* Adresă e-mail" />
+	<string id="32128" value="Țară" />
+	<string id="32129" value="Oraș" />
+	<string id="32130" value="Județ" />
+	<string id="32131" value="Adresă" />
+	<string id="32132" value="Alege un nume de utilizator și o parolă pentru a crea un cont COMODO. Puteți utiliza contul dvs. pentru a gestiona licențele produselor &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Utilizator" />
+	<string id="32134" value="* Parolă" />
+	<string id="32135" value="* Câmp obligatoriu" />
+	<string id="32136" value="Înregistrează" />
+	<string id="32137" value="Afghanistan" />
+	<string id="32138" value="Albania" />
+	<string id="32139" value="Algeria" />
+	<string id="32140" value="American Samoa" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarctica" />
+	<string id="32145" value="Antigua and Barbuda" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenia" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Australia" />
+	<string id="32150" value="Austria" />
+	<string id="32151" value="Azerbaijan" />
+	<string id="32152" value="Bahamas" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Bangladesh" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Belarus" />
+	<string id="32157" value="Belgium" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivia" />
+	<string id="32163" value="Bosnia and Herzegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Bouvet Island" />
+	<string id="32166" value="Brazil" />
+	<string id="32167" value="British Indian Ocean Territory" />
+	<string id="32168" value="Brunei Darussalam" />
+	<string id="32169" value="Bulgaria" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Cambodia" />
+	<string id="32173" value="Cameroon" />
+	<string id="32174" value="Canada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Cayman Islands" />
+	<string id="32177" value="Central African Republic" />
+	<string id="32178" value="Chad" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="China" />
+	<string id="32181" value="Christmas Island" />
+	<string id="32182" value="Cocos (Keeling) Islands" />
+	<string id="32183" value="Colombia" />
+	<string id="32184" value="Comoros" />
+	<string id="32185" value="Congo, Republic of the" />
+	<string id="32186" value="Congo, The Democratic Republic of the" />
+	<string id="32187" value="Cook Islands" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Cote d'Ivoire" />
+	<string id="32190" value="Croatia" />
+	<string id="32191" value="Cuba" />
+	<string id="32192" value="Cyprus" />
+	<string id="32193" value="Czech Republic" />
+	<string id="32194" value="Denmark" />
+	<string id="32195" value="Djibouti" />
+	<string id="32196" value="Dominica" />
+	<string id="32197" value="Dominican Republic" />
+	<string id="32198" value="East Timor" />
+	<string id="32199" value="Ecuador" />
+	<string id="32200" value="Egypt" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Equatorial Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Estonia" />
+	<string id="32205" value="Ethiopia" />
+	<string id="32206" value="Falkland Islands (Malvinas)" />
+	<string id="32207" value="Faroe Islands" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Finland" />
+	<string id="32210" value="France" />
+	<string id="32211" value="French Guiana" />
+	<string id="32212" value="French Polynesia" />
+	<string id="32213" value="French Southern Territories" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Georgia" />
+	<string id="32217" value="Germany" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltar" />
+	<string id="32220" value="Greece" />
+	<string id="32221" value="Greenland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea-Bissau" />
+	<string id="32227" value="Guinea" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard Island and McDonald Islands" />
+	<string id="32231" value="Holy See (Vatican City State)" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hong Kong" />
+	<string id="32234" value="Hungary" />
+	<string id="32235" value="Iceland" />
+	<string id="32236" value="India" />
+	<string id="32237" value="Indonesia" />
+	<string id="32238" value="Iran" />
+	<string id="32239" value="Iraq" />
+	<string id="32240" value="Ireland" />
+	<string id="32241" value="Israel" />
+	<string id="32242" value="Italy" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Japan" />
+	<string id="32245" value="Jordan" />
+	<string id="32246" value="Kazakhstan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Korea, Democratic People's Republic of" />
+	<string id="32250" value="Korea, Republic of" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kyrgyzstan" />
+	<string id="32253" value="Lao People's Democratic Republic" />
+	<string id="32254" value="Latvia" />
+	<string id="32255" value="Lebanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberia" />
+	<string id="32258" value="Libya" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Lithuania" />
+	<string id="32261" value="Luxembourg" />
+	<string id="32262" value="Macau" />
+	<string id="32263" value="Macedonia" />
+	<string id="32264" value="Madagascar" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malaysia" />
+	<string id="32267" value="Maldives" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Marshall Islands" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauritania" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexico" />
+	<string id="32276" value="Micronesia" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongolia" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Morocco" />
+	<string id="32282" value="Mozambique" />
+	<string id="32283" value="Myanmar" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Netherlands Antilles" />
+	<string id="32288" value="Netherlands" />
+	<string id="32289" value="New Caledonia" />
+	<string id="32290" value="New Zealand" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigeria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolk Island" />
+	<string id="32296" value="Northern Mariana Islands" />
+	<string id="32297" value="Norway" />
+	<string id="32298" value="Oman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Palestinian Territory, Occupied" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua New Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Philippines" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Poland" />
+	<string id="32309" value="Portugal" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Romania" />
+	<string id="32314" value="Russia" />
+	<string id="32315" value="Rwanda" />
+	<string id="32316" value="Saint Barthelemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts and Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (French Part)" />
+	<string id="32321" value="Saint Pierre and Miquelon" />
+	<string id="32322" value="Saint Vincent and The Grenadines" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome and Principe" />
+	<string id="32326" value="Saudi Arabia" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seychelles" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapore" />
+	<string id="32331" value="Slovakia" />
+	<string id="32332" value="Slovenia" />
+	<string id="32333" value="Solomon Islands" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="South Africa" />
+	<string id="32336" value="South Georgia and The South Sandwich Islands" />
+	<string id="32337" value="Spain" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Suriname" />
+	<string id="32341" value="Svalbard and Jan Mayen" />
+	<string id="32342" value="Swaziland" />
+	<string id="32343" value="Sweden" />
+	<string id="32344" value="Switzerland" />
+	<string id="32345" value="Syria" />
+	<string id="32346" value="Taiwan" />
+	<string id="32347" value="Tajikistan" />
+	<string id="32348" value="Tanzania" />
+	<string id="32349" value="Thailand" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad and Tobago" />
+	<string id="32354" value="Tunisia" />
+	<string id="32355" value="Turkey" />
+	<string id="32356" value="Turkmenistan" />
+	<string id="32357" value="Turks and Caicos Islands" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukraine" />
+	<string id="32361" value="United Arab Emirates" />
+	<string id="32362" value="United Kingdom" />
+	<string id="32363" value="United States Minor Outlying Islands" />
+	<string id="32364" value="United States of America" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Uzbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnam" />
+	<string id="32370" value="Virgin Islands, British" />
+	<string id="32371" value="Virgin Islands, U.S." />
+	<string id="32372" value="Wallis and Futuna" />
+	<string id="32373" value="Western Sahara" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Yugoslavia" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="North Carolina" />
+	<string id="32411" value="North Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="South Carolina" />
+	<string id="32418" value="South Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="West Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Northwest Territories" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Island" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Selectați limba" />
+	<string id="32442" value="Trimite-mi știri Comodo, oferte și reduceri la următoarea adresă de e-mail:" />
+	<string id="32443" value="Permite un plus de securitate în timp ce navigați pe Internet prin modificarea setărilor DNS pentru serverele COMODO securizate (rezoluție rapidă a paginilor web, securitate online îmbunătățită)." />
+	<string id="32444" value="Activează cloud pe bazat pe analiza comportamentului fișierelor nesigure (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Politica de confidențialitate&lt;/a&gt;)" />
+	<string id="32445" value="Vreau să ajut COMODO prin setarea paginei lor oficiale ca pagina de start a browser-ului și setare a motorului de căutare de la Yahoo! (Valabil pentru toate browserele acceptate)" />
+	<string id="32446" value="Prin apăsarea butonului &quot;De acord și instalați&quot;, sunteți de acord cu instalarea produsului sub incidența Acordului de utilizare a licenței prezent mai jos:" />
+	<string id="32447" value="Configurați instalarea" />
+	<string id="32449" value="Vă rugăm să citiți acordului de utilizare a licenței:" />
+	<string id="32450" value="Opțiunile instalării" />
+	<string id="32451" value="Opțiunile de configurare" />
+	<string id="32452" value="Locațiile fișierelor" />
+	<string id="32453" value="Mărimea produsului:" />
+	<string id="32454" value="Dimensiunea totală de descărcat:" />
+	<string id="32455" value="Nu afișați alerte care solicită decizii de securitate pe cât de mult posibil" />
+	<string id="32456" value="Această configurație de securitate setează modulele de Firewall, Protecție avansată, Containment și Antivirus în așa fel încât alertele de tip pop-up să fie preluate automat pe cât de mult posibil." />
+	<string id="32457" value="Alege calea de instalare:" />
+	<string id="32458" value="Acest software este o versiune BETA a &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Acesta este destinat utilizatorilor speciali care urmează testare BETA." />
+	<string id="32460" value="Acesta poate conține defecte majore care pot cauza probleme serioase." />
+	<string id="32461" value="Nu instalați această aplicație pe o mașină de producție." />
+	<string id="32462" value="Doriți să continuați?" />
+	<string id="32463" value="Apăsând butonul &quot;De acord și actualizați&quot;, sunteți de acord cu instalarea și cu termenii Acordului de utilizare a licenței de mai jos:" />
+	<string id="32464" value="Așteptați și continuați (%u)" />
+	<string id="32465" value="Sistemul este ocupat cu un alt proces de instalare.\n\nVă rugăm să așteptați finalizarea acestuia și apăsați pe 'Reîncercare' pentru a continua cu instalarea.\nPuteți apăsa 'Anulare' pentru a ieși din instalare.\nDacă apăsați 'Așteptați și continuați', instalarea va fi reluată automat la finalizarea procesului de instalare precedent." />
+	<string id="32466" value="Copiază cheia de licență" />
+	<string id="32467" value="Lipește cheia de licența" />
+	<string id="32468" value="Ștergeți toate câmpurile" />
+	<string id="32470" value="Doresc să instalez Yandex Elements" />
+	<string id="32471" value="Setează pagina de start cu Yandex (Se aplică pe toate browserele acceptate)." />
+	<string id="32472" value="Setează motorul de căutare pe Yandex (Se aplică pe toate browserele acceptate)." />
+	<string id="32772" value="Vă rugăm să așteptați în timp ce garanția este activată..." />
+	<string id="32775" value="Felicitări!" />
+	<string id="32776" value="Ați finalizat cu succes instalarea." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Un tehnician certificat&lt;/strong&gt; poate acum&lt;br /&gt;&lt;strong&gt;să te ajute să configurezi&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;GRATIS&lt;/strong&gt;" />
+	<string id="32778" value="Ofertă cu limită de timp" />
+	<string id="32779" value="apel" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="32786" value="Numele utilizatorului ar trebui sa conțină cel puțin %d caractere lungime" />
+	<string id="32787" value="Parola ar trebui sa conțină cel puțin %d caractere lungime" />
+	<string id="32788" value="Numele de utilizator și parola nu trebuie sa fie identice" />
+	<string id="32791" value="Trimite statistici anonime de utilizare a aplicației către COMODO cu scopul de îmbunătățire a calității produsului (de exemplu, accidente, erori, clicuri, etc.)." />
+	<string id="32793" value="Vă rugăm introduceți detaliile server-ului IT and Security Manager mai jos:" />
+	<string id="32794" value="Server IT and Security Manager:" />
+	<string id="32795" value="Portul server-ului IT and Security Manager:" />
+	<string id="32796" value="&lt;strong&gt;Activați %s&lt;/strong&gt;" />
+	<string id="32797" value="Activați cu o cheie de licență" />
+	<string id="32798" value="Alegeți ce componente să activați:" />
+	<string id="32799" value="CCS Containment și Antivirus" />
+	<string id="32800" value="CCS Containment și Firewall" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS Suite (Containment, Antivirus și Firewall)" />
+	<string id="32803" value="Activați cu un server IT and Security Manager" />
+	<string id="32804" value="Alegeți această opțiune dacă aveți o cheie de licență validă și doriți să o folosiți" />
+	<string id="32805" value="Selectați această opțiune dacă utilizați portal de administrare IT and Security Manager portal pentru a gestiona acest calculator." />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt; și &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Politica de Confidențialitate&lt;/a&gt;" />
+	<string id="32807" value="Utilizator" />
+	<string id="32808" value="Parolă" />
+	<string id="32809" value="&lt;strong&gt;Înregistrarea produsului&lt;/strong&gt;&lt;br /&gt;Activarea cheii de licență cu contul COMODO" />
+	<string id="32810" value="Nu dețin un cont COMODO" />
+	<string id="32811" value="Dețin deja un cont COMODO" />
+	<string id="32812" value="Doresc să instalez Yandex Browser Manager. Acesta va proteja întotdeauna setările browser-ului tău." />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="34028" value="Copiază" />
+	<string id="34029" value="Selectează tot" />
+	<string id="34410" value="Anulează" />
+	<string id="34411" value="Tăiere" />
+	<string id="34412" value="Alipire" />
+	<string id="34413" value="Verificați serverele COMODO pentru versiuni mai noi ale programelor selectate înainte de a le instala de pe disc." />
+	<string id="34414" value="Verificarea pentru versiuni mai noi..." />
+	<string id="34415" value="Omite acest pas" />
+	<string id="34416" value="Versiuni mai noi sunt disponibile" />
+	<string id="34417" value="Descărcați și instalați versiunile actualizate ale programelor selectate în loc de furnizat pe disc:" />
+	<string id="34418" value="Versiune" />
+	<string id="34419" value="Un cont COMODO este necesar pentru a continua procesul de activare. Dacă aveți deja un cont, nu aveți nevoie pentru a crea unul nou." />
+	<string id="34420" value="Selectați această opțiune dacă nu aveți un cont COMODO. Acest asistent vă va ajuta să creați un cont nou." />
+	<string id="34421" value="Introduceți informațiile de identificare pentru a va conecta cu contul COMODO existent." />
+	<string id="34422" value="Eroare de actualizare\n\nUtilizatorii versiunii 5.xx CIS pot actualiza la versiunea v.8.0 doar prin actualizarea intermediara a aplicației la versiunea v.7.0. Vă rugăm să faceți upgrade la versiunea 7.0 și continuați actualizarea la versiunea v.8.0. CIS" />
+	<string id="34423" value="Setați ca browser implicit Chromodo." />
+	<string id="34424" value="Înlocuiți scurtătura pentru Google Chrome existentă cu scurtătura Chromodo în meniu și pe desktop." />
+	<string id="34425" value="Importați setările din Google Chrome (istoric, marcaje, cookie-uri, etc.) în browser-ul Chromodo." />
+	<string id="34426" value="Introduceți cheia dumneavoastră de licență" />
+	<string id="34427" value="Descărcare finalizată" />
+	<string id="34428" value="De acord, continuă" />
+	<string id="34429" value="Dacă doriți, vă puteți deconecta de la Internet pentru a instala pachetul în modul offline." />
+	<string id="34430" value="Prin apăsarea butonului &quot;De acord, continuă&quot;, sunteți de acord cu instalarea produsului sub incidența Acordului de utilizare a licenței prezent mai jos:" />
+	<string id="34431" value="Antivirus, Firewall și protecție Anti-Malware" />
+	<string id="34432" value="Protejează constant calculatorul dumneavoastră împotriva atacurilor de pe internet" />
+	<string id="34433" value="Protecție în timp real împotriva formelor cunoscute sau necunoscute de malware" />
+	<string id="34434" value="Acces instant la ajutorul oferit de tehnicienii noștri la orice oră din zi" />
+	<string id="34435" value="Navigare rapidă și în siguranță pe Internet" />
+	<string id="34436" value="Protecția pierderilor de date" />
+	<string id="34437" value="Chromodo vine cu următoarele extensii pentru a spori securitatea împotriva amenințărilor de pe Internet:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="34441" value="O aplicație online de backup, ușor de folosit" />
+	<string id="34442" value="cu &lt;strong&gt;GeekBuddy&lt;/strong&gt; și &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="cu &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="cu &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo Browser este un browser de Internet rapid si versatil bazat pe tehnologia Chromium și îmbunătățit cu nivelul neegalat de securitate al Comodo." />
+	<string id="34446" value="Trebuie să activați protocolul TLS în setările de securitate ale Internet Explorer." />
+	<string id="34447" value="Pentru a activa protocolul TLS:\n1. În Internet Explorer, mergeți la Unelte -&gt; Opțiuni Internet.\n2. Selectați Avansat.\n3. Derulați în jos la secțiunea Securitate.\n4. Bifați caseta de selectare &quot;Utilizați TLS 1.xx&quot;\n5. Apăsați butonul OK." />
+	<string id="34448" value="%s nu poate fi instalat deoarece COMODO Cloud AV a fost deja instalat pe acest calculator.\n\nVă rugăm dezinstlalați CCAV înainte de a instala %s." />
+	<string id="34449" value="cu &lt;strong&gt;GeekBuddy&lt;/strong&gt; și &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="cu &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Rulează aplicații necunoscute într-un mediu sigur și izolat" />
+	<string id="34452" value="Conectare securizată la site-uri importante și cu conținut sensibil" />
+	<string id="34453" value="Bun venit!" />
+	<string id="34454" value="Veți instala %s %s pentru a securiza și proteja toate dispozitivele dumneavoastră" />
+	<string id="34455" value="Prin click &quot;%s&quot;, sunteți de acord că ați citit și acceptat %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;Acordul de licența&lt;/a&gt; și &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Politica de Confidențialitate&lt;/a&gt;" />
+	<string id="34456" value="Sunt de acord" />
+	<string id="34457" value="cu Chromodo Browser și GeekBuddy" />
+	<string id="34458" value="cu Dragon Browser, Cumpărături Sigure și GeekBuddy" />
+	<string id="34459" value="cu Chromodo Browser" />
+	<string id="34460" value="cu Dragon Browser" />
+	<string id="34461" value="cu GeekBuddy" />
+	<string id="34462" value="Instalați Yandex Elements (extensie de browser)" />
+	<string id="34463" value="Setează Yandex* ca pagina mea de pornire" />
+	<string id="34464" value="Setează Yandex* ca motorul meu de căutare" />
+	<string id="34465" value="Setează Yandex* pentru noile file/tab-uri în browserul meu" />
+	<string id="34466" value="* valabil pentru toate browserele acceptate" />
+	<string id="34467" value="Prin click &quot;%s&quot;, sunteți de acord că ați citit și acceptat" />
+	<string id="34470" value="Instalați Versiunea Gratuită" />
+	<string id="34471" value="Instalați PRO" />
+	<string id="34472" value="Incercați 30 de zile de PRO" />
+	<string id="34473" value="Incercați 30 de zile de COMPLETE" />
+	<string id="34474" value="Incercați cele 30 de zile de PRO.&lt;br /&gt;Vi se va cere să reveniți la versiunea gratuită după expirare" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Incercați cele 30 de zile de COMPLETE.&lt;br /&gt;Vi se va cere să reveniți la versiunea gratuită după expirare" />
+	<string id="34477" value="Antivirus" />
+	<string id="34478" value="Firewall" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Cumpărături Sigure" />
+	<string id="34483" value="24/7 Suport Instant" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Directorul de Instalare" />
+	<string id="34487" value="Schimbă furnizorul meu DNS în COMODO Secure DNS (securitate online îmbunătățită, încărcare mai rapidă a paginilor web). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Ce este asta?&lt;/a&gt;" />
+	<string id="34488" value="Activează &quot;Cloud pe Bazat pe Analiza Comportamentului&quot; fișierelor nesigure (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Politica de confidențialitate&lt;/a&gt;)" />
+	<string id="34489" value="Trimite statistici anonime de utilizare a aplicației către COMODO cu scopul de îmbunătățire a calității produsului (de exemplu, accidente, erori, clicuri, etc.)." />
+	<string id="34490" value="Customizare" />
+	<string id="34491" value="Dimensiune totală:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Evaluarea Fișierului" />
+	<string id="34494" value="Filtrare Website" />
+	<string id="34495" value="Cumpărături Sigure" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 Suport Instant" />
+	<string id="34501" value="Fii în siguranță. Fii în control.&lt;br /&gt;Rulează aplicații necunoscute într-un mediu sigur și izolat." />
+	<string id="34502" value="De încredere sau rău intenționat?&lt;br /&gt;Verificați reputația oricărui fișier în baza noastră de date globală." />
+	<string id="34503" value="Protejați-vă copiii și pe dumneavoastră de site-urile ce conțin malware sau conținut neadecvat" />
+	<string id="34504" value="Securizați-vă datele și banii dumneavoastră.&lt;br /&gt;Asigurați-vă că nimeni nu interceptează informațiile dumneavoastră sensibile online" />
+	<string id="34505" value="Procurați gratuit Antivirus Mobile pentru dispozitive Android" />
+	<string id="34506" value="Nu se pot pierde date.&lt;br /&gt;Toate datele dumneavoastră sunt Encriptate și Salvate în Cloud." />
+	<string id="34507" value="Folosiți Wi-Fi public?&lt;br /&gt;Acum e Sigur." />
+	<string id="34508" value="Aveți nevoie de Ajutor?&lt;br /&gt;Contactați experții noștri 24/7" />
+	<string id="34509" value="INSTALARE GRATUITĂ" />
+	<string id="34510" value="Felicitări!" />
+	<string id="34511" value="Ați finalizat cu succes instalarea." />
+	<string id="34512" value="Trimite-mi știri Comodo, oferte și reduceri la următoarea adresă de e-mail:" />
+	<string id="34513" value="Detectează, blochează și elimină virușii din desktop-uri și rețele. Protejează în timp real, odată cu accesarea fișierelor. Actualizări automate de zi cu zi cu noi definiții de viruși." />
+	<string id="34514" value="Firewall premium. Face automat PC-uri invizibile pentru atacatori. Filtrează traficul în/din calculator." />
+	<string id="34515" value="Un mediu de operare izolat, unde vor rula aplicații necunoscute sau suspicioase. Perfect pentru testarea aplicațiilor software obținute din surse dubioase. Operațiunea de Auto-Containment permite izolarea aplicațiilor în funcție de setările prestabilite și politicile personalizate." />
+	<string id="34516" value="Sistemul de prevenție împotriva intruziunilor (HIPS) este o tehnologie proactivă, ce analizează comportamentul programelor și oprește activitățile suspicioase. HIPS vă protejează automat fișierele de sistem, directoarele și cheile de regiștri, pentru a vă apăra de modificarile facute de programe periculoase." />
+	<string id="34517" value="Monitorizează și păstrează un jurnal al activitaților și proceselor ce rulează pe sistem și are abilitatea de a reveni la starea initială a sistemului, fără a fi nevoie de blocarea totală a aplicației." />
+	<string id="34518" value="Oferă securitate extremă pentru operațiunile bancare sau cumpărăturile online prin posibilitatea de a vă conecta la Internet printr-o rețea securizată. Conectarea la site-uri problematice printr-un mediu dedicat super-securizat." />
+	<string id="34519" value="Suport de la distanță live, nelimitat pentru problemele PC-ul. Doar faceți clic pe pictograma de pe desktop pentru a discuta cu tehnician. Tehnicianul va rezolva problema în timp ce te uiți. Sprijin proactivă a preveni problemele viitoare. Optimizarea setărilor PC și a sistemului de operare. Ajutor cu clienții de email și setări imprimanta. Ajutor la instalarea unui software. Și altele..." />
+	<string id="34520" value="O aplicație online de backup, ușor de folosit. Oferă posibilitatea de backup și restaurare a unui fișier sau chiar a întregului sistem. Păstrează datele encriptate cu ajutorul celor mai noi metode de codificare. Protejează toate comunicațiile dintre sistemul dumneavoastră și serverele Comodo prin encriptare SSL." />
+	<string id="34521" value="Securizează conexiunea wireless și prin cablu între PC și alte computere. Face navigarea în siguranță în timp ce în locuri publice, cum ar fi cafenele, hoteluri, aeroporturi etc. Păstrează informații private, sigure, precum și departe de mâinile infractorilor în timpul sesiunilor online. Oferă criptate completa a traficului către și de la PC." />
+	<string id="34522" value="Setează pe Yandex* pagina de pornire, motorul de căutare, și pagina nouă de navigare." />
+	<string id="34524" value="Permisiuni" />
+	<string id="34525" value="Componente" />
+	<string id="34526" value="Instalează Yandex Browser Manager" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="34529" value="Setează pagina de pornire, motorul de căutare, și pagina nouă pe Yahoo! (valabil pentru toate browserele acceptate)" />
+	<string id="34530" value="Instalând această aplicație, sunteți de acord cu ce ați citit și acceptat în %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Acord de Licență&lt;/a&gt;" />
+	<string id="34531" value="Dacă nu aveți o Cheie de Licență, o puteți obține" />
+	<string id="34532" value="Obțineți Cheie de Licență" />
+	<string id="34533" value="Activarea Licenței" />
+	<string id="34534" value="Sunați &lt;strong&gt;+1888-258-7142&lt;/strong&gt; pentru ca un tehnician să vă poată rezolva această problemă" />
+	<string id="34535" value="&lt;strong&gt;Înregistrați-vă produsul&lt;/strong&gt;&lt;span&gt;Activați cheia de licență cu contul COMODO&lt;/span&gt;" />
+	<string id="34536" value="Adresa de e-mail specificată este invalidă" />
+	<string id="34537" value="Parolele nu se potrivesc" />
+	<string id="34538" value="Vă rugăm să selectați țara" />
+	<string id="34539" value="&lt;strong&gt;Activați Licența&lt;/strong&gt;&lt;span&gt;Introduceți cheia de licență pentru a activa produsul&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Înregistrați-vă produsul&lt;/strong&gt;&lt;span&gt;Activați cheia de licență cu contul COMODO&lt;/span&gt;" />
+	<string id="34541" value="Un cont COMODO este necesar pentru a continua procesul de activare." />
+	<string id="34542" value="Creați cont nou" />
+	<string id="34543" value="* Rescrieți parola" />
+	<string id="34544" value="E-mail" />
+	<string id="34545" value="Parolă" />
+	<string id="34546" value="Am uitat parola" />
+	<string id="34547" value="Numele de utilizator" />
+	<string id="34548" value="A apărut o eroare în timpul activării produsului" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;În Internet Explorer, mergeți la Unelte -&gt; Opțiuni Internet&lt;/li&gt;&lt;li&gt;Selectați Avansat&lt;/li&gt;&lt;li&gt;Derulați în jos la secțiunea Securitate&lt;/li&gt;&lt;li&gt;Bifați caseta de selectare &quot;Utilizați TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;Apăsați butonul OK&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Vă rugăm să verificați conexiunea la Internet" />
+	<string id="34551" value="Activarea..." />
+	<string id="34552" value="Nu se poate găsi aplicația de diagnosticare CIS." />
+	<string id="34553" value="Nu se poate porni diagnosticarea CIS. Code eroare: %u" />
+	<string id="34554" value="Se dezinstalează %s..." />
+	<string id="34555" value="Se schimbă %s..." />
+	<string id="34556" value="Sunteti sigur că doriți să anulați dezinstalarea?" />
+	<string id="34557" value="Nu se poate schimba %s" />
+	<string id="34558" value="Nu se poate dezinstala %s" />
+	<string id="34560" value="Repară" />
+	<string id="34561" value="Schimbă" />
+	<string id="34562" value="Dezinstalează" />
+	<string id="34563" value="Repară problemele care are putea să fi cauzat încetiniri sau prăbușiri." />
+	<string id="34564" value="Verificați care sunt instalate caracteristici ale programului." />
+	<string id="34565" value="Dezinstalează &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Selectarea produsului" />
+	<string id="34567" value="%s vine cu o colecție de soluții de securitate vitale pentru PC-ul dumneavoastră. Vă rugăm să selectați produsele pe care doriți să le instalați sau deselectați produsele pe care doriți să le dezinstalați pentru a putea continua." />
+	<string id="34568" value="Instalează COMODO Firewall (Recomandat)" />
+	<string id="34569" value="Selectați această opțiune pentru a instala Comodo Firewall pe computerul dumneavoastră. Dacă aveți o altă aplicație firewall instalată, trebuie să o dezinstalați înainte de a continua." />
+	<string id="34570" value="Instalează COMODO Antivirus (Recomandat)" />
+	<string id="34571" value="Selectați această opțiune pentru a instala COMODO Antivirus pe computerul dumneavoastră. Dacă aveți o altă aplicație antivirus instalată, trebuie să o dezinstalați înainte de a continua." />
+	<string id="34572" value="Asta e tot." />
+	<string id="34573" value="Ați schimbat %s." />
+	<string id="34574" value="Se pregătește dezinstalarea..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Nu este recomandat să rămâneți neprotejat." />
+	<string id="34577" value="Doriți să încercați antivirusul nostru accesibil și puternic, bazat pe cloud?" />
+	<string id="34578" value="Descarcă și Instalează COMODO Cloud Antivirus" />
+	<string id="34579" value="COMODO Cloud Antivirus va fi instalat după ce procesul de dezinstalare este complet. Pentru a finaliza procesul de instalare, va trebui să reporniți calculatorul." />
+	<string id="34580" value="Care este motivul principal pentru care ai decis să dezinstalezi COMODO? &lt;b&gt;(Selectează ce se aplică)&lt;/b&gt;" />
+	<string id="34581" value="Comodo folosește prea mult din resursele calculatorului meu" />
+	<string id="34582" value="Am primit prea multe alerte" />
+	<string id="34583" value="Comodo bloca programele pe care vroiam să le rulez" />
+	<string id="34584" value="Nesatifăcut cu produsul per ansamblu" />
+	<string id="34585" value="Am găsit alt program pe care îl prefer" />
+	<string id="34586" value="Altul (te rugăm specifică)" />
+	<string id="34587" value="Ați dezinstalat %s." />
+	<string id="34588" value="Poate că mai avem ceva de oferit pentru tine. Vă rugăm să verificați &lt;a href='#' id='id_products'&gt;produsele noastre&lt;/a&gt; sau contactați managerul nostru dacă aveți întrebări." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Please choose what you would like to do with %s" />
+	<string id="34591" value="Vreau să îl reinstalez" />
+	<string id="34592" value="Această versiune va fi eliminată &lt;b&gt;%s&lt;/b&gt; din sistemul dumneavoastră, astfel încât să puteți reinstala sau înlocui cu o altă versiune." />
+	<string id="34593" value="Vreau să îl elimin definitiv" />
+	<string id="34594" value="Această versiune va fi eliminată definitiv &lt;b&gt;%s&lt;/b&gt; din sistemul dumneavoastră, dar o puteți reinstala mai târziu." />
+	<string id="34595" value="Se pregătește schimbarea..." />
+	<string id="34596" value="Se pregătește descărcarea..." />
+	<string id="34597" value="Eroare în timpul schimbării COMODO Internet Security" />
+	<string id="34598" value="Eroare în timpul dezinstalării COMODO Internet Security" />
+	<string id="34599" value="Adaugă, Elimină sau Repară componentele" />
+	<string id="34600" value="Elimină sau Repară componentele" />
+	<string id="34601" value="Dezinstalați software-ul aflat în conflict: %s" />
+	<string id="34602" value="Vă recomandăm păstrarea Comodo Internet Security actualizate pentru a preveni computerul de la risc." />
+	<string id="34603" value="Comodo Internet Security utilizează o combinație puternică de tehnologii de monitorizare a virusului, Auto-Containment și analiză de comportament pentru a proteja imediat calculatorul din toate cunoscute și necunoscute de malware." />
+	<string id="34604" value="Un alt proces de instalare este în curs de desfășurare. Vă rugăm să așteptați până se termină." />
+	<string id="34605" value="Un alt proces de activare este în curs de desfășurare. Vă rugăm să așteptați până se termină." />
+	<string id="34606" value="Acum, cu protecție împotriva omului în atacurile de mijloc!" />
+	<string id="34607" value="Pachetul de instalare al produsului pe care tocmai l-ați dezinstalat inclus Comodo Internet Security Essentials (ISE) de protecție împotriva atacurilor man-in-the-middle. ISE trebuie să fie dezinstalat separat. În cazul în care doriți să-l eliminați, faceți clic &lt;a href='#' id='id_ise_how_to_remove'&gt;pe acest link&lt;/a&gt; pentru a afla cum să facă acest lucru." />
+	<string id="34608" value="Setați ca browser implicit Comodo Dragon." />
+	<string id="34609" value="Importați setările din Google Chrome (istoric, marcaje, cookie-uri, etc.) în browser-ul Comodo Dragon." />
+	<string id="34610" value="Un e-mail cu cheia dvs. de licență a fost trimis de pe portalul &lt;a href=&quot;#&quot; id=&quot;id_onecom_url&quot;&gt;One.com&lt;/a&gt;" />
+	<string id="34611" value="Timpul de așteptare pentru instalarea TTT sa încheiat. Doriți să continuați să așteptați?" />
+	<string id="34612" value="Protecție împotriva atacurilor 'man-in-the-middle' (MITM)" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

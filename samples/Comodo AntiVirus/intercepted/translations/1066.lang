@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Tiếng Việt - By Community" LANGID="1066" RTL="0">
+	<string id="106" value="Gói cài đặt bị hỏng.\r\nĐã huỷ bỏ cài đặt" />
+	<string id="107" value="Tác vụ cài đặt này không hỗ trợ nền tảng muốn cài đặt." />
+	<string id="108" value="Nâng cấp COMODO" />
+	<string id="109" value="Trình cài đặt %s" />
+	<string id="110" value="Đang nâng cấp %s..." />
+	<string id="111" value="Không thể lưu thông tin bản quyền.\r\n%s" />
+	<string id="112" value="Tuỳ chọn này sẽ thay đổi thiết lập DNS chính và phụ của máy tính thành 8.26.56.26 và 156.154.70.22. Sau khi làm việc này, mọi ứng dụng sẽ sử dụng máy chủ DNS nhanh và an toàn hơn khi truy cập internet." />
+	<string id="113" value="Bạn đã đạt đến giới hạn số lượt cài đặt tối đa với bản quyền của bạn." />
+	<string id="114" value="Quản lý bản quyền COMODO" />
+	<string id="115" value="Ngày/giờ của máy tính chưa được cài đặt đúng. Hãy điều chỉnh đúng và thử lại." />
+	<string id="116" value="Mã bản quyền bạn nhập đã hết hạn" />
+	<string id="117" value="Lỗi: %u. %s" />
+	<string id="118" value="Không thể khởi tạo trình cài đặt. Định dạng dữ liệu không hợp lệ." />
+	<string id="119" value="Đã có phiên bản trình cài đặt mới hơn.\r\nNó sẽ tự cập nhật ngay.\r\nBạn muốn tiếp tục?" />
+	<string id="120" value="Không hỗ trơ thời gian tiếp tục đã chọn" />
+	<string id="121" value="Không thể khởi tạo in." />
+	<string id="122" value="Kích hoạt sản phẩm đã bị thu hồi. Hãy liên hệ quản trị viên hệ thống." />
+	<string id="123" value="Đang cài đặt %s..." />
+	<string id="124" value="Cài đặt COMODO" />
+	<string id="125" value="Đồng ý và Cài đặt" />
+	<string id="126" value="Đồng ý và Nâng cấp" />
+	<string id="127" value="Bạn chắc muốn huỷ cài đặt?" />
+	<string id="128" value="Bạn cần có quyền để thực hiện cài đặt." />
+	<string id="129" value="Xem thoả thuận cấp phép" />
+	<string id="130" value="Không thể khởi động lại Cài đặt COMODO.\r\n%s\r\nVui lòng khởi động lại thủ công." />
+	<string id="131" value="Tuỳ biến cài đặt" />
+	<string id="132" value="Tuỳ biến nâng cấp" />
+	<string id="133" value="Bạn cần khởi động lại hệ thống để thay đổi cấu hình có hiệu lực.\nChọn 'Có' để khởi động lại ngay hoặc 'Không' nếu bạn muốn khởi động lại sau." />
+	<string id="134" value="Vui lòng chờ..." />
+	<string id="135" value="Hành động này không được cho phép" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="CCS đã được cài đặt trên PC của bạn không được quản lý bởi máy chủ đã chỉ định. Vui lòng chắc rằng bạn đã nhập đúng thông tin máy chủ IT and Security Manager hoặc yêu cầu hỗ trợ từ quản trị viên." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Lỗi %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Nhập thông tin đăng nhập hoặc mật khẩu không đúng" />
+	<string id="144" value="Không thể khởi động lại hệ thống.\r\n%s\r\nVui lòng khởi động lại máy tính thủ công." />
+	<string id="145" value="Lỗi %d: %s" />
+	<string id="148" value="Mã trạng thái HTTP: %u." />
+	<string id="153" value="Địa chỉ email đã nhập không hợp lệa.\r\nVui lòng nhập địa chỉ emai hợp lệ." />
+	<string id="154" value="Mã bản quyền đã cung cấp không hợp lệ.\r\nVui lòng nhập khoá bản quyền hợp lệ." />
+	<string id="155" value="Không thể tạo thư mục %s.\r\n%s" />
+	<string id="156" value="Không tìm thấy người dùng WEB API với thông tin đăng nhập đã chỉ định" />
+	<string id="158" value="Lỗi cổng thanh toán" />
+	<string id="160" value="Không thể cài đặt %s\r\n%s\r\nBạn muốn thử lại?" />
+	<string id="165" value="Không thể tải xuống %s" />
+	<string id="166" value="Không thể ghi %s" />
+	<string id="167" value="Không thể khởi tạo trình cài đặt. Vui lòng kiểm tra kết nối internet và/hoặc cấu hình kết nối IE.\r\n%s" />
+	<string id="168" value="Không thể khởi tạo trình cài đặt. Vui lòng kiểm tra quyền truy cập tập tin hệ thống.\r\n%s" />
+	<string id="169" value="Người dùng không có ID trừu tượng cho yêu cầu hoá đơn" />
+	<string id="170" value="Không thể tạo truy toán cho những điều khoản giá này" />
+	<string id="171" value="Lỗi xác nhận" />
+	<string id="172" value="Ngôn ngữ đã chọn không được hệ điều hành hỗ trợ." />
+	<string id="173" value="Không thể tiếp tục cài đặt sản phẩm vì ngôn ngữ đã chọn không được hệ điều hành hỗ trợ." />
+	<string id="175" value="Không thể cài đặt %s\r\n%s" />
+	<string id="183" value="Cài đặt %s" />
+	<string id="184" value="Đang tải xuống %s..." />
+	<string id="190" value="Để tiếp tục, bạn cần khởi động lại máy tính.\r\nBạn có muốn khởi động lại ngay không?" />
+	<string id="192" value="Để tiến hành cài đặt sản phẩm, máy tính phải được khởi động lại. Sau khi khởi động lại, quá trình cài đặt sẽ tự tiếp tục.\r\nKhởi động lại ngay?" />
+	<string id="193" value="Để tiến hành cài đặt sản phẩm, bạn phải gỡ bỏ COMODO Firewall/Internet Security cũ.\r\nVì nó không thể được thực hiện bởi %s, vui lòng gỡ bỏ phần mềm cũ này thủ công và khởi động lại %s." />
+	<string id="194" value="Yêu cầu khoá bản quyền" />
+	<string id="195" value="Khoá bản quyền chỉ có thể bao gồm ký tự 'A' đến 'F' và số" />
+	<string id="196" value="Khoá bản quyền của tôi ở đâu?" />
+	<string id="197" value="Nếu bạn đã mua sản phẩm qua internet, khoá bản quyền đã được gửi vào địa chỉ email bạn đã chỉ định trong quá trình giao dịch. Nếu bạn cài đặt từ DVD/CD, hãy xem mặt sau của DVD/CD để tìm khoá bản quyền." />
+	<string id="199" value="Vui lòng không thay đổi hoặc xoá tập tin này. %s cần nó để kết làm việc bình thường.\r\nTập tin này sẽ được tự xoá sau khi cài đặt hoàn tất." />
+	<string id="202" value="Dữ liệu không hợp lệ" />
+	<string id="205" value="Yêu cầu XML không hợp lệ" />
+	<string id="206" value="Thông số không hợp lệ" />
+	<string id="207" value="Khoá bản quyền không hợp lệ" />
+	<string id="208" value="Khu vực chưa biết" />
+	<string id="209" value="Khoản giá chưa biết" />
+	<string id="210" value="Loại yêu cầu không đúng" />
+	<string id="217" value="Yêu cầu hoá đơn thất bại: Không thể tạo hoá đơn mới" />
+	<string id="220" value="Xảy ra lỗi chưa biết" />
+	<string id="222" value="Chế độ không hợp lệ." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Không thể tìm thấy tập tin dữ liệu khởi tạo." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Đang huỷ bỏ. Vui lòng chờ..." />
+	<string id="235" value="Vui lòng cập nhật %s trước khi tiếp tục." />
+	<string id="236" value="Không thể lưu tình trạng trình cài đặt hiện tại để tiếp tục cài đặt sau khi khởi động lại.\r\nVui lòng khởi động lại và chạy Cài đặt COMODO thủ công." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Không thể khởi tạo trình cài đặt. Định dạng dữ liệu đã lưu trữ không hợp lệ." />
+	<string id="239" value="Để tiến hành cài đặt sản phẩm máy tính của bạn phải được khởi động lại. Sau khi khởi động lại quá trình cài đặt sẽ tự tiếp tục. Vui lòng không tháo DVD với trình cài đặt COMODO cho đến khi cài đặt hoàn tất.\r\nKhởi động lại ngay?" />
+	<string id="246" value="Không thể chạy cài đặt - gói cài đặt đã hỏng." />
+	<string id="250" value="Phải đóng %s để tiếp tục cài đặt. Vui lòng đóng %s và chọn 'Có' để thử lại." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Trước khi kích hoạt gói đảm bảo, bạn phải kích hoạt bản quyền sản phẩm." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Trả lời XML chưa xác định từ máy chủ CAM" />
+	<string id="295" value="Khoá bản quyền bạn nhập không thích hợp với sản phẩm bạn đang cài đặt" />
+	<string id="313" value="Đang kích hoạt bản quyền, vui lòng chờ..." />
+	<string id="346" value="Thử lại" />
+	<string id="366" value="Yêu cầu kết nối internet." />
+	<string id="367" value="Để nhận bản quyền của bạn, trình cài đặt cần kết nối đến trung tâm bản quyền của COMODO." />
+	<string id="368" value="Vui lòng chắc rằng bạn đang kết nối với internet và chọn nút &quot;Thử lại&quot;." />
+	<string id="369" value="Chúng tôi đã kích hoạt thành công bản quyền của bạn và đã nâng cấp sản phẩm." />
+	<string id="374" value="Tôi muốn kích hoạt “Phân tích hành vị trực tuyến” của những chương trình chưa được xác định bằng cách gửi chúng đến COMODO với sự lưu tâm đến &lt;link&gt;Chính sách riêng tư.&lt;/link&gt;" />
+	<string id="375" value="Beta" />
+	<string id="377" value="Bằng cách chọn nút &quot;%s&quot;, bạn đồng ý cài đặt và &lt;link&gt;Thoả thuận cấp phép với người dùng&lt;/link&gt; dưới đây:" />
+	<string id="383" value="Không thể kích hoạt bản quyền.\n%s" />
+	<string id="385" value="Để tiến hành, bạn phải chọn ít nhất một sản phẩm." />
+	<string id="386" value="Kích thước sản phẩm:   %s" />
+	<string id="387" value="Tổng kích thước tải xuống:   %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Sản phẩm không tương thích" />
+	<string id="32001" value="Thu nhỏ cửa sổ" />
+	<string id="32002" value="Đóng cửa sổ" />
+	<string id="32003" value="Cài đặt" />
+	<string id="32004" value="Quản lý bản quyền" />
+	<string id="32005" value="Có" />
+	<string id="32006" value="Không" />
+	<string id="32007" value="Thử lại" />
+	<string id="32008" value="OK" />
+	<string id="32009" value="Huỷ" />
+	<string id="32010" value="Huỷ bỏ" />
+	<string id="32011" value="Bỏ qua" />
+	<string id="32012" value="Tiếp tục" />
+	<string id="32013" value="Thử lại" />
+	<string id="32014" value="Trình cài đặt" />
+	<string id="32015" value="Quay lại" />
+	<string id="32016" value="In" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Duyệt" />
+	<string id="32019" value="Tiếp theo" />
+	<string id="32020" value="Đóng" />
+	<string id="32021" value="Tìm hiểu thêm" />
+	<string id="32022" value="Kết thúc" />
+	<string id="32023" value="Bỏ qua" />
+	<string id="32024" value="Đồng ý" />
+	<string id="32102" value="&lt;strong&gt;Cài đặt các gói được yêu cầu&lt;/strong&gt;&lt;br /&gt;Tính năng yêu cầu cài thêm gói phụ." />
+	<string id="32103" value="Những gói sau cần được tải xuống và cài đặt:" />
+	<string id="32104" value="Tên gói" />
+	<string id="32105" value="Thoả thuận cấp phép" />
+	<string id="32106" value="Kích thước" />
+	<string id="32107" value="Bằng việc chọn &quot;Đồng ý và Cài đặt&quot;, bạn đồng với các điều khoản cấp phép với người dùng cho mọi gói cài đặt trên đây." />
+	<string id="32108" value="Đồng ý và Cài đặt" />
+	<string id="32109" value="Một lỗi đã xảy ra trong khi cài đặt sản phẩm:" />
+	<string id="32110" value="Thử lại" />
+	<string id="32111" value="Đang chuẩn bị cài đặt..." />
+	<string id="32112" value="Bạn đã kích hoạt sản phẩm thành công." />
+	<string id="32113" value="Tiếp tục" />
+	<string id="32114" value="Vui lòng chờ trong khi kích hoạt bản quyền..." />
+	<string id="32115" value="Lỗi xảy ra trong quá trình kích hoạt sản phẩm:" />
+	<string id="32116" value="Thử lại" />
+	<string id="32117" value="&lt;strong&gt;Kích hoạt bản quyền&lt;/strong&gt;&lt;br /&gt;Nhập khoá bản quyền để kích hoạt sản phẩm" />
+	<string id="32118" value="Để kích hoạt:" />
+	<string id="32119" value="Chắc rằng bạn đang kết nối với internet" />
+	<string id="32120" value="Nhập khoá bản quyền hoặc &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;click vào đây&lt;/a&gt; để nhận bản quyền" />
+	<string id="32121" value="Kích hoạt bản quyền và đăng ký sản phẩm" />
+	<string id="32122" value="Mã bản quyền:" />
+	<string id="32123" value="Kích hoạt" />
+	<string id="32124" value="&lt;strong&gt;Đăng ký sản phẩm&lt;/strong&gt;&lt;br /&gt;Tạo tài khoản COMODO" />
+	<string id="32125" value="* Tên" />
+	<string id="32126" value="* Họ" />
+	<string id="32127" value="* Email" />
+	<string id="32128" value="Quốc gia" />
+	<string id="32129" value="Thành phố" />
+	<string id="32130" value="Bang" />
+	<string id="32131" value="Địa chỉ" />
+	<string id="32132" value="Chọn tên người dùng, mật khẩu và tạo tài khoản COMODO. Bạn có thể dùng tài khoản để quản lý bản quyền thông qua &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Tên người dùng" />
+	<string id="32134" value="* Mật khẩu" />
+	<string id="32135" value="* Trường bắt buộc" />
+	<string id="32136" value="Đăng ký" />
+	<string id="32137" value="Afghanistan" />
+	<string id="32138" value="Albania" />
+	<string id="32139" value="Algeria" />
+	<string id="32140" value="Samoa thuộc Mỹ" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarctica" />
+	<string id="32145" value="Antigua và Barbuda" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenia" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Úc" />
+	<string id="32150" value="Áo" />
+	<string id="32151" value="Azerbaijan" />
+	<string id="32152" value="Bahamas" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Bangladesh" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Belarus" />
+	<string id="32157" value="Bỉ" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivia" />
+	<string id="32163" value="Bosnia và Herzegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Đảo Bouvet" />
+	<string id="32166" value="Brazil" />
+	<string id="32167" value="Lãnh thổ Anh tại Ấn Độ Dương" />
+	<string id="32168" value="Brunei Darussalam" />
+	<string id="32169" value="Bulgaria" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Cam-pu-chia" />
+	<string id="32173" value="Cameroon" />
+	<string id="32174" value="Canada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Quần đảo Cayman" />
+	<string id="32177" value="Cộng hoà Trung Phi" />
+	<string id="32178" value="Chad" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="Trung Hoa" />
+	<string id="32181" value="Đảo Giáng sinh" />
+	<string id="32182" value="Quần đảo Cocos (Keeling)" />
+	<string id="32183" value="Colombia" />
+	<string id="32184" value="Comoros" />
+	<string id="32185" value="Cộng hoà Congo" />
+	<string id="32186" value="Cộng hoà dân chủ Congo" />
+	<string id="32187" value="Quần đảo Cook" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Cote d'Ivoire" />
+	<string id="32190" value="Croatia" />
+	<string id="32191" value="Cuba" />
+	<string id="32192" value="Cyprus" />
+	<string id="32193" value="Cộng hoà Czech" />
+	<string id="32194" value="Denmark" />
+	<string id="32195" value="Djibouti" />
+	<string id="32196" value="Dominica" />
+	<string id="32197" value="Cộng hoà Dominican" />
+	<string id="32198" value="East Timor" />
+	<string id="32199" value="Ecuador" />
+	<string id="32200" value="Egypt" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Equatorial Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Estonia" />
+	<string id="32205" value="Ethiopia" />
+	<string id="32206" value="Quần đảo Falkland (Malvinas)" />
+	<string id="32207" value="Cộng hoà Faroe" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Phần Lan" />
+	<string id="32210" value="Pháp" />
+	<string id="32211" value="Guiana thuộc Pháp" />
+	<string id="32212" value="Polynesia thuộc Pháp" />
+	<string id="32213" value="Lãnh thổ phía nam của Pháp" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Georgia" />
+	<string id="32217" value="Đức" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltar" />
+	<string id="32220" value="Hy Lạp" />
+	<string id="32221" value="Greenland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea-Bissau" />
+	<string id="32227" value="Guinea" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Đảo Heard và quần đảo McDonald" />
+	<string id="32231" value="Holy See (Vatican)" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hồng Kông" />
+	<string id="32234" value="Hungary" />
+	<string id="32235" value="Iceland" />
+	<string id="32236" value="Ấn Độ" />
+	<string id="32237" value="Indonesia" />
+	<string id="32238" value="Iran" />
+	<string id="32239" value="Iraq" />
+	<string id="32240" value="Ireland" />
+	<string id="32241" value="Israel" />
+	<string id="32242" value="Italy" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Nhật Bản" />
+	<string id="32245" value="Jordan" />
+	<string id="32246" value="Kazakhstan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Cộng hoà dân chủ nhân dân Triều Tiên" />
+	<string id="32250" value="Cộng hoà Triều Tiên (Hàn Quốc)" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kyrgyzstan" />
+	<string id="32253" value="Lào" />
+	<string id="32254" value="Latvia" />
+	<string id="32255" value="Lebanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberia" />
+	<string id="32258" value="Libya" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Lithuania" />
+	<string id="32261" value="Luxembourg" />
+	<string id="32262" value="Macau" />
+	<string id="32263" value="Macedonia" />
+	<string id="32264" value="Madagascar" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malaysia" />
+	<string id="32267" value="Maldives" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Quần đảo Marshall" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauritania" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexico" />
+	<string id="32276" value="Micronesia" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongolia" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Morocco" />
+	<string id="32282" value="Mozambique" />
+	<string id="32283" value="Myanmar" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Antille thuộc Hà Lan" />
+	<string id="32288" value="Hà Lan" />
+	<string id="32289" value="Tân Caledonia" />
+	<string id="32290" value="New Zealand" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigeria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Đảo Norfolk" />
+	<string id="32296" value="Quần đảo bắc Mariana" />
+	<string id="32297" value="Na Uy" />
+	<string id="32298" value="Oman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Lãnh thổ Palestine bị chiếm đóng" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua New Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Philippines" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Ba Lan" />
+	<string id="32309" value="Bồ Đào Nha" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Romania" />
+	<string id="32314" value="Nga" />
+	<string id="32315" value="Rwanda" />
+	<string id="32316" value="Saint Barthelemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts và Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (thuộc Pháp)" />
+	<string id="32321" value="Saint Pierre và Miquelon" />
+	<string id="32322" value="Saint Vincent và The Grenadines" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome và Principe" />
+	<string id="32326" value="Ả Rập Saudi" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seychelles" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapore" />
+	<string id="32331" value="Slovakia" />
+	<string id="32332" value="Slovenia" />
+	<string id="32333" value="Quần đảo Solomon" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="Nam Phi" />
+	<string id="32336" value="Quần đảo Nam Georgia và Nam Sandwich" />
+	<string id="32337" value="Tây Ban Nha" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Suriname" />
+	<string id="32341" value="Svalbard và Jan Mayen" />
+	<string id="32342" value="Swaziland" />
+	<string id="32343" value="Thuỵ Điển" />
+	<string id="32344" value="Thuỵ Sĩ" />
+	<string id="32345" value="Syria" />
+	<string id="32346" value="Đài Loan" />
+	<string id="32347" value="Tajikistan" />
+	<string id="32348" value="Tanzania" />
+	<string id="32349" value="Thái Lan" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad và Tobago" />
+	<string id="32354" value="Tunisia" />
+	<string id="32355" value="Thổ Nhĩ Kỳ" />
+	<string id="32356" value="Turkmenistan" />
+	<string id="32357" value="Quần đảo Turks và Caicos" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukraine" />
+	<string id="32361" value="Các tiểu vương quốc Ả Rập thống nhất" />
+	<string id="32362" value="Vương quốc Anh" />
+	<string id="32363" value="Các tiểu đảo xa của Hoa Kỳ" />
+	<string id="32364" value="Hoa Kỳ" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Uzbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Việt Nam" />
+	<string id="32370" value="Quần đảo Virgin thuộc Anh" />
+	<string id="32371" value="Quần đảo Virgin thuộc Hoa Kỳ" />
+	<string id="32372" value="Wallis và Futuna" />
+	<string id="32373" value="Tây Sahara" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Yugoslavia" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="Bắc Carolina" />
+	<string id="32411" value="Bắc Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Đảo Rhode" />
+	<string id="32417" value="Nam Carolina" />
+	<string id="32418" value="Nam Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="Tây Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Lãnh thổ phía Tây Bắc" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Đảo Hoàng tử Edward" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Chọn ngôn ngữ" />
+	<string id="32442" value="Gửi cho tôi tin tức, khuyến mãi và giảm giá từ COMODO đến địa chỉ email sau:" />
+	<string id="32443" value="Kích hoạt bảo vệ phụ thêm khi dùng internet bằng cách thay đổi cấu hình DNS thành máy chủ COMODO Secure DNS (phân giải trang web nhanh hơn, bảo mật trực tuyến được cải thiện hơn)." />
+	<string id="32444" value="Kích hoạt phân tích hành vi trực tuyến của những tập tin không đáng tin (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Chính sách tiêng tư&lt;/a&gt;)" />
+	<string id="32445" value="Tôi muốn giúp COMODO bằng cách cấu hình nhà cung cấp trang chủ và công cụ tìm kiếm thành Yahoo! (Áp dụng với mọi trình duyệt được hỗ trợ)" />
+	<string id="32446" value="Bằng việc chọn nút &quot;Đồng ý và Cài đặt&quot;, bạn đồng ý cài đặt và những Thoả thuận cấp phép với người dùng dưới đây:" />
+	<string id="32447" value="Tuỳ biến cài đặt" />
+	<string id="32449" value="Vui lòng đọc Thoả thuận cấp phép với người dùng:" />
+	<string id="32450" value="Tuỳ chọn cài đặt" />
+	<string id="32451" value="Tuỳ chọn cấu hình" />
+	<string id="32452" value="Vị trí tập tin" />
+	<string id="32453" value="Kích thước sản phẩm:" />
+	<string id="32454" value="Tổng kích thước tải xuống:" />
+	<string id="32455" value="Không hiện cảnh báo yêu cầu quyết định bảo mật nhiều nhất có thể" />
+	<string id="32456" value="Cấu hình bảo mật này cài đặt Tường lửa, Bảo vệ cao cấp, Containment và Chống virus để các cảnh báo popup được trả lời tự động nhiều nhất có thể." />
+	<string id="32457" value="Chọn đường dẫn cài đặt:" />
+	<string id="32458" value="Đây là phiên bản THỬ NGHIỆM của &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Nó nhắm đến những người dùng đặc biệt, có tham gia vào thử nghiệm sản phẩm." />
+	<string id="32460" value="Nó có thể chứa nhiều lỗi lớn, có thể gây ra những vấn đề nghiêm trọng." />
+	<string id="32461" value="Không cài đặt phần mềm này trên máy tính sử dụng hằng ngày." />
+	<string id="32462" value="Bạn muốn tiếp tục?" />
+	<string id="32463" value="Bằng cách chọn nút &quot;Đồng ý và Nâng cấp&quot;, bạn đồng ý cài đặt và Thoả thuận cấp phép với người dùng dưới đây:" />
+	<string id="32464" value="Chờ và Tiếp tục (%u)" />
+	<string id="32465" value="Hệ thống đang bận với tiến trình khác.\n\nVui lòng chờ nó hoàn tất và chọn 'Thử lại' để tiếp tục cài đặt.\nBạn có thể chọn 'Huỷ' để thoát cài đặt.\nNếu bạn chọn 'Chờ và Tiếp tục', quá trình cài đặt sẽ tiếp tục khi hoàn tất cài đặt trước đó." />
+	<string id="32466" value="Chép Mã bản quyền" />
+	<string id="32467" value="Dán Mã bản quyền" />
+	<string id="32468" value="Xoá tất cả các trường" />
+	<string id="32470" value="Tôi muốn cài đặt Yandex Elements" />
+	<string id="32471" value="Đặt trang chủ là Yandex (Áp dụng với mọi trình duyệt được hỗ trợ)." />
+	<string id="32472" value="Đặt công cụ tìm kiếm là Yandex (Áp dụng với mọi trình duyệt được hỗ trợ)." />
+	<string id="32772" value="Vui lòng chờ trong khi gói bảo đảm được kích hoạt..." />
+	<string id="32775" value="Chúc mừng!" />
+	<string id="32776" value="Bạn đã hoàn tất cài đặt thành công." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Một kỹ thuật viên đã được chứng nhận&lt;/strong&gt; bây giờ có thể&lt;br /&gt;&lt;strong&gt;giúp bạn cấu hình nó&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;MIỄN PHÍ&lt;/strong&gt;" />
+	<string id="32778" value="Khuyến mãi có thời hạn" />
+	<string id="32779" value="hãy gọi" />
+	<string id="32784" value="&lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; COMODO Internet Security" />
+	<string id="32785" value="&lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; Yandex Elements" />
+	<string id="32786" value="Tên đăng nhập phải có ít nhất %d ký tự" />
+	<string id="32787" value="Mật khẩu phải có ít nhất %d ký tự" />
+	<string id="32788" value="Tên đăng nhập và mật khẩu không được trùng nhau" />
+	<string id="32791" value="Gửi thống kê sử dụng chương trình ẩn danh (lỗi, click...) đến COMODO để cải thiện chất lượng sản phẩm." />
+	<string id="32793" value="Vui lòng nhập thông tin Máy chủ IT and Security Manager dưới đây:" />
+	<string id="32794" value="Máy chủ IT and Security Manager:" />
+	<string id="32795" value="Cổng Máy chủ IT and Security Manager:" />
+	<string id="32796" value="&lt;strong&gt;Kích hoạt %s&lt;/strong&gt;" />
+	<string id="32797" value="Kích hoạt với Mã bản quyền" />
+	<string id="32798" value="Chọn thành phần để kích hoạt:" />
+	<string id="32799" value="Containment và Chống virus CCS" />
+	<string id="32800" value="Containment và Tường lửa CCS" />
+	<string id="32801" value="Containment CCS" />
+	<string id="32802" value="CCS Suite (Containment, Chống virus và Tường lửa)" />
+	<string id="32803" value="Kích hoạt với Máy chủ IT and Security Manager" />
+	<string id="32804" value="Chọn tuỳ chọn này nếu bạn có khoá bản quyền hợp lệ và muốn dùng nó" />
+	<string id="32805" value="Chọn tuỳ chọn này nếu bạn đang sử dụng IT and Security Manager để quản lý thiết bị đầu cuối này" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; và &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Chính sách riêng tư&lt;/a&gt;" />
+	<string id="32807" value="Tên người dùng" />
+	<string id="32808" value="Mật khẩu" />
+	<string id="32809" value="&lt;strong&gt;Đăng ký sản phẩm&lt;/strong&gt;&lt;br /&gt;Kích hoạt khoá bản quyền với tài khoản COMODO" />
+	<string id="32810" value="Tôi không có tài khoản COMODO" />
+	<string id="32811" value="Tôi đã có tài khoản COMODO" />
+	<string id="32812" value="Tôi muốn cài đặt Yandex Browser Manager. Nó sẽ luôn bảo vệ cấu hình trình duyệt của bạn." />
+	<string id="32813" value="&lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; Yandex Browser Manager" />
+	<string id="34028" value="Chép" />
+	<string id="34029" value="Chọn tất cả" />
+	<string id="34410" value="Phục hồi" />
+	<string id="34411" value="Cắt" />
+	<string id="34412" value="Dán" />
+	<string id="34413" value="Kiểm tra máy chủ COMODO để tìm phiên bản mới hơn của chương trình đã chọn trước khi cài đặt chúng từ đĩa." />
+	<string id="34414" value="Đang kiểm tra phiên bản mới..." />
+	<string id="34415" value="Bỏ qua bước này" />
+	<string id="34416" value="Có phiên bản mới hơn" />
+	<string id="34417" value="Tải xuống và cài đặt phiên bản được cập nhật của chương trình đã chọn thay vì phiên bản được cung cấp từ đĩa:" />
+	<string id="34418" value="Phiên bản" />
+	<string id="34419" value="Cần có Tài khoản COMODO để tiếp tục tiến trình cài đặt. Nếu bạn đã có tài khoản, bạn không cần tạo mới." />
+	<string id="34420" value="Chọn tuỳ chọn này nếu bạn không có Tài khoản COMODO. Thuật sĩ này sẽ giúp bạn tạo mới tài khoản." />
+	<string id="34421" value="Nhập thông tin đăng nhập dưới đây để sử dụng Tài khoản COMODO hiện có của bạn." />
+	<string id="34422" value="Lỗi nâng cấp\n\nNgười dùng phiên bản CIS 5.xxx chỉ có thể nâng cấp lên CIS v.8.0 thông qua trung gian là CIS v.7.0. Vui lòng nâng cấp lên phiên bản 7.0 và tiến hành nâng cấp lên v.8.0." />
+	<string id="34423" value="Đặt Chromodo làm trình duyệt web mặc định" />
+	<string id="34424" value="Thay thế các lối tắt của Google Chrome bằng Chromodo tại desktop và Start menu" />
+	<string id="34425" value="Nhập các cấu hình của Google Chrome (lược sử, dấu trang, cookie...) vào Chromodo" />
+	<string id="34426" value="Nhập bản quyền của bạn" />
+	<string id="34427" value="Đã hoàn tất tải xuống thành công" />
+	<string id="34428" value="Đồng ý và tiếp tục" />
+	<string id="34429" value="Bạn có thể ngắt kết nối internet để cài đặt bằng gói cài đặt ngoại tuyến nếu muốn." />
+	<string id="34430" value="Bằng việc chọn nút &quot;Đồng ý và tiếp tục&quot;, bạn đồng ý cài đặt và những Thoả thuận cấp phép với người dùng dưới đây:" />
+	<string id="34431" value="Bảo vệ Chống virus, Phần mềm độc hại và Tường lửa" />
+	<string id="34432" value="Liên tục bảo vệ máy tính trước các đợt tấn công từ internet" />
+	<string id="34433" value="Bảo vệ trước các phần mềm độc hại đã và chưa được biết đến" />
+	<string id="34434" value="Nhận hỗ trợ từ kỹ thuật viên của chúng tôi vào bất kỳ lúc nào" />
+	<string id="34435" value="Duyệt internet nhanh và an toàn" />
+	<string id="34436" value="Bảo vệ chống mất mát dữ liệu" />
+	<string id="34437" value="Chromodo kèm theo những tiện ích sau để tăng cường bảo mật trước những mối nguy hiểm trên web:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="&lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; Chromodo" />
+	<string id="34441" value="Một giải pháp sao lưu trực tuyến tất cả trong một dễ sử dụng" />
+	<string id="34442" value="với &lt;strong&gt;GeekBuddy&lt;/strong&gt; và &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="với &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="với &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Trình duyệt chromodo là một trình duyệt internet nhanh và linh hoạt dựa trên công nghệ Chromium, kèm theo sự bảo vệ hàng đầu của Comodo." />
+	<string id="34446" value="Bạn phải kích hoạt giao thức TLS trong thiết lập bảo mật trong IE." />
+	<string id="34447" value="Để kích hoạt giao thức TLS:\n1. Trong Internet Explorer, chọn Công cụ -&gt; Tuỳ chọn internet.\n2. Chọn thẻ Nâng cao.\n3. Chuyển xuống phần Bảo mật.\n4. Chọn mục &quot;Sử dụng TLS 1.xx&quot;\n5. Nhấn nút OK." />
+	<string id="34448" value="Không thể cài đặt %s vì COMODO Cloud AV đã được cài đặt trên máy tính này.\n\nHãy gỡ bỏ CCAV trước khi cài đặt %s." />
+	<string id="34449" value="với &lt;strong&gt;GeekBuddy&lt;/strong&gt; và &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="với &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Chạy ứng dụng chưa xác định trong một môi trường an toàn được tách biệt" />
+	<string id="34452" value="Kết nối an toàn đến các website quan trọng và nhạy cảm" />
+	<string id="34453" value="Chào mừng bạn!" />
+	<string id="34454" value="Bạn đang sắp cài đặt %s %s để bảo vệ tất cả các thiết bị" />
+	<string id="34455" value="Bằng viện bấm &quot;%s&quot;, bạn đồng ý rằng bạn đã đọc và chấp nhận %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; và &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Chính sách riêng tư&lt;/a&gt;" />
+	<string id="34456" value="Tôi đồng ý" />
+	<string id="34457" value="với Trình duyệt Chromodo và GeekBuddy" />
+	<string id="34458" value="với Trình duyệt Dragon, Mua sắm an toàn và GeekBuddy" />
+	<string id="34459" value="với Trình duyệt Chromodo" />
+	<string id="34460" value="với Trình duyệt Dragon" />
+	<string id="34461" value="với GeekBuddy" />
+	<string id="34462" value="Cài đặt Yandex Elements (tiện tích trình duyệt)" />
+	<string id="34463" value="Đặt trang chủ là Yandex*" />
+	<string id="34464" value="Đặt công cụ tìm kiếm là Yandex*" />
+	<string id="34465" value="Đặt thẻ mới của trình duyệt là Yandex*" />
+	<string id="34466" value="* áp dụng với tất cả các trình duyệt được hỗ trợ" />
+	<string id="34467" value="Bằng việc bấm &quot;%s&quot;, bạn đồng ý rằng bạn đã đọc và chấp nhận" />
+	<string id="34470" value="Cài đặt bản miễn phí" />
+	<string id="34471" value="Cài đặt bản PRO" />
+	<string id="34472" value="Dùng thử bản PRO 30 ngày" />
+	<string id="34473" value="Dùng thử bản COMPLETE 30 ngày" />
+	<string id="34474" value="Dùng thử bản PRO 30 ngày.&lt;br /&gt;Sau đó bạn sẽ được yêu cầu chuyển về bản miễn phí" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Dùng thử bản COMPLETE 30 ngày.&lt;br /&gt;Sau đó bạn sẽ được yêu cầu chuyển về bản miễn phí" />
+	<string id="34477" value="Chống virus" />
+	<string id="34478" value="Tường lửa" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Mua sắm an toàn" />
+	<string id="34483" value="Hỗ trợ trực tiếp 24/7" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="TrustConnect" />
+	<string id="34486" value="Thư mục cài đặt" />
+	<string id="34487" value="Thay đổi nhà cung cấp DNS thành COMODO Secure DNS (cải thiện khả năng bảo vệ trực tuyến, truy cập trang web nhanh hơn). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Đây là gì?&lt;/a&gt;" />
+	<string id="34488" value="Kích hoạt &quot;Phân tích hành vi dựa trên đám mây&quot; đối với các tập tin không đáng tin (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Chính sách riêng tư&lt;/a&gt;)" />
+	<string id="34489" value="Gửi thống kê sử dụng chương trình ẩn danh (lỗi, treo...) đến COMODO để cải thiện chất lượng sản phẩm." />
+	<string id="34490" value="Tuỳ biến" />
+	<string id="34491" value="Tổng kích thước:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Đánh giá tập tin" />
+	<string id="34494" value="Lọc website" />
+	<string id="34495" value="Mua sắm an toàn" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="TrustConnect" />
+	<string id="34500" value="GeekBuddy - Hỗ trợ trực tiếp 24/7" />
+	<string id="34501" value="Giữ an toàn. Giữ quyền điều khiển.&lt;br /&gt;Chạy ứng dụng chưa xác định trong môi trường tách biệt an toàn." />
+	<string id="34502" value="Đáng tin hay Nguy hiểm?&lt;br /&gt;Kiểm tra danh tiếng của tập tin bất kỳ trong cơ sở dữ liệu toàn cầu của chúng tôi." />
+	<string id="34503" value="Bảo vệ con trẻ và chính bạn khỏi những trang chứa phần mềm độc hại hoặc nội dung không phù hợp" />
+	<string id="34504" value="Bảo vệ dữ liệu và tiền bạc.&lt;br /&gt;Đảm bảo rằng không ai có thể lấy cắp thông tin nhạy cảm của bạn được" />
+	<string id="34505" value="Nhận trình chống virus miễn phí cho thiết bị chạy Android" />
+	<string id="34506" value="Không thể mất dữ liệu.&lt;br /&gt;Tất cả các dữ liệu của bạn được mã hoá và lưu vào Đám mây." />
+	<string id="34507" value="Dùng WiFi công cộng?&lt;br /&gt;Giờ đây việc đó đã trở nên an toàn." />
+	<string id="34508" value="Bạn cần giúp đỡ?&lt;br /&gt;Hãy liên lạc với các chuyên gia" />
+	<string id="34509" value="CÀI ĐẶT MIỄN PHÍ" />
+	<string id="34510" value="Chúc mừng bạn!" />
+	<string id="34511" value="Bạn đã hoàn thành việc cài đặt." />
+	<string id="34512" value="Gửi tin tức, khuyến mại và giảm giá từ COMODO đến địa chỉ e-mail này:" />
+	<string id="34513" value="Phát hiện, chặn và tiêu diệt virus khỏi máy tính và hệ thống mạng. Bảo vệ liên tục với tính năng quét thời gian thực. Cơ sở dữ liệu virus của chúng tôi được tự động cập nhật hàng ngày." />
+	<string id="34514" value="Tường lửa đã được giải thưởng. Tự động ẩn máy tính khỏi những kẻ tấn công. Lọc lưu thông đến/từ máy tính." />
+	<string id="34515" value="Một môi trường hoạt động tách biệt để chạy các ứng dụng chưa xác định, không đáng tin hoặc đang nghi ngờ. Là lựa chọn tuyệt vời cho việc kiểm tra các phần mềm từ những nguồn không đáng tin cậy. Tính năng Auto-Containment tự động cho phép tác biệt ứng dụng theo các chính sách có sẵn và tuỳ biến." />
+	<string id="34516" value="Hệ thống ngăn chặn xâm nhập (HIPS) là một công nghệ tiên phong cho phép phân tích hành vi của chương trình đang chạy và dừng mọi hoạt động đáng ngờ. HIPS tự động bảo vệ các tập tin, thư mục và khoá registry quan trọng của hệ thống để ngăn những thay đổi trái phép từ các chương trình nguy hiểm." />
+	<string id="34517" value="Giám sát và giữ lại bản ghi hoạt động của các tiến trình đang chạy trên máy tính và cung cấp khả năng hoàn tác hành động của phần mềm mà không phải chặn toàn bộ phần mềm đó." />
+	<string id="34518" value="Cung cấp khả năng bảo mật cực mạnh cho việc giao dịch và mua hàng trực tuyến bằng cách kết nối đến internet từ một môi trường ảo với độ an toàn cao." />
+	<string id="34519" value="Hỗ trợ từ xa trực tiếp, không giới hạn các vấn đề của máy tính. Chỉ cần bấm vào biểu tượng trên màn hình chính và trò chuyện với chuyên gia để họ khắc phục vấn đề ngay trước mắt bạn và giúp tối ưu thiết lập máy tính, Windows, cài đặt mail, máy in, cài đặt phần mềm và hơn thế nữa..." />
+	<string id="34520" value="Một giải pháp sao lưu trực tuyến tất cả trong một dễ sử dụng. Cho phép sao lưu và phục hồi mọi kích cỡ dữ liệu từ một tập tin đơn lẻ ra toàn hệ thống. Lưu trữ dữ liệu với công nghệ mã hoá tiên tiến nhất hiện nay. Bảo vệ tất cả liên lạc giữa hệ thống của bạn và các máy chủ của Comodo với mã hoá SSL." />
+	<string id="34521" value="Đảm bảo liên lạc không dây và có dây giữa máy tính của bạn và các máy tính khác. Duyệt web an toàn tại các địa điểm công cộng như quán cafe, khách sạn, sân bay... Giữ cho bạn và thông tin của bạn được an toàn, tránh khỏi bàn tay của tội phạm trong khi online. Cung cấp lưu thông được mã hoá hoàn toàn đến/từ máy tính của bạn." />
+	<string id="34522" value="Đặt trang chủ, công cụ tìm kiếm và thẻ mới của trình duyệt thành Yandex*" />
+	<string id="34524" value="Quyền" />
+	<string id="34525" value="Thành phần" />
+	<string id="34526" value="Cài đặt Yandex Browser Manager" />
+	<string id="34527" value="&lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; của Yandex Elements" />
+	<string id="34528" value="&lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt; của Yandex Browser Manager" />
+	<string id="34529" value="Đặt trang chủ, công cụ tìm kiếm và thẻ mới của trình duyệt thành Yahoo! (tất cả các trình duyệt được hỗ trợ)" />
+	<string id="34530" value="Bằng việc cài đặt ứng dụng này, bạn đồng ý rằng bạn đã đọc và chấp nhận %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Thoả thuận cấp phép&lt;/a&gt;" />
+	<string id="34531" value="Nếu bạn chưa có mã bản quyền, bạn có thể nhận nó" />
+	<string id="34532" value="Nhận mã bản quyền" />
+	<string id="34533" value="Kích hoạt bản quyền" />
+	<string id="34534" value="Gọi &lt;strong&gt;+1888-258-7142&lt;/strong&gt; để kỹ thuật viên được chứng nhận khắc phục vấn đề cho bạn" />
+	<string id="34535" value="&lt;strong&gt;Đăng ký sản phẩm&lt;/strong&gt;&lt;span&gt;Kích hoạt khoá bản quyền với tài khoản COMODO&lt;/span&gt;" />
+	<string id="34536" value="Địa chỉ email không hợp lệ" />
+	<string id="34537" value="Mật khẩu không khớp" />
+	<string id="34538" value="Hãy chọn quốc gia" />
+	<string id="34539" value="&lt;strong&gt;Kích hoạt bản quyền&lt;/strong&gt;&lt;span&gt;Nhập khoá bản quyền để kích hoạt sản phẩm của bạn&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Đăng ký sản phẩm&lt;/strong&gt;&lt;span&gt;Kích hoạt khoá bản quyền với tài khoản COMODO&lt;/span&gt;" />
+	<string id="34541" value="Cần có một Tài khoản COMODO để tiếp tục tiến trình kích hoạt." />
+	<string id="34542" value="Tạo tài khoản mới" />
+	<string id="34543" value="* Nhập lại mật khẩu" />
+	<string id="34544" value="Email" />
+	<string id="34545" value="Mật khẩu" />
+	<string id="34546" value="Quên mật khẩu" />
+	<string id="34547" value="Đăng nhập" />
+	<string id="34548" value="Lỗi đã xảy ra trong khi kích hoạt sản phẩm" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;Trong Internet Explorer, mở Tools -&gt; Internet Options&lt;/li&gt;&lt;li&gt;Chọn thẻ Advanced&lt;/li&gt;&lt;li&gt;Cuộn xuống phần Security&lt;/li&gt;&lt;li&gt;Chọn mục &quot;Use TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;Bấm nút OK&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Hãy kiểm tra kết nối internet của bạn" />
+	<string id="34551" value="Đang kích hoạt" />
+	<string id="34552" value="Không phát hiện ứng dụng chẩn đoán CIS." />
+	<string id="34553" value="Không thể khởi động chẩn đoán CIS. Mã lỗi %u" />
+	<string id="34554" value="Đang gỡ bỏ %s..." />
+	<string id="34555" value="Đang thay đổi %s..." />
+	<string id="34556" value="Bạn chắc muốn huỷ bỏ quá trình gỡ cài đặt?" />
+	<string id="34557" value="Không thể thay đổi %s" />
+	<string id="34558" value="Không thể gỡ bỏ %s" />
+	<string id="34560" value="Sửa chữa" />
+	<string id="34561" value="Thay đổi" />
+	<string id="34562" value="Gỡ bỏ" />
+	<string id="34563" value="Khắc phục các vấn đề có thể làm chậm và gây lỗi." />
+	<string id="34564" value="Kiểm tra tính năng chương trình được cài đặt." />
+	<string id="34565" value="Gỡ bỏ &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Chọn sản phẩm" />
+	<string id="34567" value="%s kèm theo một tập hợp các giải pháp bảo mật cho máy tính của bạn. Hãy chọn sản phẩm bạn muốn cài đặt hoặc bỏ chọn sản phẩm bạn muốn gỡ bỏ để tiếp tục." />
+	<string id="34568" value="Cài đặt COMODO Firewall (Đề nghị)" />
+	<string id="34569" value="Chọn mục này để cài đặt COMODO Firewall vào máy tính. Nếu bạn đã cài đặt phần mềm tường lửa khác, bạn cần gỡ bỏ chúng trước khi tiếp tục." />
+	<string id="34570" value="Cài đặt COMODO Antivirus (Đề nghị)" />
+	<string id="34571" value="Chọn mục này để cài đặt COMODO Antivirus vào máy tính. Nếu bạn đã cài đặt phần mềm chống virus khác, bạn cần gỡ bỏ chúng trước khi tiếp tục." />
+	<string id="34572" value="Thế là xong." />
+	<string id="34573" value="Bạn đã thay đổi %s." />
+	<string id="34574" value="Đang chuẩn bị gỡ bỏ..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Không được bảo vệ là một điều sai lầm." />
+	<string id="34577" value="Bạn muốn thử phần mềm chống virus với công nghệ đám mây siêu nhẹ và mạnh mẽ của chúng tôi chứ?" />
+	<string id="34578" value="Tải và Cài đặt COMODO Cloud Antivirus" />
+	<string id="34579" value="COMODO Cloud Antivirus sẽ được cài đặt sau khi tiến trình gỡ bỏ hoàn thành. Để hoàn thành tiến trình gỡ bỏ bạn sẽ phải khởi động lại máy tính." />
+	<string id="34580" value="Lý do chính khiến bạn gỡ bỏ COMODO là gì? &lt;b&gt;(Chọn mục áp dụng)&lt;/b&gt;" />
+	<string id="34581" value="COMODO chiếm quá nhiều tài nguyên máy tính của tôi" />
+	<string id="34582" value="Tôi nhận quá nhiều cảnh báo" />
+	<string id="34583" value="COMODO đã chặn chương trình tôi muốn chạy" />
+	<string id="34584" value="Tôi thấy không hài lòng về sản phẩm" />
+	<string id="34585" value="Tôi tìm thấy chương trình khác mà tôi thấy thích hơn" />
+	<string id="34586" value="Khác (hãy chỉ ra)" />
+	<string id="34587" value="Bạn đã gỡ bỏ %s." />
+	<string id="34588" value="Nhưng chúng tôi vẫn còn đề xuất cho bạn. Hãy xem qua &lt;a href='#' id='id_products'&gt;các sản phẩm của chúng tôi&lt;/a&gt; hoặc liên hệ quản lý của chúng tôi nếu bạn có bất kỳ câu hỏi nào." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Hãy chọn việc bạn muốn thực hiện với %s" />
+	<string id="34591" value="Tôi muốn cài lại" />
+	<string id="34592" value="Việc này sẽ xoá &lt;b&gt;%s&lt;/b&gt; khỏi hệ thống để bạn có thể cài lại hoặc thay thế bằng một phiên bản khác." />
+	<string id="34593" value="Tôi muốn xoá nó vĩnh viễn" />
+	<string id="34594" value="Việc này sẽ xoá vĩnh viễn &lt;b&gt;%s&lt;/b&gt; khỏi máy tính, nhưng bạn vẫn có thể cài lại sau này." />
+	<string id="34595" value="Đang chuẩn bị thay đổi..." />
+	<string id="34596" value="Đang chuẩn bị tải xuống..." />
+	<string id="34597" value="Lỗi trong khi thay đổi COMODO Internet Security" />
+	<string id="34598" value="Lỗi trong khi gỡ bỏ COMODO Internet Security" />
+	<string id="34599" value="Thêm, Xoá hoặc Sửa chữa thành phần" />
+	<string id="34600" value="Xoá hoặc Sửa chữa thành phần" />
+	<string id="34601" value="Gỡ bỏ phần mềm xung đột: %s" />
+	<string id="34602" value="Chúng tôi khuyên bạn nên giữ Comodo Internet Security được cập nhật để ngăn máy tính gặp rủi ro" />
+	<string id="34603" value="Comodo Internet Security kết hợp mạnh mẽ công nghệ giám sát virus, Auto-Containment tự động và phân tích hành vi để bảo vệ máy tính ngay lập tức khỏi mọi phần mềm độc hại đã và chưa được biết đến." />
+	<string id="34604" value="Đang tiến hành tiến trình cài đặt khác, hãy chờ đến khi nó hoàn thành." />
+	<string id="34605" value="Đang tiến hành tiến trình kích hoạt khác, hãy chờ đến khi nó hoàn thành." />
+	<string id="34606" value="Giờ đây mang đến khả năng bảo vệ khỏi các cuộc tấn công man-in-the-middle!" />
+	<string id="34607" value="Gói cài đặt sản phẩm bạn vừa gỡ bỏ gồm cả Comodo Internet Security Essentials (ISE), bảo vệ trước những đợt tấn công man-in-the-middle. ISE cần được gỡ bỏ riêng biệt. Nếu bạn muốn gỡ bỏ nó, bấm vào &lt;a href='#' id='id_ise_how_to_remove'&gt;đây&lt;/a&gt; để tìm hiểu thêm." />
+	<string id="34608" value="Đặt Comodo Dragon làm trình duyệt web mặc định" />
+	<string id="34609" value="Nhập các cấu hình của Google Chrome (lược sử, dấu trang, cookie...) vào Comodo Dragon" />
+	<dialog id="141" position="0, 0, 184, 30">
+		<control id="1010" position="5, 10, 173, 8" />
+	</dialog>
+	<dialog id="420" position="0, 0, 176, 57">
+		<control id="1" position="65, 36, 50, 14" class="BUTTON" />
+		<control id="2" position="119, 36, 50, 14" class="BUTTON" />
+	</dialog>
+	<dialog id="425" position="0, 0, 317, 238" />
+</resource>

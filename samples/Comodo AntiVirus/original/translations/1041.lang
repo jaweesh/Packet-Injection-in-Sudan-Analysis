@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="日本語 - By Community" LANGID="1041" RTL="0">
+	<string id="106" value="パッケージが破損しています。\r\nインストールは中止されました" />
+	<string id="107" value="このインストールは、対象とするプラットフォームをサポートしていません。" />
+	<string id="108" value="COMODO アップグレード" />
+	<string id="109" value="%s インストーラー" />
+	<string id="110" value="%s をアップグレードしています..." />
+	<string id="111" value="ライセンス情報を保存できません。\r\n%s" />
+	<string id="112" value="このオプションを選択すると、使用するコンピューターのプライマリおよびセカンダリ DNS の設定がそれぞれ 8.26.56.26 および 156.154.70.22 に変更されます。これによって、すべてのアプリケーションが、インターネット接続時により速く安全な DNS サーバーを使用できるようになります。" />
+	<string id="113" value="お持ちのライセンスで認められているインストール数の上限に達しました。" />
+	<string id="114" value="COMODO ライセンス管理" />
+	<string id="115" value="コンピューターの日付/時刻が正しく設定されていません。正しく設定してから、やり直してください。" />
+	<string id="116" value="入力したライセンス キーは期限が切れています" />
+	<string id="117" value="エラー: %u. %s" />
+	<string id="118" value="インストーラーの初期化に失敗しました。データ形式が無効です。" />
+	<string id="119" value="新しいバージョンのインストーラーが利用可能です。\r\n新しいインストーラーは、このインストーラー自体をアップデートします。\r\n続行しますか?" />
+	<string id="120" value="指定された周期間隔はサポートされていません" />
+	<string id="121" value="印刷の初期化に失敗しました。" />
+	<string id="122" value="製品のライセンス認証が取り消されました。システム管理者に問い合わせてください。" />
+	<string id="123" value="%s をインストールしています..." />
+	<string id="124" value="COMODO インストール" />
+	<string id="125" value="同意してインストール" />
+	<string id="126" value="同意してアップグレード" />
+	<string id="127" value="本当にインストールをキャンセルしますか?" />
+	<string id="128" value="インストールを実行するためのパーミッションが必要です。" />
+	<string id="129" value="使用許諾契約書の表示" />
+	<string id="130" value="COMODO インストーラーを再起動できません。\r\n%s\r\n手動で再起動してください。" />
+	<string id="131" value="インストールのカスタマイズ" />
+	<string id="132" value="アップグレードのカスタマイズ" />
+	<string id="133" value="環境構成の変更を有効にするには、システムを再起動する必要があります。\n今すぐ再起動するには [はい] を、後から手動で再起動するには [いいえ] をクリックしてください。" />
+	<string id="134" value="お待ちください..." />
+	<string id="135" value="このアクションは許可されていません" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="コンピューターにインストールされている CCS は、指定したサーバーでは管理できません。正しい IT and Security Manager サーバーの詳細を入力していることを確認するか、ネットワーク管理者に解決方法を問い合わせてください。" />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="エラー %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="入力されたログイン名またはパスワードは無効です" />
+	<string id="144" value="システムを再起動できませんでした。\r\n%s\r\n手動でコンピューターを再起動してください。" />
+	<string id="145" value="エラー %d: %s" />
+	<string id="148" value="HTTP ステータス コード: %u" />
+	<string id="153" value="指定されたメールアドレスは無効です。\r\n有効なメールアドレスを入力してください。" />
+	<string id="154" value="入力されたライセンス キーは無効です。\r\n有効なライセンス キーを入力してください。" />
+	<string id="155" value="ディレクトリ %s を作成できません。\r\n%s" />
+	<string id="156" value="指定されたログイン名を持つ Web API ユーザーが見つかりません" />
+	<string id="158" value="ペイメント ゲートウェイ エラー" />
+	<string id="160" value="%s をインストールできません。\r\n%s\r\nもう一度実行しますか?" />
+	<string id="165" value="%s をダウンロードできません" />
+	<string id="166" value="%s を書き込めません" />
+	<string id="167" value="インストーラーの初期化に失敗しました。インターネット接続と Internet Explorer の接続設定を確認してください。\r\n%s" />
+	<string id="168" value="インストーラーの初期化に失敗しました。使用しているファイル システムのアクセス権を確認してください。\r\n%s" />
+	<string id="169" value="ユーザがインボイス リクエストに対するアブストラクト ID を持っていません" />
+	<string id="170" value="これらの販売価格の設定に対しては、周期的なアイテムを作成できません" />
+	<string id="171" value="権限付与エラー" />
+	<string id="172" value="選択した言語は、オペレーティング システムがサポートしていません。" />
+	<string id="173" value="選択した言語はオペレーティング システムがサポートしていないため、製品のインストールを続行できません。" />
+	<string id="175" value="%s をインストールできません\r\n%s" />
+	<string id="183" value="%s のインストール" />
+	<string id="184" value="%s をダウンロードしています..." />
+	<string id="190" value="続行するには、コンピューターを再起動する必要があります。\r\n今すぐ再起動しますか?" />
+	<string id="192" value="製品のインストールを続行するには、コンピューターを再起動する必要があります。インストールの続きは、再起動後に自動的に行われます。\r\n今すぐ再起動しますか?" />
+	<string id="193" value="製品のインストールを続行するには、COMODO Firewall/Internet Security の旧バージョンをアンインストールする必要があります。\r\nアンインストールは、%s によって行われないため、旧バージョンを手動でアンインストールし、%s を再起動してください。" />
+	<string id="194" value="ライセンス キーの要件" />
+	<string id="195" value="ライセンス キーには、'A' から 'F' までの文字、および数字を使うことができます" />
+	<string id="196" value="ライセンス キーは、どこを見ればわかりますか?" />
+	<string id="197" value="製品をインターネット経由で購入されたた場合、ライセンス キーは、購入手続き時に指定したメールアドレス宛にメールで送付されます。インストール DVD/CD をお持ちの場合、ライセンス キーは、DVD/CD の裏面に記載されています。" />
+	<string id="199" value="このファイルを変更または削除しないでください。%s が正しく動作し終えるまで必要なファイルです。\r\nこのファイルは、インストールの完了後に自動的に削除されます。" />
+	<string id="202" value="指紋が適正ではありません" />
+	<string id="205" value="XML リクエストが適正ではありません" />
+	<string id="206" value="パラメーターが適正ではありません" />
+	<string id="207" value="ライセンス キーが適正ではありません" />
+	<string id="208" value="エリアが不明です" />
+	<string id="209" value="販売価格の設定が不明です" />
+	<string id="210" value="リクエスト タイプが正しくありません" />
+	<string id="217" value="インボイス リクエストに失敗しました: 新しいインボイスを作成できませんでした" />
+	<string id="220" value="不明なエラーが発生しました。" />
+	<string id="222" value="モードが適正ではありません。" />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="初期化データ ファイルが見つかりません。" />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="キャンセルしています。お待ちください..." />
+	<string id="235" value="続行する前に、%s をアップデートしてください。" />
+	<string id="236" value="再起動後にインストールが正常に再開するように、インストーラーの現在の状態を保存することができません。\r\nコンピューターを再起動して、COMODO インストーラーを手動で再開してください。" />
+	<string id="237" value="COMODO コンテナ仮想化" />
+	<string id="238" value="インストーラーの初期化に失敗しました。保存されているデータ形式が無効です。" />
+	<string id="239" value="製品のインストールを続行するには、コンピューターを再起動する必要があります。インストールは、再起動後に自動的に続行します。COMODO インストーラーの DVD は、インストールが完了するまで取り出さないでください。\r\n今すぐ再起動しますか?" />
+	<string id="246" value="セットアップを開始できません。パッケージが破損しています。" />
+	<string id="250" value="インストールを続行するには、%s を閉じる必要があります。%s を閉じて [はい] ボタンをクリックし、やり直してください。" />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="製品保証のライセンス認証を行う前に、まずライセンス キーの認証を行ってください。" />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="バックアップ" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="CAM サーバーからの不明な XML 応答" />
+	<string id="295" value="入力されたライセンス キーは、インストールしようとしている製品のものと合致しません。" />
+	<string id="313" value="ライセンスの認証を行っています。お待ちください..." />
+	<string id="346" value="リトライ" />
+	<string id="366" value="インターネット接続が必要です。" />
+	<string id="367" value="ライセンスを取得するには、インストーラーが COMODO のライセンス センターに接続する必要があります。" />
+	<string id="368" value="インターネットに接続されていることを確認して、[再実行] ボタンをクリックしてください。" />
+	<string id="369" value="ライセンスの認証と製品のアップグレードが問題なく完了しました。" />
+	<string id="374" value="認識できないプログラムを&lt;link&gt;プライバシー ポリシー&lt;/link&gt;に準じて COMODO に分析依頼することにより、「クラウドベースのビヘイビア (挙動) 分析」を有効にします。" />
+	<string id="375" value="ベータ版" />
+	<string id="377" value="[%s] をクリックすることによって、インストールおよび下記の&lt;link&gt;ユーザー使用許諾契約書&lt;/link&gt;に同意することになります:" />
+	<string id="383" value="ライセンスの認証が行えません。\n%s" />
+	<string id="385" value="続行するには、1 つ以上の製品を選択する必要があります。" />
+	<string id="386" value="製品のサイズ:   %s" />
+	<string id="387" value="合計ダウンロード サイズ:   %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="互換性のない製品" />
+	<string id="32001" value="ウィンドウを最小化する" />
+	<string id="32002" value="ウィンドウを閉じる" />
+	<string id="32003" value="インストール" />
+	<string id="32004" value="ライセンス管理" />
+	<string id="32005" value="はい" />
+	<string id="32006" value="いいえ" />
+	<string id="32007" value="リトライ" />
+	<string id="32008" value="OK" />
+	<string id="32009" value="キャンセル" />
+	<string id="32010" value="中止" />
+	<string id="32011" value="無視" />
+	<string id="32012" value="続行" />
+	<string id="32013" value="再実行" />
+	<string id="32014" value="インストーラー" />
+	<string id="32015" value="戻る" />
+	<string id="32016" value="印刷" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="参照" />
+	<string id="32019" value="次へ" />
+	<string id="32020" value="閉じる" />
+	<string id="32021" value="さらに詳しく" />
+	<string id="32022" value="完了" />
+	<string id="32023" value="スキップ" />
+	<string id="32024" value="受諾する" />
+	<string id="32102" value="&lt;strong&gt;必要なパッケージのインストール&lt;/strong&gt;&lt;br /&gt;この機能には、追加パッケージのインストールが必要です" />
+	<string id="32103" value="以下のパッケージをダウンロードしてインストールする必要があります:" />
+	<string id="32104" value="パッケージ名" />
+	<string id="32105" value="使用許諾契約" />
+	<string id="32106" value="サイズ" />
+	<string id="32107" value="[同意してインストール] をクリックすることにより、上記のすべてのパッケージについて、使用許諾契約に同意したことになります" />
+	<string id="32108" value="同意してインストール" />
+	<string id="32109" value="製品のインストール中にエラーが発生しました:" />
+	<string id="32110" value="再実行" />
+	<string id="32111" value="インストールの準備をしています..." />
+	<string id="32112" value="製品のライセンス認証が問題なく完了しました。" />
+	<string id="32113" value="続行" />
+	<string id="32114" value="ライセンスが認証されるまで、しばらくお待ちください..." />
+	<string id="32115" value="製品のライセンス認証中にエラーが発生しました:" />
+	<string id="32116" value="再実行" />
+	<string id="32117" value="&lt;strong&gt;ライセンスの認証&lt;/strong&gt;&lt;br /&gt;製品のライセンス認証を行うためのライセンス キーを入力します" />
+	<string id="32118" value="ライセンス認証を行うには:" />
+	<string id="32119" value="インターネットに接続していることを確認してください。" />
+	<string id="32120" value="ライセンス キーを入力するか、&lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;ここをクリック&lt;/a&gt;して取得してください。" />
+	<string id="32121" value="ライセンス認証を行って、製品を登録してください" />
+	<string id="32122" value="ライセンス キー:" />
+	<string id="32123" value="ライセンス認証" />
+	<string id="32124" value="&lt;strong&gt;製品の登録&lt;/strong&gt;&lt;br /&gt;新しい COMODO アカウントを作成します" />
+	<string id="32125" value="* 名" />
+	<string id="32126" value="* 姓" />
+	<string id="32127" value="* メール アドレス" />
+	<string id="32128" value="国" />
+	<string id="32129" value="都市" />
+	<string id="32130" value="州" />
+	<string id="32131" value="住所" />
+	<string id="32132" value="ユーザー名とパスワードを指定して、COMODO アカウントを作成してください。作成したアカウントは、&lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt; でライセンスを管理するために使用します。" />
+	<string id="32133" value="* ユーザー名" />
+	<string id="32134" value="* パスワード" />
+	<string id="32135" value="* 必須項目" />
+	<string id="32136" value="登録" />
+	<string id="32137" value="Afghanistan" />
+	<string id="32138" value="Albania" />
+	<string id="32139" value="Algeria" />
+	<string id="32140" value="American Samoa" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarctica" />
+	<string id="32145" value="Antigua and Barbuda" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenia" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Australia" />
+	<string id="32150" value="Austria" />
+	<string id="32151" value="Azerbaijan" />
+	<string id="32152" value="Bahamas" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Bangladesh" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Belarus" />
+	<string id="32157" value="Belgium" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivia" />
+	<string id="32163" value="Bosnia and Herzegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Bouvet Island" />
+	<string id="32166" value="Brazil" />
+	<string id="32167" value="British Indian Ocean Territory" />
+	<string id="32168" value="Brunei Darussalam" />
+	<string id="32169" value="Bulgaria" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Cambodia" />
+	<string id="32173" value="Cameroon" />
+	<string id="32174" value="Canada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Cayman Islands" />
+	<string id="32177" value="Central African Republic" />
+	<string id="32178" value="Chad" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="China" />
+	<string id="32181" value="Christmas Island" />
+	<string id="32182" value="Cocos (Keeling) Islands" />
+	<string id="32183" value="Colombia" />
+	<string id="32184" value="Comoros" />
+	<string id="32185" value="Congo, Republic of the" />
+	<string id="32186" value="Congo, The Democratic Republic of the" />
+	<string id="32187" value="Cook Islands" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Cote d'Ivoire" />
+	<string id="32190" value="Croatia" />
+	<string id="32191" value="Cuba" />
+	<string id="32192" value="Cyprus" />
+	<string id="32193" value="Czech Republic" />
+	<string id="32194" value="Denmark" />
+	<string id="32195" value="Djibouti" />
+	<string id="32196" value="Dominica" />
+	<string id="32197" value="Dominican Republic" />
+	<string id="32198" value="East Timor" />
+	<string id="32199" value="Ecuador" />
+	<string id="32200" value="Egypt" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Equatorial Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Estonia" />
+	<string id="32205" value="Ethiopia" />
+	<string id="32206" value="Falkland Islands (Malvinas)" />
+	<string id="32207" value="Faroe Islands" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Finland" />
+	<string id="32210" value="France" />
+	<string id="32211" value="French Guiana" />
+	<string id="32212" value="French Polynesia" />
+	<string id="32213" value="French Southern Territories" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Georgia" />
+	<string id="32217" value="Germany" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltar" />
+	<string id="32220" value="Greece" />
+	<string id="32221" value="Greenland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea-Bissau" />
+	<string id="32227" value="Guinea" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard Island and McDonald Islands" />
+	<string id="32231" value="Holy See (Vatican City State)" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hong Kong" />
+	<string id="32234" value="Hungary" />
+	<string id="32235" value="Iceland" />
+	<string id="32236" value="India" />
+	<string id="32237" value="Indonesia" />
+	<string id="32238" value="Iran" />
+	<string id="32239" value="Iraq" />
+	<string id="32240" value="Ireland" />
+	<string id="32241" value="Israel" />
+	<string id="32242" value="Italy" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Japan" />
+	<string id="32245" value="Jordan" />
+	<string id="32246" value="Kazakhstan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Korea, Democratic People's Republic of" />
+	<string id="32250" value="Korea, Republic of" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kyrgyzstan" />
+	<string id="32253" value="Lao People's Democratic Republic" />
+	<string id="32254" value="Latvia" />
+	<string id="32255" value="Lebanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberia" />
+	<string id="32258" value="Libya" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Lithuania" />
+	<string id="32261" value="Luxembourg" />
+	<string id="32262" value="Macau" />
+	<string id="32263" value="Macedonia" />
+	<string id="32264" value="Madagascar" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malaysia" />
+	<string id="32267" value="Maldives" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Marshall Islands" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauritania" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexico" />
+	<string id="32276" value="Micronesia" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongolia" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Morocco" />
+	<string id="32282" value="Mozambique" />
+	<string id="32283" value="Myanmar" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Netherlands Antilles" />
+	<string id="32288" value="Netherlands" />
+	<string id="32289" value="New Caledonia" />
+	<string id="32290" value="New Zealand" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigeria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolk Island" />
+	<string id="32296" value="Northern Mariana Islands" />
+	<string id="32297" value="Norway" />
+	<string id="32298" value="Oman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Palestinian Territory, Occupied" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua New Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Philippines" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Poland" />
+	<string id="32309" value="Portugal" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Romania" />
+	<string id="32314" value="Russia" />
+	<string id="32315" value="Rwanda" />
+	<string id="32316" value="Saint Barthelemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts and Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (French Part)" />
+	<string id="32321" value="Saint Pierre and Miquelon" />
+	<string id="32322" value="Saint Vincent and The Grenadines" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome and Principe" />
+	<string id="32326" value="Saudi Arabia" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seychelles" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapore" />
+	<string id="32331" value="Slovakia" />
+	<string id="32332" value="Slovenia" />
+	<string id="32333" value="Solomon Islands" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="South Africa" />
+	<string id="32336" value="South Georgia and The South Sandwich Islands" />
+	<string id="32337" value="Spain" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Suriname" />
+	<string id="32341" value="Svalbard and Jan Mayen" />
+	<string id="32342" value="Swaziland" />
+	<string id="32343" value="Sweden" />
+	<string id="32344" value="Switzerland" />
+	<string id="32345" value="Syria" />
+	<string id="32346" value="Taiwan" />
+	<string id="32347" value="Tajikistan" />
+	<string id="32348" value="Tanzania" />
+	<string id="32349" value="Thailand" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad and Tobago" />
+	<string id="32354" value="Tunisia" />
+	<string id="32355" value="Turkey" />
+	<string id="32356" value="Turkmenistan" />
+	<string id="32357" value="Turks and Caicos Islands" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukraine" />
+	<string id="32361" value="United Arab Emirates" />
+	<string id="32362" value="United Kingdom" />
+	<string id="32363" value="United States Minor Outlying Islands" />
+	<string id="32364" value="United States of America" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Uzbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnam" />
+	<string id="32370" value="Virgin Islands, British" />
+	<string id="32371" value="Virgin Islands, U.S." />
+	<string id="32372" value="Wallis and Futuna" />
+	<string id="32373" value="Western Sahara" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Yugoslavia" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="North Carolina" />
+	<string id="32411" value="North Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="South Carolina" />
+	<string id="32418" value="South Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="West Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Northwest Territories" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Island" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="言語の選択" />
+	<string id="32442" value="COMODO のニュース、オファー、ディスカウント情報を以下のメール アドレスに送付してください:" />
+	<string id="32443" value="使用するコンピューターの DNS の設定を COMODO Secure DNS サーバー (Web ページのより速い表示と、オンライン セキュリティの向上が可能) に変更して、インターネット利用時のセキュリティを高める" />
+	<string id="32444" value="信頼できないファイルの「クラウドベースのビヘイビア (挙動) 分析」を有効にする (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;プライバシー ポリシー&lt;/a&gt;)" />
+	<string id="32445" value="ホーム ページおよび検索エンジン プロバイダーを Yahoo! に設定することにより、COMODO を支援します (サポートされるすべてのブラウザーに適用されます)。" />
+	<string id="32446" value="[同意してインストール] ボタンをクリックすることによって、インストールおよび下記のユーザー使用許諾契約書に同意することになります:" />
+	<string id="32447" value="インストールのカスタマイズ" />
+	<string id="32449" value="使用許諾契約書をお読みください:" />
+	<string id="32450" value="インストール オプション" />
+	<string id="32451" value="環境構成オプション" />
+	<string id="32452" value="ファイルの場所" />
+	<string id="32453" value="製品のサイズ:" />
+	<string id="32454" value="合計ダウンロード サイズ:" />
+	<string id="32455" value="セキュリティ上の判断を求めるアラートをできるだけ表示しない" />
+	<string id="32456" value="このセキュリティ環境構成を行うと、ファイアウォール、高度な保護、コンテナ仮想化、アンチウイルスのポップアップ アラートに対して、回答ができるだけ自動的に行われるようになります。" />
+	<string id="32457" value="インストール パスの選択:" />
+	<string id="32458" value="このソフトウェアは、&lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt; のベータ版です。" />
+	<string id="32459" value="このソフトウェアは、ベータ テストに参加する特別なユーザー向けのものです。" />
+	<string id="32460" value="このソフトウェアには、深刻なな問題を引き起こす重大なバグが含まれている可能性があります。" />
+	<string id="32461" value="このソフトウェアは、業務用のコンピューターにはインストールしないでください。" />
+	<string id="32462" value="続行しますか?" />
+	<string id="32463" value="[同意してアップグレード] ボタンをクリックすることによって、インストールおよび下記のユーザー使用許諾契約書に同意することになります:" />
+	<string id="32464" value="待機して続行 (%u)" />
+	<string id="32465" value="システムは、別のインストール処理のためにビジーです。\n\n処理が完了するまで待ち、[リトライ] をクリックしてインストールを続行してしてください。\n[キャンセル] をクリックして、インストールを終了こともできます。\n[待機して続行] をクリックすると、インストールは、先行するインストール処理が完了次第、自動的に再開します。" />
+	<string id="32466" value="ライセンス キーのコピー" />
+	<string id="32467" value="ライセンス キーの貼り付け" />
+	<string id="32468" value="すべてのフィールドをクリア" />
+	<string id="32470" value="Yandex Elements をインストールします。" />
+	<string id="32471" value="ホーム ページを Yandex に設定します (サポートされるすべてのブラウザーに適用されます)。" />
+	<string id="32472" value="検索エンジンを Yandex に設定します (サポートされるすべてのブラウザーに適用されます)。" />
+	<string id="32772" value="製品保証のライセンス認証を行っています。しばらくお待ちください..." />
+	<string id="32775" value="おめでとうございます!" />
+	<string id="32776" value="インストールが問題なく完了しました。" />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;認定技術者&lt;/strong&gt;が&lt;br /&gt;&lt;strong class=&quot;green&quot;&gt;無料で&lt;/strong&gt;&lt;strong&gt;環境構成についてのサポートを行います&lt;/strong&gt;" />
+	<string id="32778" value="期間限定オファー" />
+	<string id="32779" value="電話番号:" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="32786" value="ログイン名は、%d 文字以上にする必要があります。" />
+	<string id="32787" value="パスワードは、%d 文字以上にする必要があります。" />
+	<string id="32788" value="ログイン名とパスワードは、同じものにはできません" />
+	<string id="32791" value="製品の品質向上のため、プログラムの使用情報 (例: クラッシュ、エラー、クリック回数など) を匿名で COMODO に送信する " />
+	<string id="32793" value="以下に IT and Security Manager サーバーの詳細を入力してください:" />
+	<string id="32794" value="IT and Security Manager サーバー:" />
+	<string id="32795" value="IT and Security Manager サーバー ポート:" />
+	<string id="32796" value="&lt;strong&gt;%s のライセンス認証&lt;/strong&gt;" />
+	<string id="32797" value="ライセンス キーで認証する" />
+	<string id="32798" value="ライセンス認証を行うコンポーネントの選択:" />
+	<string id="32799" value="CCS コンテナ仮想化およびアンチウイルス" />
+	<string id="32800" value="CCS コンテナ仮想化およびファイアウォール" />
+	<string id="32801" value="CCS コンテナ仮想化" />
+	<string id="32802" value="CCS Suite (コンテナ仮想化、アンチウイルスおよびファイアウォール)" />
+	<string id="32803" value="IT and Security Manager サーバーでライセンス認証を行う" />
+	<string id="32804" value="お持ちの適正なライセンス キーを使用する場合に、このオプションを選択してください" />
+	<string id="32805" value="このエンドポイントの管理に IT and Security Manager ポータルを使用している場合は、このオプションを選択してください" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;使用許諾契約書&lt;/a&gt;および&lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;プライバシー ポリシー&lt;/a&gt;" />
+	<string id="32807" value="ユーザー名" />
+	<string id="32808" value="パスワード" />
+	<string id="32809" value="&lt;strong&gt;製品の登録&lt;/strong&gt;&lt;br /&gt;COMODO アカウントでライセンスの認証を行います" />
+	<string id="32810" value="COMODO アカウントを持っていません。" />
+	<string id="32811" value="COMODO アカウントを持っています。" />
+	<string id="32812" value="Yandex Browser Manager をインストールし、常にブラウザーの設定を保護します。" />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="34028" value="コピー" />
+	<string id="34029" value="すべて選択" />
+	<string id="34410" value="元に戻す" />
+	<string id="34411" value="切り取り" />
+	<string id="34412" value="貼り付け" />
+	<string id="34413" value="選択したプログラムをディスクからインストールする前に、新しいバージョンがあるかどうかを COMODO のサーバーで確認してください。" />
+	<string id="34414" value="新しいバージョンを確認しています..." />
+	<string id="34415" value="このステップをスキップ" />
+	<string id="34416" value="新しいバージョンが利用可能です。" />
+	<string id="34417" value="選択したプログラムは、ディスクで提供されたものではなく、アップデートされたバージョンをダウンロードして、インストールしてください:" />
+	<string id="34418" value="バージョン" />
+	<string id="34419" value="ライセンス認証を続行するには、COMODO アカウントが必要です。既にアカウントを持っている場合は、新しいアカウントを作成する必要はありません。" />
+	<string id="34420" value="COMODO アカウントを持っていない場合は、このオプションを選択してください。このウィザードを使って、新しいアカウントを作成できます。" />
+	<string id="34421" value="既存の COMODO アカウントを使用するには、以下に認証情報を入力してください。" />
+	<string id="34422" value="アップグレード エラーです。\n\nCIS バージョン 5.xx のユーザーは、まず CIS バージョン 7.0 にアップグレードし、それから CIS バージョン 8.0 にアップグレードする必要があります。バージョン 7.0 にアップグレードしてから、バージョン 8.0 のアップグレードを行ってください。" />
+	<string id="34423" value="Chromodo をデフォルトのブラウザーに設定する" />
+	<string id="34424" value="デスクトップ上およびスタート メニューにある既存の Google Chrome のショートカットを、Chromodo のショートカットに置き換える" />
+	<string id="34425" value="Chromodo に Google Chrome の設定 (履歴、ブックマーク、クッキーなど) をインポートする" />
+	<string id="34426" value="ライセンス キーを入力してください" />
+	<string id="34427" value="ダウンロードが問題なく完了しました。" />
+	<string id="34428" value="同意して続行" />
+	<string id="34429" value="必要であれば、インターネットに接続せずに、オフラインでパッケージをインストールすることができます。" />
+	<string id="34430" value="[同意して続行] ボタンをクリックすることによって、インストールおよび下記のユーザー使用許諾契約書に同意することになります:" />
+	<string id="34431" value="アンチウイルス、ファイアウォール、およびアンチマルウェア保護" />
+	<string id="34432" value="インターネットを通じた攻撃から常にコンピューターを防御します。" />
+	<string id="34433" value="既知および未知のマルウェアからリアルタイムに保護を行います。" />
+	<string id="34434" value="COMODO の技術者のサポートをいつでも素早く受けられます。" />
+	<string id="34435" value="高速で安全なインターネット サーフィン" />
+	<string id="34436" value="データ消失保護" />
+	<string id="34437" value="Chromodo には、以下の様な拡張機能があり、Webベースの脅威に対するセキュリティを強化します。" />
+	<string id="34438" value="Comodo Web Inspector" />
+	<string id="34439" value="AdSanitizer" />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="34441" value="使いやすく、オールインワンのバックアップ ソリューション" />
+	<string id="34442" value="および &lt;strong&gt;GeekBuddy&lt;/strong&gt;、&lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="および &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="および &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo Browser は、Chromium テクノロジーをベースにした高速で多機能なインターネット ブラウザーで、COMODO の他に例のないレベルのセキュリティ技術が活かされています。" />
+	<string id="34446" value="Internet Explorer のセキュリティ設定で、TLS プロトコルを有効にする必要があります。" />
+	<string id="34447" value="TLS を有効にするには:\n1. In Internet Explorer で [ツール] メニューの [インターネット オプション] を選択する。\n2. [詳細設定] タブを選択する。\n3. [セキュリティ] セクションまでスクロール ダウンする。\n4. [TLS 1.xx] チェック ボックスにチェックを入れる。\n5. Press the OK button.[OK] ボタンをクリックする。" />
+	<string id="34448" value="このコンピューターに COMODO Cloud AV がインストールされているため、%s をインストールできません。\n\n%s をインストールする前に CCAV をアンインストールしてください。" />
+	<string id="34449" value="および &lt;strong&gt;GeekBuddy&lt;/strong&gt;、&lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="および &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="未知のアプリケーションを分離された環境で安全に実行させます。" />
+	<string id="34452" value="重要で機密性が必要な Webサイトに安全に接続します。" />
+	<string id="34453" value="ようこそ!" />
+	<string id="34454" value="%s %s をインストールして、すべてのデバイスを安全を保ち、保護します。" />
+	<string id="34455" value="[%s] をクリックすることによって、%s の&lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;使用許諾契約書&lt;/a&gt;および&lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;プライバシー ポリシー&lt;/a&gt;を読んで受諾したことに同意することになります。" />
+	<string id="34456" value="同意する" />
+	<string id="34457" value="および Chromodo ブラウザー、GeekBuddy" />
+	<string id="34458" value="および Dragon ブラウザー、GeekBuddy、セキュア ショッピング" />
+	<string id="34459" value="および Chromodo ブラウザー" />
+	<string id="34460" value="および Dragon ブラウザー" />
+	<string id="34461" value="および GeekBuddy" />
+	<string id="34462" value="Yandex Elements (ブラウザ拡張) をインストールする" />
+	<string id="34463" value="ホーム ページを Yandex に設定します*" />
+	<string id="34464" value="検索エンジンを Yandex に設定します*" />
+	<string id="34465" value="ブラウザの新しいタブを Yandex に設定します*" />
+	<string id="34466" value="* サポートされるすべてのブラウザーに適用されます" />
+	<string id="34467" value="[%s] をクリックすることによって、次のものを読んで受諾したことに同意することになります:" />
+	<string id="34470" value="無料版をインストール" />
+	<string id="34471" value="PRO 版をインストール" />
+	<string id="34472" value="PRO 版を 30 日間試用" />
+	<string id="34473" value="COMPLETE 版を 30 日間試用" />
+	<string id="34474" value="PRO 版を 30 日間ご試用ください。&lt;br /&gt;後から無料版に戻すこともできます。" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="COMPLETE 版を 30 日間ご試用ください。&lt;br /&gt;後から無料版に戻すこともできます。" />
+	<string id="34477" value="アンチウイルス" />
+	<string id="34478" value="ファイアウォール" />
+	<string id="34479" value="コンテナ仮想化" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="セキュア ショッピング" />
+	<string id="34483" value="24/7 ライブ サポート" />
+	<string id="34484" value="COMODO バックアップ" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="インストール先のディレクトリ" />
+	<string id="34487" value="使用するコンピューターの DNS プロバイダーを COMODO Secure DNS (Web ページのより速い表示と、オンライン セキュリティの向上が可能) に変更する &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;詳細&lt;/a&gt;" />
+	<string id="34488" value="信頼できないファイルの「クラウドベースのビヘイビア (挙動) 分析」を有効にする (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;プライバシー ポリシー&lt;/a&gt;)" />
+	<string id="34489" value="製品の品質向上のため、プログラムの使用情報 (例: クラッシュ、エラー、クリック回数など) を匿名で COMODO に送信する" />
+	<string id="34490" value="カスタマイズ" />
+	<string id="34491" value="合計サイズ:" />
+	<string id="34492" value="コンテナ仮想化" />
+	<string id="34493" value="ファイル評価" />
+	<string id="34494" value="Webサイト フィルタリング" />
+	<string id="34495" value="セキュア ショッピング" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO バックアップ" />
+	<string id="34499" value="TrustConnect" />
+	<string id="34500" value="GeekBuddy 24/7 ライブ サポート" />
+	<string id="34501" value="安全に。コントロールのもとで。&lt;br /&gt;未知のアプリケーションを、分離された環境で安全に動作させます。" />
+	<string id="34502" value="信頼できるファイルか、それとも悪意あるファイルか?&lt;br /&gt;COMODO のグローバル データベースによって、どのようなファイルでもチェックが可能です。" />
+	<string id="34503" value="マルウェアや不適切なコンテンツがあるサイトから、あなたのお子様やあなた自身を保護します。" />
+	<string id="34504" value="あなたのデータやお金を保護します。&lt;br /&gt;あなたにとって機密性が高い情報を、オンライン上で誰も盗み見できないようにします。" />
+	<string id="34505" value="Android デバイス向けの Mobile Antivirus をご利用ください。" />
+	<string id="34506" value="データを失うことがありません。&lt;br /&gt;あなたのデータは、暗号化され、クラウドに保存されます。" />
+	<string id="34507" value="公共 Wi-Fi を使用していますか?&lt;br /&gt;しかし、もう安全です。" />
+	<string id="34508" value="サポートが必要ですか? COMODO の GeekBuddy 24/7 Live Support の技術者までご連絡ください" />
+	<string id="34509" value="無料インストール" />
+	<string id="34510" value="おめでとうございます!" />
+	<string id="34511" value="インストールが問題なく完了しました。" />
+	<string id="34512" value="COMODO のニュース、オファー、ディスカウント情報を以下のメール アドレスに送付する:" />
+	<string id="34513" value="ウイルスをデスクトップやネットワークから検出、ブロック、駆除します。保護は、リアルタイムのオンアクセス スキャンによって常に行われます。ウイルス データベースは、一日単位で自動的にアップデートされます。" />
+	<string id="34514" value="権威ある賞を受賞しているファイアウォールです。コンピューターを攻撃者から自動的に不可視にします。コンピューターのインバウンド/アウトバウンド トラフィックをフィルタリングします。" />
+	<string id="34515" value="未知で信頼できない不審なアプリケーションを実行するための分離された実行環境です。信頼性のない所から入手したソフトウェアをテストするのに最適です。自動コンテナ仮想化の機能は、プリセットまたはカスタマイズされたポリシーに従って、アプリケーションを分離します。" />
+	<string id="34516" value="ホスト型侵入防止システム (HIPS) は、実行中のプログラムのビヘイビア (挙動) を分析し、不審なアクティビティを停止させることを可能にするプロアクティブなテクノロジーです。HIPS は、システムの重要なファイル、フォルダー、レジストリ キーを自動的に保護し、悪意あるプログラムによる不正な変更を防ぎます。" />
+	<string id="34517" value="コンピューター上で実行中のプロセスのアクティビティを監視、記録し、ソフトウェアの潜在的に望ましくないアクションを、必ずしもソフトウェアを完全にブロックせずに取り消すことを可能にします。" />
+	<string id="34518" value="安全性の高い仮想環境からインターネットに接続することで、オンライン バンキングやショッピングのために極めて高いセキュリティを提供します。機密性が必要な Webサイトへの接続は、専用の強固な環境の中から行えます。" />
+	<string id="34519" value="あなたの PC の問題について、無制限のライブ リモート サポートを行います。デスクトップ上のアイコンをクリックしてチャットするだけで、Geek が目の前で問題を解決したり、PC や Windows の最適な設定、メールやプリンターのセットアップ、ソフトウェアのインストールなどについてサポートします。" />
+	<string id="34520" value="使いやすく、オールインワンのバックアップ ソリューションです。単一のファイルからシステム全体まで、どのような容量のデータでもバックアップとリストアを可能にします。最新の暗号化技術によって暗号化されたデータを保存します。SSL 暗号化によって、使用しているシステムと COMODO のサーバーの間のすべての通信を保護します。" />
+	<string id="34521" value="使用しているコンピューターと他のコンピューターとの間の無線および有線による通信を安全にします。公共施設 (コーヒー ショップ、ホテル、空港など) でのインターネット サーフィンを安全にします。オンライン セッション中に、個人情報をプライベートで安全なものにし、犯罪者の手から守ります。コンピューター間での完全に暗号化されたトラフィックを提供します。" />
+	<string id="34522" value="ホーム ページ、検索エンジン、ブラウザの新しいタブを Yandex に設定します*" />
+	<string id="34524" value="パーミッション" />
+	<string id="34525" value="コンポーネント" />
+	<string id="34526" value="Yandex Browser Manager をインストールする" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;使用許諾契約書&lt;/a&gt;" />
+	<string id="34529" value="ホーム ページ、新しいタブ、デフォルトの検索エンジンを Yahoo! に設定して、Web ブラウジングをより活力のあるものにします(サポートされるすべてのブラウザーに適用されます)。" />
+	<string id="34530" value="このアプリケーションをインストールすることにより、%s の&lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;使用許諾書&lt;/a&gt;および Yahoo! の&lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;使用許諾書&lt;/a&gt;を読んで受諾したことに同意することになります。" />
+	<string id="34531" value="ライセンス キーがない場合は、取得してください" />
+	<string id="34532" value="ライセンス キーの取得" />
+	<string id="34533" value="ライセンスの認証" />
+	<string id="34534" value="&lt;strong&gt;+1888-258-7142&lt;/strong&gt; に電話を頂ければ、認定技術者がこの問題を解決します。" />
+	<string id="34535" value="&lt;strong&gt;製品の登録&lt;/strong&gt;&lt;span&gt;COMODO アカウントでライセンス キーの認証を行います&lt;/span&gt;" />
+	<string id="34536" value="指定されたメールアドレスが無効です。" />
+	<string id="34537" value="パスワードが一致しません。" />
+	<string id="34538" value="国を選択してください。" />
+	<string id="34539" value="&lt;strong&gt;ライセンスの認証&lt;/strong&gt;&lt;span&gt;製品のライセンス認証を行うためのライセンス キーを入力します&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;製品の登録&lt;/strong&gt;&lt;span&gt;COMODO アカウントでライセンス キーの認証を行います&lt;/span&gt;" />
+	<string id="34541" value="ライセンス認証を続行するには、COMODO アカウントが必要です。" />
+	<string id="34542" value="新しいアカウントの作成" />
+	<string id="34543" value="* もう一度パスワードを入力してください" />
+	<string id="34544" value="メール アドレス" />
+	<string id="34545" value="パスワード" />
+	<string id="34546" value="パスワードを忘れました" />
+	<string id="34547" value="ログイン" />
+	<string id="34548" value="製品のライセンス認証中にエラーが発生しました。" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;In Internet Explorer で [ツール] メニューの [インターネット オプション] を選択する。&lt;/li&gt;&lt;li&gt;[詳細設定] タブを選択する。&lt;/li&gt;&lt;li&gt;[セキュリティ] セクションまでスクロール ダウンする。&lt;/li&gt;&lt;li&gt;[TLS 1.xx] チェック ボックスにチェックを入れる。&lt;/li&gt;&lt;li&gt;[OK] ボタンをクリックする。&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="インターネット接続を確認してください。" />
+	<string id="34551" value="ライセンス認証を行っています。" />
+	<string id="34552" value="CIS 診断アプリケーションがありません。" />
+	<string id="34553" value="CIS 診断アプリケーションを開始できません。エラー コード %u" />
+	<string id="34554" value="%s をアンインストールしています..." />
+	<string id="34555" value="%s を変更しています..." />
+	<string id="34556" value="本当にアンインストールをキャンセルしますか?" />
+	<string id="34557" value="%s を変更できません。" />
+	<string id="34558" value="%s をアンインストールできません。" />
+	<string id="34560" value="修復" />
+	<string id="34561" value="変更" />
+	<string id="34562" value="アンインストール" />
+	<string id="34563" value="処理速度の低下またはクラッシュを引き起こした可能性のある問題を解決します。" />
+	<string id="34564" value="インストールされているプログラムの機能を確認します。" />
+	<string id="34565" value="&lt;b&gt;%s&lt;/b&gt; をアンインストールします。" />
+	<string id="34566" value="製品の選択" />
+	<string id="34567" value="%s は、PC 向けに一連の強力なセキュリティ ソリューションを提供します。インストールする製品とインストールしない製品を指定して、次に進んでください。" />
+	<string id="34568" value="COMODO Firewall をインストールする(推奨)" />
+	<string id="34569" value="このオプションを選択すると、コンピューターに COMODO Firewall がインストールされます。すでに別のファイアウォール ソフトウェアがインストールされている場合は、そのソフトウェアをあらかじめアンインストールしておく必要があります。" />
+	<string id="34570" value="COMODO Antivirus をインストールする(推奨)" />
+	<string id="34571" value="このオプションを選択すると、コンピューターに COMODO Antivirus がインストールされます。すでに別のアンチウイルス ソフトウェアがインストールされている場合は、そのソフトウェアをあらかじめアンインストールしておく必要があります。" />
+	<string id="34572" value="以上です。" />
+	<string id="34573" value=" %s を変更しました。" />
+	<string id="34574" value="アンインストールの準備をしています..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="保護されていない状態のままにしておくことは、好ましくありません。" />
+	<string id="34577" value="クラウドベースの軽量かつ強力なアンチウイルスをお試し頂けますか?" />
+	<string id="34578" value="COMODO Cloud Antivirus をダウンロードしてインストールする" />
+	<string id="34579" value="COMODO Cloud Antivirus は、アンインストール処理の完了後にインストールされます。アンインストール処理を完了するには、コンピューターを再起動する必要があります。" />
+	<string id="34580" value="COMODO をアンインストールしようと決めた主な理由は何ですか? &lt;b&gt;(当てはまるものを選択してください)&lt;/b&gt;" />
+	<string id="34581" value="COMODO が PC のリソースを消費しすぎる" />
+	<string id="34582" value="アラートの数が多すぎる" />
+	<string id="34583" value="実行したいプログラムを COMODO がブロックし続ける" />
+	<string id="34584" value="全体的にこの製品に満足できない" />
+	<string id="34585" value="もっと使いやすい別のプログラムが見つかった" />
+	<string id="34586" value="その他 (具体的に)" />
+	<string id="34587" value="%s を削除しました。" />
+	<string id="34588" value="しかし、COMODO が提供できるものがまだ何かあるかも知れません。&lt;a href='#' id='id_products'&gt; COMODO の製品ラインナップ&lt;/a&gt;をぜひご確認ください。また、ご質問がある場合は弊社のマネージャーまでお問い合わせください。" />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="%s に対して行う処理を選択してください。" />
+	<string id="34591" value="再インストールします" />
+	<string id="34592" value="&lt;b&gt;%s&lt;/b&gt; はシステムから削除されますが、再インストールまたは別のバージョンで置き換えることもできます。" />
+	<string id="34593" value="完全に削除します" />
+	<string id="34594" value="&lt;b&gt;%s&lt;/b&gt; はシステムから完全に削除されますが、後から再インストールすることもできます。" />
+	<string id="34595" value="変更の準備をしています..." />
+	<string id="34596" value="ダウンロードの準備をしています..." />
+	<string id="34597" value="COMODO Internet Security の変更中にエラーが発生しました" />
+	<string id="34598" value="COMODO Internet Security のアンインストール中にエラーが発生しました" />
+	<string id="34599" value="コンポーネントを追加/削除/修復する" />
+	<string id="34600" value="コンポーネントを削除/修復する" />
+	<string id="34601" value="競合するソフトウェアをアンインストールしています: %s" />
+	<string id="34602" value="コンピューターが危険な状態になることを避けるため、COMODO Internet Security を最新版にアップデートすることを推奨します。" />
+	<string id="34603" value="COMODO Internet Security は、ウイルスの監視、自動的なコンテナ仮想化、ビヘイビア (挙動) 分析などの技術をを強力に組み合わせて、コンピューターをすべての既知あるいは未知のマルウェアから即時に保護します。" />
+	<string id="34604" value="別のインストールが進行中です。完了するまで、お待ちください。" />
+	<string id="34605" value="別のライセンス認証が進行中です。完了するまで、お待ちください。" />
+	<string id="34606" value="さらに、MITM (中間者攻撃) からの保護も可能です。" />
+	<string id="34607" value="アンインストールした製品のインストール パッケージには、MITM (中間者攻撃) からの保護を行う Comodo Internet Security Essentials (ISE) が含まれていますが、ISE のアンインストールは、別途行う必要があります。アンインストール方法については、&lt;a href='#' id='id_ise_how_to_remove'&gt;ここ&lt;/a&gt; を参照してください。" />
+	<string id="34608" value="Comodo Dragon をデフォルトのブラウザに設定する" />
+	<string id="34609" value="Google Chrome の設定(履歴、ブックマーク、クッキー、ブラウザ キャッシュなど)を Comodo Dragon にインポートする" />
+	<string id="34610" value="ライセンス キーは、&lt;a href=&quot;#&quot; id=&quot;id_onecom_url&quot;&gt;One.com&lt;/a&gt; からのメールで送付済みです" />
+	<string id="34611" value="%s のインストール待ちがタイムアウトしました。引き続き待機しますか?" />
+	<string id="34612" value="中間者攻撃 (MITM) からの保護" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

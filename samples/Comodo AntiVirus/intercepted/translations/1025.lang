@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="العربية - By Community" LANGID="1025" RTL="1">
+	<string id="106" value=".الرزمة تالفة\r\nتم إحباط التنصيب" />
+	<string id="107" value=".هذا التنصيب لا يدعم النظام الأساسي الهدف" />
+	<string id="108" value="ترقية COMODO" />
+	<string id="109" value="%s منصِّب" />
+	<string id="110" value="...%s يتم ترقية" />
+	<string id="111" value=".لا يمكن حفظ معلومات الترخيص\r\n%s" />
+	<string id="112" value="هذا الخيار سيقوم بتغيير إعدادات DNS الإبتدائية و الثانوية في حاسوبك إلى 8.26.56.26 و 156.154.70.22 على الترتيب. بعد عمل ذلك , كافة التطبيقات ستستخدم ملقمات DNS الأسرع و الأكثر أماناً أثناء الوصول للإنترنت." />
+	<string id="113" value="لقد وصلت للعدد الأقصى من التنصيبات المسموح بها بواسطة ترخيصك." />
+	<string id="114" value="إدارة ترخيص COMODO" />
+	<string id="115" value=".تاريخ/وقت حاسوبك غير مضبوط بشكل صحيح. الرجاء تصحيحه و إعادة المحاولة مرة أخرى" />
+	<string id="116" value="إنتهت صلاحية مفتاح الترخيص الذي أدخلته " />
+	<string id="117" value="%u. %s :خطأ" />
+	<string id="118" value=".فشل في تهيئة المنصّب. تنسيق البيانات غير صالح" />
+	<string id="119" value=".يتوفر إصدار جديد من المنصّب\r\n.المنصّب يقوم بتحديث نفسه الآن\r\nهل ترغب في الإستمرار؟" />
+	<string id="120" value="الفترة المتكررة المعطاة غير مدعومة" />
+	<string id="121" value=".فشل في تهيئة الطباعة" />
+	<string id="122" value="تم إبطال تنشيط المنتج. اتصل بمسؤول النظام." />
+	<string id="123" value="...%s يتم تنصيب" />
+	<string id="124" value="تنصيب COMODO" />
+	<string id="125" value="موافقة و تنصيب" />
+	<string id="126" value="موافقة و ترقية" />
+	<string id="127" value="هل تريد بالتأكيد إلغاء تنصيب الرزم؟" />
+	<string id="128" value="تحتاج إلى إذن لإجراء التنصيب." />
+	<string id="129" value="عرض إتفاقية الترخيص" />
+	<string id="130" value=".COMODO لا يمكن إعادة تشغيل منصّب\r\n%s\r\n.الرجاء إعادة تشغيله يدوياً" />
+	<string id="131" value="تخصيص التنصيب" />
+	<string id="132" value="تخصيص الترقية" />
+	<string id="133" value="يجب عليك إعادة تشغيل نظامك من أجل أن تأخذ تغييرات التركيب مجراها.\nأنقر 'نعم' لإعادة التشغيل الآن أو 'لا' إذا كنت تخطط لإعادة التشغيل لاحقاً يدوياً." />
+	<string id="134" value="...الرجاء الإنتظار" />
+	<string id="135" value="هذا الإجراء غير مسموح به" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="CСS الذي تم تنصيبه على حاسوبك لا يمكن معالجته بواسطة الملقم المخصص. الرجاء التأكد من أنك تدخل تفاصيل ملقم IT and Security Manager الصحيحة أو أطلب المساعدة من مسؤول شبكتك." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="%d خطأ :%s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="تسجيل الدخول أو كلمة المرور المدخلة غير صالحة" />
+	<string id="144" value=".لا يمكن إعادة تشغيل النظام\r\n%s\r\n.رجاءاً قم بإعادة تشغيل الحاسوب يدوياً" />
+	<string id="145" value="%d خطأ :%s" />
+	<string id="148" value=".%u :HTTP شفرة حالة" />
+	<string id="153" value=".عنوان البريد الإلكتروني المخصص غير صالح\r\n.رجاءاً أدخل عنوان بريد إلكتروني صالح" />
+	<string id="154" value=".مفتاح الترخيص الذي جهزته غير صالح\r\n.رجاءاً أدخل مفتاح ترخيص صالح" />
+	<string id="155" value=".%s لا يمكن إنشاء الدليل\r\n%s" />
+	<string id="156" value="مع تسجيل دخول مخصص WEB API لا يمكن العثور على مستخدم" />
+	<string id="158" value="خطأ في بوابة الدفع" />
+	<string id="160" value="%s لا يمكن تنصيب\r\n%s\r\nهل تريد المحاولة مرة أخرى؟" />
+	<string id="165" value="%s لا يمكن تنزيل" />
+	<string id="166" value="%s لا يمكن كتابة" />
+	<string id="167" value=".فشل في تهيئة المنصّب. الرجاء التحقق من إتصالك بالإنترنت و/أو إعدادات إتصال متصفح الإنترنت\r\n%s" />
+	<string id="168" value=".فشل في تهيئة المنصّب. الرجاء التحقق من حقوق الوصول لنظام الملفات لديك\r\n%s" />
+	<string id="169" value="مثالي لطلب الفاتورة ID المستخدم ليس لديه" />
+	<string id="170" value="لا يمكن إنشاء عنصر متكرر لشروط التسعير هذه" />
+	<string id="171" value="خطأ في التفويض" />
+	<string id="172" value=".اللغة المحددة غير مدعومة بواسطة نظام التشغيل لديك" />
+	<string id="173" value=".لا يمكن إستمرار تنصيب المنتج لأن اللغة المحددة غير مدعومة بواسطة نظام التشغيل لديك" />
+	<string id="175" value="%s لا يمكن تنصيب\r\n%s" />
+	<string id="183" value="%s تنصيب" />
+	<string id="184" value="...%s يتم تنزيل" />
+	<string id="190" value="من أجل الإستمرار, أنت بحاجة لإعادة تشغيل حاسوبك.\r\nهل تريد إعادة تشغيله الآن؟" />
+	<string id="192" value=".للتقدم مع تنصيب المنتج يجب إعادة تشغيل حاسوبك. بعد إعادة التشغيل سيستمر التنصيب تلقائياً\r\nإعادة التشغيل الآن؟" />
+	<string id="193" value="للمضي قدماً في التنصيب يجب عليك إلغاء تنصيب COMODO Firewall/Internet Security القديم.\r\nحيث لا يمكن عمله بواسطة %s , رجاءاً قم بإلغاء تنصيب هذا البرنامج القديم يدوياً و أعد تشغيل %s." />
+	<string id="194" value="متطلبات مفتاح الترخيص" />
+	<string id="195" value="و أرقام 'F' إلى 'A' مفتاح الترخيص يمكن فقط أن يتضمن أحرف من" />
+	<string id="196" value="أين مفتاح ترخيصي؟" />
+	<string id="197" value="إذا إشتريت منتجك على الإنترنت , سيتم إرسال مفتاح ترخيصك إليك في عنوان البريد الإلكتروني الذي قمت بتخصيصه أثناء الصفقة. إذا كان لديك DVD/CD تنصيب , الرجاء الرجوع إلى ظهر DVD/CD من أجل مفتاح الترخيص" />
+	<string id="199" value=".يحتاجه لإنهاء عمله بشكل صحيح %s .الرجاء عدم تعديل أو حذف هذا الملف\r\n.هذا الملف سيتم حذفه تلقائياً عند إكمال التنصيب" />
+	<string id="202" value="بصمة الأصبع غير صالحة" />
+	<string id="205" value="غير صالح XML طلب" />
+	<string id="206" value="معلّمات غير صالحة" />
+	<string id="207" value="مفتاح الترخيص غير صالحة" />
+	<string id="208" value="الناحية غير معروفة" />
+	<string id="209" value="شروط التسعير غير معروفة" />
+	<string id="210" value="نوع الطلب غير صحيح" />
+	<string id="217" value="فشل طلب الفاتورة: لا يمكن إنشاء فاتورة جديدة" />
+	<string id="220" value="حدث خطأ غير معروف" />
+	<string id="222" value=".وضع غير صالح" />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value=".لا يمكن العثور على ملف بيانات التهيئة" />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="...يتم الإلغاء. الرجاء الإنتظار" />
+	<string id="235" value=".لديك قبل الإستمرار %s رجاءاً قم بتحديث" />
+	<string id="236" value=".حالة المنصّب حالياً لا يمكن حفظها لإستئناف التنصيب بشكل ملائم بعد إعادة التشغيل\r\n.يدوياً COMODO رجاءاً قم بإعادة تشغيل حاسوبك و تشغيل منصّب" />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value=".فشل في تهيئة المنصّب. تنسيق البيانات المحفوظة غير صالح" />
+	<string id="239" value=".حتى يكتمل التنصيب COMODO منصّب DVD للتقدم مع تنصيب المنتج يجب إعادة تشغيل حاسوبك. بعد إعادة التشغيل سيستمر التنصيب تلقائياً. رجاءاً لا تخرج\r\nأتريد إعادة التشغيل الآن؟" />
+	<string id="246" value=".لا يمكن تشغيل برنامج الإعداد - الرزمة تالفة" />
+	<string id="250" value=".و اضغط المفتاح 'نعم' لإعادة المحاولة %s رجاءاً إغلق .%s ليستمر التنصيب يجب إغلاق" />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value=".قبل تنشيط الضمان , رجاءاً قم بتنشيط مفتاح الترخيص لديك أولاً" />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="CAM غير معروف من ملقم XML جواب" />
+	<string id="295" value="مفتاح الترخيص الذي أدخلته لا يطابق نوع المنتج الذي تحاول تنصيبه" />
+	<string id="313" value="...يتم تنشيط ترخيصك , الرجاء الإنتظار" />
+	<string id="346" value="إعادة المحاولة" />
+	<string id="366" value=".مطلوب الإتصال بالإنترنت" />
+	<string id="367" value=".COMODO من أجل الحصول على الترخيص الخاص بك , يحتاج المنصّب للإتصال بمركز ترخيص" />
+	<string id="368" value=".&quot;المحاولة ثانيةً&quot; الرجاء التأكد من أنك متصل بالإنترنت و اضغط زر" />
+	<string id="369" value=".لقد قمنا بنجاح بتنشيط الترخيص الخاص بك و ترقية المنتج الخاص بك" />
+	<string id="374" value="&lt;link&gt;.سياسة الخصوصية&lt;/link&gt; أريد تمكين 'تحليل السلوك المعتمد على الشوائب' للبرامج الغير معترف بها بإرسالها إلى COMODO فيما يتعلق بـ" />
+	<string id="375" value="Beta" />
+	<string id="377" value=":بالأسفل &lt;link&gt;.إتفاقية ترخيص المستخدم&lt;/link&gt; أنت موافق على التنصيب و , &quot;%s&quot; بنقر الزر" />
+	<string id="383" value=".لا يمكن تنشيط الترخيص الخاص بك\n%s" />
+	<string id="385" value=".من أجل المضي قدما، يجب عليك تحديد ما لا يقل عن منتج واحد" />
+	<string id="386" value="%s  :حجم المنتج" />
+	<string id="387" value="%s  :إجمالي حجم التنزيل" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="المنتجات غير المتوافقة" />
+	<string id="32001" value="تصغير النافذة" />
+	<string id="32002" value="إغلاق النافذة" />
+	<string id="32003" value="تنصيب" />
+	<string id="32004" value="إدارة الترخيص" />
+	<string id="32005" value="نعم" />
+	<string id="32006" value="لا" />
+	<string id="32007" value="إعادة المحاولة" />
+	<string id="32008" value="موافق" />
+	<string id="32009" value="إلغاء" />
+	<string id="32010" value="إحباط" />
+	<string id="32011" value="تجاهل" />
+	<string id="32012" value="إستمرار" />
+	<string id="32013" value="المحاولة ثانيةً" />
+	<string id="32014" value="المنصّب" />
+	<string id="32015" value="السابق" />
+	<string id="32016" value="طباعة" />
+	<string id="32017" value="م ب" />
+	<string id="32018" value="إستعراض" />
+	<string id="32019" value="التالي" />
+	<string id="32020" value="إغلاق" />
+	<string id="32021" value="تعلم المزيد" />
+	<string id="32022" value="إنهاء" />
+	<string id="32023" value="تحطي" />
+	<string id="32024" value="قبول" />
+	<string id="32102" value="&lt;strong&gt;تنصيب الحزم المطلوبة&lt;/strong&gt;&lt;br /&gt;الميزة تتطلب تنصيب حزم إضافية." />
+	<string id="32103" value="التالي يجب تنزيله و تنصيبه:" />
+	<string id="32104" value="إسم الحزمة" />
+	<string id="32105" value="إتفاقية الترخيص" />
+	<string id="32106" value="الحجم" />
+	<string id="32107" value="بضغط &quot;موافقة و تنصيب&quot; , فإنك توافق على إتفاقيات ترخيص المستخدم لكافة الحزم المدرجة بالأعلى." />
+	<string id="32108" value="موافقة و تنصيب" />
+	<string id="32109" value="حدث خطأ أثناء تنصيب المنتج:" />
+	<string id="32110" value="المحاولة ثانيةً" />
+	<string id="32111" value="يتم التحضير للتنصيب..." />
+	<string id="32112" value="لقد قمت بتنشيط منتجك بنجاح." />
+	<string id="32113" value="إستمرار" />
+	<string id="32114" value="الرجاء الإنتظار بينما يتم تنشيط ترخيصك..." />
+	<string id="32115" value="حدث خطأ أثناء تنشيط المنتج:" />
+	<string id="32116" value="المحاولة ثانيةً" />
+	<string id="32117" value="&lt;strong&gt;تنشيط الترخيص&lt;/strong&gt;&lt;br /&gt;أدخل مفتاح الترخيص الخاص بك لتنشيط منتجك" />
+	<string id="32118" value="من أجل التنشيط." />
+	<string id="32119" value="تأكد من أنك متصل بالإنترنت" />
+	<string id="32120" value="أدخل مفتاح الترخيص الخاص بك أو &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;أنقر هنا&lt;/a&gt; للحصول على واحد" />
+	<string id="32121" value="تنشيط الترخيص و تسجيل منتجك" />
+	<string id="32122" value="مفتاح الترخيص:" />
+	<string id="32123" value="تنشيط" />
+	<string id="32124" value="&lt;strong&gt;تسجيل المنتَج&lt;/strong&gt;&lt;br /&gt;إنشاء حساب COMODO جديد" />
+	<string id="32125" value="*الإسم الأول" />
+	<string id="32126" value="* الإسم الأخير" />
+	<string id="32127" value="* عنوان البريد الإلكتروني" />
+	<string id="32128" value="البلد" />
+	<string id="32129" value="المدينة" />
+	<string id="32130" value="الولاية" />
+	<string id="32131" value="العنوان" />
+	<string id="32132" value="إختر إسم مستخدم و كلمة مرور و قم بإنشاء حساب COMODO. يمكنك إستخدام حسابك لمعالجة ترخيصك من خلال &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* إسم المستخدم" />
+	<string id="32134" value="* كلمة المرور" />
+	<string id="32135" value="* حقل إلزامي" />
+	<string id="32136" value="تسجيل" />
+	<string id="32137" value="أفغانستان" />
+	<string id="32138" value="ألبانيا" />
+	<string id="32139" value="الجزائر" />
+	<string id="32140" value="ساموا الأمريكية" />
+	<string id="32141" value="أندورا" />
+	<string id="32142" value="أنجولا" />
+	<string id="32143" value="أنغيلا" />
+	<string id="32144" value="القارة القطبية الجنوبية" />
+	<string id="32145" value="أنتيغوا and بربودا" />
+	<string id="32146" value="الأرجنتين" />
+	<string id="32147" value="أرمينيا" />
+	<string id="32148" value="أروبا" />
+	<string id="32149" value="أستراليا" />
+	<string id="32150" value="النمسا" />
+	<string id="32151" value="أذربيجان" />
+	<string id="32152" value="الباهاما" />
+	<string id="32153" value="البحرين" />
+	<string id="32154" value="بنغلاديش" />
+	<string id="32155" value="بربادوس" />
+	<string id="32156" value="بيلاروسيا" />
+	<string id="32157" value="بلجيكا" />
+	<string id="32158" value="بليز" />
+	<string id="32159" value="بينين" />
+	<string id="32160" value="برمودا" />
+	<string id="32161" value="بوتان" />
+	<string id="32162" value="بوليفيا" />
+	<string id="32163" value="البوسنة و الهرسك" />
+	<string id="32164" value="بوتسوانا" />
+	<string id="32165" value="جزيرة بوفيت" />
+	<string id="32166" value="البرازيل" />
+	<string id="32167" value="إقليم المحيط الهندي البريطاني" />
+	<string id="32168" value="بروناي دار السلام" />
+	<string id="32169" value="بلغاريا" />
+	<string id="32170" value="بور كينافاسو" />
+	<string id="32171" value="بوروندي" />
+	<string id="32172" value="كمبوديا" />
+	<string id="32173" value="الكاميرون" />
+	<string id="32174" value="كندا" />
+	<string id="32175" value="الرأس الأخضر" />
+	<string id="32176" value="جزر كايمان" />
+	<string id="32177" value="جمهورية أفريقيا الوسطى" />
+	<string id="32178" value="تشاد" />
+	<string id="32179" value="تشيلي" />
+	<string id="32180" value="الصين" />
+	<string id="32181" value="جزيرة كريسماس" />
+	<string id="32182" value="جزر كوكوس (كيلنغ)" />
+	<string id="32183" value="كولومبيا" />
+	<string id="32184" value="جزر القمر" />
+	<string id="32185" value="جمهورية الكونغو" />
+	<string id="32186" value="جمهورية الكونغو الديمقراطية" />
+	<string id="32187" value="جزر كوك" />
+	<string id="32188" value="كوستاريكا" />
+	<string id="32189" value="ساحل العاج" />
+	<string id="32190" value="كرواتيا" />
+	<string id="32191" value="كوبا" />
+	<string id="32192" value="قبرص" />
+	<string id="32193" value="جمهورية التشيك" />
+	<string id="32194" value="الدانمارك" />
+	<string id="32195" value="جيبوتي" />
+	<string id="32196" value="دومينيكا" />
+	<string id="32197" value="جمهورية الدومينيكان" />
+	<string id="32198" value="تيمور الشرقية" />
+	<string id="32199" value="الإكوادور" />
+	<string id="32200" value="مصر" />
+	<string id="32201" value="El السلفادور" />
+	<string id="32202" value="غينيا الإستوائية" />
+	<string id="32203" value="إرتريا" />
+	<string id="32204" value="إستونيا" />
+	<string id="32205" value="إثيوبيا" />
+	<string id="32206" value="جزر فوكلاند (مالفيناس)" />
+	<string id="32207" value="جزر فارو" />
+	<string id="32208" value="فيجي" />
+	<string id="32209" value="فنلندا" />
+	<string id="32210" value="فرنسا" />
+	<string id="32211" value="غويانا الفرنسية" />
+	<string id="32212" value="بولينيزيا الفرنسية" />
+	<string id="32213" value="الأقاليم الجنوبية الفرنسية" />
+	<string id="32214" value="الجابون" />
+	<string id="32215" value="جامبيا" />
+	<string id="32216" value="جورجيا" />
+	<string id="32217" value="ألمانيا" />
+	<string id="32218" value="غانا" />
+	<string id="32219" value="جبل طارق" />
+	<string id="32220" value="اليونان" />
+	<string id="32221" value="جرينلاند" />
+	<string id="32222" value="جرينادا" />
+	<string id="32223" value="غواديلوب" />
+	<string id="32224" value="غوام" />
+	<string id="32225" value="غواتيمالا" />
+	<string id="32226" value="غينيا" />
+	<string id="32227" value="غينيا بيساو" />
+	<string id="32228" value="غويانا" />
+	<string id="32229" value="هايتي" />
+	<string id="32230" value="جزيرة هيرد وجزر ماكدونالد" />
+	<string id="32231" value="الكرسي الرسولي (دولة الفاتيكان)" />
+	<string id="32232" value="هوندوراس" />
+	<string id="32233" value="هونغ كونغ" />
+	<string id="32234" value="المجر" />
+	<string id="32235" value="أيسلندا" />
+	<string id="32236" value="الهند" />
+	<string id="32237" value="إندونيسيا" />
+	<string id="32238" value="إيران" />
+	<string id="32239" value="العراق" />
+	<string id="32240" value="إيرلاندا" />
+	<string id="32241" value="إسرائيل" />
+	<string id="32242" value="إيطاليا" />
+	<string id="32243" value="جامايكا" />
+	<string id="32244" value="اليابان" />
+	<string id="32245" value="الأردن" />
+	<string id="32246" value="كازاخستان" />
+	<string id="32247" value="كينيا" />
+	<string id="32248" value="كيريباتي" />
+	<string id="32249" value="جمهورية كوريا الديمقراطية الشعبية" />
+	<string id="32250" value="جمهورية كوريا" />
+	<string id="32251" value="الكويت" />
+	<string id="32252" value="قيرغيزستان" />
+	<string id="32253" value="جمهورية لاو الديمقراطية الشعبية" />
+	<string id="32254" value="لاتفيا" />
+	<string id="32255" value="لبنان" />
+	<string id="32256" value="ليسوثو" />
+	<string id="32257" value="ليبيريا" />
+	<string id="32258" value="ليبيا" />
+	<string id="32259" value="ليختنشتاين" />
+	<string id="32260" value="ليتوانيا" />
+	<string id="32261" value="لوكسمبورغ" />
+	<string id="32262" value="ماكاو" />
+	<string id="32263" value="مقدونيا" />
+	<string id="32264" value="مدغشقر" />
+	<string id="32265" value="مالاوي" />
+	<string id="32266" value="ماليزيا" />
+	<string id="32267" value="جزر المالديف" />
+	<string id="32268" value="مالي" />
+	<string id="32269" value="مالطا" />
+	<string id="32270" value="جزر المارشال" />
+	<string id="32271" value="مارتينيك" />
+	<string id="32272" value="موريتانيا" />
+	<string id="32273" value="موريشيس" />
+	<string id="32274" value="مايوت" />
+	<string id="32275" value="المكسيك" />
+	<string id="32276" value="ميكرونيزيا" />
+	<string id="32277" value="مولدوفا" />
+	<string id="32278" value="موناكو" />
+	<string id="32279" value="مونغوليا" />
+	<string id="32280" value="مونتسيرات" />
+	<string id="32281" value="المغرب" />
+	<string id="32282" value="موزامبيق" />
+	<string id="32283" value="ميانمار" />
+	<string id="32284" value="ناميبيا" />
+	<string id="32285" value="ناورو" />
+	<string id="32286" value="نيبال" />
+	<string id="32287" value="جزر الأنتيل الهولندية" />
+	<string id="32288" value="هولندا" />
+	<string id="32289" value="كاليدونيا الجديدة" />
+	<string id="32290" value="نيوزيلندا" />
+	<string id="32291" value="نيكاراجوا" />
+	<string id="32292" value="النيجر" />
+	<string id="32293" value="نيجيريا" />
+	<string id="32294" value="نيوي" />
+	<string id="32295" value="جزيرة نورفولك" />
+	<string id="32296" value="جزر ماريانا الشمالية" />
+	<string id="32297" value="النرويج" />
+	<string id="32298" value="عمان" />
+	<string id="32299" value="باكستان" />
+	<string id="32300" value="بالاو" />
+	<string id="32301" value="الأراضي الفلسطينية المحتلة" />
+	<string id="32302" value="بنما" />
+	<string id="32303" value="بابوا غينيا الجديدة" />
+	<string id="32304" value="باراغواي" />
+	<string id="32305" value="بيرو" />
+	<string id="32306" value="الفلبين" />
+	<string id="32307" value="بيتكيرن" />
+	<string id="32308" value="بولندا" />
+	<string id="32309" value="البرتغال" />
+	<string id="32310" value="بورتوريكو" />
+	<string id="32311" value="قطر" />
+	<string id="32312" value="رييونيون" />
+	<string id="32313" value="رومانيا" />
+	<string id="32314" value="روسيا" />
+	<string id="32315" value="رواندا" />
+	<string id="32316" value="سانت بارتيليمي" />
+	<string id="32317" value="سانت هيلانة" />
+	<string id="32318" value="سانت كيتس ونيفيس" />
+	<string id="32319" value="سانت لوسيا" />
+	<string id="32320" value="سانت مارتن (الجزء الفرنسي)" />
+	<string id="32321" value="سان بيار وميكلون" />
+	<string id="32322" value="سانت فنسنت وغرينادين" />
+	<string id="32323" value="ساموا" />
+	<string id="32324" value="سان مارينو" />
+	<string id="32325" value="ساو تومي وبرينسيبي" />
+	<string id="32326" value="العربية السعودية" />
+	<string id="32327" value="السنغال" />
+	<string id="32328" value="سيشيل" />
+	<string id="32329" value="سيراليون" />
+	<string id="32330" value="سنغافورة" />
+	<string id="32331" value="سلوفاكيا" />
+	<string id="32332" value="سلوفينيا" />
+	<string id="32333" value="جزر سليمان" />
+	<string id="32334" value="الصومال" />
+	<string id="32335" value="جنوب أفريقيا" />
+	<string id="32336" value="جورجيا الجنوبية وجزر ساندويتش الجنوبية" />
+	<string id="32337" value="أسبانيا" />
+	<string id="32338" value="سيريلانكا" />
+	<string id="32339" value="السودان" />
+	<string id="32340" value="سورينام" />
+	<string id="32341" value="سفالبارد وجان ماين" />
+	<string id="32342" value="سوازيلاند" />
+	<string id="32343" value="السويد" />
+	<string id="32344" value="سويسرا" />
+	<string id="32345" value="سوريا" />
+	<string id="32346" value="تايوان" />
+	<string id="32347" value="طاجيكستان" />
+	<string id="32348" value="تنزانيا" />
+	<string id="32349" value="تايلاند" />
+	<string id="32350" value="توغو" />
+	<string id="32351" value="توكيلاو" />
+	<string id="32352" value="تونغا" />
+	<string id="32353" value="ترينيداد وتوباغو" />
+	<string id="32354" value="تونس" />
+	<string id="32355" value="تركيا" />
+	<string id="32356" value="تركمانستان" />
+	<string id="32357" value="جزر تركس وكايكوس" />
+	<string id="32358" value="توفالو" />
+	<string id="32359" value="أوغندا" />
+	<string id="32360" value="أوكرانيا" />
+	<string id="32361" value="الإمارات العربية المتحدة" />
+	<string id="32362" value="المملكة المتحدة" />
+	<string id="32363" value="الولايات المتحدة الأمريكية" />
+	<string id="32364" value="جزر الولايات المتحدة الصغيرة النائية" />
+	<string id="32365" value="أرغواي" />
+	<string id="32366" value="أوزبكستان" />
+	<string id="32367" value="فانواتو" />
+	<string id="32368" value="فينزويلا" />
+	<string id="32369" value="فيتنام" />
+	<string id="32370" value="الجزر العذراء البريطانية" />
+	<string id="32371" value="الجزر العذراء، الولايات المتحدة" />
+	<string id="32372" value="واليس وفوتونا" />
+	<string id="32373" value="الصحراء الغربية" />
+	<string id="32374" value="اليمن" />
+	<string id="32375" value="يوغسلافيا" />
+	<string id="32376" value="زامبيا" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="North Carolina" />
+	<string id="32411" value="North Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="South Carolina" />
+	<string id="32418" value="South Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="West Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Northwest Territories" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Island" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="حدد اللغة" />
+	<string id="32442" value="أرسل لي أخبار COMODO, العروض و التخفيضات إلى عنوان البريد الإلكتروني التالي:" />
+	<string id="32443" value="تمكين الأمان المضاف عندما أكون على الإنترنت بتغيير إعدادات DNS الخاصة بي إلى ملقمات COMODO Secure DNS (حل أسرع لصفحات الويب, أمان متحسن على الإنترنت)." />
+	<string id="32444" value="تمكين تحليل السلوك المعتمد على المشبوه للملفات غير الموثوقة &lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;سياسة الخصوصية&lt;/a&gt;" />
+	<string id="32445" value="بتعيين صفحتي الرئيسية و مزود محرك البحث على COMODO أريد مساعدة Yahoo! (يطبق على كافة المستعرضات المدعومة)" />
+	<string id="32446" value=":بنقر زر &quot;موافقة و تنصيب&quot;, فإنك توافق على التنصيب و إتفاقية ترخيص المستخدم بالأسفل " />
+	<string id="32447" value="تخصيص التنصيب" />
+	<string id="32449" value=":الرجاء قراءة إتفاقية ترخيص المستخدم" />
+	<string id="32450" value="خيارات التنصيب" />
+	<string id="32451" value="خيارات التركيب" />
+	<string id="32452" value="مواقع الملفات" />
+	<string id="32453" value=":حجم المنتج" />
+	<string id="32454" value=":إجمالي حجم التنزيل" />
+	<string id="32455" value="عدم إظهار الإنذارات التي تطلب قرارات الأمان قدر المستطاع" />
+	<string id="32456" value="تركيب الأمان يقوم بتركيب الجدار الناري, حماية متقدمة, Containment  و مضاد الفيروسات بطريقة تجعل الإنذارات المنبثقة تجيب تلقائياً قدر المستطاع." />
+	<string id="32457" value=":إختر مسار التنصيب" />
+	<string id="32458" value="من BETA هذا البرنامج هو الإصدار&lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value=".BETA إنه معد لمستخدمين خصوصيين يلازموا إختبار" />
+	<string id="32460" value=".قد يحتوي على علل كبيرة يمكن أن تسبب مشاكل خطيرة" />
+	<string id="32461" value=".عدم تنصيب هذا البرنامج على آلة الإنتاج" />
+	<string id="32462" value="هل تريد الإستمرار؟" />
+	<string id="32463" value=":بنقر زر &quot;موافقة و ترقية&quot;, فإنك توافق على التنصيب و إتفاقية ترخيص المستخدم بالأسفل" />
+	<string id="32464" value="(%u) إنتظار و مواصلة" />
+	<string id="32465" value=".النظام مشغول بعملية تنصيب أخرى\n\n.الرجاء إنتظار إكتماله و اضغط 'محاولة' لمواصلة التنصيب\n.يمكنك ضغط 'إلغاء' لإنهاء التنصيب\n.إذا قمت بضغط 'إنتظار و مواصلة' فإن التنصيب الخاص بك سيستأنف عند إكتمال عملية التنصيب السابقة" />
+	<string id="32466" value="نسخ مفتاح الترخيص" />
+	<string id="32467" value="لصق مفتاح الترخيص" />
+	<string id="32468" value="مسح كافة الحقول" />
+	<string id="32470" value="Yandex Elements أريد تنصيب " />
+	<string id="32471" value=".(يتم تطبيقه على كافة المستعرضات المدعومة) Yandex  تعيين صفحتي الرئيسية على" />
+	<string id="32472" value=".(يتم تطبيقه على كافة المستعرضات المدعومة) Yandex  تعيين محرك البحث الخاص بي على" />
+	<string id="32772" value="...الرجاء الإنتظار بينما يتم تنشيط الضمان الخاص بك" />
+	<string id="32775" value="!تهانينا" />
+	<string id="32776" value=".لقد أكملت التنصيب بنجاح" />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;التقني المؤهل&lt;/strong&gt; يمكنه الآن&lt;br /&gt;&lt;strong&gt;مساعدتك لتركيبه&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;مجاناً&lt;/strong&gt;" />
+	<string id="32778" value="تقديم عرض وقت محدد" />
+	<string id="32779" value="مكالمة" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="32786" value="تسجيل الدخول يجب أن يكون بطول %d حروف على الأقل" />
+	<string id="32787" value="كلمة المرور يجب أن تكون بطول %d حروف على الأقل" />
+	<string id="32788" value="تسجيل الدخول و كلمة المرور يجب أن لا يتطابقا" />
+	<string id="32791" value="إرسال إحصائيات إستخدام (مثل الأعطال, الأخطاء, النقرات إلخ.) برنامج مجهول إلى COMODO من أجل تحسين جودة المنتَج." />
+	<string id="32793" value="الرجاء إدخال تفاصيل IT and Security Manager server بالأسفل:" />
+	<string id="32794" value="IT and Security Manager server:" />
+	<string id="32795" value="IT and Security Manager server port:" />
+	<string id="32796" value="&lt;strong&gt;تنشيط %s&lt;/strong&gt;" />
+	<string id="32797" value="التنشيط بواسطة مفتاح الترخيص" />
+	<string id="32798" value="إختر المكونات التي تريد تنشيطها:" />
+	<string id="32799" value="CCS Containment و Antivirus" />
+	<string id="32800" value="CCS Containment و Firewall" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS Suite (Containment, Antivirus و Firewall)" />
+	<string id="32803" value="تنشيط بواسطة IT and Security Manager server" />
+	<string id="32804" value="إختر هذا الخيار إذا كان لديك مفتاح ترخيص صالح و ترغب في إستخدامه" />
+	<string id="32805" value="إختر هذا الخيار إذا كنت تستخدم IT and Security Manager portal لمعالجة نقطة النهاية هذه" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;and &lt; و id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;سياسة الخصوصية&lt;/a&gt;" />
+	<string id="32807" value="إسم المستخدم" />
+	<string id="32808" value="كلمة المرور" />
+	<string id="32809" value="&lt;strong&gt;تسجيل المنتضج&lt;/strong&gt;&lt;br /&gt;تنشيط مفتاح ترخيصك بواسطة حساب COMODO" />
+	<string id="32810" value="ليس لدي حساب COMODO" />
+	<string id="32811" value="لدي حساب COMODO مسبقاً" />
+	<string id="32812" value="أريد تنصيب Yandex Browser Manager الذي دائماً سيحمي إعدادات المستعرض الخاص بي." />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="34028" value="نسخ" />
+	<string id="34029" value="تحديد الكل" />
+	<string id="34410" value="تراجع" />
+	<string id="34411" value="قص" />
+	<string id="34412" value="لصق" />
+	<string id="34413" value="التحقق من ملقمات COMODO من أجل الإصدارات الأحدث للبرامج المحددة قبل تنصيبها من القرص." />
+	<string id="34414" value="يتم التحقق من الإصدارات الأحدث..." />
+	<string id="34415" value="تخطي هذه الخطوة" />
+	<string id="34416" value="تتوفر إصدارات أحدث" />
+	<string id="34417" value="تنزيل و تنصيب إصدارات البرامج المحدثة المحددة بدلاً عن الموجودة على القرص:" />
+	<string id="34418" value="الإصدار" />
+	<string id="34419" value="مطلوب حساب COMODO من أجل الإستمرار مع عملية التنشيط. إذا كان لديك حساب مسبقاً, أنت لست بحاجة لإنشاء حساب جديد." />
+	<string id="34420" value="إختر هذا الخيار إذا لم يكن لديك حساب COMODO. هذا المعالج سيساعدك في إنشاء حساب جديد." />
+	<string id="34421" value="أدخل أوراق إعتمادك بالأسفل من أجل إستخدام حساب COMODO الموجود الخاص بك." />
+	<string id="34422" value="\n\nمستخدمي CIS الإصدار 5.xx يمكنهم الترقية إلى CIS v.8.0 فقط عبر الترقية المتوسطة إلى CIS v.7.0. الرجاء الترقية إلى إصدار 7.0 و مواصلة ترقيته إلى v.8.0." />
+	<string id="34423" value="تعيين Chromodo Browser كمستعرض إفتراضي" />
+	<string id="34424" value="إستبدال إختصارات Google Chrome الموجودة بإختصارات Chromodo في سطح المكتب و قائمة إبدأ" />
+	<string id="34425" value="إستيراد إعدادات Google Chrome (المحفوظات, الإشارات المرجعية, الكوكيز إلخ.) إلى Chromodo Browser" />
+	<string id="34426" value="أدخل مفتاح الترخيص الخاص بك" />
+	<string id="34427" value="إكتمل التنزيل بنجاح" />
+	<string id="34428" value="موافقة و استمرار" />
+	<string id="34429" value="إذا كنت ترغب, يمكنك قطع الإتصال بالإنترنت لتنصيب الحزمة دون إتصال." />
+	<string id="34430" value="بالنقر على الزر &quot;موافقة و استمرار&quot; فإنك توافق على التنصيب و اتفاقية (اتفاقيات) ترخيص المستخدم بالأسفل:" />
+	<string id="34431" value="الحماية بمضاد الفيروسات, الجدار الناري و مضاد البرامج الضارة." />
+	<string id="34432" value="الحماية من الوصول غير المصرح به" />
+	<string id="34433" value="الحماية من الفيروسات والبرامج الضارة" />
+	<string id="34434" value="دعم PC المباشر 24/7" />
+	<string id="34435" value="تصفح سريع و آمن للإنترنت" />
+	<string id="34436" value="الحماية من فقد البيانات" />
+	<string id="34437" value="Chromodo يأتي بالإمتدادات التالية لتعزيز الأمان ضد التهديدات المعتمدة على الويب:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="34441" value="حل النسخ الاحتياطي عبر الإنترنت سهل الاستخدام،الكل في واحد" />
+	<string id="34442" value="&lt;strong&gt;Chromodo&lt;/strong&gt; و &lt;strong&gt;GeekBuddy&lt;/strong&gt; مع" />
+	<string id="34443" value="&lt;strong&gt;GeekBuddy&lt;/strong&gt; مع" />
+	<string id="34444" value="&lt;strong&gt;Chromodo&lt;/strong&gt; مع" />
+	<string id="34445" value="مستعرض Chromodo هو مستعرض إنترنت سريع و متعدد الإستخدامات يعتمد على تقنية Chromium و غرست مع مستويات أمن كومودو التي لا مثيل لها." />
+	<string id="34446" value="يجب عليك تمكين منهج TLS في إعدادات أمان IE." />
+	<string id="34447" value="لتمكين منهج TLS:\n1. في متصفح الإنترنت, إذهب إلى أدوات -&gt; خيارات الإنترنت.\n2. حدد التبويب خيارات متقدمة.\n3. قم بالتمرير لأسفل إلى قسم الأمان.\n4. حدد خانة الإختيار &quot;استخدام TLS 1.xx&quot;\n5. إضغط الزر موافق." />
+	<string id="34448" value="%s لا يمكن تنصيبه لأنه تم تنصيب COMODO Cloud AV مسبقاً على هذا الحاسوب.\n\nالرجاء إلغاء تنصيب CCAV قبل تنصيب %s." />
+	<string id="34449" value="&lt;strong&gt;Dragon&lt;/strong&gt; و &lt;strong&gt;GeekBuddy&lt;/strong&gt; مع" />
+	<string id="34450" value="&lt;strong&gt;Dragon&lt;/strong&gt; مع" />
+	<string id="34451" value="تشغيل التطبيقات غير المعروفة في بيئة آمنة, معزولة" />
+	<string id="34452" value="الإتصال الآمن إلى مواقع إنترنت مهمة و حساسة" />
+	<string id="34453" value="مرحباً!" />
+	<string id="34454" value="أنت على وشك تنصيب %s %s لتأمين و حماية كافة أجهزتك" />
+	<string id="34455" value="بالنقر على &quot;%s&quot;, فإنك تقر بأنك قرأت و قبلت %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt; و &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;سياسة الخصوصية&lt;/a&gt;" />
+	<string id="34456" value="أنا أقر" />
+	<string id="34457" value="بـ Chromodo Browser و GeekBuddy" />
+	<string id="34458" value="بـ Dragon Browser و التسوق الآمن و GeekBuddy" />
+	<string id="34459" value="بـ Chromodo Browser" />
+	<string id="34460" value="بـ Dragon Browser" />
+	<string id="34461" value="بـ GeekBuddy" />
+	<string id="34462" value="تنصيب عناصر Yandex (إمتداد المستعرض)" />
+	<string id="34463" value="تعيين صفحتي الرئيسية على Yandex*" />
+	<string id="34464" value="تعيين محرك البحث الخاص بي على Yandex*" />
+	<string id="34465" value="تعيين التبويب الجديد للمستعرض الخاص بي على Yandex*" />
+	<string id="34466" value="* يتم تطبيقه على كافة المستعرضات المدعومة" />
+	<string id="34467" value="بالنقر على &quot;%s&quot;, فإنك تقر بأنك قرأت و قبلت" />
+	<string id="34470" value="تنصيب الإصدار المجاني" />
+	<string id="34471" value="تنصيب PRO" />
+	<string id="34472" value="حاول تجربة الـ30 يوم لـ PRO" />
+	<string id="34473" value="حاول تجربة الـ30 يوم لـ COMPLETE" />
+	<string id="34474" value="حاول تجربة الـ30 يوم لـ PRO.&lt;br /&gt;سوف يطلب منك العودة مرة أخرى إلى النسخة المجانية بعد ذلك" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="حاول تجربة الـ30 يوم لـ COMPLETE.&lt;br /&gt;سوف يطلب منك العودة مرة أخرى إلى النسخة المجانية بعد ذلك" />
+	<string id="34477" value="مضاد الفيروسات" />
+	<string id="34478" value="الجدار الناري" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="التسوق الآمن" />
+	<string id="34483" value="24/7 Live Support" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="دليل التنصيب" />
+	<string id="34487" value="تغيير مزود DNS الخاص بي إلى COMODO Secure DNS (تحسن الأمن على الانترنت، الحل الأسرع لصفحات الإنترنت). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;ما هذا؟&lt;/a&gt;" />
+	<string id="34488" value="تمكين &quot;Cloud Based Behavior Analysis&quot; من الملفات غير الموثوقة (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;سياسة الخصوصية&lt;/a&gt;)" />
+	<string id="34489" value="إرسال إحصائيات استخدام (على سبيل المثال، تحطمات، أخطاء، نقرات، وما إلى ذلك) برنامج مجهول  إلى COMODO لتحسين جودة المنتَج." />
+	<string id="34490" value="تخصيص" />
+	<string id="34491" value="الحجم الإجمالي:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="تقييم الملف" />
+	<string id="34494" value="ترشيح موقع الإنترنت" />
+	<string id="34495" value="التسوق الآمن" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Cloud Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 Live Support" />
+	<string id="34501" value="اعتني بنفسك. كن مسيطر.&lt;br /&gt;تشغيل التطبيقات غير المعروفة في Safe Isolated Environment." />
+	<string id="34502" value="موثوق أو خبيث؟&lt;br /&gt;تحقق من أي تقييم ملف في قاعدة بياناتنا العالمية." />
+	<string id="34503" value="إحمي أطفالك ونفسك من المواقع التي تحتوي على برامج ضارة أو محتوى غير لائق" />
+	<string id="34504" value="قم بتأمين بياناتك و مالك.&lt;br /&gt;تأكد أن لا أحد يعترض معلوماتك الحساسة على الانترنت" />
+	<string id="34505" value="الحصول على Mobile Antivirus الخاص بك مجاناً لأجهزة Android" />
+	<string id="34506" value="لا توجد طريقة لفقدان البيانات.&lt;br /&gt;يتم تشفير كافة بياناتك وحفظها في المشبوه." />
+	<string id="34507" value="باستخدام واي فاي عام؟&lt;br /&gt;الآن إنه آمن." />
+	<string id="34508" value="هل تحتاج لمساعدة؟&lt;br /&gt;إتصل بالفنيين لدينا" />
+	<string id="34509" value="التنصيب المجاني" />
+	<string id="34510" value="تهانينا!" />
+	<string id="34511" value="لقد قمت بإكمال التنصيب بنجاح." />
+	<string id="34512" value="أرسل لي أخبار,عروض وخصومات COMODO  إلى عنوان البريد الإلكتروني التالي:" />
+	<string id="34513" value="يكتشف، يحظر ويزيل الفيروسات من أجهزة الحاسوب المكتبية والشبكات. يحمي باستمرار مع الوقت الحقيقي عند الوصول للفحص. يتم تحديث قواعد بيانات الفيروسات لدينا تلقائيا على أساس يومي." />
+	<string id="34514" value="الجدار الناري الحائز على جائزة. تلقائيا يجعل أجهزة الحاسوب غير مرئية للمهاجمين. يرشح حركة المرور إلى/من حاسوبك." />
+	<string id="34515" value="بيئة التشغيل المعزولة لتشغيل التطبيقات غير المعروفة، غير الموثوقة والمشبوهة. عظيم لاختبار البرمجيات التي تم الحصول عليها من مصادر غير موثوقة. ميزة الوضع التلقائي في Containment تسمح بعزل التطبيقات مثل كل ضبط مسبق والسياسات القابلة للتخصيص." />
+	<string id="34516" value="نظام منع الاختراق القائم على المضيف (HIPS) هو تقنية فعالة تمكن من تحليل سلوك البرامج قيد التشغيل و تقوم بإيقاف أي نشاط مشبوه. HIPS تلقائيا يحمي الملفات, المجلدات الحرجة للنظام ومفاتيح التسجيل لمنع التعديلات غير المصرح بها من قبل البرامج الخبيثة." />
+	<string id="34517" value="يراقب ويحافظ على سجل من أنشطة العمليات التي يتم تشغيلها على حاسوبك، ويوفر القدرة على عكس إجراءات البرنامج المحتمل أن تكون غير مرغوب فيها دون الضرورة لحظر البرنامج بالكامل." />
+	<string id="34518" value="يوفر الأمن الصارم للأعمال المصرفية والتسوق عبر الانترنت عن طريق السماح لك بالاتصال بالإنترنت من خلال بيئة ظاهرية, آمنة للغاية." />
+	<string id="34519" value="دعم بعيد غير محدود, مباشر لمشاكل حاسوبك. فقط انقر على رمز سطح المكتب والدردشة مع المهوس الخاص بك الذي سوف يقوم بإصلاح المشاكل أمام عينيك و المساعدة مع تحسين إعدادات الحاسوب و الويندوز, البريد وإعداد الطابعة، تنصيب أي برنامج وأكثر من ذلك ..." />
+	<string id="34520" value="حل النسخ الاحتياطي عبر الإنترنت سهل الاستخدام،الكل في واحد. يمكّن لإجراء نسخ احتياطي واستعادة أي كمية من البيانات من ملف واحد إلى نظام كامل. يخزن البيانات المشفرة بأكثر تقنيات التشفير المحدثة. يحمي جميع الاتصالات بين نظامك وملقمات Comodo بواسطة SSL التشفير." />
+	<string id="34521" value="يأمّن الاتصالات السلكية واللاسلكية بين حاسوبك والحواسيب الأخرى. يجعل التصفح آمن عندما تكون في الأماكن العامة مثل المقاهي والفنادق والمطارات الخ. يبقيك ومعلوماتك الخاصة آمن، وبعيدا عن أيدي المجرمين خلال جلسات العمل الخاصة بك عبر الإنترنت. يوفر  حركة مرور مشفرة تماما إلى/من حاسوبك." />
+	<string id="34522" value="تعيين صفحتي الرئيسية, محرك البحث و التبويب الجديد للمستعرض على Yandex*" />
+	<string id="34524" value="الأذونات" />
+	<string id="34525" value="المكونات" />
+	<string id="34526" value="تنصيب معالج مستعرض Yandex" />
+	<string id="34527" value="عناصر Yandex &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="34528" value="معالج مستعرض Yandex &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="34529" value="تعزيز خبرة إستعراض الإنترنت لدي بتعيين Yahoo! كصفحتي الرئيسية، تبويب جديد و محرك البحث الإفتراضي (كافة المستعرضات المدعومة)" />
+	<string id="34530" value="بتنصيب هذا التطبيق,فإنك تقر أنك قرأت و قبلت %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;إتفاقية الترخيص&lt;/a&gt;" />
+	<string id="34531" value="إذا لم يكن لديك مفتاح ترخيص, يمكنك الحصول عليه" />
+	<string id="34532" value="الحصول على مفتاح الترخيص" />
+	<string id="34533" value="تنشيط الترخيص" />
+	<string id="34534" value="إتصل بـ &lt;strong&gt;+1888-258-7142&lt;/strong&gt; من أجل فني معتمد لإصلاح هذه المشكلة لك" />
+	<string id="34535" value="&lt;strong&gt;تسجيل المنتَج&lt;/strong&gt;&lt;span&gt;قم بتنشيط مفتاح ترخيصك بواسطة حساب COMODO&lt;/span&gt;" />
+	<string id="34536" value="عنوان البريد الإلكتروني المخصص غير صالح" />
+	<string id="34537" value="كلمات المرور غير مطابقة" />
+	<string id="34538" value="الرجاء تحديد بلد" />
+	<string id="34539" value="&lt;strong&gt;تنشيط الترخيص&lt;/strong&gt;&lt;span&gt;أدخل مفتاح ترخيصك لتنشيط منتَجك&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;تسجيل المنتَج&lt;/strong&gt;&lt;span&gt;قم بتنشيط مفتاح ترخيصك بواسطة حساب COMODO&lt;/span&gt;" />
+	<string id="34541" value="مطلوب حساب COMODO من أجل الإستمرار مع عملية التنشيط." />
+	<string id="34542" value="إنشاء حساب جديد" />
+	<string id="34543" value="* إعادة كتابة كلمة المرور" />
+	<string id="34544" value="البريد الإلكتروني" />
+	<string id="34545" value="كلمة المرور" />
+	<string id="34546" value="نسيت كلمة المرور" />
+	<string id="34547" value="تسجيل الدخول" />
+	<string id="34548" value="حدث خطأ أثناء تنشيط المنتَج" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;في متصفح الإنترنت, إذهب إلى أدوات -&gt; خيارات الإنترنت&lt;/li&gt;&lt;li&gt;حدد التبويب خيارات متقدمة&lt;/li&gt;&lt;li&gt;قم بالتمرير لأسفل إلى قسم الأمان&lt;/li&gt;&lt;li&gt;حدد مربع التحقق &quot;إستخدام TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;إضغط الزر موافق&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="الرجاء التحقق من إتصالك بالإنترنت" />
+	<string id="34551" value="يتم التنشيط" />
+	<string id="34552" value="لا يمكن العثور على تطبيق التشخيصات CIS." />
+	<string id="34553" value="لا يمكن تشغيل تشخيصات CIS. شفرة الخطأ %u" />
+	<string id="34554" value="يتم إلغاء تنصيب %s..." />
+	<string id="34555" value="يتم تغيير %s..." />
+	<string id="34556" value="هل تريد بالتأكيد إلغاء &quot;إلغاء التنصيب&quot;؟" />
+	<string id="34557" value="لا يمكن تغيير %s" />
+	<string id="34558" value="لا يمكن إلغاء تنصيب %s" />
+	<string id="34560" value="إصلاح" />
+	<string id="34561" value="تغيير" />
+	<string id="34562" value="إلغاء تنصيب" />
+	<string id="34563" value="إصلاح المشاكل التي قد تسبب الإبطاءات و الأعطال." />
+	<string id="34564" value="تحقق من ميزات البرنامج التي تم تنصيبها." />
+	<string id="34565" value="إلغاء تنصيب &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="تحديد المنتَج" />
+	<string id="34567" value="%s يأتي مع مجموعة من الحلول الأمنية الحيوية لحاسوبك. الرجاء تحديد المنتجات التي ترغب في تنصيبها أو إلغاء تحديد المنتجات التي تريد إلغاء تنصيبها من أجل الاستمرار." />
+	<string id="34568" value="تنصيب COMODO Firewall (مستحسن)" />
+	<string id="34569" value="حدد هذا الخيار لتنصيب COMODO Firewall على حاسوبك. إذا كان لديك برنامج جدار ناري آخر تم تنصيبه, أنت بحاجة لإلغاء تنصيبه قبل الإستمرار." />
+	<string id="34570" value="تنصيب COMODO Antivirus (مستحسن)" />
+	<string id="34571" value="حدد هذا الخيار لتنصيب COMODO Antivirus على حاسوبك. إذا كان لديك برنامج مضاد فيروسات آخر تم تنصيبه, أنت بحاجة لإلغاء تنصيبه قبل الإستمرار." />
+	<string id="34572" value="هذا هو." />
+	<string id="34573" value="لقد قمت بتغيير %s." />
+	<string id="34574" value="يتم تحضير إلغاء التنصيب..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="إنه من الخطأ أن تبقى دون حماية." />
+	<string id="34577" value="هل ترغب في تجربة مضاد الفيروسات القوي و الخفيف, المعتمد على المشبوه الخاص بنا؟" />
+	<string id="34578" value="تنزيل و تنصيب COMODO Cloud Antivirus" />
+	<string id="34579" value="سيتم تنصيب COMODO Cloud Antivirus بعد أن تكتمل عملية إلغاء التنصيب. لإكمال عملية إلغاء التنصيب ستحتاج لإعادة تشغيل حاسوبك." />
+	<string id="34580" value="ما هو السبب الرئيسي الذي جعلك تقرر إلغاء تنصيب COMODO؟ &lt;b&gt;(حدد الذي ينطبق)&lt;/b&gt;" />
+	<string id="34581" value="COMODO أخذ الكثير جداً من موارد حاسوبي" />
+	<string id="34582" value="أنا تلقيت الكثير من التنبيهات" />
+	<string id="34583" value="COMODO كان يحظر برامج أريد تشغيلها" />
+	<string id="34584" value="أنا لست راضٍ عموماً عن المنتَج" />
+	<string id="34585" value="لقد وجدت برنامج آخر أحبه أكثر" />
+	<string id="34586" value="غير ذلك (الرجاء التخصيص)" />
+	<string id="34587" value="لقد قمت بإزالة %s." />
+	<string id="34588" value="لكن, قد يكون لا يزال لدينا شيء ما لتقديمه لك. الرجاء التحقق من &lt;a href='#' id='id_products'&gt;منتجاتنا&lt;/a&gt; أو إتصل بمديرنا إذا كان لديك أية أسئلة." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="الرجاء إختيار ما الذي ترغب في عمله مع %s" />
+	<string id="34591" value="أريد إعادة تنصيبه" />
+	<string id="34592" value="هذا سيزيل &lt;b&gt;%s&lt;/b&gt; من نظامك, بحيث يمكنك إعادة تنصيبه أو إستبداله بإصدار مختلف." />
+	<string id="34593" value="أريد إزالته بشكل دائم" />
+	<string id="34594" value="هذا سيزيل &lt;b&gt;%s&lt;/b&gt; بشكل دائم من نظامك, لكن لا يزال باستطاعتك إعادة تنصيبه لاحقاً." />
+	<string id="34595" value="يتم تحضير التغيير..." />
+	<string id="34596" value="يتم تحضير التنزيل..." />
+	<string id="34597" value="خطأ أثناء تغيير COMODO Internet Security" />
+	<string id="34598" value="خطأ أثناء إلغاء تنصيب COMODO Internet Security" />
+	<string id="34599" value="إضافة, إزالة أو إصلاح المكوّنات" />
+	<string id="34600" value="إزالة أو إصلاح المكوّنات" />
+	<string id="34601" value="يتم إلغاء تنصيب البرنامج المتعارض: %s" />
+	<string id="34602" value="ننصح بإبقاء Comodo Internet Security محدّث لحماية حاسوبك من التعرض للخطر" />
+	<string id="34603" value="Comodo Internet Security يستخدم مجموعة قوية من تقنيات مراقبة الفيروسات, الوضع التلقائي في Containment و تحليل السلوك لحماية حاسوبك مباشرة من كافة البرامج الضارة المعروفة و غير المعروفة." />
+	<string id="34604" value="عملية تنصيب أخرى قيد التقدم. الرجاء الإنتظار حتى تكتمل." />
+	<string id="34605" value="عملية تنشيط أخرى قيد التقدم. الرجاء الإنتظار حتى تكتمل." />
+	<string id="34606" value="الآن مع الحماية ضد هجمات رجل في الوسط!" />
+	<string id="34607" value="حزمة تنصيب المنتَج الذي قمت للتو بإلغاء تنصيبه يتضمن Comodo Internet Security Essentials (ISE) الذي يحمي ضد هجمات رجل في الوسط. ISE يحتاج لأن يتم إلغاء تنصيبه منفصلاً. إذا كنت ترغب في إزالته، أنقر &amp;lt;a href='#' id='id_ise_how_to_remove'&amp;gt;هنا&amp;lt;/a&amp;gt; لتعلّم كيفية عمله." />
+	<string id="34608" value="تعيين Comodo Dragon Browser كمستعرض إفتراضي" />
+	<string id="34609" value="إستيراد إعدادات Google Chrome (المحفوظات, الإشارات المرجعية, الكوكيز إلخ.) إلى Comodo Dragon Browser" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

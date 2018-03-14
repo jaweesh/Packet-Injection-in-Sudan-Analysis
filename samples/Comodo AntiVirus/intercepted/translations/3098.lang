@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Српски - By Community" LANGID="3098" RTL="0">
+	<string id="106" value="Пакет је покварен.\r\nИнсталација је поништена" />
+	<string id="107" value="Инсталација не подржава циљни систем." />
+	<string id="108" value="COMODO побољшања" />
+	<string id="109" value="%s инсталатер" />
+	<string id="110" value="Побољшање %s..." />
+	<string id="111" value="Не могу да сачувам информације лиценце.\r\n%s" />
+	<string id="112" value="Ова опција ће да промени примарни и секундарни DNS рачунара на 8.26.56.26 и 156.154.70.22. После тога, све апликације ће да користе брже и сигурније DNS сервере за приступ на интернет." />
+	<string id="113" value="Достигли сте максималан број инсталација које допушта Ваша лиценца." />
+	<string id="114" value="COMODO менаџер лиценци" />
+	<string id="115" value="Датум/време вашег рачунара није добро. Поправите га и поновите." />
+	<string id="116" value="Унета лиценца је завршена" />
+	<string id="117" value="Грешка: %u. %s" />
+	<string id="118" value="Неуспела иницијализација инсталатера. Погрешан формат података." />
+	<string id="119" value="Нова верзија инсталатера је доступна.\r\nИнсталатер ће сада да се ажурира.\r\nЖелите наставити?" />
+	<string id="120" value="Дати интервал није подржан" />
+	<string id="121" value="Неуспешна иницијализација штампања." />
+	<string id="122" value="Активација производа је опозвана. Контактирајте васег администратора." />
+	<string id="123" value="Инсталирање %s..." />
+	<string id="124" value="COMODO инсталатер" />
+	<string id="125" value="Слажем се и инсталирај" />
+	<string id="126" value="Слажем се и надогради" />
+	<string id="127" value="Желите да поништите инсталацију пакета?" />
+	<string id="128" value="Потребна је дозвола за обављање инсталације." />
+	<string id="129" value="Погледај уговор о лиценцирању" />
+	<string id="130" value="Не могу поново да покренем COMODO инсталатер.\r\n%s\r\nРучно га поново покрени." />
+	<string id="131" value="Жељена инсталација" />
+	<string id="132" value="Жељена надоградња" />
+	<string id="133" value="Треба да поново покренете систем. Кликните 'Да' за поновно покретање или 'Не' ако то планирате да урадите касније." />
+	<string id="134" value="Сачекај..." />
+	<string id="135" value="Ова акција је недозвољено" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="CCS инсталиран на Вашем рачунару не може бити управљан са наведеним сервером. Молимо проверите да ли сте унели исправне детаље IT and Security Manager сервера или питајте Вашег мрежног администратора за помоћ." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Грешка %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Погрешна пријава/лозинка" />
+	<string id="144" value="Не могу да поново покренем систем.\r\n%s\r\nРучно поново покрените рачунар." />
+	<string id="145" value="Грешка %d: %s" />
+	<string id="148" value="Статус HTTP кода: %u." />
+	<string id="153" value="Унета е-адреса није добра.\r\nУнесите тачну е-адресу." />
+	<string id="154" value="Дата лиценца није добра.\r\nУнесите тачну лиценцу." />
+	<string id="155" value="Не могу да направим фасциклу %s.\r\n%s" />
+	<string id="156" value="Не могу да нађем 'WEB API' корисника са том пријавом" />
+	<string id="158" value="Грешка моста плачења" />
+	<string id="160" value="Не могу да инсталирам %s\r\n%s\r\nДа ли да поново покушате?" />
+	<string id="165" value="Не могу да преузмем %s" />
+	<string id="166" value="Не могу да пишем %s" />
+	<string id="167" value="Не могу да иницијализујем инсталатер. Проверите Интернет везу и/или 'Internet Explorer' подешавања.\r\n%s" />
+	<string id="168" value="Не могу да иницијализујем инсталатер. Проверите ваше привилегије.\r\n%s" />
+	<string id="169" value="Корисник нема сажетак ID за фактуру" />
+	<string id="170" value="Не могу да направим понављајуће ставке за ове термине цена" />
+	<string id="171" value="Грешка дозволе" />
+	<string id="172" value="Одабрани језик није подржан од стране система." />
+	<string id="173" value="Инсталација не може да се настави пошто одабрани језик није подржан од стране система." />
+	<string id="175" value="Не могу да инсталирам %s\r\n%s" />
+	<string id="183" value="Инсталирање %s" />
+	<string id="184" value="Преузимање %s..." />
+	<string id="190" value="In order to continue, you need to restart your computer.\r\nWould you like to restart it now?" />
+	<string id="192" value="Да би наставили са инсталацијом, рачунар треба поново да се покрене. После покретања, инсталација ће се наставити.\r\nПоново покренути?" />
+	<string id="193" value="Да би наставили са инсталацијом, треба да се уклони стари COMODO Firewall/Internet Security .\r\n %s не може то да уради тако да треба ручно уклонити стари програм и поново покренете %s." />
+	<string id="194" value="Захтев лиценце" />
+	<string id="195" value="Лиценца треба да садржи само слова од 'A' до 'F' и цифре" />
+	<string id="196" value="Где је моја лиценца?" />
+	<string id="197" value="Ако сте купили производ преко интернета, лиценца је нормално послата преко е-поште. Ако имате DVD/CD за инсталацију, проверите позадину DVD/CD за лиценцу." />
+	<string id="199" value="Молимо да не мењате или бришете ову датотеку. Потребна је %s да би завршио рад.\r\nДатотека ће аутоматски бити уклоњена на крају." />
+	<string id="202" value="Погрешан отисак" />
+	<string id="205" value="Погрешан XML захтев" />
+	<string id="206" value="Погрешни параметри" />
+	<string id="207" value="Погешна лиценца" />
+	<string id="208" value="Непозната зона" />
+	<string id="209" value="Непознати термини цене" />
+	<string id="210" value="Погрешан тип захтева" />
+	<string id="217" value="Погрешан захтев фактуре: Не може да се направи нова фактура" />
+	<string id="220" value="Непозната грешка се догодила" />
+	<string id="222" value="Погрешан режим." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Не могу да нађем датотеке за иницијализацију." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Поништавање. Сачекај..." />
+	<string id="235" value="Ажурирајте %s пре наставка." />
+	<string id="236" value="Актуелни статус инсталатера не може да се сачува да би се наставила инсталација после покретања.\r\nПокрените рачунар и ручно покрените COMODO инсталатер." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Неуспешна иницијализација инсталатера. Формат података је погрешан." />
+	<string id="239" value="Да би се наставила инсталација, рачунар треба поново да се покрене. После покретања, инсталација ће се аутоматско наставити. Немојте да избаците ДВД са COMODO инсталатером док се инсталација не заврши.\r\nПоново покренути?" />
+	<string id="246" value="Не могу да покренем подешавања - пакет је покварен." />
+	<string id="250" value="Да би се наставила инсталација, треба да се затвори %s. Затворите %s и стисните 'Да' за поновни покушај." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Пре активације гаранције, активирајте вашу лиценцу." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Непознат XML одговор за CAM сервер" />
+	<string id="295" value="Унета лиценца не одговара типу производа који пробате да инсталирате" />
+	<string id="313" value="Активирање лиценце, сачекај..." />
+	<string id="346" value="Понови" />
+	<string id="366" value="Потребна је Интернет веза." />
+	<string id="367" value="Да би добили лиценцу, инсталатер треба да се повеже на COMODO центар." />
+	<string id="368" value="Проверите да сте повезани на Интернет и стисните &quot;Покушај поново&quot;." />
+	<string id="369" value="Успешно сте активирали лиценцу и надроградили производ." />
+	<string id="374" value="Желим да упалим “Анализу понашања у облаку” за непознате програме тако што их шаљем COMODO-у у погледу &lt;link&gt;Политике приватности.&lt;/link&gt;" />
+	<string id="375" value="Бета" />
+	<string id="377" value="Кликувши на &quot;%s&quot;, слажете се са &lt;link&gt;Уговором о лиценцама.&lt;/link&gt;" />
+	<string id="383" value="Не могу да активирам лиценцу.\n%s" />
+	<string id="385" value="Требате да одаберете макар један производ." />
+	<string id="386" value="Величина:   %s" />
+	<string id="387" value="Збирна величина:   %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Некомпатибилне програми" />
+	<string id="32001" value="Умањи прозор" />
+	<string id="32002" value="Затвори прозор" />
+	<string id="32003" value="Инсталирај" />
+	<string id="32004" value="Менаџер лиценци" />
+	<string id="32005" value="Да" />
+	<string id="32006" value="Не" />
+	<string id="32007" value="Понови" />
+	<string id="32008" value="У реду" />
+	<string id="32009" value="Откажи" />
+	<string id="32010" value="Прекини" />
+	<string id="32011" value="Занемари" />
+	<string id="32012" value="Настави" />
+	<string id="32013" value="Покушај поново" />
+	<string id="32014" value="Инсталатер" />
+	<string id="32015" value="Назад" />
+	<string id="32016" value="Штампај" />
+	<string id="32017" value="MБ" />
+	<string id="32018" value="Претражи" />
+	<string id="32019" value="Следећи" />
+	<string id="32020" value="Затвори" />
+	<string id="32021" value="Learn more" />
+	<string id="32022" value="Finish" />
+	<string id="32023" value="Skip" />
+	<string id="32024" value="Accept" />
+	<string id="32102" value="&lt;strong&gt;Инсталирај неопходне пакете&lt;/strong&gt;&lt;br /&gt;Функција захтева инсталацију додатних пакета." />
+	<string id="32103" value="Мора се преузети и инсталирати:" />
+	<string id="32104" value="Назив пакета" />
+	<string id="32105" value="Уговор о лиценци" />
+	<string id="32106" value="Величина" />
+	<string id="32107" value="Притиском на &quot;Слажем се и инсталирај&quot;, слажете са споразумима корисника дозвола за све пакете горе наведене." />
+	<string id="32108" value="Слажем се и инсталирај" />
+	<string id="32109" value="Дошло је до грешке приликом инсталирања производа:" />
+	<string id="32110" value="Покушај поново" />
+	<string id="32111" value="Припрема инсталације..." />
+	<string id="32112" value="Успешно сте активирали свој производ." />
+	<string id="32113" value="Настави" />
+	<string id="32114" value="Сачекајте док се ваша лиценца активира..." />
+	<string id="32115" value="Дошло је до грешке приликом активирања производа:" />
+	<string id="32116" value="Покушај поново" />
+	<string id="32117" value="&lt;strong&gt;Активирајте лиценцу&lt;/strong&gt;&lt;br /&gt;Унесите своју лиценцу да бисте активирали свој производ" />
+	<string id="32118" value="Да би активирали:" />
+	<string id="32119" value="Уверите се да сте повезани са Интернетом" />
+	<string id="32120" value="Унесите своју лиценцу или &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;кликните овде&lt;/a&gt; да добијете једну" />
+	<string id="32121" value="Активирајте лиценцу и региструјте свој производ" />
+	<string id="32122" value="Лиценцни кључ:" />
+	<string id="32123" value="Активирај" />
+	<string id="32124" value="&lt;strong&gt;Региструј производ&lt;/strong&gt;&lt;br /&gt;Направи нови COMODO рачун" />
+	<string id="32125" value="* Име" />
+	<string id="32126" value="* Презиме" />
+	<string id="32127" value="* Е-адреса" />
+	<string id="32128" value="Покрајина" />
+	<string id="32129" value="Град" />
+	<string id="32130" value="Држава" />
+	<string id="32131" value="Адреса" />
+	<string id="32132" value="Изаберите корисничко име и лозинку и направите COMODO налог. Можете да користите свој налог да бисте управљали лиценцама помоћу &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Корисничко име" />
+	<string id="32134" value="* Лозинка" />
+	<string id="32135" value="* Обавезна поља" />
+	<string id="32136" value="Регистрација" />
+	<string id="32137" value="Авганистан" />
+	<string id="32138" value="Албанија" />
+	<string id="32139" value="Алжир" />
+	<string id="32140" value="Америчка Самоа" />
+	<string id="32141" value="Амдора" />
+	<string id="32142" value="Aнгола" />
+	<string id="32143" value="Aнгила" />
+	<string id="32144" value="Антарктикa" />
+	<string id="32145" value="Антика и Барбуда" />
+	<string id="32146" value="Аргентина" />
+	<string id="32147" value="Јерменија" />
+	<string id="32148" value="Aруба" />
+	<string id="32149" value="Аустралија" />
+	<string id="32150" value="Aустрија" />
+	<string id="32151" value="Азербејџан" />
+	<string id="32152" value="Бахама" />
+	<string id="32153" value="Бахреин" />
+	<string id="32154" value="Бангладеш" />
+	<string id="32155" value="Барбадос" />
+	<string id="32156" value="Белорусија" />
+	<string id="32157" value="Белгија" />
+	<string id="32158" value="Белиз" />
+	<string id="32159" value="Бенин" />
+	<string id="32160" value="Бермуди" />
+	<string id="32161" value="Бутан" />
+	<string id="32162" value="Боливија" />
+	<string id="32163" value="Босна и Херцеговина" />
+	<string id="32164" value="Боцвананa" />
+	<string id="32165" value="Острво Буве" />
+	<string id="32166" value="Бразил" />
+	<string id="32167" value="Британско-Индијска океанска територија" />
+	<string id="32168" value="Брунеји" />
+	<string id="32169" value="Бугарска" />
+	<string id="32170" value="Буркина фасо" />
+	<string id="32171" value="Бурунди" />
+	<string id="32172" value="Камбоџа" />
+	<string id="32173" value="Камерун" />
+	<string id="32174" value="Канада" />
+	<string id="32175" value="Кејп Верде" />
+	<string id="32176" value="Кајманска острва" />
+	<string id="32177" value="Централно Афричка република" />
+	<string id="32178" value="Чад" />
+	<string id="32179" value="Чиле" />
+	<string id="32180" value="Кина" />
+	<string id="32181" value="Ускршња оствра" />
+	<string id="32182" value="Острва Кокоса" />
+	<string id="32183" value="Колумбија" />
+	<string id="32184" value="Коморос" />
+	<string id="32185" value="Република Конго" />
+	<string id="32186" value="Демократска република Конго" />
+	<string id="32187" value="Кукова Острва" />
+	<string id="32188" value="Коста Рика" />
+	<string id="32189" value="Обала Слоноваче" />
+	<string id="32190" value="Хрватска" />
+	<string id="32191" value="Куба" />
+	<string id="32192" value="Кипар" />
+	<string id="32193" value="Чешка република" />
+	<string id="32194" value="Данска" />
+	<string id="32195" value="Џибути" />
+	<string id="32196" value="Доминикана" />
+	<string id="32197" value="Доминиканска република" />
+	<string id="32198" value="Источни Тимор" />
+	<string id="32199" value="Еквадор" />
+	<string id="32200" value="Египат" />
+	<string id="32201" value="Ел Салвадор" />
+	<string id="32202" value="Екваторијална Гвинеја" />
+	<string id="32203" value="Еритреа" />
+	<string id="32204" value="Естонија" />
+	<string id="32205" value="Етиопија" />
+	<string id="32206" value="Фокландка острва(Малвини)" />
+	<string id="32207" value="Фарска острва" />
+	<string id="32208" value="Фиџи" />
+	<string id="32209" value="Финска" />
+	<string id="32210" value="Француска" />
+	<string id="32211" value="Француска Гвајана" />
+	<string id="32212" value="Француска Полинезија" />
+	<string id="32213" value="Француске јужне територије" />
+	<string id="32214" value="Габон" />
+	<string id="32215" value="Гамбија" />
+	<string id="32216" value="Џорџија" />
+	<string id="32217" value="Немачка" />
+	<string id="32218" value="Гана" />
+	<string id="32219" value="Гибралтар" />
+	<string id="32220" value="Грчка" />
+	<string id="32221" value="Гренланд" />
+	<string id="32222" value="Гренада" />
+	<string id="32223" value="Гвадалупа" />
+	<string id="32224" value="Гуам" />
+	<string id="32225" value="Гватемала" />
+	<string id="32226" value="Гвинеја Бисао" />
+	<string id="32227" value="Гвинеја" />
+	<string id="32228" value="Гвајана" />
+	<string id="32229" value="Хаити" />
+	<string id="32230" value="Оствра Херд и Мекдоналдс" />
+	<string id="32231" value="Свето море(Држава града Ваткикан)" />
+	<string id="32232" value="Хондурас" />
+	<string id="32233" value="Хонг Конг" />
+	<string id="32234" value="Мађарска" />
+	<string id="32235" value="Исланд" />
+	<string id="32236" value="Индија" />
+	<string id="32237" value="Индонезија" />
+	<string id="32238" value="Иран" />
+	<string id="32239" value="Ирак" />
+	<string id="32240" value="Ирска" />
+	<string id="32241" value="Израел" />
+	<string id="32242" value="Италија" />
+	<string id="32243" value="Јамајка" />
+	<string id="32244" value="Јапан" />
+	<string id="32245" value="Јордан" />
+	<string id="32246" value="Казахстан" />
+	<string id="32247" value="Кенија" />
+	<string id="32248" value="Кирибати" />
+	<string id="32249" value="Кореја, демократска република" />
+	<string id="32250" value="Кореја, република" />
+	<string id="32251" value="Кувајт" />
+	<string id="32252" value="Киргистан" />
+	<string id="32253" value="Лао демократска народна република" />
+	<string id="32254" value="Летонија" />
+	<string id="32255" value="Либан" />
+	<string id="32256" value="Лесото" />
+	<string id="32257" value="Либерија" />
+	<string id="32258" value="Либија" />
+	<string id="32259" value="Лихтенштајн" />
+	<string id="32260" value="Литванија" />
+	<string id="32261" value="Луксембург" />
+	<string id="32262" value="Макао" />
+	<string id="32263" value="Македонија" />
+	<string id="32264" value="Мадагаскар" />
+	<string id="32265" value="Малави" />
+	<string id="32266" value="Малезија" />
+	<string id="32267" value="Малдиви" />
+	<string id="32268" value="Mали" />
+	<string id="32269" value="Малта" />
+	<string id="32270" value="Маршалска оствра" />
+	<string id="32271" value="Мартиник" />
+	<string id="32272" value="Mауританијa" />
+	<string id="32273" value="Маурицијус" />
+	<string id="32274" value="Мајоте" />
+	<string id="32275" value="Мексико" />
+	<string id="32276" value="Микронезија" />
+	<string id="32277" value="Молдавија" />
+	<string id="32278" value="Монако" />
+	<string id="32279" value="Монголија" />
+	<string id="32280" value="Монсерат" />
+	<string id="32281" value="Мароко" />
+	<string id="32282" value="Мозамбик" />
+	<string id="32283" value="Мијанмар" />
+	<string id="32284" value="Намибија" />
+	<string id="32285" value="Науру" />
+	<string id="32286" value="Непал" />
+	<string id="32287" value="Холандски Антили" />
+	<string id="32288" value="Холандија" />
+	<string id="32289" value="Нова Каледонија" />
+	<string id="32290" value="Нови Зеланд" />
+	<string id="32291" value="Никарагва" />
+	<string id="32292" value="Нигер" />
+	<string id="32293" value="Нигерија" />
+	<string id="32294" value="Ниуи" />
+	<string id="32295" value="Оствра Норфолк" />
+	<string id="32296" value="Северна Маријана острва" />
+	<string id="32297" value="Норвешка" />
+	<string id="32298" value="Оман" />
+	<string id="32299" value="Пакистан" />
+	<string id="32300" value="Палау" />
+	<string id="32301" value="Палестинска окупирана територија" />
+	<string id="32302" value="Панама" />
+	<string id="32303" value="Папуа Нова Гвинеја" />
+	<string id="32304" value="Парагвај" />
+	<string id="32305" value="Перу" />
+	<string id="32306" value="Филипини" />
+	<string id="32307" value="Питкерн" />
+	<string id="32308" value="Пољска" />
+	<string id="32309" value="Португал" />
+	<string id="32310" value="Порто Рико" />
+	<string id="32311" value="Катар" />
+	<string id="32312" value="Реунија" />
+	<string id="32313" value="Румунија" />
+	<string id="32314" value="Русија" />
+	<string id="32315" value="Руанда" />
+	<string id="32316" value="Сент Бартоломеј" />
+	<string id="32317" value="Света Хелена" />
+	<string id="32318" value="Свети Китс и Невис" />
+	<string id="32319" value="Света Луција" />
+	<string id="32320" value="Свети Мартин (француски део)" />
+	<string id="32321" value="Свети Пјер и Микелон" />
+	<string id="32322" value="Свети Винсент и Гренадини" />
+	<string id="32323" value="Самоа" />
+	<string id="32324" value="Сан Марино" />
+	<string id="32325" value="Сао Том и Принцип" />
+	<string id="32326" value="Саудијска Арабија" />
+	<string id="32327" value="Сенегал" />
+	<string id="32328" value="Сејшели" />
+	<string id="32329" value="Сијера Леоне" />
+	<string id="32330" value="Сингапур" />
+	<string id="32331" value="Словачка" />
+	<string id="32332" value="Словенија" />
+	<string id="32333" value="Соломонска острва" />
+	<string id="32334" value="Сомалија" />
+	<string id="32335" value="Јужна Африка" />
+	<string id="32336" value="Јужна Џорџија и јужна сендвич острва" />
+	<string id="32337" value="Шпанија" />
+	<string id="32338" value="Шри Ланка" />
+	<string id="32339" value="Судан" />
+	<string id="32340" value="Суринам" />
+	<string id="32341" value="Свалбард и Јан Мајен" />
+	<string id="32342" value="Свазиленд" />
+	<string id="32343" value="Шведска" />
+	<string id="32344" value="Швајцарска" />
+	<string id="32345" value="Сирија" />
+	<string id="32346" value="Тајван" />
+	<string id="32347" value="Таџикистан" />
+	<string id="32348" value="Танзанија" />
+	<string id="32349" value="Тајланд" />
+	<string id="32350" value="Того" />
+	<string id="32351" value="Токелау" />
+	<string id="32352" value="Тонга" />
+	<string id="32353" value="Тринидад и Тобаго" />
+	<string id="32354" value="Тунис" />
+	<string id="32355" value="Турска" />
+	<string id="32356" value="Туркменистан" />
+	<string id="32357" value="Турска и Каиканска острва" />
+	<string id="32358" value="Тувалу" />
+	<string id="32359" value="Уганда" />
+	<string id="32360" value="Украина" />
+	<string id="32361" value="Уједињени Арапски Емирати" />
+	<string id="32362" value="Велика Британија" />
+	<string id="32363" value="Ујединјене државе острва Минор" />
+	<string id="32364" value="Сједињене Америчке државе" />
+	<string id="32365" value="Уругвај" />
+	<string id="32366" value="Узбекистан" />
+	<string id="32367" value="Ванату" />
+	<string id="32368" value="Венецуела" />
+	<string id="32369" value="Вијетнам" />
+	<string id="32370" value="Девичанска острва,Британска" />
+	<string id="32371" value="Девичанска острва,Америчка" />
+	<string id="32372" value="Валис и Футуна" />
+	<string id="32373" value="Западна Сахара" />
+	<string id="32374" value="Јемен" />
+	<string id="32375" value="Југославија" />
+	<string id="32376" value="Замбија" />
+	<string id="32377" value="Алабама" />
+	<string id="32378" value="Aљаска" />
+	<string id="32379" value="Aризона" />
+	<string id="32380" value="Aрканзас" />
+	<string id="32381" value="Калифорнија" />
+	<string id="32382" value="Колорадо" />
+	<string id="32383" value="Конектикат" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Делавар" />
+	<string id="32386" value="Флорида" />
+	<string id="32387" value="Џорџија" />
+	<string id="32388" value="Хаваји" />
+	<string id="32389" value="Ајдахо" />
+	<string id="32390" value="Илиноис" />
+	<string id="32391" value="Индиана" />
+	<string id="32392" value="Ајова" />
+	<string id="32393" value="Канзас" />
+	<string id="32394" value="Кентаки" />
+	<string id="32395" value="Лујизијана" />
+	<string id="32396" value="Mејн" />
+	<string id="32397" value="Мериленд" />
+	<string id="32398" value="Масачусетс" />
+	<string id="32399" value="Мичиген" />
+	<string id="32400" value="Минесота" />
+	<string id="32401" value="Мисисипи" />
+	<string id="32402" value="Мисури" />
+	<string id="32403" value="Монтана" />
+	<string id="32404" value="Небраска" />
+	<string id="32405" value="Невада" />
+	<string id="32406" value="Њу Хемпшир" />
+	<string id="32407" value="Њу Џерси" />
+	<string id="32408" value="Њу Мексико" />
+	<string id="32409" value="Њу Јорк" />
+	<string id="32410" value="Северна Каролина" />
+	<string id="32411" value="Северна Дакота" />
+	<string id="32412" value="Охајо" />
+	<string id="32413" value="Оклахома" />
+	<string id="32414" value="Орегон" />
+	<string id="32415" value="Пенсилванија" />
+	<string id="32416" value="Род Ајланд" />
+	<string id="32417" value="Јужна Каролина" />
+	<string id="32418" value="Јужна Дакота" />
+	<string id="32419" value="Тенеси" />
+	<string id="32420" value="Teксас" />
+	<string id="32421" value="Јута" />
+	<string id="32422" value="Вермонт" />
+	<string id="32423" value="Вирџинија" />
+	<string id="32424" value="Вашингтон" />
+	<string id="32425" value="Западна Вирџинија" />
+	<string id="32426" value="Висконсин" />
+	<string id="32427" value="Вајоминг" />
+	<string id="32428" value="Алберта" />
+	<string id="32429" value="Британска Колумбија" />
+	<string id="32430" value="Манитоба" />
+	<string id="32431" value="Њу Брунсвик" />
+	<string id="32432" value="Њуфаундленд" />
+	<string id="32433" value="Северозападна територија" />
+	<string id="32434" value="Нова Шкотска" />
+	<string id="32435" value="Нунавут" />
+	<string id="32436" value="Онтарио" />
+	<string id="32437" value="Острво Принца Едварда" />
+	<string id="32438" value="Квебек" />
+	<string id="32439" value="Саскачвен" />
+	<string id="32440" value="Јукон" />
+	<string id="32441" value="Одабир језика" />
+	<string id="32442" value="Шаљите ми новости COMODO, понуде и попусте на следећу е-маил адресу:" />
+	<string id="32443" value="Омогући додатну сигурност на Интернету променом мојих DNS поставки у COMODO Secure DNS сервере (брже учитавање веб страница, побољшана безбедност)." />
+	<string id="32444" value="Омогући анализу понашања непоузданих датотека у Облаку &lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Политика приватности.&lt;/a&gt;" />
+	<string id="32445" value="Желим да помогнем COMODO тако што постављам моју почетну страну и претраживач на Yahoo! (Само Firefox, Internet Explorer и Chrome)." />
+	<string id="32446" value="Кликувши на &quot;Слажем се и инсталирај&quot;, слажете се са Уговором о лиценцама." />
+	<string id="32447" value="Жељена инсталација" />
+	<string id="32449" value="Прочитајте корисничку лиценцу:" />
+	<string id="32450" value="Могућности инсталације" />
+	<string id="32451" value="Могућности конфигурације" />
+	<string id="32452" value="Смештај датотеке" />
+	<string id="32453" value="Величина:" />
+	<string id="32454" value="Збирна величина:" />
+	<string id="32455" value="Што више не приказу узбуне којима су потребне сигурносне одлуке" />
+	<string id="32456" value="Сигурносна подешавања подесиће Заштитни зид, Напредну Заштиту, Containment и антивирус тако што више да се узбуне аутоматски одговари." />
+	<string id="32457" value="Одабери путању инсталације:" />
+	<string id="32458" value="Ово је БЕТА верзија од &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Намењено је корисницима који раде БЕТА пробе." />
+	<string id="32460" value="Може да садржи проблема што могу да доводу до проблема." />
+	<string id="32461" value="Не инсталирајте овај производ на продукциону машину." />
+	<string id="32462" value="Да се настави?" />
+	<string id="32463" value="Кликувши на &quot;Слажем се и надогради&quot;, слажете се са Уговором о лиценцама." />
+	<string id="32464" value="Чекај и настави (%u)" />
+	<string id="32465" value="Систем је заузет са другим инсталационим процесом.\n\nМолим сачекајте његов завршетак и притисните &quot;Понови&quot; за наставак Ваше инсталације.\nМожете притиснути &quot;Откажи&quot; за прекид Ваше инсталације.\nАко притиснете &quot;Чекај и настави&quot;, Ваша инсталација ће се аутоматски наставити након завршетка претходног инсталационог процеса." />
+	<string id="32466" value="Копирај лиценцу" />
+	<string id="32467" value="Залијепи лиценцу" />
+	<string id="32468" value="Очисти сва поља" />
+	<string id="32470" value="Желим инсталирати Yandex Elements." />
+	<string id="32471" value="Постави почетну страницу веб прегледника на Yandex (Односи се на све подржане браузере)." />
+	<string id="32472" value="Постави подразумевани претраживач веб прегледача на Yandex (Односи се на све подржане браузере)." />
+	<string id="32772" value="Молимо сачекајте да се Ваша гаранција активира..." />
+	<string id="32775" value="Честитамо!" />
+	<string id="32776" value="Успешно сте завршили инсталацију." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Овлашћени техничар&lt;/strong&gt; Вам сада може&lt;br /&gt;&lt;strong&gt;помоћи око подешавања for&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;БЕСПЛАТНО&lt;/strong&gt;" />
+	<string id="32778" value="Ограничена временска понуда" />
+	<string id="32779" value="позив" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Уговор о лиценцирању&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Уговор о лиценцирању&lt;/a&gt;" />
+	<string id="32786" value="Логин треба бити дугачак барем %d знакова" />
+	<string id="32787" value="Лозинка треба бити дугачка барем %d знакова" />
+	<string id="32788" value="Логин и лозинка требају бити различити" />
+	<string id="32791" value="Шаљи анонимне статистичке податке о употреби програма (нпр. рушења, грешке, кликови, итд) у COMODO како би побољшали квалитет производа." />
+	<string id="32793" value="Унесите детаље IT and Security Manager Сервера:" />
+	<string id="32794" value="IT and Security Manager Сервер:" />
+	<string id="32795" value="IT and Security Manager Сервер порт:" />
+	<string id="32796" value="&lt;strong&gt;Активирајте %s&lt;/strong&gt;" />
+	<string id="32797" value="Активирајте с лиценца" />
+	<string id="32798" value="Изаберите компоненте за активацију:" />
+	<string id="32799" value="CCS Containment и Против-вирус" />
+	<string id="32800" value="CCS Containment и Заштитни зид" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS Suite (Containment, Против-вирус и Заштитни зид)" />
+	<string id="32803" value="Активирајте с IT and Security Manager Сервер" />
+	<string id="32804" value="Изаберите ову опцију ако имате исправану лиценцу и желите је искористити" />
+	<string id="32805" value="Изаберите ову опцију ако користите IT and Security Manager за управљање овим рачунаром" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Уговор о лиценцирању&lt;/a&gt;" />
+	<string id="32807" value="Корисничко име" />
+	<string id="32808" value="Лозинка" />
+	<string id="32809" value="&lt;strong&gt;Региструј производ&lt;/strong&gt;&lt;br /&gt;Активирајте Ваш дозвола кључ с COMODO рачуном" />
+	<string id="32810" value="Немам COMODO рачун" />
+	<string id="32811" value="Вец имам COMODO рачун" />
+	<string id="32812" value="Желим инсталирати Yandex Browser Manager који ће увек штитити подешавања мог претраживача." />
+	<string id="32813" value="&lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Уговор о лиценцирању&lt;/a&gt; Yandex Browser Manager" />
+	<string id="34028" value="Умножи" />
+	<string id="34029" value="Одабери све" />
+	<string id="34410" value="Поништи" />
+	<string id="34411" value="Опсеци" />
+	<string id="34412" value="Залијепи" />
+	<string id="34413" value="Провера COMODO сервера за новије верзије одабраних програма пре инсталирања с диска." />
+	<string id="34414" value="Провера новијих верзија..." />
+	<string id="34415" value="Прескочи овај корак" />
+	<string id="34416" value="Новије верзије су доступне" />
+	<string id="34417" value="Преузимање и инсталирање одабраних надограђених верзија програма уместо оних са диска:" />
+	<string id="34418" value="Верзија" />
+	<string id="34419" value="Требате COMODO рачун како би наставили са процесом активације. Ако већ имате рачун, не треба стварати нови." />
+	<string id="34420" value="Изаберите ову опцију ако немате ЦОМОДО рачун. Чаробњак ће Вам помоћи у стварању новог рачуна." />
+	<string id="34421" value="Унесите Ваше акредитиве испод како би искористили Ваш постојећи COMODO рачун." />
+	<string id="34422" value="Грешка надоградње \n\nКорисници CIS иначице 5.кк могу надоградити на CIS v.8.0 само кроз прелазну надоградњу на CIS v.7.0. Молимо прво надоградите на верзију 7.0 и онда наставите надоградњу на верзију 8.0." />
+	<string id="34423" value="Set Chromodo Browser as a default browser" />
+	<string id="34424" value="Replace existing Google Chrome shortcuts with Chromodo shortcuts at desktop and Start menu" />
+	<string id="34425" value="Import Google Chrome settings (history, bookmarks, cookies etc.) to Chromodo Browser" />
+	<string id="34426" value="Унесите своју лиценцу" />
+	<string id="34427" value="Преузимање успешно завршено" />
+	<string id="34428" value="Потврди и Настави" />
+	<string id="34429" value="Ако желите, можете се одвојити са Интернета како би инсталирали пакет без Интернет везе." />
+	<string id="34430" value="Кликувши на &quot;Потврди и Настави&quot;, слажете се са Уговором о лиценцама." />
+	<string id="34431" value="Против-вирус, заштитни зид и заштита од штеточине" />
+	<string id="34432" value="Заштита од недозвољеног приступа" />
+	<string id="34433" value="Заштита од вирус и штеточине" />
+	<string id="34434" value="24/7 Подршка уживо" />
+	<string id="34435" value="Брзо и сигурно Интернет претраживање" />
+	<string id="34436" value="Заштита од губитка података" />
+	<string id="34437" value="Chromodo садржи следеће додатке за повећање безбедности од веб претњи:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="&lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Уговор о лиценцирању&lt;/a&gt; Chromodo" />
+	<string id="34441" value="An easy-to-use, all-in-one online backup solution" />
+	<string id="34442" value="са &lt;strong&gt;GeekBuddy&lt;/strong&gt; и &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="са &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="са &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo је брз и свестран Интернет претраживач заснован на Chromium технологији и познатој Comodo нивоу безбедности." />
+	<string id="34446" value="Морате омогућити TLS протокол у IE безбедносним подешавањима." />
+	<string id="34447" value="За омогућавање TLS протокола:\n1. У Internet Explorer идите на Tools -&gt; Internet Options.\n2. Изаберите Advanced.\n3. Скролајте доле до Security дела.\n4. Изаберите &quot;Use TLS 1.xx&quot;\n5. Притисните ОК." />
+	<string id="34448" value="%s не може бити инсталиран јер је COMODO Cloud AV већ инсталиран на овом рачунару.\n\nМолим уклоните CCAV пре инсталирања %s." />
+	<string id="34449" value="са &lt;strong&gt;GeekBuddy&lt;/strong&gt; и &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="са &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Run unknown applications in a safe, isolated environment" />
+	<string id="34452" value="Securely connect to important and sensitive websites" />
+	<string id="34453" value="Welcome!" />
+	<string id="34454" value="You are about to install %s %s to secure and protect all your devices" />
+	<string id="34455" value="By clicking &quot;%s&quot;, you agree you have read and accepted %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;License Agreement&lt;/a&gt; and &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Privacy Policy&lt;/a&gt;" />
+	<string id="34456" value="I agree" />
+	<string id="34457" value="with Chromodo Browser and GeekBuddy" />
+	<string id="34458" value="with Dragon Browser, Secure Shopping and GeekBuddy" />
+	<string id="34459" value="with Chromodo Browser" />
+	<string id="34460" value="with Dragon Browser" />
+	<string id="34461" value="with GeekBuddy" />
+	<string id="34462" value="Install Yandex Elements (browser extension)" />
+	<string id="34463" value="Set my home page to Yandex*" />
+	<string id="34464" value="Set my search engine to Yandex*" />
+	<string id="34465" value="Set my browser's new tab to Yandex*" />
+	<string id="34466" value="* applies to all supported browsers" />
+	<string id="34467" value="By clicking &quot;%s&quot;, you agree you have read and accepted" />
+	<string id="34470" value="Install Free Version" />
+	<string id="34471" value="Install PRO" />
+	<string id="34472" value="Try 30 days Trial of PRO" />
+	<string id="34473" value="Try 30 days Trial of COMPLETE" />
+	<string id="34474" value="Try the 30 day PRO trial.&lt;br /&gt;You will be asked to switch back to the free version afterwards" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Try the 30 day COMPLETE trial.&lt;br /&gt;You will be asked to switch back to the free version afterwards" />
+	<string id="34477" value="Antivirus" />
+	<string id="34478" value="Firewall" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Secure Shopping" />
+	<string id="34483" value="24/7 Live Support" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Installation Directory" />
+	<string id="34487" value="Change my DNS provider to COMODO Secure DNS (improved security online, faster resolution of web pages). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;What is this?&lt;/a&gt;" />
+	<string id="34488" value="Enable &quot;Cloud Based Behavior Analysis&quot; of untrusted files (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Privacy Policy&lt;/a&gt;)" />
+	<string id="34489" value="Send anonymous program usage (e.g. crashes, errors, clicks, etc.) statistics to COMODO to improve product quality." />
+	<string id="34490" value="Customize" />
+	<string id="34491" value="Total size:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="File Rating" />
+	<string id="34494" value="Website Filtering" />
+	<string id="34495" value="Secure Shopping" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Cloud Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 Live Support" />
+	<string id="34501" value="Be Safe. Be in Control.&lt;br /&gt;Run unknown applications in Safe Isolated Environment." />
+	<string id="34502" value="Trusted or Malicious?&lt;br /&gt;Check any file's reputation in our global database." />
+	<string id="34503" value="Protect your children and yourself from sites which contain malware or inappropriate content" />
+	<string id="34504" value="Secure your data and money.&lt;br /&gt;Make sure nobody intercepts your sensitive info online" />
+	<string id="34505" value="Get your free Mobile Antivirus for Android Devices" />
+	<string id="34506" value="No way to lose data.&lt;br /&gt;All your data are Encrypted and Saved in Cloud." />
+	<string id="34507" value="Using Public Wi-Fi?&lt;br /&gt;Now it is Safe." />
+	<string id="34508" value="Do you need Help?&lt;br /&gt;Contact with experts" />
+	<string id="34509" value="FREE INSTALL" />
+	<string id="34510" value="Congratulations!" />
+	<string id="34511" value="You have successfully completed the installation." />
+	<string id="34512" value="Send me COMODO news, offers and discounts to the following e-mail address:" />
+	<string id="34513" value="Detects, blocks and eliminates viruses from desktops and networks. Constantly protects with real-time On Access scanning. Our virus databases are automatically updated on a daily basis." />
+	<string id="34514" value="Award winning Firewall. Automatically makes PCs invisible to attackers. Filters the traffic to/from your computer." />
+	<string id="34515" value="An isolated operating environment for running unknown, untrusted and suspicious applications. Great for testing of software obtained from unreliable sources. Auto-Containment feature allows to isolate applications as per preset and customizable policies." />
+	<string id="34516" value="Host-based Intrusion Prevention System (HIPS) is a proactive technology enabling to analyze behavior of running programs and stop any suspicious activity. HIPS automatically protects system-critical files, folders and registry keys to prevent unauthorized modifications by malicious programs." />
+	<string id="34517" value="Monitors and keeps the record of the activities of processes running on your computer and provides the ability to reverse potentially undesirable actions of software without necessarily blocking the software entirely." />
+	<string id="34518" value="Provides extreme security for online banking and shopping by allowing you connect to the Internet from within a highly secure, virtual environment." />
+	<string id="34519" value="Live, unlimited remote support for your PC issues. Just click the desktop icon and chat with your Geek who will fix the problems in front of your eyes and help with PC and Windows settings optimization, mail and printer setup, installing any software and more..." />
+	<string id="34520" value="An easy-to-use, all-in-one online backup solution. Enables to back up and restore any amount of data from a single file to an entire system. Stores the data encrypted with the most up-to-date encryption technologies. Protects all communications between your system and Comodo servers by SSL-encryption." />
+	<string id="34521" value="Secures wireless and wired communication between your PC and other computers. Makes surfing safe while at public places such as coffee shops, hotels, airports etc. Keeps you and your information private, secure, and out of the hands of criminals during your online sessions Provides fully encrypted traffic to/from your PC." />
+	<string id="34522" value="Set my home page, search engine and browser's new tab to Yandex*" />
+	<string id="34524" value="Permissions" />
+	<string id="34525" value="Components" />
+	<string id="34526" value="Install Yandex Browser Manager" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;License Agreement&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;License Agreement&lt;/a&gt;" />
+	<string id="34529" value="Set my home page, search engine and browser's new tab to Yahoo! (all supported browsers)" />
+	<string id="34530" value="By installing this application, you agree you have read and accepted %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;License Agreement&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;License Agreement&lt;/a&gt;" />
+	<string id="34531" value="If you do not have a License Key, you can obtain it" />
+	<string id="34532" value="Get License Key" />
+	<string id="34533" value="Activate License" />
+	<string id="34534" value="Call &lt;strong&gt;+1888-258-7142&lt;/strong&gt; for a certified technician to fix this problem for you" />
+	<string id="34535" value="&lt;strong&gt;Register Product&lt;/strong&gt;&lt;span&gt;Activate your license key with COMODO account&lt;/span&gt;" />
+	<string id="34536" value="The specified e-mail address is invalid" />
+	<string id="34537" value="Passwords do not match" />
+	<string id="34538" value="Please select country" />
+	<string id="34539" value="&lt;strong&gt;Activate License&lt;/strong&gt;&lt;span&gt;Enter your license key to activate your product&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Register Product&lt;/strong&gt;&lt;span&gt;Activate your license key with COMODO account&lt;/span&gt;" />
+	<string id="34541" value="A COMODO Account is required in order to continue with the activation process." />
+	<string id="34542" value="Create new Account" />
+	<string id="34543" value="* Retype password" />
+	<string id="34544" value="E-mail" />
+	<string id="34545" value="Password" />
+	<string id="34546" value="Forgot password" />
+	<string id="34547" value="Login" />
+	<string id="34548" value="An error occurred while activating the product" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;In Internet Explorer, go to Tools -&gt; Internet Options&lt;/li&gt;&lt;li&gt;Select the Advanced tab&lt;/li&gt;&lt;li&gt;Scroll down to the Security section&lt;/li&gt;&lt;li&gt;Select the checkbox &quot;Use TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;Press the OK button&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Please check your Internet connection" />
+	<string id="34551" value="Activating" />
+	<string id="34552" value="Cannot find CIS diagnostic application." />
+	<string id="34553" value="Cannot start CIS diagnostics. Error code %u" />
+	<string id="34554" value="Uninstalling %s..." />
+	<string id="34555" value="Changing %s..." />
+	<string id="34556" value="Are you sure you want to cancel the uninstallation?" />
+	<string id="34557" value="Cannot change %s" />
+	<string id="34558" value="Cannot uninstall %s" />
+	<string id="34560" value="Repair" />
+	<string id="34561" value="Change" />
+	<string id="34562" value="Uninstall" />
+	<string id="34563" value="Fix issues that might have caused slowdowns or crashes." />
+	<string id="34564" value="Check which program features are installed." />
+	<string id="34565" value="Uninstall &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Product Selection" />
+	<string id="34567" value="%s comes with a collection of vital security solutions for your PC. Please select products you wish to install or unselect products you wish to uninstall in order to continue." />
+	<string id="34568" value="Install COMODO Firewall (Recommended)" />
+	<string id="34569" value="Select this option to install COMODO Firewall on your computer. If you have another firewall software installed, you need to uninstall it before continuing." />
+	<string id="34570" value="Install COMODO Antivirus (Recommended)" />
+	<string id="34571" value="Select this option to install COMODO Antivirus on your computer. If you have another antivirus software installed, you need to uninstall it before continuing." />
+	<string id="34572" value="That's it." />
+	<string id="34573" value="You have changed %s." />
+	<string id="34574" value="Preparing uninstallation..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="It's wrong to stay unprotected." />
+	<string id="34577" value="Would you like to try our cloud based, lightweight and powerful Antivirus?" />
+	<string id="34578" value="Download and Install COMODO Cloud Antivirus" />
+	<string id="34579" value="COMODO Cloud Antivirus will be installed after uninstallation process is complete. To Complete Uninstallation process you will need to restart your computer." />
+	<string id="34580" value="What is the main reason you decided to uninstall COMODO? &lt;b&gt;(Select that apply)&lt;/b&gt;" />
+	<string id="34581" value="COMODO took up too much of my PC's resources" />
+	<string id="34582" value="I received too many alerts" />
+	<string id="34583" value="COMODO was blocking programs I wanted to run" />
+	<string id="34584" value="I am not overall satisfied with the product" />
+	<string id="34585" value="I found another program I like more" />
+	<string id="34586" value="Other (please specify)" />
+	<string id="34587" value="You have removed %s." />
+	<string id="34588" value="But, may be we have still something to offer to you. Please check out &lt;a href='#' id='id_products'&gt;our products&lt;/a&gt; or contact our manager if you have any questions." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Please choose what you would like to do with %s" />
+	<string id="34591" value="I want to reinstall it" />
+	<string id="34592" value="This will remove &lt;b&gt;%s&lt;/b&gt; from your system, so you can reinstall or replace it with a different version." />
+	<string id="34593" value="I want to permanently remove it" />
+	<string id="34594" value="This will permanently remove &lt;b&gt;%s&lt;/b&gt; from your system, but you can still reinstall it later." />
+	<string id="34595" value="Preparing changing..." />
+	<string id="34596" value="Preparing downloading..." />
+	<string id="34597" value="Error while changing COMODO Internet Security" />
+	<string id="34598" value="Error while uninstalling COMODO Internet Security" />
+	<string id="34599" value="Add, Remove or Repair components" />
+	<string id="34600" value="Remove or Repair components" />
+	<string id="34601" value="Uninstalling conflicting software: %s" />
+	<string id="34602" value="We recommend keeping Comodo Internet Security up to date to prevent your computer from being at risk" />
+	<string id="34603" value="Comodo Internet Security uses a powerful combination of virus monitoring, Auto-Containment and behavior analysis technologies to immediately protect your computer from all known and unknown malware." />
+	<string id="34604" value="Another installation process is in progress. Please wait till it completes." />
+	<string id="34605" value="Another activation process is in progress. Please wait till it completes." />
+	<string id="34606" value="Сада са заштитом од man-in-the-middle напада!" />
+	<string id="34607" value="The installation package of the product you have just uninstalled included Comodo Internet Security Essentials (ISE) protecting against man-in-the-middle attacks. ISE needs to be uninstalled separately. If you wish to remove it, click &lt;a href='#' id='id_ise_how_to_remove'&gt;here&lt;/a&gt; to learn how to do it." />
+	<string id="34608" value="Set Comodo Dragon as default browser" />
+	<string id="34609" value="Import Google Chrome settings (history, bookmarks, cookies, browser cache, etc.) to Comodo Dragon browser" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

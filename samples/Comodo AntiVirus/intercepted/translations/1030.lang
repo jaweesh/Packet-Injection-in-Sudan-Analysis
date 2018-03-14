@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Dansk - By Community" LANGID="1030" RTL="0">
+	<string id="106" value="Pakken er beskadiget.\r\Installationen afbrydes" />
+	<string id="107" value="Denne installation understøttes ikke af platformen." />
+	<string id="108" value="COMODO opgradering" />
+	<string id="109" value="%s Installer" />
+	<string id="110" value="Opgradere %s..." />
+	<string id="111" value="Kan ikke gemme licensoplysninger.\r\n%s" />
+	<string id="112" value="Denne indstilling vil ændre den primære og sekundære DNS-indstillinger på din computer til 8.26.56.26 og 156.154.70.22. Efter at have gjort det, bliver alle programmer hurtigere og vil bruge den mere sikre DNS-servers adgang til internettet." />
+	<string id="113" value="Du har nået det maksimale antal installationer, som din licens tillader." />
+	<string id="114" value="COMODO Licenshåndtering" />
+	<string id="115" value="Computerens dato/tid er ikke indstillet korrekt. Ret det og prøv igen." />
+	<string id="116" value="Licensnøglen du har indtastet er udløbet." />
+	<string id="117" value="Fejl: %u. %s" />
+	<string id="118" value="Det lykkedes ikke at starte installationsprogrammet. Ugyldig data format." />
+	<string id="119" value="En ny udgave af installationsprogrammet er tilgængelig.\r\Installationsprogrammet vil nu opdatere sig selv.\r\nVil du fortsætte?" />
+	<string id="120" value="Den angivne gentagelsesinterval understøttes ikke" />
+	<string id="121" value="Det lykkedes ikke at igangsætte udskrivning." />
+	<string id="122" value="Produktaktivering er blevet tilbagekaldt. Kontakt din systemadministrator." />
+	<string id="123" value="Installerer %s..." />
+	<string id="124" value="COMODO Installere" />
+	<string id="125" value="Accepter og installer" />
+	<string id="126" value="Accepter og opgrader" />
+	<string id="127" value="Er du sikker på, at du vil annullere installationen?" />
+	<string id="128" value="Du har brug for tilladelse til at udføre installationen." />
+	<string id="129" value="Vis licensaftalen" />
+	<string id="130" value="Kan ikke genstarte COMODO installationsprogrammet.\r\n%s\r\nGenstart den manuelt." />
+	<string id="131" value="Brugertilpasset installation" />
+	<string id="132" value="Brugerdefineret opgradering" />
+	<string id="133" value="Du skal genstarte systemet før konfigurations ændringerne træder i kraft.\nKlik på 'Ja' for at genstarte nu eller vælg 'Nej', hvis du vil genstarte senere." />
+	<string id="134" value="Vent venligst..." />
+	<string id="135" value="Denne handling er ikke tilladt." />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="CCS installeret på din computer er ikke understøttet af den angivne server. Sørg for at du indtaster de rigtige detaljer for IT og Security Manager ellers spørg din netværksadministrator om hjælp." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Fejl %d: %s (%s)" />
+	<string id="142" value="COMODO VirusScope" />
+	<string id="143" value="Ugyldigt brugernavn eller adgangskode indtastet" />
+	<string id="144" value="Kunne ikke starte systemet.\r\n%s\r\nGenstart computeren manuelt." />
+	<string id="145" value="Fejl %d: %s" />
+	<string id="148" value="HTTP-statuskode: %u." />
+	<string id="153" value="Den angivne e-mail-adresse er ugyldig.\r\nIndtast en gyldig e-mailadresse." />
+	<string id="154" value="Licensnøglen du indtastede er ugyldig.\r\nIndtast en gyldig licensnøgle." />
+	<string id="155" value="Kan ikke oprette mappe %s.\r\n%s" />
+	<string id="156" value="Kan Ikke finde WEB API-bruger med loginet" />
+	<string id="158" value="Payment Gateway Fejl" />
+	<string id="160" value="Kan ikke installere %s\r\n%s\r\nVil du forsøge igen?" />
+	<string id="165" value="Kan ikke downloade %s" />
+	<string id="166" value="Kan ikke skrive %s" />
+	<string id="167" value="Det lykkedes ikke at initialisere installationsprogrammet. Tjek dine internetindstillinger og/eller Internet Explorer forbindelsesindstillinger.\r\n%s" />
+	<string id="168" value="Det lykkedes ikke at initialisere installationsprogrammet. Tjek dine adgangsrettigheder til filsystemet.\r\n%s" />
+	<string id="169" value="Brugeren har intet abstrakt ID for faktura anmodningen" />
+	<string id="170" value="Kan ikke oprette tilbagevendende poster for disse prisbetingelser" />
+	<string id="171" value="Autorisations Fejl" />
+	<string id="172" value="Valgt sprog er ikke understøttet af dit operativsystem." />
+	<string id="173" value="Produkt installationen kan ikke fortsætte, når det valgte sprog ikke understøttes af operativsystemet." />
+	<string id="175" value="Kan ikke installere %s\r\n%s" />
+	<string id="183" value="Installer %s" />
+	<string id="184" value="Henter ned %s..." />
+	<string id="190" value="For at fortsætte med installationen, skal du genstarte computeren.\r\nVil du genstarte?" />
+	<string id="192" value="For at fortsætte med at installationen er det nødvendigt at genstarte computeren. Efter genstart vil installationen automatisk fortsætte.\r\nVil du genstarte?" />
+	<string id="193" value="For at fortsætte med installationen, skal du afinstallere den gamle COMODO Firewall/Internet Security.\r\nDa det ikke kan gøres ved %s, afinstaller det gamle program manuelt og genstart %s igen." />
+	<string id="194" value="Licensnøgle krav" />
+	<string id="195" value="Licensnøglen må kun indeholde bogstaverne fra 'A' til 'F' samt tal" />
+	<string id="196" value="Hvor er min licensnøgle?" />
+	<string id="197" value="Hvis du har købt dit produkt via internettet skal din licensnøgle være sendt til dig via e-mail til den e-mail-adresse, du angav under transaktionen. Hvis du har en installations DVD/CD henviser vi til at du kigger på bagsiden af DVD/CD'en for at finde licensnøglen." />
+	<string id="199" value="Ændre eller slet ikke denne fil. %s behøver den for at afslutte sit arbejde ordentligt.\r\nDenne fil vil automatisk blive slettet, når installationen er færdig." />
+	<string id="202" value="Ugyldig fingeraftryk" />
+	<string id="205" value="Ugyldig XML anmodning." />
+	<string id="206" value="Ugyldig parametre." />
+	<string id="207" value="Ugyldig licensnøgle." />
+	<string id="208" value="Ukendt område" />
+	<string id="209" value="Ukendte prisbetingelser" />
+	<string id="210" value="Forkert type anmodning" />
+	<string id="217" value="Faktura anmodning mislykkedes: Kunne ikke oprette ny faktura." />
+	<string id="220" value="Der opstod en ukendt fejl." />
+	<string id="222" value="Ugyldig status." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Kan ikke finde initiations datafilen." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Afbryder. Vent..." />
+	<string id="235" value="Opdater %s før du fortsætter." />
+	<string id="236" value="Aktuel status for installationsprogrammet kan ikke gemmes for at genoptage installationen korrekt efter genstart.\r\nGenstart computeren og start COMODO installationsprogrammet manuelt." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Det lykkedes ikke at starte installationsprogrammet. Gemt dataformat er ugyldig." />
+	<string id="239" value="For at fortsætte med at installere produkterne skal du genstarte computeren. Efter genstart vil installationen automatisk fortsætte. Fjern ikke dvd‘en med COMODO installationsprogrammet før installationen er færdig.\r\nVil du genstarte nu?" />
+	<string id="246" value="Kan ikke starte installationsprogrammet - pakken er korrupt." />
+	<string id="250" value="For at installationen skal fortsætte, skal %s afsluttes. Afslut %s og tryk på 'Ja'-knappen for at forsøge igen." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="For aktivering af garantien, aktiver først din licensnøgle." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Ukendt XML svar fra CAM-serveren." />
+	<string id="295" value="Licensnøglen du indtastede, er ikke i overensstemmelse med det type produkt, du forsøger at installere." />
+	<string id="313" value="Aktivering af din licens, vent venligst..." />
+	<string id="346" value="Prøv igen" />
+	<string id="366" value="En internetforbindelse er påkrævet." />
+	<string id="367" value="For at få din licens, skal du installere programmet for at oprette forbindelse til COMODO licens center." />
+	<string id="368" value="Sørg for, at du er forbundet til internettet, og tryk på &quot;Forsøg igen&quot;knappen." />
+	<string id="369" value="Vi har aktiveret din licens og opgradere dit produkt." />
+	<string id="374" value="Jeg ønsker at aktivere &quot;Cloud-baserede adfærdsanalyse&quot; af ukendte programmer ved at sende dem til COMODO med hensyn til &lt;link&gt;Fortrolighedspolitik.&lt;/link&gt;" />
+	<string id="375" value="Beta" />
+	<string id="377" value="Ved at klikke på &quot;%s&quot;-knappen, accepterer du installationen og &lt;link&gt;Licensaftalen.&lt;/link&gt; nedenfor:" />
+	<string id="383" value="Kan ikke aktivere din licens.\n%s" />
+	<string id="385" value="For at fortsætte, skal du vælge mindst ét produkt." />
+	<string id="386" value="Produkt størrelse: %s" />
+	<string id="387" value="Samlet downloadstørrelse: %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Inkompatible produkter" />
+	<string id="32001" value="Minimere vinduet" />
+	<string id="32002" value="Luk vindue" />
+	<string id="32003" value="Installere" />
+	<string id="32004" value="Licenshåndtering" />
+	<string id="32005" value="Ja" />
+	<string id="32006" value="Nej" />
+	<string id="32007" value="Forsøg igen" />
+	<string id="32008" value="OK" />
+	<string id="32009" value="Afbryd" />
+	<string id="32010" value="Afbryd" />
+	<string id="32011" value="Ignorere" />
+	<string id="32012" value="Fortsæt" />
+	<string id="32013" value="Prøv igen" />
+	<string id="32014" value="Installere" />
+	<string id="32015" value="Tilbage" />
+	<string id="32016" value="Print ud" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Gennemse" />
+	<string id="32019" value="Næste" />
+	<string id="32020" value="Luk" />
+	<string id="32021" value="Læs mere" />
+	<string id="32022" value="Komplet" />
+	<string id="32023" value="Spring over" />
+	<string id="32024" value="Accepter" />
+	<string id="32102" value="&lt;strong&gt;Installer krævede pakker&lt;/strong&gt;&lt;br /&gt;Denne funktion kræver installation af yderligere pakker." />
+	<string id="32103" value="Følgende skal downloades og installeres:" />
+	<string id="32104" value="Pakke navn" />
+	<string id="32105" value="Licens aftale" />
+	<string id="32106" value="Størrelse" />
+	<string id="32107" value="Hvis du trykker på &quot;Accepter og installer&quot;, accepterer du licensaftalerne for alle pakker, der er anført ovenfor,." />
+	<string id="32108" value="Accepter og installer" />
+	<string id="32109" value="Der opstod en fejl, da produktet blev installeret:" />
+	<string id="32110" value="Prøv igen" />
+	<string id="32111" value="Förbereder installation..." />
+	<string id="32112" value="Du har aktiveret dit produkt." />
+	<string id="32113" value="Fortsæt" />
+	<string id="32114" value="Vent, mens din licens er aktiveret..." />
+	<string id="32115" value="Der opstod en fejl under aktiveringen af produktet:" />
+	<string id="32116" value="Forsøg igen" />
+	<string id="32117" value="&lt;strong&gt;Aktiver licens&lt;/strong&gt;&lt;br /&gt;Indtast din licensnøgle for at aktivere dit produkt" />
+	<string id="32118" value="For at aktivere:" />
+	<string id="32119" value="Sørg for at du har forbindelse til internettet" />
+	<string id="32120" value="Indtast din licensnøgle, eller &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;klik her&lt;/a&gt; for at få en" />
+	<string id="32121" value="Aktiver din licens og registrer dit produkt" />
+	<string id="32122" value="Licensnøgle:" />
+	<string id="32123" value="Aktiver" />
+	<string id="32124" value="&lt;strong&gt;Registrer dit Produkt&lt;/strong&gt;&lt;br /&gt;Opret n COMODO konto" />
+	<string id="32125" value="* Fornavn" />
+	<string id="32126" value="* Efternavn" />
+	<string id="32127" value="* E-mail" />
+	<string id="32128" value="Land" />
+	<string id="32129" value="By" />
+	<string id="32130" value="Land" />
+	<string id="32131" value="Adresse" />
+	<string id="32132" value="Vælg et brugernavn og en adgangskode og opret en COMODO-konto. Du kan bruge din konto til at administrere dine licenser gennem &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Brugernavn" />
+	<string id="32134" value="* Adgangskode" />
+	<string id="32135" value="* Obligatorisk felt" />
+	<string id="32136" value="Tilmeld dig" />
+	<string id="32137" value="Afghanistan" />
+	<string id="32138" value="Albanien" />
+	<string id="32139" value="Algeriet" />
+	<string id="32140" value="Amerikansk Samoa" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarktis" />
+	<string id="32145" value="Antigua &amp; Barbuda" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenien" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Australien" />
+	<string id="32150" value="Østrig" />
+	<string id="32151" value="Azerbajdzjan" />
+	<string id="32152" value="Bahamas" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Bangladesh" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Hviderusland" />
+	<string id="32157" value="Belgien" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivia" />
+	<string id="32163" value="Bosnien og Hercegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Bouvetön" />
+	<string id="32166" value="Brasilien" />
+	<string id="32167" value="Britisk oversøiske territorium i det Indisk ocean" />
+	<string id="32168" value="Brunei" />
+	<string id="32169" value="Bulgarien" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Cambodja" />
+	<string id="32173" value="Cameroon" />
+	<string id="32174" value="Canada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Cayman øerne" />
+	<string id="32177" value="Den Centralafrikanske republik" />
+	<string id="32178" value="Tchad" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="Kina" />
+	<string id="32181" value="Juleøen" />
+	<string id="32182" value="Cocosøerne" />
+	<string id="32183" value="Colombia" />
+	<string id="32184" value="Comorerne" />
+	<string id="32185" value="Republikken Congo" />
+	<string id="32186" value="Den Demokratiske Republik Congo" />
+	<string id="32187" value="Cook øerne" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Elfenbenskysten" />
+	<string id="32190" value="Kroatien" />
+	<string id="32191" value="Cuba" />
+	<string id="32192" value="Cypern" />
+	<string id="32193" value="Tjekkiet" />
+	<string id="32194" value="Danmark" />
+	<string id="32195" value="Djibouti" />
+	<string id="32196" value="Dominica" />
+	<string id="32197" value="Den Dominikanske Republik" />
+	<string id="32198" value="Timor" />
+	<string id="32199" value="Ecuador" />
+	<string id="32200" value="Egypten" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Ækvatorial Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Estland" />
+	<string id="32205" value="Etiopien" />
+	<string id="32206" value="Falklandsøerne" />
+	<string id="32207" value="Færøerne" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Finland" />
+	<string id="32210" value="Frankrig" />
+	<string id="32211" value="Fransk Guyana" />
+	<string id="32212" value="Fransk Polynesien" />
+	<string id="32213" value="Franske sydlige territorier" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Georgien" />
+	<string id="32217" value="Tyskland" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltar" />
+	<string id="32220" value="Grækenland" />
+	<string id="32221" value="Grønland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea" />
+	<string id="32227" value="Guinea-Bissau" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard- og McDonaldøerne" />
+	<string id="32231" value="Vatikanstaten" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hongkong" />
+	<string id="32234" value="Ungarn" />
+	<string id="32235" value="Island" />
+	<string id="32236" value="Indien" />
+	<string id="32237" value="Indonesien" />
+	<string id="32238" value="Iran" />
+	<string id="32239" value="Irak" />
+	<string id="32240" value="Irland" />
+	<string id="32241" value="Israel" />
+	<string id="32242" value="Italien" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Japan" />
+	<string id="32245" value="Jordanien" />
+	<string id="32246" value="Kazakstan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Nordkorea" />
+	<string id="32250" value="Republikken Korea" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kirgisistan" />
+	<string id="32253" value="Laos" />
+	<string id="32254" value="Letland" />
+	<string id="32255" value="Libanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberia" />
+	<string id="32258" value="Libyen" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Litauen" />
+	<string id="32261" value="Luxemburg" />
+	<string id="32262" value="Macao" />
+	<string id="32263" value="Makedonien" />
+	<string id="32264" value="Madagaskar" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malaysia" />
+	<string id="32267" value="Maldiverna" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Marshalløerne" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauretanien" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexico" />
+	<string id="32276" value="Mikronesien" />
+	<string id="32277" value="Moldavien" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongoliet" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Marocko" />
+	<string id="32282" value="Mozambique" />
+	<string id="32283" value="Burma" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Hollandske Antiller" />
+	<string id="32288" value="Holland" />
+	<string id="32289" value="Ny Kaledonien" />
+	<string id="32290" value="New Zealand" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigeria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolkön" />
+	<string id="32296" value="Nordmarianerne" />
+	<string id="32297" value="Norge" />
+	<string id="32298" value="Oman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Palæstinensiske myndighed" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua Ny Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Filippinerne" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Polen" />
+	<string id="32309" value="Portugal" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Rumænien" />
+	<string id="32314" value="Rusland" />
+	<string id="32315" value="Rwanda" />
+	<string id="32316" value="Saint-Barthélemy" />
+	<string id="32317" value="Sankt Helena" />
+	<string id="32318" value="Saint Kitts og Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin Frankrig" />
+	<string id="32321" value="Saint-Pierre og Miquelon" />
+	<string id="32322" value="Saint Vincent og Grenadinerne" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="São Tomé og Príncipe" />
+	<string id="32326" value="Saudiarabien" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seychellerne" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapore" />
+	<string id="32331" value="Slovakiet" />
+	<string id="32332" value="Slovenien" />
+	<string id="32333" value="Salomonøerne" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="Sydafrika" />
+	<string id="32336" value="South Georgia og De Sydlige Sandwichøer" />
+	<string id="32337" value="Spanien" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Surinam" />
+	<string id="32341" value="Svalbard og Jan Mayen" />
+	<string id="32342" value="Swaziland" />
+	<string id="32343" value="Sverige" />
+	<string id="32344" value="Schweiz" />
+	<string id="32345" value="Syrien" />
+	<string id="32346" value="Taiwan" />
+	<string id="32347" value="Tadsjikistan" />
+	<string id="32348" value="Tanzania" />
+	<string id="32349" value="Thailand" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad og Tobago" />
+	<string id="32354" value="Tunisien" />
+	<string id="32355" value="Turkiet" />
+	<string id="32356" value="Turkmenistan" />
+	<string id="32357" value="Turks- og Caicosøerne" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukraina" />
+	<string id="32361" value="De Forenede Arabiske Emirater" />
+	<string id="32362" value="Storbritannien" />
+	<string id="32363" value="USA" />
+	<string id="32364" value="Förenta staternas avlägset belägna öar" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Uzbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnam" />
+	<string id="32370" value="Britiske Jomfruøer" />
+	<string id="32371" value="Amerikanske Jomfruøer" />
+	<string id="32372" value="Wallis og Futunaøerne" />
+	<string id="32373" value="Vestsahara" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Jugoslavien" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="North Carolina" />
+	<string id="32411" value="North Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="South Carolina" />
+	<string id="32418" value="South Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="West Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Northwest Territories" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Island" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Vælg dit sprog" />
+	<string id="32442" value="Send mig COMODO nyheder og tilbud til følgende e-mail-adresse:" />
+	<string id="32443" value="Aktiver ekstra sikkerhed på internettet ved at ændre mine DNS-indstillinger til COMODO Secure DNS-servere (hurtigere forbindelse til websider, forbedret sikkerhed på nettet)." />
+	<string id="32444" value="Aktiver cloud-baserede adfærdsanalyse af filer der ikke er tillidsfulde (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Fortrolighedspolitik&lt;/a&gt;)" />
+	<string id="32445" value="Jeg ønsker at hjælpe COMODO ved at sætte min hjemmeside og søgetjeneste til Yahoo! (Gælder for alle browsere der er understøttet)" />
+	<string id="32446" value="Ved at klikke på &quot;Accepter og installer&quot;-knappen accepterer du installationen og licensaftale nedenfor:" />
+	<string id="32447" value="Brugerdefineret installation" />
+	<string id="32449" value="Læs brugeraftalen:" />
+	<string id="32450" value="Installations Egenskaber" />
+	<string id="32451" value="Konfigurations Egenskaber" />
+	<string id="32452" value="Filplaceringer" />
+	<string id="32453" value="Produktstørrelse:" />
+	<string id="32454" value="Samlet downloadstørrelse:" />
+	<string id="32455" value="Undgå så vidt muligt at + vise advarsler, der kræver sikkerhedsmæssige beslutninger " />
+	<string id="32456" value="Denne Sikkerhedskonfiguration konfigurerer firewall, systemsikkerhed, Containment og antivirus på en sådan måde, at advarslen skal besvares automatisk så meget som muligt." />
+	<string id="32457" value="Vælg installations filstien:" />
+	<string id="32458" value="Dette program er en BETA-udgave af &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Det er beregnet til bestemte brugere, der deltager i beta-test." />
+	<string id="32460" value="Den kan indeholde flere fejl, der kan forårsage alvorlige problemer." />
+	<string id="32461" value="Denne software må ikke installeres på en produktionsmaskine." />
+	<string id="32462" value="Har du lyst til at fortsætte?" />
+	<string id="32463" value="Ved at klikke på &quot;Accepter og opgradere&quot;-knappen accepterer du installationen og licensaftale nedenfor:" />
+	<string id="32464" value="Vent og fortsæt (%u)" />
+	<string id="32465" value="Systemet er optaget af en anden installationsproces.\n\nVent til den er færdig, og og tryk derefter 'Forsøg igen' for at fortsætte med installationen.\nDu kan trykke på 'Annuller' for at annullere installationen.\nHvis du trykker på 'vent og fortsæt', vil installationen automatisk genoptages, når den tidligere installation er afsluttet." />
+	<string id="32466" value="Kopier licensnøglen" />
+	<string id="32467" value="Indsæt licensnøglen" />
+	<string id="32468" value="Tøm alle felter" />
+	<string id="32470" value="Jeg vil installere Yandex Elements; " />
+	<string id="32471" value="Opsæt min hjemmeside til Yandex (gælder for alle understøttede browsere)." />
+	<string id="32472" value="Indstil min søgning til Yandex (gælder for alle understøttede browsere)." />
+	<string id="32772" value="Vent, mens din garanti er aktiveret ..." />
+	<string id="32775" value="Tillykke!" />
+	<string id="32776" value="Du har afsluttet installationen." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;En certificeret tekniker&lt;/strong&gt; kan nu&lt;br /&gt;&lt;strong&gt;hjælpe dig med at konfigurere den &lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;GRATIS&lt;/strong&gt;" />
+	<string id="32778" value="Tidsbegrænset tilbud" />
+	<string id="32779" value="ring" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Licensaftale&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Licensaftale&lt;/a&gt;" />
+	<string id="32786" value="Brugernavnet skal være mindst %d tegn lang" />
+	<string id="32787" value="Adgangskoden skal være mindst %d tegn lang" />
+	<string id="32788" value="Brugernavn og adgangskode må ikke overholde" />
+	<string id="32791" value="Send anonyme software brugsstatistikker (f.eks nedbrud, fejl, klik etc.) til COMODO for at forbedre produktkvaliteten." />
+	<string id="32793" value="Indtast IT og Security Manager server detaljer nedenfor:" />
+	<string id="32794" value="IT og Security Manager server:" />
+	<string id="32795" value="IT og Security Manager server port:" />
+	<string id="32796" value="&lt;strong&gt;Activate %s&lt;/strong&gt;" />
+	<string id="32797" value="Aktivering med en licensnøgle" />
+	<string id="32798" value="Vælg de komponenter, der skal aktiveres:" />
+	<string id="32799" value="CCS Containment og antivirus" />
+	<string id="32800" value="CCS Containment og firewall" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS-paket (Containment, antivirus og firewall)" />
+	<string id="32803" value="Aktivere med en IT og Security Manager server" />
+	<string id="32804" value="Vælg denne mulighed, hvis du har en gyldig licens nøgle og ønsker at bruge den" />
+	<string id="32805" value="Vælg denne indstilling, hvis du bruger IT og Security Manager portal til at styre denne klient" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Licensaftale&lt;/a&gt; og &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Fortrolighedspolitik&lt;/a&gt;" />
+	<string id="32807" value="Brugernavn" />
+	<string id="32808" value="Adgangskode" />
+	<string id="32809" value="&lt;strong&gt;Registrer dit produkt&lt;/strong&gt;&lt;br /&gt;Aktiver din licens nøgle med COMODO-nøglen" />
+	<string id="32810" value="Jeg har IKKE en COMODO-konto" />
+	<string id="32811" value="Jeg har allerede en COMODO konto COMODO" />
+	<string id="32812" value="Jeg ønsker at installere Yandex Browser Manager, der løbende vil beskytte indstillingerne i min browser." />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Licensaftale&lt;/a&gt;" />
+	<string id="34028" value="Kopiere" />
+	<string id="34029" value="Vælg alle" />
+	<string id="34410" value="Fortryd" />
+	<string id="34411" value="Klip ud" />
+	<string id="34412" value="Indsæt" />
+	<string id="34413" value="Søg efter nyere versioner af de udvalgte programmer på COMODOs servere, før du installerer dem fra disken." />
+	<string id="34414" value="Søger efter nyere versioner..." />
+	<string id="34415" value="Spring dette trin over" />
+	<string id="34416" value="Nyere versioner er tilgængelige" />
+	<string id="34417" value="Hent og installer de valgte softwareversioner i stedet for dem, der medfølger på disken:" />
+	<string id="34418" value="Version" />
+	<string id="34419" value="En COMODO-konto kræves for at kunne forsætte med aktiveringsprocessen. Hvis du allerede har en konto, behøver du ikke oprette en ny." />
+	<string id="34420" value="Vælg denne mulighed, hvis du ikke har en COMODO konto. Denne guide vil hjælpe dig med at oprette en ny konto." />
+	<string id="34421" value="Indtast dit login-oplysninger nedenfor for at bruge din eksisterende COMODO konto." />
+	<string id="34422" value="Opgradereringsfejl\n\nBrugere af CIS-version 5.xx kan opgradere til CIS v.8.0 kun igennem opgraderingen til CIS v.7.0. Opgrader til version 7.0 og fortsæt med at opgradere til v.8.0." />
+	<string id="34423" value="Angiv Chromodo browser som standardbrowser" />
+	<string id="34424" value="Erstat den aktuelle Google Chrome-genveje med Chromodo genveje på skrivebordet og i Start-menuen" />
+	<string id="34425" value="Import indstillinger i Google Chrome (historie, bogmærker, cookies, etc.) til Chromodo Browser" />
+	<string id="34426" value="Indtast din licensnøgle" />
+	<string id="34427" value="Overførslen er færdig" />
+	<string id="34428" value="Accepter og fortsæt" />
+	<string id="34429" value="Hvis du ønsker, kan du afbryde forbindelsen til internettet for at installere offline." />
+	<string id="34430" value="Ved at klikke på &quot;Accepter og fortsæt&quot;-knappen accepterer du installationen og licensaftale nedenfor:" />
+	<string id="34431" value="Antivirus, firewall og malware beskyttelse" />
+	<string id="34432" value="Beskytter hele tiden din pc mod internet-angreb" />
+	<string id="34433" value="Beskyttelse i realtid mod kendte og ukendte malware" />
+	<string id="34434" value="Direkte adgang til vores serviceteknikere på ethvert tidspunkt af dagen" />
+	<string id="34435" value="Hurtig og sikker internet-browsing" />
+	<string id="34436" value="Beskyttelse mod tab af data" />
+	<string id="34437" value="Chromodo har følgende tilføjelser til at forbedre sikkerheden mod webbaserede trusler:" />
+	<string id="34438" value="COMODO Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Licensavtal&lt;/a&gt;" />
+	<string id="34441" value="En nem at bruge, alt-i-én løsning til backup i skyen" />
+	<string id="34442" value="med &lt;strong&gt;GeekBuddy&lt;/strong&gt; og &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="med &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="med &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo browser er en hurtig og alsidig browser baseret på chrom-teknologi og infunderes med COMODO uovertrufne sikkerhed." />
+	<string id="34446" value="Du skal aktivere TLS-protokollen i IE's sikkerhedsindstillinger." />
+	<string id="34447" value="For at aktivere TLS-protokoller:\n1. I Internet Explorer, gå til Funktioner -&gt; Internetindstillinger.\n2. Vælg fanen Avanceret,.\n3. Rul ned til afsnittet Sikkerhed.\n4. Markér feltet &quot;Brug TLS førstxx&quot;\n5. Klik på OK-knappen." />
+	<string id="34448" value="%s kan ikke installeres, fordi COMODO Cloud AV allerede er installeret på denne computer.\n\nAfinstaller CCAV før du installerer %s." />
+	<string id="34449" value="med &lt;strong&gt;GeekBuddy&lt;/strong&gt; og &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="med &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Kør ukendte applikationer i et sikkert, isoleret miljø" />
+	<string id="34452" value="Tilslut sikkert til vigtige og følsomme websteder" />
+	<string id="34453" value="Velkommen!" />
+	<string id="34454" value="Du er ved at installere %s %s for at sikre og beskytte alle dine enheder" />
+	<string id="34455" value="Ved at klikke på &quot;%s&quot;, anerkender du, at du har læst og accepterer %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;licensaftale&lt;/a&gt; og &lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;fortrolighedspolitik&lt;/a&gt;" />
+	<string id="34456" value="Jeg indrømmer" />
+	<string id="34457" value="med Chromodo Browser og GeekBuddy" />
+	<string id="34458" value="med Dragon Browser, Sikker handel og GeekBuddy" />
+	<string id="34459" value="med Chromodo Browser" />
+	<string id="34460" value="med Dragon Browser" />
+	<string id="34461" value="med GeekBuddy" />
+	<string id="34462" value="Installer Yandex Elements (browserudvidelser)" />
+	<string id="34463" value="Opsæt min hjemmeside till Yandex*" />
+	<string id="34464" value="Indstil min søgning til Yandex*" />
+	<string id="34465" value="Sæt min browsers nye fane til Yandex*" />
+	<string id="34466" value="* gælder for alle understøttede browsere" />
+	<string id="34467" value="Ved at klikke på &quot;%s&quot;, anerkender du, at du har læst og accepteret" />
+	<string id="34470" value="Installer den gratis version" />
+	<string id="34471" value="Installer PRO" />
+	<string id="34472" value="Prøv en 30-dages evaluering af PRO" />
+	<string id="34473" value="Prøv en 30-dages evaluering af COMPLETE" />
+	<string id="34474" value="Prøv den 30-dages PRO evaluering.&lt;br /&gt;Du vil blive bedt om at vende tilbage til gratis version bagefter" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Prøv den 30-dages evaluering COMPLETE.&lt;br /&gt;Du vil blive bedt om at gå tilbage til den gratis version bagefter" />
+	<string id="34477" value="Antivirus" />
+	<string id="34478" value="Firewall" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Sikker handel" />
+	<string id="34483" value="24/7 Live Support" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Installations placering" />
+	<string id="34487" value="Skift min DNS-udbyder til COMODO Secure DNS (forbedret sikkerhed på nettet, hurtigere indlæsning af websider). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Hvad er det?&lt;/a&gt;" />
+	<string id="34488" value="Aktiver &quot;cloud adfærd analyse&quot; af ikke betroede filer (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Fortrolighedspolitik&lt;/a&gt;)" />
+	<string id="34489" value="Beskyttelse Send anonyme statistik over programændringer (f.eks nedbrud, fejl, museklik mv) til COMODO for at forbedre produktkvaliteten." />
+	<string id="34490" value="Tilpas" />
+	<string id="34491" value="Samlede størrelse:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Filbedømmelse" />
+	<string id="34494" value="Webside filtrering" />
+	<string id="34495" value="Sikker handel" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 direkte hjælp" />
+	<string id="34501" value="Vær sikker på. Tag kontrol.&lt;br /&gt;Kør ukendte applikationer i et sikkert isoleret miljø." />
+	<string id="34502" value="Betroet eller skadeligt?&lt;br /&gt;Kontroller enhver fils omdømme i vores globale database." />
+	<string id="34503" value="Beskyt dine børn og dig selv fra sider, der indeholder malware eller upassende indhold" />
+	<string id="34504" value="Sikre dine data og penge.&lt;br /&gt;Sørg for, at ingen aflytter følsomme oplysninger på nettet" />
+	<string id="34505" value="Få din gratis mobil antivirus til Android-enheder" />
+	<string id="34506" value="Ingen mulighed for at miste data.&lt;br /&gt; Alle dine data er krypteret og gemt i skyen." />
+	<string id="34507" value="Bruger du offentlig Wi-Fi?&lt;br /&gt;Nu er det sikkert." />
+	<string id="34508" value="Brug for hjælp?&lt;br /&gt;Kontakt vores eksperter 24/7" />
+	<string id="34509" value="GRATIS INSTALLATION" />
+	<string id="34510" value="Gratis!" />
+	<string id="34511" value="Du har afsluttet installationen." />
+	<string id="34512" value="Send mig COMODO nyheder, tilbud og rabatter til følgende e-mail-adresse:" />
+	<string id="34513" value="Registrerer, blokerer og fjerner virus fra computere og netværk. Beskytter hele tiden med scanning i realtid for at få adgang. Vores virus database opdateres automatisk dagligt." />
+	<string id="34514" value="Prisbelønnet firewall. Gør automatisk computere usynlige for angribere. Filtrerer trafik til og fra din computer." />
+	<string id="34515" value="En isoleret miljø til at køre ukendte, ikke betroede og mistænkelige programmer. Fremragende til testning af program modtaget fra upålidelige kilder. Auto-Containment funktionen gør det muligt, at isolere programmer i henhold til forudindstillede og tilpassede politikker." />
+	<string id="34516" value="Host-baseret Intrusion Prevention System (HIPS) er en proaktiv teknologi, der gør det muligt at analysere adfærden af programmer, der kører, og stoppe mistænkelig aktivitet. HIPS beskytter automatisk kritiske systemfiler, mapper og registreringsdatabasenøgler for at forhindre uautoriserede ændringer foretaget af skadelig software." />
+	<string id="34517" value="Overvåger og registrerer aktiviteter processer, der kører på computeren, og giver dig mulighed for at inddrive potentielt uønskede handlinger af software uden nødvendigvis at blokere programmet helt." />
+	<string id="34518" value="Giver ekstrem sikkerhed for netbank og handel på internettet ved at forbinde til internettet indefra et meget sikkert virtuelt miljø." />
+	<string id="34519" value="Live, ubegrænset fjernhjælp til dine computerproblemer. Bare klik på ikonet på skrivebordet og chat med din Geek, der vil løse problemerne og hjælpe med at optimere computeren og Windows-indstillinger, e-mail og printer installation, installere software og mere..." />
+	<string id="34520" value="En nem at bruge, alt-i-én løsning sikkerhedskopiering i skyen. Gør det muligt at sikkerhedskopiere og gendanne datasættet til enhver tid, fra en enkelt fil til et helt system. Gemmer data krypteret med den nyeste krypteringsteknologi. Beskytter al kommunikation mellem dit system og COMODO servere med TLS-kryptering." />
+	<string id="34521" value="Sikre trådløse og kabelforbundne kommunikation mellem din computer og andre computere. Gør din surfing på internettet sikker, når du er på offentlige steder som caféer, hoteller, lufthavne mv. Holder dig og dine oplysninger privat, sikker og utilgængeligt for kriminelle under din Internet sessioner. Giver fuldt krypteret trafik til og fra computeren." />
+	<string id="34522" value="Sæt min hjemmeside, søgemaskine og webbrowsers nye fane til Yandex *" />
+	<string id="34524" value="Tilladelse" />
+	<string id="34525" value="Komponenter" />
+	<string id="34526" value="Installera Yandex Browser Manager" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;licensaftale&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;licensaftale&lt;/a&gt;" />
+	<string id="34529" value="Forbedre min browsing-oplevelse ved at angive Yahoo! som min hjemmeside, søgemaskine og web browserens nye fane(alle understøttede browsere)" />
+	<string id="34530" value="Ved at installere denne software, anerkender du, at du har læst og accepterer %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;licensaftale&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;licensaftale&lt;/a&gt;" />
+	<string id="34531" value="Hvis du ikke har en licens nøgle, kan du få en" />
+	<string id="34532" value="Få licensnøgle" />
+	<string id="34533" value="Aktivere licens" />
+	<string id="34534" value="Ring &lt;strong&gt;+1888-258-7142&lt;/strong&gt; for at en certificeret tekniker skal løse dette problem for dig" />
+	<string id="34535" value="&lt;strong&gt;Tilmeld dig produkt&lt;/strong&gt;&lt;span&gt;aktiver din licensnøgle med COMODO konto&lt;/span&gt;" />
+	<string id="34536" value="Den angivne e-mail adresse er ugyldig" />
+	<string id="34537" value="Adgangskoderne er ikke ens" />
+	<string id="34538" value="Vælg land" />
+	<string id="34539" value="&lt;strong&gt;Aktiver licens&lt;/strong&gt;&lt;span&gt;Indtast din licensnøgle for at aktivere dit produkt&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Tilmeld dig produkt&lt;/strong&gt;&lt;span&gt;Aktiver din licensnøgle med COMODO konto&lt;/span&gt;" />
+	<string id="34541" value="En COMODO konto kræves for at fortsætte med aktiveringsprocessen." />
+	<string id="34542" value="Opret ny konto" />
+	<string id="34543" value="* Indtast adgangskode igen" />
+	<string id="34544" value="E-mail" />
+	<string id="34545" value="Adgangskode" />
+	<string id="34546" value="Glemt adgangskode" />
+	<string id="34547" value="Login" />
+	<string id="34548" value="Der opstod en fejl, mens produktet blev aktiveret" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;I Internet Explorer, gå til Funktioner -&gt; Internetindstillinger&lt;/li&gt;&lt;li&gt;Vælg fanen Avanceret,&lt;/li&gt;&lt;li&gt;Rul ned til afsnittet Sikkerhed&lt;/li&gt;&lt;li&gt;Markér feltet &quot;Anvend TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;Tryk på OK-knappen&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Tjek din internetforbindelse" />
+	<string id="34551" value="Aktiverer" />
+	<string id="34552" value="Kan ikke finde CIS diagnostik programmet." />
+	<string id="34553" value="Kan ikke starte CIS diagnose. Fejlkode %u" />
+	<string id="34554" value="Afinstallationen %s..." />
+	<string id="34555" value="Ændre %s..." />
+	<string id="34556" value="Er du sikker på, at du vil annullere installationen?" />
+	<string id="34557" value="Kan ikke ændre %s" />
+	<string id="34558" value="Kan ikke afinstallere %s" />
+	<string id="34560" value="Reparere" />
+	<string id="34561" value="Ændre" />
+	<string id="34562" value="Afinstaller" />
+	<string id="34563" value="Løs problemer, der kan have forårsaget performance problemer eller nedbrud." />
+	<string id="34564" value="Tjek hvilke programfunktioner, som er installeret." />
+	<string id="34565" value="Afinstaller &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Produktvalg" />
+	<string id="34567" value="%s har en samling af vitale sikkerhedsløsninger for din computer. Vælg de produkter, du vil installere eller fravælge produkter, du ønsker at afinstallere at fortsætte." />
+	<string id="34568" value="Installere COMODO Firewall (Anbefalet)" />
+	<string id="34569" value="Sæt min hjemmeside, søgemaskine og webbrowser til den nye fane Yandex *. Hvis du har en anden firewall installeret, skal du afinstallere den, før du fortsætter." />
+	<string id="34570" value="Installera COMODO Antivirus (Rekommenderas)" />
+	<string id="34571" value="Vælg denne mulighed for at installere COMODO Antivirus på din computer. Hvis du har en anden antivirusprogram installeret, skal du afinstallere det, før du fortsætter." />
+	<string id="34572" value="Det var alt." />
+	<string id="34573" value="Du har ændret %s." />
+	<string id="34574" value="Forbereder afinstallering..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Det er forkert at være ubeskyttet." />
+	<string id="34577" value="Vil du prøve vores cloud-baserede, let at betjene og kraftfulde antivirus?" />
+	<string id="34578" value="Download og installer COMODO Cloud Antivirus" />
+	<string id="34579" value="COMODO Cloud Antivirus vil blive installeret efter afinstallationen er fuldført. For at fuldføre afinstallationen, skal du genstarte computeren." />
+	<string id="34580" value="Hvad er den vigtigste grund til, at du har besluttet at afinstallere COMODO? &lt;b&gt;(Vælg den, der gælder)&lt;/b&gt;" />
+	<string id="34581" value="COMODO bruger for meget af computerens ressourcer" />
+	<string id="34582" value="Jeg fik for mange advarsler" />
+	<string id="34583" value="COMODO blokerer det program, jeg ønskede at køre" />
+	<string id="34584" value="Jeg er generelt tilfreds med produktet" />
+	<string id="34585" value="Jeg fandt et andet program, som jeg kan lide bedre" />
+	<string id="34586" value="Andet (Detaljer)" />
+	<string id="34587" value="Du har fjernet %s." />
+	<string id="34588" value="Muligvis har vi stadig noget at tilbyde dig. Tag et kig på &lt;a href='#' id='id_products'&gt;vores produkter&lt;/a&gt; eller kontakt vores manager, hvis du har spørgsmål." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Vælg hvad du ønsker at gøre med %s" />
+	<string id="34591" value="Jeg vil geninstallere det" />
+	<string id="34592" value="Dette vil fjerne &lt;b&gt;%s&lt;/b&gt; fra dit system, så du kan geninstallere eller udskifte det med en anden version." />
+	<string id="34593" value="Jeg ønsker at fjerne det permanent" />
+	<string id="34594" value="Dette vil permanent fjerne &lt;b&gt;%s&lt;/b&gt; fra dit system, men du kan stadig geninstallere den senere." />
+	<string id="34595" value="Forbereder ændring..." />
+	<string id="34596" value="Forbereder downloading..." />
+	<string id="34597" value="Fejl ved ændring af COMODO Internet Security" />
+	<string id="34598" value="Fejl ved afinstallation af COMODO Internet Security" />
+	<string id="34599" value="Tilføj, fjern eller reparere komponenter" />
+	<string id="34600" value="Fjern eller reparere komponenter" />
+	<string id="34601" value="Afinstaller programmer, der står i konflikt: %s" />
+	<string id="34602" value="Vi anbefaler at holde COMODO Internet Security opdateret for at forhindre, at computeren kommer i farezonen" />
+	<string id="34603" value="COMODO Internet Security bruger en stærk kombination af virus overvågning, Auto-Containment og adfærdsanalyse til straks at beskytte dit system fra alle kendte og ukendte skadelige malware programmer." />
+	<string id="34604" value="En anden installation er i gang. Vent, indtil den er afsluttet." />
+	<string id="34605" value="En anden aktiveringsprocessen er i gang. Vent, indtil den er afsluttet." />
+	<string id="34606" value="Nu med beskyttelse mod man-in-the-middle angreb!" />
+	<string id="34607" value="Installationspakken for det produkt, du har afinstalleret inkluderer COMODO Internet Security Essentials (ISE) beskyttelse mod man-in-the-middle angreb. ISE skal afinstalleres separat. Hvis du ønsker at fjerne det, skal du klikke &lt;a href='#' id='id_ise_how_to_remove'&gt;här&lt;/a&gt; på for at vide, hvordan man gør det." />
+	<string id="34608" value="Angiv COMODO Dragon Browser som standardbrowser" />
+	<string id="34609" value="Importer Google Chrome-indstillinger (historik, bogmærker, cookies etc.) till COMODO Dragon Browser" />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

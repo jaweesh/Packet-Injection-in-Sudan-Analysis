@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Eλληνικά - By Community" LANGID="1032" RTL="0">
+	<string id="106" value="Το πακέτο είναι αλλοιωμένο.\r\Η εγκατάσταση ματαιώθηκε" />
+	<string id="107" value="Η εγκατάσταση αυτή δεν υποστηρίζει την τρέχουσα πλατφόρμα." />
+	<string id="108" value="Αναβάθμιση COMODO" />
+	<string id="109" value="Πρόγραμμα Εγκατάστασης %s" />
+	<string id="110" value="Αναβαθμίζεται %s..." />
+	<string id="111" value="Δεν είναι δυνατή η αποθήκευση στοιχείων της άδειας.\r\n%s" />
+	<string id="112" value="Αυτή η επιλογή πρόκειται να αντικαταστήσει την κύρια και την δευτερεύουσα ρύθμιση DNS του υπολογιστή σας σε 8.26.56.26 και 156.154.70.22 αντίστοιχα. Μετά από αυτό, όλες οι εφαρμογές θα χρησιμοποιούν τους ταχύτερους και ασφαλέστερους DNS διακομιστές ενόσω χρησιμοποιείτε το internet." />
+	<string id="113" value="Έχετε φτάσει τον μέγιστο σριθμό επιτρεπόμενων εγκαταστάσεων από την άδεια χρήσης σας." />
+	<string id="114" value="Διαχείριση Άδειας Χρήσης COMODO" />
+	<string id="115" value="Η ημερομηνία/ώρα του υπολογιστή σας δεν είναι σωστά ρυθμισμένα. Παρακαλούμε διορθώστε τα και προσπαθήστε ξανά." />
+	<string id="116" value="Ο κωδικός ενεργοποίησης που εισάγατε έχει λήξει." />
+	<string id="117" value="Σφάλμα: %u. %s" />
+	<string id="118" value="Αποτυχία αρχικοποίησης του προγράμματος εγκατάστασης. Άκυρη μορφή δεδομένων." />
+	<string id="119" value="Μία νέα έκδοση του προγράμματος εγκατάστασης είναι διαθέσιμη.\r\nΤο πρόγραμμα εγκατάστασης πρόκειται να ενημερωθεί.\r\nΘέλετε να συνεχίσετε;" />
+	<string id="120" value="Το δοσμένο επαναλαμβανόμενο διάστημα δεν υποστηρίζεται" />
+	<string id="121" value="Αποτυχία αρχικοποίησης εκτύπωσης." />
+	<string id="122" value="Η ενεργοποίηση προϊόντος έχει ανακληθεί. Επικοινωνήστε με το διαχειριστή του συστήματος σας." />
+	<string id="123" value="Εγκατάσταση %s..." />
+	<string id="124" value="Εγκατάσταση COMODO" />
+	<string id="125" value="Συμφωνώ και Εγκατέστησε" />
+	<string id="126" value="Συμφωνώ και Αναβάθμισε" />
+	<string id="127" value="Είστε σίγουροι πως θέλετε να ακυρώσετε την εγκατάσταση πακέτων;" />
+	<string id="128" value="Χρειάζεστε άδεια για να εκτελέσετε την εγκατάσταση." />
+	<string id="129" value="Εμφάνιση Συμφωνίας Άδειας Χρήσης" />
+	<string id="130" value="Αδύνατη η επανεκκίνηση του Προγράμματος Εγκατάστασης COMODO.\r\n%s\r\nΠαρακαλώ δοκιμάστε επανεκκίνηση χειροκίνητα." />
+	<string id="131" value="Προσαρμογή Προγράμματος Εγκατάστασης" />
+	<string id="132" value="Προσαρμογή Αναβάθμισης" />
+	<string id="133" value="Πρέπει να επανεκκινήσετε το σύστημά σας για να εφαρμοστούν οι αλλαγές διαμόρφωσης.\nΠιέστε 'Ναι' για να επανεκκινήσετε τώρα ή 'Όχι' εάν σχεδιάζετε να το επανεκκινήσετε χειροκίνητα αργότερα." />
+	<string id="134" value="Παρακαλώ περιμένετε..." />
+	<string id="135" value="Δεν επιτρέπεται αυτή η ενέργεια" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="Τo CCS εγκατεστημένο στον υπολογιστή σας δεν μπορεί να διαχειρίζεται από τον καθορισμένο διακομιστή. Παρακαλούμε βεβαιωθείτε ότι έχετε εισάγει τις σωστές λεπτομέρειες IT and Security Manager διακομιστή ή ζητήστε από το διαχειριστή του δικτύου σας για βοήθεια." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Σφάλμα %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Εισαγωγή μη έγκυρου ονόματος χρήστη ή κωδικού πρόσβασης" />
+	<string id="144" value="Αδύνατη η επανεκκίνηση του συστήματος.\r\n%s\r\nΠαρακαλώ επανεκκινήστε τον υπολογιστή χειροκίνητα." />
+	<string id="145" value="Σφάλμα %d: %s" />
+	<string id="148" value="Κωδικός κατάστασης HTTP: %u." />
+	<string id="153" value="Η καθορισμένη διεύθυνση ηλεκτρονικού ταχυδρομείου δεν είναι έγκυρη.\r\nΠαρακαλούμε εισάγετε μία έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου." />
+	<string id="154" value="Ο κωδικός άδειας χρήσης που προμηθεύσατε δεν είναι έγκυρος.\r\nπαρακαλώ εισάγετε έναν έγκυρο κωδικό άδειας χρήσης." />
+	<string id="155" value="Αδύνατη η δημιουργία καταλόγου %s.\r\n%s" />
+	<string id="156" value="Αδύνατη η εύρεση WEB API χρήστη με το καθορισμένο όνομα" />
+	<string id="158" value="Σφάλμα Πύλης Πληρωμής" />
+	<string id="160" value="Αδύνατη η εγκατάσταση %s\r\n%s\r\nΘα θέλατε να προσπαθήσετε ξανά;" />
+	<string id="165" value="Αδύνατη η λήψη %s" />
+	<string id="166" value="Αδύνατη η εγγραφή %s" />
+	<string id="167" value="Αποτυχία αρχικοποίησης του προγράμματος εγκατάστασης. Παρακαλώ ελέγξτε την σύνδεσή σας στο Διαδίκτυο και/ή τις ρυθμίσεις σύνδεσης του Internet Explorer.\r\n%s" />
+	<string id="168" value="Αποτυχία αρχικοποίησης του προγράμματος εγκατάστασης. Παρακαλώ ελέγξτε τα δικαιώματα πρόσβασης στο σύστημα αρχείων.\r\n%s" />
+	<string id="169" value="Ο χρήστης δεν έχει abstract ID για αίτημα Τιμολόγησης" />
+	<string id="170" value="Αδύνατη η δημιουργία επαναλαμβανόμενου αντικειμένου για αυτούς τους όρους τιμολόγησης" />
+	<string id="171" value="Σφάλμα εξουσιοδότησης" />
+	<string id="172" value="Η επιλεγμένη γλώσσα δεν υποστηρίζεται από το λειτουργικό σας σύστημα." />
+	<string id="173" value="Η εγκατάσταση του προϊόντος δεν μπορεί να συνεχιστεί επειδή η επιλεγμένη γλώσσα δεν υποστηρίζεται από το λειτουργικό σας σύστημα." />
+	<string id="175" value="Αδύνατη η εγκατάσταση %s\r\n%s" />
+	<string id="183" value="Εγκατάσταση %s" />
+	<string id="184" value="Λήψη %s..." />
+	<string id="190" value="Για να συνεχίσετε, πρέπει να επανεκκινήσετε τον υπολογιστή σας.\r\nΘέλετε να κάνετε επανεκκίνηση τώρα;" />
+	<string id="192" value="Για να προχωρήσετε με την εγκατάσταση του προϊόντος, πρέπει να πραγματοποιήσετε επανεκκίνηση του υπολογιστή σας. Μετά την επανεκκίνηση η εγκατάσταση θα συνεχιστεί αυτόματα.\r\nΕπανεκκίνηση τώρα;" />
+	<string id="193" value="Για να προχωρήσετε με την εγκατάσταση πρέπει να απεγκαταστήσετε το παλιό COMODO Firewall/Internet Security.\r\nΜια και δεν μπορεί να πραγματοποιηθεί από το %s, παρακαλώ απεγκαταστήστε αυτό το παλιό λογισμικό χειροκίνητα και επανεκκινήστε το %s." />
+	<string id="194" value="Απαιτήσεις κωδικού άδειας χρήσης" />
+	<string id="195" value="ο κωδικός άδειας χρήσης μπορεί μόνο νε περιέχει γράμματα από 'A' έως 'F' και ψηφία" />
+	<string id="196" value="Πού βρίσκεται ο κωδικός άδειας χρήσης μου;" />
+	<string id="197" value="Αν αγοράσατε το προϊόν από το Διαδίκτυο, ο κωδικός άδειας χρήσης σας θα πρέπει να βρίσκετε στην διεύθυνση του ηλεκτρονικού ταχυδρομείου που δηλώσατε κατά την συναλλαγή. Αν έχετε DVD/CD εγκατάστασης, Παρακαλώ ανατρέξτε στο πίσω μέρος της συσκευασίας του για τον κωδικό άδειας χρήσης." />
+	<string id="199" value="Παρακαλούμε μην τροποποιήσετε ή διαγράψετε αυτό το αρχείο. %s το χρειάζεται για να ολοκληρώσει σωστά την εργασία του.\r\nΑυτό το αρχείο θα αφαιρεθεί αυτόματα με την ολοκλήρωση της εγκατάστασης." />
+	<string id="202" value="Μη έγκυρο αποτύπωμα ταυτοποίησης" />
+	<string id="205" value="Μη έγκυρο XML αίτημα" />
+	<string id="206" value="Μη έγκυρες παράμετροι" />
+	<string id="207" value="Μη έγκυρος κωδικός άδειας χρήσης" />
+	<string id="208" value="Άγνωστη περιοχή" />
+	<string id="209" value="Άγνωστοι Όροι Τιμολόγησης" />
+	<string id="210" value="Λανθασμένος τύπος αιτήματος" />
+	<string id="217" value="Αποτυχία Αιτήματος Τιμολόγησης: Αδύνατη η δημιουργία νέου τιμολογίου" />
+	<string id="220" value="Παρουσιάστηκε άγνωστο σφάλμα" />
+	<string id="222" value="Μη έγκυρη λειτουργία." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Αδύνατη η εύρεση αρχείου δεδομένων αρχικοποίησης." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="Ακύρωση. Παρακαλώ περιμένετε..." />
+	<string id="235" value="Παρακαλούμε ενημερώστε το %s σας πριν συνεχίσετε." />
+	<string id="236" value="Η παρούσα κατάσταση του προγράμματος εγκατάστασης δεν μπορεί να αποθηκευτεί για να συνεχιστεί κατάλληλα η εγκατάσταση μετά την επανεκκίνηση.\r\nΠαρακαλώ επανεκιννήστε τον υπολογιστή σας και εκκινήστε τον Πρόγραμμα Εγκατάστασης COMODO χειροκίνητα." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Αποτυχία αρχικοποίησης του προγράμματος εγκατάστασης. Τα αποθηκευμένα δεδομένα δεν είναι έγκυρα." />
+	<string id="239" value="Για να προχωρήσετε με την εγκατάσταση του προϊόντος πρέπει να επανεκκινήσετε τον υπολογιστή σας. Μετά την επανεκκίνηση η εγκατάσταση θα συνεχιστεί αυτόματα. Παρακαλώ εξάγετε το DVD με τον Πρόγραμμα Εγκατάστασης COMODO έως ότου ολοκληρωθεί η εγκατάσταση.\r\nΕπανεκκίνηση τώρα;" />
+	<string id="246" value="Αδύνατη η εκκίνηση εγκατάστασης - αλλοιωμένο πακέτο." />
+	<string id="250" value="Για να συνεχιστεί η εγκατάσταση ο %s πρέπει να κλείσει. Παρακαλώ κλείστε τον %s και πιέστε το πλήκτρο 'Ναι' για να προσπαθήσετε ξανά." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Πριν την ενεργοποίηση της εγγύησης, παρακαλούμε ενεργοποιήστε πρώτα τον κωδικό άδειας χρήσης." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="Άγνωστη XML απάντηση από τον CAM διακομιστή" />
+	<string id="295" value="Ο κωδικός άδειας χρήσης που εισάγατε δεν ταιριάζει με τον τύπο του προϊόντος που προσπαθείτε να εγκαταστήσετε" />
+	<string id="313" value="Ενεργοποίηση της άδειάς σας, παρακαλώ περιμένετε..." />
+	<string id="346" value="Επαναπροσπάθεια" />
+	<string id="366" value="Απαιτείται σύνδεση στο Διαδίκτυο." />
+	<string id="367" value="Για να λάβετε την άδεια χρήσης σας, το πρόγραμμα εγκατάστασης χρειάζεται να συνδεθεί με το κέντρο αδειών της COMODO." />
+	<string id="368" value="Παρακαλούμε βεβαιωθείτε πως είστε συνδεδεμένοι στο Διαδίκτυο και πιέστε το πλήκτρο &quot;Προσπαθήστε Ξανά&quot;." />
+	<string id="369" value="Έχουμε ενεργοποιήσει την άδειά σας και αναβαθμίσει το προϊόν σας επιτυχώς." />
+	<string id="374" value="Θέλω να ενεργοποιήσω την “Ανάλυση Συμπεριφοράς Βασισμένη Στο Σύννεφο” για μη αναγνωρισμένα προγράμματα υποβάλλοντάς τα στην COMODO με σεβασμό στην &lt;link&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων.&lt;/link&gt;" />
+	<string id="375" value="Beta" />
+	<string id="377" value="Πιέζοντας το πλήκτρο &quot;%s&quot;, συμφωνείτε με την &lt;link&gt;Συμφωνητικό Άδειας Χρήσης.&lt;/link&gt;" />
+	<string id="383" value="Αδύνατη η ενεργοποίηση της άδειας χρήσεώς σας.\n%s" />
+	<string id="385" value="Για να προχωρήσετε, πρέπει να επιλέξετε τουλάχιστον ένα προϊόν." />
+	<string id="386" value="Μέγεθος προϊόντος: %s" />
+	<string id="387" value="Συνολικό μέγεθος λήψης: %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Μη Συμβατά Προϊόντα" />
+	<string id="32001" value="Ελαχιστοποίηση Παραθύρου" />
+	<string id="32002" value="Κλείσιμο Παραθύρου" />
+	<string id="32003" value="Εγκατάσταση" />
+	<string id="32004" value="Διαχείριση Άδειας Χρήσης" />
+	<string id="32005" value="Ναι" />
+	<string id="32006" value="Όχι" />
+	<string id="32007" value="Επαναπροσπάθεια" />
+	<string id="32008" value="Εντάξει" />
+	<string id="32009" value="Άκυρο" />
+	<string id="32010" value="Ματαίωση" />
+	<string id="32011" value="Αγνόησε" />
+	<string id="32012" value="Συνέχεια" />
+	<string id="32013" value="Προσπαθήστε Ξανά" />
+	<string id="32014" value="Πρόγραμμα Εγκατάστασης" />
+	<string id="32015" value="Πίσω" />
+	<string id="32016" value="Εκτύπωση" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Αναζήτηση" />
+	<string id="32019" value="Επόμενο" />
+	<string id="32020" value="Κλείσιμο" />
+	<string id="32021" value="Μάθετε περισσότερα" />
+	<string id="32022" value="Τέλος" />
+	<string id="32023" value="Παράλειψη" />
+	<string id="32024" value="Αποδοχή" />
+	<string id="32102" value="&lt;strong&gt;Εγκατάσταση Απαιτούμενων Πακέτων&lt;/strong&gt;&lt;br /&gt;Το χαρακτηριστικό απαιτεί εγκατάσταση επιπλέον πακέτων." />
+	<string id="32103" value="τα ακόλουθα πρέπει να ληφθούν και να εγκατασταθούν:" />
+	<string id="32104" value="Όνομα Πακέτου" />
+	<string id="32105" value="Άδεια Χρήσης" />
+	<string id="32106" value="Μέγεθος" />
+	<string id="32107" value="Πιέζοντας &quot;Συμφωνώ και Εγκατέστησε&quot;, συμφωνείτε με τις συμφωνίες άδεια χρήσης για όλα τα παραπάνω πακέτα." />
+	<string id="32108" value="Συμφωνώ και Εγκατέστησε" />
+	<string id="32109" value="Συνέβει σφάλμα κατά την εγκατάσταση του προϊόντος:" />
+	<string id="32110" value="Προσπαθήστε Ξανά" />
+	<string id="32111" value="Προετοιμασία εγκατάστασης..." />
+	<string id="32112" value="Έχετε επιτυχώς ενεργοποιήσει το προϊόν σας." />
+	<string id="32113" value="Συνέχεια" />
+	<string id="32114" value="Παρακαλώ περιμένετε ενόσω η άδειά σας ενεργοποιείται..." />
+	<string id="32115" value="Συνέβει σφάλμα κατά την ενεργοποίηση του προϊόντος:" />
+	<string id="32116" value="Προσπαθήστε Ξανά" />
+	<string id="32117" value="&lt;strong&gt;Ενεργοποίηση Άδειας&lt;/strong&gt;&lt;br /&gt;Εισάγετε τον κωδικό αδείας σας για να ενεργοποιήσετε το προϊόν σας" />
+	<string id="32118" value="Για να ενεργοποιήσετε:" />
+	<string id="32119" value="Βεβαιωθείτε πως είστε συνδεδεμένοι στο Διαδίκτυο" />
+	<string id="32120" value="Εισάγετε τον κωδικό αδείας σας ή &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;πιέστε εδώ&lt;/a&gt; για να λάβετε έναν" />
+	<string id="32121" value="Ενεργοποιήστε την άδεια και εγγράψτε το προϊόν σας" />
+	<string id="32122" value="Κωδικός Άδειας:" />
+	<string id="32123" value="Ενεργοποίηση" />
+	<string id="32124" value="&lt;strong&gt;Εγγραφή Προϊόντος&lt;/strong&gt;&lt;br /&gt;Δημιουργία νέου λογαριασμού COMODO" />
+	<string id="32125" value="* Όνομα" />
+	<string id="32126" value="* Επώνυμο" />
+	<string id="32127" value="* Email" />
+	<string id="32128" value="Χώρα" />
+	<string id="32129" value="Πόλη" />
+	<string id="32130" value="Πολιτεία" />
+	<string id="32131" value="Διεύθυνση" />
+	<string id="32132" value="Επιλέξτε όνομα χρήστη και κωδικό πρόσβασης και δημιουργήστε έναν λογαριασμό COMODO. Μπορείτε να χρησιμοποιήσετε τον λογαριασμό σας για να διαχειριστείτε τις άδειές σας μέσα από το &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt;" />
+	<string id="32133" value="* Όνομα Χρήστη" />
+	<string id="32134" value="* Κωδικός Πρόσβασης" />
+	<string id="32135" value="* Υποχρεωτικό Πεδίο" />
+	<string id="32136" value="Εγγραφή" />
+	<string id="32137" value="Afghanistan" />
+	<string id="32138" value="Albania" />
+	<string id="32139" value="Algeria" />
+	<string id="32140" value="American Samoa" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antarctica" />
+	<string id="32145" value="Antigua and Barbuda" />
+	<string id="32146" value="Argentina" />
+	<string id="32147" value="Armenia" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Australia" />
+	<string id="32150" value="Austria" />
+	<string id="32151" value="Azerbaijan" />
+	<string id="32152" value="Bahamas" />
+	<string id="32153" value="Bahrain" />
+	<string id="32154" value="Bangladesh" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Belarus" />
+	<string id="32157" value="Belgium" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivia" />
+	<string id="32163" value="Bosnia and Herzegovina" />
+	<string id="32164" value="Botswana" />
+	<string id="32165" value="Bouvet Island" />
+	<string id="32166" value="Brazil" />
+	<string id="32167" value="British Indian Ocean Territory" />
+	<string id="32168" value="Brunei Darussalam" />
+	<string id="32169" value="Bulgaria" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Cambodia" />
+	<string id="32173" value="Cameroon" />
+	<string id="32174" value="Canada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Cayman Islands" />
+	<string id="32177" value="Central African Republic" />
+	<string id="32178" value="Chad" />
+	<string id="32179" value="Chile" />
+	<string id="32180" value="China" />
+	<string id="32181" value="Christmas Island" />
+	<string id="32182" value="Cocos (Keeling) Islands" />
+	<string id="32183" value="Colombia" />
+	<string id="32184" value="Comoros" />
+	<string id="32185" value="Congo, Republic of the" />
+	<string id="32186" value="Congo, The Democratic Republic of the" />
+	<string id="32187" value="Cook Islands" />
+	<string id="32188" value="Costa Rica" />
+	<string id="32189" value="Cote d'Ivoire" />
+	<string id="32190" value="Croatia" />
+	<string id="32191" value="Cuba" />
+	<string id="32192" value="Cyprus" />
+	<string id="32193" value="Czech Republic" />
+	<string id="32194" value="Denmark" />
+	<string id="32195" value="Djibouti" />
+	<string id="32196" value="Dominica" />
+	<string id="32197" value="Dominican Republic" />
+	<string id="32198" value="East Timor" />
+	<string id="32199" value="Ecuador" />
+	<string id="32200" value="Egypt" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Equatorial Guinea" />
+	<string id="32203" value="Eritrea" />
+	<string id="32204" value="Estonia" />
+	<string id="32205" value="Ethiopia" />
+	<string id="32206" value="Falkland Islands (Malvinas)" />
+	<string id="32207" value="Faroe Islands" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Finland" />
+	<string id="32210" value="France" />
+	<string id="32211" value="French Guiana" />
+	<string id="32212" value="French Polynesia" />
+	<string id="32213" value="French Southern Territories" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambia" />
+	<string id="32216" value="Georgia" />
+	<string id="32217" value="Germany" />
+	<string id="32218" value="Ghana" />
+	<string id="32219" value="Gibraltar" />
+	<string id="32220" value="Greece" />
+	<string id="32221" value="Greenland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Guinea-Bissau" />
+	<string id="32227" value="Guinea" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard Island and McDonald Islands" />
+	<string id="32231" value="Holy See (Vatican City State)" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hong Kong" />
+	<string id="32234" value="Hungary" />
+	<string id="32235" value="Iceland" />
+	<string id="32236" value="India" />
+	<string id="32237" value="Indonesia" />
+	<string id="32238" value="Iran" />
+	<string id="32239" value="Iraq" />
+	<string id="32240" value="Ireland" />
+	<string id="32241" value="Israel" />
+	<string id="32242" value="Italy" />
+	<string id="32243" value="Jamaica" />
+	<string id="32244" value="Japan" />
+	<string id="32245" value="Jordan" />
+	<string id="32246" value="Kazakhstan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Korea, Democratic People's Republic of" />
+	<string id="32250" value="Korea, Republic of" />
+	<string id="32251" value="Kuwait" />
+	<string id="32252" value="Kyrgyzstan" />
+	<string id="32253" value="Lao People's Democratic Republic" />
+	<string id="32254" value="Latvia" />
+	<string id="32255" value="Lebanon" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberia" />
+	<string id="32258" value="Libya" />
+	<string id="32259" value="Liechtenstein" />
+	<string id="32260" value="Lithuania" />
+	<string id="32261" value="Luxembourg" />
+	<string id="32262" value="Macau" />
+	<string id="32263" value="Macedonia" />
+	<string id="32264" value="Madagascar" />
+	<string id="32265" value="Malawi" />
+	<string id="32266" value="Malaysia" />
+	<string id="32267" value="Maldives" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Marshall Islands" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Mauritania" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Mexico" />
+	<string id="32276" value="Micronesia" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monaco" />
+	<string id="32279" value="Mongolia" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Morocco" />
+	<string id="32282" value="Mozambique" />
+	<string id="32283" value="Myanmar" />
+	<string id="32284" value="Namibia" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Netherlands Antilles" />
+	<string id="32288" value="Netherlands" />
+	<string id="32289" value="New Caledonia" />
+	<string id="32290" value="New Zealand" />
+	<string id="32291" value="Nicaragua" />
+	<string id="32292" value="Niger" />
+	<string id="32293" value="Nigeria" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolk Island" />
+	<string id="32296" value="Northern Mariana Islands" />
+	<string id="32297" value="Norway" />
+	<string id="32298" value="Oman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Palestinian Territory, Occupied" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua New Guinea" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Philippines" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Poland" />
+	<string id="32309" value="Portugal" />
+	<string id="32310" value="Puerto Rico" />
+	<string id="32311" value="Qatar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Romania" />
+	<string id="32314" value="Russia" />
+	<string id="32315" value="Rwanda" />
+	<string id="32316" value="Saint Barthelemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts and Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (French Part)" />
+	<string id="32321" value="Saint Pierre and Miquelon" />
+	<string id="32322" value="Saint Vincent and The Grenadines" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome and Principe" />
+	<string id="32326" value="Saudi Arabia" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seychelles" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapore" />
+	<string id="32331" value="Slovakia" />
+	<string id="32332" value="Slovenia" />
+	<string id="32333" value="Solomon Islands" />
+	<string id="32334" value="Somalia" />
+	<string id="32335" value="South Africa" />
+	<string id="32336" value="South Georgia and The South Sandwich Islands" />
+	<string id="32337" value="Spain" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Suriname" />
+	<string id="32341" value="Svalbard and Jan Mayen" />
+	<string id="32342" value="Swaziland" />
+	<string id="32343" value="Sweden" />
+	<string id="32344" value="Switzerland" />
+	<string id="32345" value="Syria" />
+	<string id="32346" value="Taiwan" />
+	<string id="32347" value="Tajikistan" />
+	<string id="32348" value="Tanzania" />
+	<string id="32349" value="Thailand" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad and Tobago" />
+	<string id="32354" value="Tunisia" />
+	<string id="32355" value="Turkey" />
+	<string id="32356" value="Turkmenistan" />
+	<string id="32357" value="Turks and Caicos Islands" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukraine" />
+	<string id="32361" value="United Arab Emirates" />
+	<string id="32362" value="United Kingdom" />
+	<string id="32363" value="United States Minor Outlying Islands" />
+	<string id="32364" value="United States of America" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Uzbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnam" />
+	<string id="32370" value="Virgin Islands, British" />
+	<string id="32371" value="Virgin Islands, U.S." />
+	<string id="32372" value="Wallis and Futuna" />
+	<string id="32373" value="Western Sahara" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Yugoslavia" />
+	<string id="32376" value="Zambia" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="California" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="North Carolina" />
+	<string id="32411" value="North Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pennsylvania" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="South Carolina" />
+	<string id="32418" value="South Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Texas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virginia" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="West Virginia" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="British Columbia" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Northwest Territories" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Island" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Επιλέξτε γλώσσα" />
+	<string id="32442" value="Εισάγετε την διεύθυνση του ηλεκτρονικού ταχυδρομείου σας (προαιρετικό):" />
+	<string id="32443" value="Θέλω να ενεργοποιήσω επιπρόσθετη ασφάλεια όσο χρησιμοποιώ το internet αλλάζοντας τις ρυθμίσεις DNS μου στους  Secure DNS διακομιστές της COMODO." />
+	<string id="32444" value="Θέλω να ενεργοποιήσω την &quot;Ανάλυση Συμπεριφοράς Βασισμένη Στο Σύννεφο&quot; για μη αναγνωρισμένα προγράμματα υποβάλλοντάς τα στην COMODO με σεβασμό στην &lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;." />
+	<string id="32445" value="Θέλω να βοηθήσω την COMODO θέτωντας ως αρχική μου σελίδα και πάροχο μηχανής αναζήτησης την Yahoo! (Firefox, Internet Explorer και Chrome μόνο)." />
+	<string id="32446" value="Πιέζοντας το πλήκτρο &quot;Συμφωνώ και Εγκατέστησε&quot;, συμφωνείτε με το Συμφωνητικό Άδειας Χρήσης." />
+	<string id="32447" value="Προσαρμογή Προγράμματος Εγκατάστασης" />
+	<string id="32449" value="Παρακαλούμε διαβάστε το συμφωνητικό άδειας χρήσης:" />
+	<string id="32450" value="Επιλογές Εγκατάστασης" />
+	<string id="32451" value="Επιλογές Ρυθμίσεων" />
+	<string id="32452" value="Τοποθεσίες Αρχείων" />
+	<string id="32453" value="Μέγεθος προϊόντος:" />
+	<string id="32454" value="Συνολικό μέγεθος λήψης:" />
+	<string id="32455" value="Να ΜΗΝ εμφανίζονται ειδοποιήσεις που ζητούν αποφάσεις ασφάλειας όσο το δυνατόν περισσότερο" />
+	<string id="32456" value="Η διαμόρφωση ασφάλειας ρυθμίζει το Firewall, Προηγμένη προστασία, Containment και Antivirus με τέτοιο τρόπο ώστε οι αναδυόμενες ειδοποιήσεις απαντούνται αυτόματα όσο το δυνατόν συχνότερα." />
+	<string id="32457" value="Επιλέξτε το μονοπάτι εγκατάστασης:" />
+	<string id="32458" value="Αυτό το λογισμικό είναι μία BETA έκδοση του &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt;" />
+	<string id="32459" value="Απευθύνετε σε ειδικούς χρήστες που παρακολούθησαν τις BETA δοκιμές." />
+	<string id="32460" value="Μπορεί να περιέχει καίρια σφάλματα στον κώδικα τα οποία ενδέχεται να προκαλέσουν σοβαρά προβλήματα." />
+	<string id="32461" value="Μην εγκαταστείσετε αυτό το λογισμικό σε μηχάνημα παραγωγης." />
+	<string id="32462" value="Θέλετε να συνεχίσετε;" />
+	<string id="32463" value="Πιέζοντας το πλήκτρο &quot;Συμφωνώ και Αναβάθμισε&quot;, συμφωνείτε με το Συμφωνητικό Άδειας Χρήσης." />
+	<string id="32464" value="Αναμονή και Συνέχεια (%u)" />
+	<string id="32465" value="Το σύστημα είναι απασχολημένο με μία άλλη διεργασία εγκατάστασης.\n\nΠαρακαλώ περιμένετε για την ολοκλήρωσή του και πιέστε 'Επαναπροσπάθεια' για να συνεχίσετε με την εγκατάσταση.\nΜπορείτε να πιέσετε 'Άκυρο' για να εγκαταλείψετε την εγκατάσταση.\nΕάν πιέσετε 'Αναμονή και Συνέχεια', η εγκατάστασή σας θα συνεχίσει αυτόματα με την ολοκλήρωση της προηγούμενης διεργασίας εγκατάστασης." />
+	<string id="32466" value="Αντιγραφή Κλειδιού Άδειας Χρήσης" />
+	<string id="32467" value="Επικόλληση Κλειδιού Άδειας Χρήσης" />
+	<string id="32468" value="Καθαρισμός όλων των πεδίων" />
+	<string id="32470" value="Εγκατάσταση των Yandex Elements; " />
+	<string id="32471" value="Θέσε ως αρχική μου σελίδα το Yandex (Ισχύει για όλα τα υποστηριζόμενα προγράμματα περιήγησης)." />
+	<string id="32472" value="Θέσε ως μηχανής αναζήτησης το Yandex (Ισχύει για όλα τα υποστηριζόμενα προγράμματα περιήγησης)." />
+	<string id="32772" value="Παρακαλώ περιμένετε ενόσω η εγγύησή σας ενεργοποιείται..." />
+	<string id="32775" value="Συγχαρητήρια!" />
+	<string id="32776" value="Έχετε ολοκληρώσει επιτυχώς την εγκατάσταση." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Ένας πιστοποιημένος τεχνικός&lt;/strong&gt; μπορεί τώρα&lt;br /&gt;&lt;strong&gt;να σας βοηθήσει να το ρυθμίσετε για&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;ΔΩΡΕΑΝ&lt;/strong&gt;" />
+	<string id="32778" value="Προσφορά για περιορισμένο χρονικό διάστημα" />
+	<string id="32779" value="κλήση" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Συμφωνητικό Άδειας Χρήσης&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Συμφωνητικό Άδειας Χρήσης&lt;/a&gt;" />
+	<string id="32786" value="Το όνομα χρήστη θα πρέπει έχει τουλάχιστον %d χαρακτήρες" />
+	<string id="32787" value="Ο κωδικός πρόσβασης θα πρέπει έχει τουλάχιστον %d χαρακτήρες" />
+	<string id="32788" value="Το όνομα χρήστη και ο κωδικός πρόσβασης δεν θα πρέπει να ταιριάζουν" />
+	<string id="32791" value="Ανώνυμη αποστολή στατιστικών χρήσης του προγράμματος (π.χ. βλάβες, σφάλματα, κλικς κλπ.) στην COMODO ώστε να βελτιωθεί η ποιότητα του προγράμματος." />
+	<string id="32793" value="Παρακαλώ εισάγετε παρακάτω τα στοιχεία του IT and Security Manager Διακομιστή:" />
+	<string id="32794" value="IT and Security Manager Διακομιστής:" />
+	<string id="32795" value="IT and Security Manager Θύρα Διακομιστή:" />
+	<string id="32796" value="&lt;strong&gt;Ενεργοποίηση %s&lt;/strong&gt;" />
+	<string id="32797" value="Ενεργοποίηση με Κλειδί Άδειας Χρήσης" />
+	<string id="32798" value="Επιλέξτε στοιχεία για ενεργοποίηση:" />
+	<string id="32799" value="CCS Containment και Antivirus" />
+	<string id="32800" value="CCS Containment και Firewall" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS Suite (Containment, Antivirus και Firewall)" />
+	<string id="32803" value="Ενεργοποίηση με έναν IT and Security Manager Διακομιστή" />
+	<string id="32804" value="Επιλέξτε αυτήν την επιλογή εάν έχετε έγκυρο κλειδί άδειας χρήσης και επιθυμείτε να το χρησιμοποιήσετε" />
+	<string id="32805" value="Επιλέξτε αυτήν την επιλογή εάν χρησιμοποιείτε την πύλη IT and Security Manager για διαχείριση αυτού του endpoint" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Συμφωνητικό Άδειας Χρήσης&lt;/a&gt; και την &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;" />
+	<string id="32807" value="Όνομα Χρήστη" />
+	<string id="32808" value="Κωδικός Πρόσβασης" />
+	<string id="32809" value="&lt;strong&gt;Κωδικός προϊόντος&lt;/strong&gt;&lt;br /&gt;Ενεργοποιήστε το κλειδί άδειας χρήσης σας με λογαριασμό COMODO" />
+	<string id="32810" value="ΔΕΝ έχω Λογαριασμό COMODO" />
+	<string id="32811" value="Ήδη έχω Λογαριασμό COMODO" />
+	<string id="32812" value="Θέλω να εγκαταστήσω τον Διαχειρηστή Περιηγητή Yandex ο οποίος θα προστατεύει πάντα τις ρυθμίσεις του περιηγητή μου." />
+	<string id="32813" value="Διαχειρηστής Περιηγητή Yandex &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Συμφωνητικό Άδειας Χρήσης&lt;/a&gt;" />
+	<string id="34028" value="Αντιγραφή" />
+	<string id="34029" value="Επιλογή Όλων" />
+	<string id="34410" value="Αναίρεση" />
+	<string id="34411" value="Αποκοπή" />
+	<string id="34412" value="Επικόλληση" />
+	<string id="34413" value="Ελέγξτε τους διακομιστές της COMODO για νεότερες εκδόσεις των επιλεγμένων προγραμμάτων πριν τα εγκαταστήσετε από τον δίσκο." />
+	<string id="34414" value="Έλεγχος για νεότερες εκδόσεις..." />
+	<string id="34415" value="Παράληψη αυτού του βήματος" />
+	<string id="34416" value="Νεότερες εκδόσεις είναι διαθέσιμες" />
+	<string id="34417" value="Λήψη και εγκατάσταση των επιλεγμένων ενημερωμένων εκδόσεων των προγραμμάτων αντί αυτών που παρέχονται με στον δίσκο:" />
+	<string id="34418" value="Έκδοση" />
+	<string id="34419" value="Απαιτείται Λογαριασμός COMODO Account ώστε να συνεχίσετε με την διαδικασία ενεργοποίησης. Εάν έχετε ήδη λογαριασμό, δεν χρειάζεται να δημιουργήσετε καινούριο." />
+	<string id="34420" value="Επιλέξτε αυτήν την επιλογή αν δεν έχετε Λογαριασμό COMODO. Αυτός ο βοηθός θα σας βοηθήσει να δημιουργήσετε νέο λογαριασμό." />
+	<string id="34421" value="Εισάγετε τα διαπιστευτήριά σας παρακάτω ώστε να χρησιμοποιήσετε τον υπάρχοντα Λογαριασμό σας COMODO." />
+	<string id="34422" value="Σφάλμα αναβάθμισης\n\Χρήστες της έκδοσης 5.xx του CIS μπορούν να αναβαθμίσουν σε CIS v.8.0 μόνο μέσω ενδιάμεσης αναβάθμισης σε CIS v.7.0. Παρακαλώ αναβαθμίστε σε έκδοση 7.0 και προχωρήστε στην αναβάθμιση σε v.8.0." />
+	<string id="34423" value="Ορισμός του Chromodo ως προεπιλεγμένο πρόγραμμα περιήγησης." />
+	<string id="34424" value="Αντικαταστήστε τις υπάρχουσες συντομεύσεις του Google Chrome με συντομεύσεις του Chromodo στην επιφάνεια εργασίας και στο μενού Έναρξη." />
+	<string id="34425" value="Εισαγωγή ρυθμίσεων του Google Chrome (ιστορικό, σελιδοδείκτες, cookies κτλ) στον Chromodo Browser." />
+	<string id="34426" value="Εισάγετε το κλειδί άδειας χρήσης σας" />
+	<string id="34427" value="Η Λήψη Ολοκληρώθηκε με Επιτυχία" />
+	<string id="34428" value="Αποδοχή και Συνέχεια" />
+	<string id="34429" value="Αν θέλετε, μπορείτε να αποσυνδεθείτε από το Διαδίκτυο για να εγκαταστήσετε το πακέτο χωρίς σύνδεση." />
+	<string id="34430" value="Πιέζοντας το πλήκτρο &quot;Αποδοχή και Συνέχεια&quot;, συμφωνείτε με το Συμφωνητικό Άδειας Χρήσης." />
+	<string id="34431" value="Antivirus, Firewall και Anti-Malware Προστασία" />
+	<string id="34432" value="Προστασία από μη Εξουσιοδοτημένη Πρόσβαση" />
+	<string id="34433" value="Προστασία από Ιούς και Malware" />
+	<string id="34434" value="24/7 Ζωντανή Υποστήριξη PC" />
+	<string id="34435" value="Γρήγορη και Ασφαλή Πλοήγηση στο Διαδίκτυο" />
+	<string id="34436" value="Προστασία Απώλειας Δεδομένων" />
+	<string id="34437" value="Το Chromodo έρχεται με τις ακόλουθες επεκτάσεις για την ενίσχυση της ασφάλειας κατά των web-based απειλών:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Συμφωνητικό Άδειας Χρήσης&lt;/a&gt;" />
+	<string id="34441" value="Μια εύκολη στη χρήση, όλα-σε-ένα λύση διαδικτυακής δημιουργίας αντιγράφων ασφαλείας" />
+	<string id="34442" value="με &lt;strong&gt;GeekBuddy&lt;/strong&gt; και &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="με &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="με &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Ο Chromodo Browser είναι ένα γρήγορο και ευέλικτο πρόγραμμα περιήγησης στο Διαδίκτυο που βασίζεται στην τεχνολογία Chromium και είναι ενισχυμένος με το απαράμιλλο επίπεδο Comodo της ασφάλειας." />
+	<string id="34446" value="Θα πρέπει να ενεργοποιήσετε το πρωτόκολλο TLS στις ρυθμίσεις ασφαλείας του IE." />
+	<string id="34447" value="Για να ενεργοποιήσετε το πρωτόκολλο TLS: \ n1. Στον Internet Explorer, πηγαίνετε στα Εργαλεία -&gt; Επιλογές Options.\n2. Επιλέξτε την καρτέλα Για προχωρημένους.\n3. Μετακινηθείτε προς τα κάτω στην ενότητα Ασφάλεια.\n4. Επιλέξτε το τετραγωνίδιο &quot;Χρήση TLS 1.xx&quot;\n5. Πατήστε το πλήκτρο OK." />
+	<string id="34448" value="Το %s δεν μπορεί να εγκατασταθεί επειδή το COMODO Cloud AV έχει ήδη εγκατασταθεί σε αυτόν τον υπολογιστή.\n\nΠαρακαλούμε να απεγκαταστήσετε CCAV πριν την εγκατάσταση του %s." />
+	<string id="34449" value="με &lt;strong&gt;GeekBuddy&lt;/strong&gt; και &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="με &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Εκτελέστε άγνωστες εφαρμογές σε ένα ασφαλές, απομονωμένο περιβάλλον" />
+	<string id="34452" value="Ασφαλής σύνδεση με σημαντικές και ευαίσθητους ιστοσελίδες" />
+	<string id="34453" value="Καλώς Ήλθατε!" />
+	<string id="34454" value="Είστε έτοιμοι να εγκαταστήσετε το %s %s για να διασφαλίσετε και να προστατεύετε όλες τις συσκευές σας" />
+	<string id="34455" value="Πιέζοντας &quot;%s&quot;, συμφωνείτε ότι έχετε διαβάσει και αποδεχθεί την %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;Άδεια Χρήσης&lt;/a&gt; και την &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;" />
+	<string id="34456" value="Συμφωνώ" />
+	<string id="34457" value="με Chromodo Browser και GeekBuddy" />
+	<string id="34458" value="με Dragon Browser, Ασφαλείς Αγορές και GeekBuddy" />
+	<string id="34459" value="με Chromodo Browser" />
+	<string id="34460" value="με Dragon Browser" />
+	<string id="34461" value="με GeekBuddy" />
+	<string id="34462" value="Εγκατάσταση του Yandex Elements (επέκταση του προγράμματος περιήγησης)" />
+	<string id="34463" value="Ορισμός αρχικής σελίδας στο Yandex*" />
+	<string id="34464" value="Ορισμός τη μηχανή αναζήτησής μου στο Yandex*" />
+	<string id="34465" value="Ορισμός της νέας καρτέλας του προγράμματος περιήγησής μου στο Yandex*" />
+	<string id="34466" value="* ισχύει για όλα τα προγράμματα περιήγησης που υποστηρίζονται" />
+	<string id="34467" value="Πιέζοντας &quot;%s&quot;, συμφωνείτε ότι έχετε διαβάσει και αποδεχθεί" />
+	<string id="34470" value="Εγκατάσταση Δωρεάν Έκδοσης" />
+	<string id="34471" value="Εγκατάσταση PRO" />
+	<string id="34472" value="Δοκιμάστε 30 ημέρες Δοκιμαστική Έκδοση του PRO" />
+	<string id="34473" value="Δοκιμάστε 30 ημέρες Δοκιμαστική Έκδοση του COMPLETE" />
+	<string id="34474" value="Δοκιμάστε 30 ημέρες Δοκιμαστική Έκδοση του PRO .&lt;br /&gt;Θα σας ζητηθεί να επιστρέψετε στη δωρεάν έκδοση αργότερα" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="Δοκιμάστε 30 ημέρες Δοκιμαστική Έκδοση του COMPLETE.&lt;br /&gt;Θα σας ζητηθεί να επιστρέψετε στη δωρεάν έκδοση αργότερα" />
+	<string id="34477" value="Antivirus" />
+	<string id="34478" value="Firewall" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Secure Shopping" />
+	<string id="34483" value="24/7 Live Support" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Κατάλογος Εγκατάστασης" />
+	<string id="34487" value="Αλλαγή παρόχου DNS μου σε COMODO Secure DNS (βελτίωση της ασφάλειας στο διαδίκτυο, ταχύτερη φόρτωση των ιστοσελίδων). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Τι είναι αυτό;&lt;/a&gt;" />
+	<string id="34488" value="Ενεργοποίηση του &quot;Cloud Based Behavior Analysis&quot; για μη αξιόπιστα αρχεία (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;)" />
+	<string id="34489" value="Στείλτε ανώνυμα στατιστικά χρήσης του προγράμματος (π.χ. διακοπές λειτουργίας, σφάλματα, κλικ, κ.λπ.) στην COMODO για τη βελτίωση της ποιότητας των προϊόντων." />
+	<string id="34490" value="Προσαρμογή" />
+	<string id="34491" value="Συνολικό μέγεθος:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Αξιολόγηση αρχείου" />
+	<string id="34494" value="Φιλτράρισμα Ιστοσελίδας" />
+	<string id="34495" value="Ασφαλείς Αγορές" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 Ζωντανή Υποστήριξη" />
+	<string id="34501" value="Διατηρήστε την Ασφάλεια. Διατηρήστε τον Έλεγχο .&lt;br /&gt;Εκτελέστε άγνωστες εφαρμογές σε Ασφαλές Απομονωμένο Περιβάλλον." />
+	<string id="34502" value="Αξιόπιστο ή Κακόβουλο;&lt;br /&gt;Ελέγξτε την φήμη οποιουδήποτε αρχείου στην παγκόσμια βάση δεδομένων μας." />
+	<string id="34503" value="Προστατέψτε τα παιδιά σας και τον εαυτό σας από τις ιστοσελίδες που περιέχουν κακόβουλο λογισμικό ή ακατάλληλο περιεχόμενο" />
+	<string id="34504" value="Ασφαλίστε τα δεδομένα και τα χρήματά σας.&lt;br /&gt;Βεβαιωθείτε ότι κανείς δεν υποκλέπτει ευαίσθητες πληροφορίες σας σε απευθείας σύνδεση" />
+	<string id="34505" value="Λάβετε δωρεάν Mobile Antivirus για Android συσκευές" />
+	<string id="34506" value="Κανένας τρόπος για να χάσετε δεδομένα.&lt;br /&gt;Όλα τα δεδομένα σας Κρυπτογραφούνται και Αποθηκεύονται στο Cloud." />
+	<string id="34507" value="Χρήση δημόσιων Wi-Fi;&lt;br /&gt;Τώρα είναι ασφαλής." />
+	<string id="34508" value="Χρειάζεστε Βοήθεια&lt;br /&gt;Επικοινωνήστε με με τους ειδικούς" />
+	<string id="34509" value="ΔΩΡΕΑΝ ΕΓΚΑΤΑΣΤΑΣΗ" />
+	<string id="34510" value="Συγχαρητήρια!" />
+	<string id="34511" value="Έχετε ολοκληρώσει με επιτυχία την εγκατάσταση." />
+	<string id="34512" value="Στείλτε μου νέα της COMODO, προσφορές και εκπτώσεις στην ακόλουθη διεύθυνση ηλεκτρονικού ταχυδρομείου:" />
+	<string id="34513" value="Ανιχνεύει, εμποδίζει και εξαλείφει ιούς από υπολογιστές και τα δίκτυα. Συνεχήε προστασία με σάρωση σε πραγματικό χρόνο κατά την πρόσβαση. Οι βάσεις δεδομένων μας για ιούς ενημερώνονται αυτόματα σε καθημερινή βάση." />
+	<string id="34514" value="Βραβευμένο Firewall. Αυτόματα καθιστά τους υπολογιστές αόρατους σε επιθέσεις. Φιλτράρει την κίνηση από/προς τον υπολογιστή σας." />
+	<string id="34515" value="Ένα απομονωμένο περιβάλλον λειτουργίας για τη λειτουργία αγώστων, μη έμπιστων και ύποπτων εφαρμογών. Εξαιρετικό για τη δοκιμή λογισμικών που προέρχονται από αναξιόπιστες πηγές. Η δυνατότητα αυτόματης λειτουργίας Containment επιτρέπει την απομόνωση εφαρμογών σύμφωνα με προκαθορισμένες και προσαρμοσμένες πολιτικές." />
+	<string id="34516" value="Το Host-based Intrusion Prevention System (HIPS) είναι μια δυναμική τεχνολογία που επιτρέπει την ανάλυση συμπεριφοράς των προγραμμάτων που εκτελούνται και να σταματήσει οποιαδήποτε ύποπτη δραστηριότητα. Το HIPS προστατεύει αυτόματα τα κρίσιμα αρχεία του συστήματος, φακέλους και κλειδιά μητρώου για την αποτροπή μη εξουσιοδοτημένων τροποποιήσεων από κακόβουλα προγράμματα." />
+	<string id="34517" value="Παρακολουθεί και κρατά το αρχείο των δραστηριοτήτων των διεργασιών που εκτελούνται στον υπολογιστή σας και παρέχει τη δυνατότητα αντιστροφής δυνητικά ανεπιθύμητων ενεργειών του λογισμικού χωρίς απαραίτητα να απορρίπτει το λογισμικό εξ ολοκλήρου." />
+	<string id="34518" value="Παρέχει εξαιρετική ασφάλεια για online τραπεζικές συναλλαγές και αγορές, επιτρέποντάς σας να συνδεθείτε στο Διαδίκτυο μέσα από ένα εξαιρετικά ασφαλές, εικονικό περιβάλλον." />
+	<string id="34519" value="Ζωντανή, απεριόριστη απομακρυσμένη υποστήριξη για θέματα Η/Υ σας. Απλά κάντε κλικ στο εικονίδιο στην επιφάνεια εργασίας για να συνομιλήσετε με τον Geek σας, ο οποίος θα διορθώσει τα προβλήματα μπροστά στα μάτια σας και θα βοηθήσει με την βελτιστοποίηση των ρυθμίσεων του Η/Υ σας και των Windows, εγκατάσταση ηλεκτρονικού ταχυδρομείου και εκτυπωτή, την εγκατάσταση οποιουδήποτε λογισμικού και πολλά άλλα..." />
+	<string id="34520" value="Μια εύκολη στη χρήση, όλα-σε-ένα λύση διαδικτυακής δημιουργίας αντιγράφων ασφαλείας. Δίνει τη δυνατότητα να δημιουργήσετε αντίγραφα ασφαλείας και να επαναφέρετε οποιοδήποτε όγκο δεδομένων, από ένα αρχείο έως ένα ολόκληρο σύστημα. Αποθηκεύει τα δεδομένα κρυπτογραφημένα με τις πιο ενημερωμένες τεχνολογίες κρυπτογράφησης. Προστατεύει όλες τις επικοινωνίες μεταξύ του συστήματός σας και των διακομιστών της Comodo με SSL κρυπτογράφηση." />
+	<string id="34521" value="Ασφαλίζει την ασύρματη και ενσύρματη επικοινωνία μεταξύ του υπολογιστή σας και άλλων υπολογιστών. Κάνει την περιήγηση ασφαλή σε δημόσιους χώρους, όπως καφετέριες, ξενοδοχεία, αεροδρόμια κλπ.. Διατηρεί εσάς και τις πληροφορίες σας ιδιωτικές, ασφαλείς και έξω από τα χέρια των εγκληματιών όσο βρίσκεστε συνδεδεμένοι. Προσφέρει πλήρως κρυπτογραφημένη κίνηση από/προς τον υπολογιστή σας." />
+	<string id="34522" value="Ορισμός αρχικής σελίδας, μηχανής αναζήτησης και νέα καρτέλας του πρόγραμματος περιήγησής μου στο Yandex*" />
+	<string id="34524" value="Δικαιώματα" />
+	<string id="34525" value="Συνιστώσες" />
+	<string id="34526" value="Εγκαταστήστε το Yandex Browser Manager" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Άδεια Χρήσης&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Άδεια Χρήσης&lt;/a&gt;" />
+	<string id="34529" value="Ορισμός αρχικής σελίδας, μηχανής αναζήτησης και νέα καρτέλας του πρόγραμματος περιήγησής μου στο Yahoo! (όλα τα υποστηριζόμενα προγράμματα περιήγησης)" />
+	<string id="34530" value="Εγκαθιστώντας αυτής της εφαρμογής, συμφωνείτε ότι έχετε διαβάσει και αποδεχθεί την %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Άδεια Χρήσης&lt;/a&gt;, του Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Άδεια Χρήσης&lt;/a&gt;" />
+	<string id="34531" value="Αν δεν έχετε κλειδί άδειας χρήσης, μπορείτε να το αποκτήσετε" />
+	<string id="34532" value="Λάβετε Κλειδί Άδειας Χρήσης" />
+	<string id="34533" value="Ενεργοποίηση Άδειας Χρήσης" />
+	<string id="34534" value="Καλέστε στο &lt;strong&gt;+1888-258-7142&lt;/strong&gt; για έναν πιστοποιημένο τεχνικό για να διορθώσει αυτό το πρόβλημα για εσάς" />
+	<string id="34535" value="&lt;strong&gt;Εγγραφή Προϊόντος&lt;/strong&gt;&lt;span&gt;Ενεργοποίηση την Άδειας Χρήσης σας με λογαριασμό COMODO&lt;/span&gt;" />
+	<string id="34536" value="Η καθορισμένη διεύθυνση ηλεκτρονικού ταχυδρομείου δεν είναι έγκυρη" />
+	<string id="34537" value="Οι κωδικοί πρόσβασης δεν ταιριάζουν" />
+	<string id="34538" value="Παρακαλώ επιλέξτε χώρα" />
+	<string id="34539" value="&lt;strong&gt;Ενεργοποίηση Άδειας Χρήσης&lt;/strong&gt;&lt;span&gt;Εισάγετε το κλειδί άδειας χρήσης και ενεργοποιήστε το προϊόν σας&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Εγγραφή Προϊόντος&lt;/strong&gt;&lt;span&gt;Ενεργοποίηση την Άδειας Χρήσης σας με λογαριασμό COMODO&lt;/span&gt;" />
+	<string id="34541" value="Ένας Λογαριασμός Comodo απαιτείται προκειμένου να συνεχιστεί η διαδικασία ενεργοποίησης." />
+	<string id="34542" value="Δημιουργία νέου Λογαριασμού" />
+	<string id="34543" value="* Πληκτρολογήστε ξανά τον κωδικό πρόσβασης" />
+	<string id="34544" value="E-mail" />
+	<string id="34545" value="Κωδικό Πρόσβασης" />
+	<string id="34546" value="Ξέχασα τον Κωδικό Πρόσβασης" />
+	<string id="34547" value="Σύνδεση" />
+	<string id="34548" value="Παρουσιάστηκε σφάλμα κατά την ενεργοποίηση του προϊόντος" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;Στον Internet Explorer, πηγαίνετε στα Εργαλεία -&gt; Επιλογές Internet&lt;/li&gt;&lt;li&gt;Επιλέξτε την καρτέλα Για προχωρημένους&lt;/li&gt;&lt;li&gt;Μετακινηθείτε προς τα κάτω στην ενότητα Ασφάλεια&lt;/li&gt;&lt;li&gt;Επιλέξτε το πλαίσιο &quot;Χρήση TLS 1.xx&quot;&lt;/li&gt;&lt;li&gt;Πατήστε το κουμπί OK&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο" />
+	<string id="34551" value="Ενεργοποίηση" />
+	<string id="34552" value="Αδύνατη η εύρεση της διαγνωστικής εφαρμογής CIS." />
+	<string id="34553" value="Αδύνατη η εκκίνηση των διαγνωστικών του CIS. Κωδικός σφάλματος %u" />
+	<string id="34554" value="Απεγκατάσταση %s..." />
+	<string id="34555" value="Αλλαγή %s..." />
+	<string id="34556" value="Είστε βέβαιοι ότι θέλετε να ακυρώσετε την κατάργηση της εγκατάστασης;" />
+	<string id="34557" value="Αδύνατη η αλλαγή του %s" />
+	<string id="34558" value="Αδύνατη η απεγκατάσταση του %s" />
+	<string id="34560" value="Επιδιόρθωση" />
+	<string id="34561" value="Αλλαγή" />
+	<string id="34562" value="Απεγκατάσταση" />
+	<string id="34563" value="Επιδιόρθωση ζητημάτων που ενδέχεται να έχουν προκαλέσει επιβράδυνση ή διακοπή λειτουργίας." />
+	<string id="34564" value="Ελέγξτε ποια χαρακτηριστικά του προγράμματος είναι εγκατεστημένα." />
+	<string id="34565" value="Απεγκατάσταση του &lt;b&gt;%s&lt;/b&gt;." />
+	<string id="34566" value="Επιλογή Προϊόντος" />
+	<string id="34567" value="Το %s έρχεται με μια συλλογή ζωτικών λύσεων ασφάλειας για τον υπολογιστή σας. Επιλέξτε τα προϊόντα που θέλετε να εγκαταστήσετε ή αποεπιλέξετε τα προϊόντα που θέλετε να καταργήσετε για να συνεχίσετε." />
+	<string id="34568" value="Εγκατάσταση COMODO Firewall (Συνιστάται)" />
+	<string id="34569" value="Επιλέξτε αυτήν την επιλογή για να εγκαταστήσετε το COMODO Firewall στον υπολογιστή σας. Εάν έχετε εγκαταστήσει άλλο firewall, θα πρέπει να το απεγκαταστήσετε πριν συνεχίσετε." />
+	<string id="34570" value="Εγκατάσταση COMODO Antivirus (συνιστάται)" />
+	<string id="34571" value="Επιλέξτε αυτήν την επιλογή για να εγκαταστήσετε το COMODO Antivirus στον υπολογιστή σας. Εάν έχετε εγκαταστήσει άλλο antivirus, θα πρέπει να το απεγκαταστήσετε πριν συνεχίσετε." />
+	<string id="34572" value="Αυτό είναι." />
+	<string id="34573" value="Αλλάξατε το %s." />
+	<string id="34574" value="προετοιμασία απεγκατάστασης..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Είναι λάθος να μείνετε απροστάτευτοι." />
+	<string id="34577" value="Θα θέλατε να δοκιμάσετε το ελαφρύ και ισχυρό βασισμένο στο Cloud Antivirus μας; " />
+	<string id="34578" value="Λήψη και Εγκατάσταση του COMODO Cloud Antivirus" />
+	<string id="34579" value="Το COMODO Cloud Antivirus θα εγκατασταθεί αφού η διαδικασία απεγκατάστασης ολοκληρωθεί. Για να ολοκληρωθεί η διαδικασία κατάργησης εγκατάστασης, θα χρειαστεί να επανεκκινήσετε τον υπολογιστή σας." />
+	<string id="34580" value="Ποιος είναι ο κύριος λόγος που αποφασίσαμε να απεγκαταστήσετε το COMODO; &lt;b&gt;(Επιλέξτε ότι ισχύει)&lt;/b&gt;" />
+	<string id="34581" value="Το COMODO κατανάλωνε πολλούς πόρους του υπολογιστή μου" />
+	<string id="34582" value="Λάμβανα πάρα πολλά ειδοποιήσεις" />
+	<string id="34583" value="Το COMODO απέκλειε προγράμματα που ήθελα να τρέχουν" />
+	<string id="34584" value="Δεν είμαι συνολικά ικανοποιημένος με το προϊόν" />
+	<string id="34585" value="Βρήκα ένα άλλο πρόγραμμα που μου αρέσει περισσότερο" />
+	<string id="34586" value="Άλλο (παρακαλώ διευκρινίστε)" />
+	<string id="34587" value="Έχετε καταργήσει το %s." />
+	<string id="34588" value="Όμως, μπορεί να έχουμε ακόμα κάτι να σας προσφέουμε. Παρακαλούμε δείτε &lt;a href='#' id='id_products'&gt;τα προϊόντα μας&lt;/a&gt; ή επικοινωνήστε με το διαχειριστή μας, εάν έχετε οποιεσδήποτε ερωτήσεις." />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="Παρακαλώ επιλέξτε τι θα θέλατε να κάνετε με το %s" />
+	<string id="34591" value="Θέλω να το εγκαταστήσω ξανά" />
+	<string id="34592" value="Αυτό θα αφαιρέσει το &lt;b&gt;%s&lt;/b&gt; από το σύστημά σας, ώστε να μπορείτε να εγκαταστήσετε ξανά ή να το αντικαταστήσετε με μια διαφορετική έκδοση." />
+	<string id="34593" value="Θέλω να το αφαιρέσω οριστικά" />
+	<string id="34594" value="Αυτό θα αφαιρέσει οριστικά το &lt;b&gt;%s&lt;/b&gt; από το σύστημά σας, αλλά μπορείτε να το εγκαταστήσετε ξανά αργότερα." />
+	<string id="34595" value="Προετοιμασία αλλαγής..." />
+	<string id="34596" value="Προετοιμασία λήψης..." />
+	<string id="34597" value="Σφάλμα κατά την αλλαγή του COMODO Internet Security" />
+	<string id="34598" value="Σφάλμα κατά την απεγκατάσταση του COMODO Internet Security" />
+	<string id="34599" value="Προσθήκη, Απομάκρυνση ή Επιδιόρθωση Συνιστωσών" />
+	<string id="34600" value="Απομάκρυνση ή Επιδιόρθωση συνιστωσών" />
+	<string id="34601" value="Κατάργηση εγκατάστασης αντικρουόμενου λογισμικού: %s" />
+	<string id="34602" value="Συνιστούμε τη διατήρηση του Comodo Internet Security ενημερωμένου για να αποτρέψετε τον υπολογιστή σας να βρίσκετε σε κίνδυνο" />
+	<string id="34603" value="Το Comodo Internet Security χρησιμοποιεί έναν ισχυρό συνδυασμό των τεχνολογιών παρακολούθησης ιών, αυτόματου Containment και την ανάλυση της συμπεριφοράς για την άμεση προστασία του υπολογιστή σας από όλα τα γνωστά και άγνωστα κακόβουλο λογισμικό." />
+	<string id="34604" value="Μία άλλη διεργασία εγκατάστασης είναι σε εξέλιξη. Παρακαλώ περιμένετε μέχρι να ολοκληρωθεί." />
+	<string id="34605" value="Μία άλλη διεργασία ενεργοποίησης είναι σε εξέλιξη. Παρακαλώ περιμένετε μέχρι να ολοκληρωθεί." />
+	<string id="34606" value="Τώρα με προστασία ενάντια σε επιθέσεις επανάληψης!" />
+	<string id="34607" value="The installation package of the product you have just uninstalled included Comodo Internet Security Essentials (ISE) protecting against man-in-the-middle attacks. ISE needs to be uninstalled separately. If you wish to remove it, click &lt;a href='#' id='id_ise_how_to_remove'&gt;here&lt;/a&gt; to learn how to do it." />
+	<string id="34608" value="Ορισμός του Comodo Dragon ως προεπιλεγμένο πρόγραμμα περιήγησης." />
+	<string id="34609" value="Εισαγωγή ρυθμίσεων του Google Chrome (ιστορικό, σελιδοδείκτες, cookies κτλ) στον Comodo Dragon Browser." />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>

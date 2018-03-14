@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource CompactMode="1" Language="Türkçe - By COMODO" LANGID="1055" RTL="0">
+	<string id="106" value="Paket bozulmuş.\r\nYükleme sonlandırıldı" />
+	<string id="107" value="Bu yükleme hedef platformu desteklemiyor." />
+	<string id="108" value="COMODO Güncelleme" />
+	<string id="109" value="%s Yükleyici" />
+	<string id="110" value="%s güncelleniyor..." />
+	<string id="111" value="Lisans bilgisi kaydedilemiyor.\r\n%s" />
+	<string id="112" value="Bu seçenek bilgisayarınızın birincil ve ikincil DNS ayarlarını 8.26.56.26 ve 156.154.70.22 ile değiştirecektir. Bunu yaptıktan sonra tüm uygulamalar İnternete bağlanırken daha hızlı ve güvenli DNS sunucularını kullanacaktır." />
+	<string id="113" value="Lisansınız tarafından izin verilen en fazla kurulum sayısına eriştiniz." />
+	<string id="114" value="COMODO Lisans Yönetimi" />
+	<string id="115" value="Bilgisayarınızın tarih ve saati doğru olarak ayarlanmamış. Lütfen düzeltip yeniden deneyiniz." />
+	<string id="116" value="Girdiğiniz lisans anahtarının süresi dolmuş" />
+	<string id="117" value="Hata: %u. %s" />
+	<string id="118" value="Yükleyici başlatılamadı. Geçersiz veri biçimi." />
+	<string id="119" value="Yükleyicinin yeni bir sürümü var.\r\nYükleyici şimdi kendini güncelleyecek.\r\nDevam etmek ister misiniz?" />
+	<string id="120" value="Verilen tekrarlama aralığı desteklenmiyor" />
+	<string id="121" value="Yazdırma başlatılamadı." />
+	<string id="122" value="Ürün etkinleştirme iptal edildi. Sistem yöneticiniz ile görüşün." />
+	<string id="123" value="%s yükleniyor..." />
+	<string id="124" value="COMODO Kurulum" />
+	<string id="125" value="Onayla ve Yükle" />
+	<string id="126" value="Onayla ve Güncelle" />
+	<string id="127" value="Yüklemeyi iptal etmek istediğinizden emin misiniz?" />
+	<string id="128" value="Yüklemeyi gerçekleştirmek için izne ihtiyacınız var." />
+	<string id="129" value="Lisans Anlaşmasını Görüntüle" />
+	<string id="130" value="COMODO Yükleyici yeniden başlatılamıyor.\r\n%s\r\nLütfen elle yeniden başlatınız." />
+	<string id="131" value="Kurulumu Özelleştir" />
+	<string id="132" value="Güncellemeyi Özelleştir" />
+	<string id="133" value="Yapılandırma değişikliklerinin etkin olması için sisteminizi yeniden başlatmalısınız..\nŞimdi yeniden başlatmak için 'Evet' , daha sonra yeniden başlatmak için 'Hayır' butonuna tıklayın." />
+	<string id="134" value="Lütfen bekleyin..." />
+	<string id="135" value="Bu işleme izin verilmemektedir" />
+	<string id="136" value="COMODO Client - Security" />
+	<string id="137" value="Bilgisayarınıza yüklenmiş olan CCS sürümü belirtilen sunucu tarafından yönetilemez. Lütfen doğru IT and Security Manager sunucu ayrıntılarını girdiğinizden emin olun veya yardım için ağ yöneticinize başvurun." />
+	<string id="139" value="Exper Internet Security" />
+	<string id="140" value="Hata %d: %s (%s)" />
+	<string id="142" value="Comodo VirusScope" />
+	<string id="143" value="Geçersiz giriş veya parola girildi" />
+	<string id="144" value="Sistem yeniden başlatılamadı.\r\n%s\r\nLütfen bilgisayarı elle yeniden başlatınız." />
+	<string id="145" value="Hata %d: %s" />
+	<string id="148" value="HTTP durum kodu: %u." />
+	<string id="153" value="Belirtilen e-posta adresi geçersiz.\r\nLütfen geçerli bir e-posta adresi giriniz." />
+	<string id="154" value="Lisans anahtarı geçersiz.\r\nLütfen geçerli bir lisans anahtarı giriniz." />
+	<string id="155" value="Klasör oluşturulamıyor %s.\r\n%s" />
+	<string id="156" value="Belirtilen giriş ile WEB API bulunamıyor" />
+	<string id="158" value="Ödeme Ağ Geçidi Hatası" />
+	<string id="160" value="%s Yüklenemiyor\r\n%s\r\nYeniden denemek ister misiniz?" />
+	<string id="165" value="%s indirilemiyor" />
+	<string id="166" value="%s yazılamıyor" />
+	<string id="167" value="Yükleyici başlatılamadı. Lütfen İnternet bağlantınızı ve/veya Internet Explorer bağlantı ayarlarını kontrol ediniz.\r\n%s" />
+	<string id="168" value="Yükleyici başlatılamadı. Lütfen dosya erişim haklarını kontrol ediniz.\r\n%s" />
+	<string id="169" value="Kullanıcı fatura isteği için hesap özeti numarasına sahip değil." />
+	<string id="170" value="Bu ödeme koşullarıyla yinelenen öğe oluşturulamadı" />
+	<string id="171" value="Yetkilendirme hatası" />
+	<string id="172" value="Seçili dil işletim sisteminiz tarafından desteklenmiyor" />
+	<string id="173" value="Ürün yüklemesi devam edemiyor çünkü seçili dil işletim sisteminiz tarafından desteklenmiyor." />
+	<string id="175" value="%s Yüklenemiyor\r\n%s" />
+	<string id="183" value="%s Yükle" />
+	<string id="184" value="%s İndiriliyor..." />
+	<string id="190" value="Devam etmek için, bilgisayarınızı yeniden başlatmalısınız.\r\nŞimdi yeniden başlatmak ister misiniz?" />
+	<string id="192" value="Ürün yüklemesinin devam edebilmesi için bilgisayar yeniden başlatılmalıdır. Yeniden başlatma sonrası yükleme otomatik olarak devam edecektir.\r\nŞimdi yeniden başlat?" />
+	<string id="193" value="Yüklemeye devam etmek için eski COMODO Firewall/Internet Security sürümünü kaldırmalısınız.\r\nBu %s tarafından yapılamadığından, lütfen bu eski yazılımı elle kaldırın ve %s uygulamasını yeniden başlatın." />
+	<string id="194" value="Lisans anahtarı gereksinimleri" />
+	<string id="195" value="Lisans anahtarı, yalnızca rakamları ve A'dan F'ye kadar olan harfleri içerir" />
+	<string id="196" value="Lisans anahtarım nerede?" />
+	<string id="197" value="Eğer ürününüzü İnternet üzerinden satın aldıysanız, lisans anahtarınız alışveriş sırasında belirttiğiniz e-posta adresine gönderilmiştir. Eğer kurulum DVD/CD 'sine sahipseniz, lisans anahtarı için lütfen DVD/CD kutusunun arkasına bakınız." />
+	<string id="199" value="Lütfen bu dosyayı değiştirmeyiniz veya silmeyiniz. %s için gereklidir ve otomatik olarak silinecektir." />
+	<string id="202" value="Geçersiz parmak izi" />
+	<string id="205" value="Geçersiz XML isteği" />
+	<string id="206" value="Geçersiz parametre" />
+	<string id="207" value="Geçersiz lisans anahtarı" />
+	<string id="208" value="Bilinmeyen alan" />
+	<string id="209" value="Bilinmeyen Ödeme Koşulları" />
+	<string id="210" value="Hatalı istek türü" />
+	<string id="217" value="Fatura İsteği Başarısız: Yeni fatura oluşturulamadı" />
+	<string id="220" value="Bilinmeyen hata meydana geldi" />
+	<string id="222" value="Geçersiz mod." />
+	<string id="224" value="COMODO Internet Security Premium" />
+	<string id="225" value="COMODO Internet Security Pro" />
+	<string id="226" value="COMODO Internet Security Complete" />
+	<string id="227" value="COMODO Internet Security Plus" />
+	<string id="228" value="COMODO Antivirus" />
+	<string id="229" value="COMODO Antivirus Advanced" />
+	<string id="230" value="COMODO Client - Security" />
+	<string id="231" value="COMODO Firewall" />
+	<string id="232" value="Başlatma veri dosyası bulunamıyor." />
+	<string id="233" value="COMODO Firewall Advanced" />
+	<string id="234" value="İptal ediliyor. Lütfen bekleyiniz..." />
+	<string id="235" value="Devam etmeden önce lütfen %s güncelleyiniz." />
+	<string id="236" value="Yeniden başlattıktan sonra yüklemeye düzgünce devam edebilmek için mecvut yükleyicinin durumu kaydedilemiyor.\r\nLütfen bilgisayarınızı yeniden başlatınız ve COMODO Yükleyiciyi elle çalıştırınız." />
+	<string id="237" value="COMODO Containment" />
+	<string id="238" value="Yükleyici başlatma başarısız. Depolanmış veri biçimi geçersiz." />
+	<string id="239" value="Ürün yüklemesinin devam edebilmesi için bilgisayar yeniden başlatılmalıdır. Yeniden başlatma sonrası yükleme otomatik olarak devam edecektir. Lütfen yükleme tamamlanana kadar COMODO Yükleyici DVD'sini çıkartmayınız.\r\nŞimdi yeniden başlat?" />
+	<string id="246" value="Yükleme başlatılamıyor - paket bozulmuş." />
+	<string id="250" value="Yüklemenin tamamlanabilmesi için %s kapatılmalıdır. Lütfen %s kapatınız ve yeniden denemek için 'Evet' düğmesine basınız." />
+	<string id="266" value="Internet Security Complete" />
+	<string id="277" value="Internet Security Pro" />
+	<string id="278" value="Garanti etkinleştirme işlemine başlamadan önce lütfen lisans anahtarınızı etkinleştiriniz." />
+	<string id="279" value="Internet Security Plus" />
+	<string id="281" value="Antivirus Advanced" />
+	<string id="285" value="Backup" />
+	<string id="286" value="TrustConnect" />
+	<string id="287" value="Dragon" />
+	<string id="294" value="CAM sunucusundan bilinmeyen XML cevabı" />
+	<string id="295" value="Girmiş olduğunuz lisans anahtarı yüklemek istediğiniz ürün türüyle eşleşmiyor" />
+	<string id="313" value="Lisansınız etkinleştiriliyor, lütfen bekleyiniz..." />
+	<string id="346" value="Yeniden dene" />
+	<string id="366" value="İnternet bağlantısı gereklidir." />
+	<string id="367" value="Lisansınızı elde edebilmek için, yükleyicinin COMODO lisans merkezine bağlanması gerekmektedir." />
+	<string id="368" value="Lütfen İnternete bağlı olduğunuzdan emin olun ve &quot;Tekrar Deneyin&quot; düğmesine basın." />
+	<string id="369" value="Başarıyla lisansınızı etkinleştirdik ve ürününüzü yükselttik." />
+	<string id="374" value="Tanınmayan programların “Bulut Tabanlı Davranış Analizi” için COMODO'ya gönderilmesini &lt;link&gt;Gizlilik İlkesi&lt;/link&gt; bağlamında etkinleştirmek istiyorum." />
+	<string id="375" value="Beta" />
+	<string id="377" value="&quot;%s&quot; düğmesine tıklayarak, aşağıdaki kurulum ve &lt;link&gt;Kullanıcı Lisans Sözleşmesini&lt;/link&gt; kabul etmiş sayılırsınız:" />
+	<string id="383" value="Lisansınız etkinleştirilemiyor.\n%s" />
+	<string id="385" value="Devam edebilmek için, en azından bir ürün seçmelisiniz." />
+	<string id="386" value="Ürün boyutu:  %s" />
+	<string id="387" value="Toplam indirme boyutu:  %s" />
+	<string id="426" value="Exper Antivirus" />
+	<string id="427" value="Exper Firewall" />
+	<string id="428" value="Exper Antivirus for Servers" />
+	<string id="429" value="Uyumsuz Ürünler" />
+	<string id="32001" value="Simge Durumuna Küçült" />
+	<string id="32002" value="Kapat" />
+	<string id="32003" value="Yükle" />
+	<string id="32004" value="Lisans Yönetimi" />
+	<string id="32005" value="Evet" />
+	<string id="32006" value="Hayır" />
+	<string id="32007" value="Tekrar Dene" />
+	<string id="32008" value="Tamam" />
+	<string id="32009" value="İptal" />
+	<string id="32010" value="İptal" />
+	<string id="32011" value="Yoksay" />
+	<string id="32012" value="Devam" />
+	<string id="32013" value="Tekrar Deneyin" />
+	<string id="32014" value="Yükleyici" />
+	<string id="32015" value="Geri" />
+	<string id="32016" value="Yazdır" />
+	<string id="32017" value="MB" />
+	<string id="32018" value="Gözat" />
+	<string id="32019" value="İleri" />
+	<string id="32020" value="Kapat" />
+	<string id="32021" value="Daha fazla öğren" />
+	<string id="32022" value="Bitir" />
+	<string id="32023" value="Atla" />
+	<string id="32024" value="Kabul Et" />
+	<string id="32102" value="&lt;strong&gt;Gerekli Paketleri Yükle&lt;/strong&gt;&lt;br /&gt;Özellik ek paketlerin kurulumunu gerektirir." />
+	<string id="32103" value="Aşağıdakiler indirilip kurulmalıdır:" />
+	<string id="32104" value="Paket Adı" />
+	<string id="32105" value="Lisans Sözleşmesi" />
+	<string id="32106" value="Boyut" />
+	<string id="32107" value="&quot;Onayla ve Yükle&quot; düğmensine basarak, yukarıda listelenen tüm paketler için kullanıcı lisans anlaşmasını kabul etmiş olacaksınız." />
+	<string id="32108" value="Onayla ve Yükle" />
+	<string id="32109" value="Ürünü yüklerken bir hata meydana geldi:" />
+	<string id="32110" value="Yeniden deneyin" />
+	<string id="32111" value="Yükleme hazırlanıyor..." />
+	<string id="32112" value="Ürününüzü başarıyla etkinleştirdiniz." />
+	<string id="32113" value="Devam" />
+	<string id="32114" value="Lütfen lisansınız etkinleştirilirken bekleyin..." />
+	<string id="32115" value="Ürün etkinleştirilirken bir hata meydana geldi:" />
+	<string id="32116" value="Yeniden deneyin" />
+	<string id="32117" value="&lt;strong&gt;Lisans Etkinleştir&lt;/strong&gt;&lt;br /&gt;Ürününüzü etkinleştirmek için lisans anahtarınızı girin" />
+	<string id="32118" value="Etkinleştirmek için:" />
+	<string id="32119" value="İnternete bağlı olduğunuzdan emin olun" />
+	<string id="32120" value="Lisans anahtarınızı girin veya bir tane edinmek için &lt;a href=&quot;#&quot; id=&quot;idHavntKey&quot;&gt;buraya tıklayın&lt;/a&gt;" />
+	<string id="32121" value="Lisansınızı etkinleştirin ve ürününüzü kaydettirin" />
+	<string id="32122" value="Lisans Anahtarı:" />
+	<string id="32123" value="Etkinleştir" />
+	<string id="32124" value="&lt;strong&gt;Ürünü Kayıt Et&lt;/strong&gt;&lt;br /&gt;Yeni bir COMODO hesabı oluştur" />
+	<string id="32125" value="* Ad" />
+	<string id="32126" value="* Soyad" />
+	<string id="32127" value="* E-Posta Adresi" />
+	<string id="32128" value="Ülke" />
+	<string id="32129" value="Şehir" />
+	<string id="32130" value="İlçe" />
+	<string id="32131" value="Adres" />
+	<string id="32132" value="COMODO hesabı oluşturmak için bir kullanıcı adı ve parola seçin. Hesabınızı &lt;a id=&quot;id_account_url&quot; href=&quot;#&quot;&gt;https://accounts.comodo.com&lt;/a&gt; aracılığı ile lisanslarınızı yönetmek için kullanabilirsiniz." />
+	<string id="32133" value="* Kullanıcı Adı" />
+	<string id="32134" value="* Parola" />
+	<string id="32135" value="* Zorunlu Alan" />
+	<string id="32136" value="Kayıt Ol" />
+	<string id="32137" value="Afganistan" />
+	<string id="32138" value="Arnavutluk" />
+	<string id="32139" value="Cezayir" />
+	<string id="32140" value="Amerikan Samoası" />
+	<string id="32141" value="Andorra" />
+	<string id="32142" value="Angola" />
+	<string id="32143" value="Anguilla" />
+	<string id="32144" value="Antartika" />
+	<string id="32145" value="Antigua and Barbuda" />
+	<string id="32146" value="Arjantin" />
+	<string id="32147" value="Ermenistan" />
+	<string id="32148" value="Aruba" />
+	<string id="32149" value="Avustralya" />
+	<string id="32150" value="Avusturya" />
+	<string id="32151" value="Azerbeycan" />
+	<string id="32152" value="Bahamalar" />
+	<string id="32153" value="Bahreyn" />
+	<string id="32154" value="Bangladeş" />
+	<string id="32155" value="Barbados" />
+	<string id="32156" value="Belarus" />
+	<string id="32157" value="Belçika" />
+	<string id="32158" value="Belize" />
+	<string id="32159" value="Benin" />
+	<string id="32160" value="Bermuda" />
+	<string id="32161" value="Bhutan" />
+	<string id="32162" value="Bolivya" />
+	<string id="32163" value="Bosna Hersek" />
+	<string id="32164" value="Botsvana" />
+	<string id="32165" value="Bouvet Adası" />
+	<string id="32166" value="Brezilya" />
+	<string id="32167" value="İngiliz Hint Okyanusu Toprakları" />
+	<string id="32168" value="Brunei Sultanlığı" />
+	<string id="32169" value="Bulgaristan" />
+	<string id="32170" value="Burkina Faso" />
+	<string id="32171" value="Burundi" />
+	<string id="32172" value="Kamboçya" />
+	<string id="32173" value="Kamerun" />
+	<string id="32174" value="Kanada" />
+	<string id="32175" value="Cape Verde" />
+	<string id="32176" value="Cayman Adaları" />
+	<string id="32177" value="Orta Afrika Cumhuriyeti" />
+	<string id="32178" value="Çad" />
+	<string id="32179" value="Şili" />
+	<string id="32180" value="Çin" />
+	<string id="32181" value="Christmas Adası" />
+	<string id="32182" value="Cocos (Keeling) Adaları" />
+	<string id="32183" value="Kolombiya" />
+	<string id="32184" value="Komorlar" />
+	<string id="32185" value="Kongo Cumhuriyeti" />
+	<string id="32186" value="Kongo Demokratik Cumhuriyeti" />
+	<string id="32187" value="Cook Adaları" />
+	<string id="32188" value="Kosta Rika" />
+	<string id="32189" value="Fildişi Sahili" />
+	<string id="32190" value="Hırvatistan" />
+	<string id="32191" value="Küba" />
+	<string id="32192" value="Kıbrıs Cumhuriyeti" />
+	<string id="32193" value="Çek Cumhuriyeti" />
+	<string id="32194" value="Danimarka" />
+	<string id="32195" value="Cibuti" />
+	<string id="32196" value="Dominika" />
+	<string id="32197" value="Dominik Cumhuriyeti" />
+	<string id="32198" value="Doğu Timor" />
+	<string id="32199" value="Ekvador" />
+	<string id="32200" value="Mısır" />
+	<string id="32201" value="El Salvador" />
+	<string id="32202" value="Ekvator Ginesi" />
+	<string id="32203" value="Eritre" />
+	<string id="32204" value="Estonya" />
+	<string id="32205" value="Etiyopya" />
+	<string id="32206" value="Falkland Adaları (Malvinas)" />
+	<string id="32207" value="Faroe Adaları" />
+	<string id="32208" value="Fiji" />
+	<string id="32209" value="Finlandiya" />
+	<string id="32210" value="Fransa" />
+	<string id="32211" value="Fransız Guyanası" />
+	<string id="32212" value="Fransız Polinezyası" />
+	<string id="32213" value="Fransız Güney Toprakları" />
+	<string id="32214" value="Gabon" />
+	<string id="32215" value="Gambiya" />
+	<string id="32216" value="Gürcistan" />
+	<string id="32217" value="Almanya" />
+	<string id="32218" value="Gana" />
+	<string id="32219" value="Cebelitarık" />
+	<string id="32220" value="Yunanistan" />
+	<string id="32221" value="Grönland" />
+	<string id="32222" value="Grenada" />
+	<string id="32223" value="Guadeloupe" />
+	<string id="32224" value="Guam" />
+	<string id="32225" value="Guatemala" />
+	<string id="32226" value="Gine-Bissau" />
+	<string id="32227" value="Gine" />
+	<string id="32228" value="Guyana" />
+	<string id="32229" value="Haiti" />
+	<string id="32230" value="Heard Adası ve McDonald Adaları" />
+	<string id="32231" value="Vatikan (Vatikan Şehir Devleti)" />
+	<string id="32232" value="Honduras" />
+	<string id="32233" value="Hong Kong" />
+	<string id="32234" value="Hungary" />
+	<string id="32235" value="İzlanda" />
+	<string id="32236" value="Hindistan" />
+	<string id="32237" value="Endonezya" />
+	<string id="32238" value="İran" />
+	<string id="32239" value="Irak" />
+	<string id="32240" value="İrlanda" />
+	<string id="32241" value="İsrail" />
+	<string id="32242" value="İtalya" />
+	<string id="32243" value="Jamaika" />
+	<string id="32244" value="Japonya" />
+	<string id="32245" value="Ürdün" />
+	<string id="32246" value="Kazakistan" />
+	<string id="32247" value="Kenya" />
+	<string id="32248" value="Kiribati" />
+	<string id="32249" value="Kore Demokratik Halk Cumhuriyeti" />
+	<string id="32250" value="Kore Cumhuriyeti" />
+	<string id="32251" value="Kuveyt" />
+	<string id="32252" value="Kırgızistan" />
+	<string id="32253" value="Lao Demokratik Halk Cumhuriyeti" />
+	<string id="32254" value="Letonya" />
+	<string id="32255" value="Lübnan" />
+	<string id="32256" value="Lesotho" />
+	<string id="32257" value="Liberya" />
+	<string id="32258" value="Libya" />
+	<string id="32259" value="Lihtenştayn" />
+	<string id="32260" value="Litvanya" />
+	<string id="32261" value="Lüksemburg" />
+	<string id="32262" value="Makao" />
+	<string id="32263" value="Makedonya" />
+	<string id="32264" value="Madagaskar" />
+	<string id="32265" value="Malavi" />
+	<string id="32266" value="Malezya" />
+	<string id="32267" value="Maldivler" />
+	<string id="32268" value="Mali" />
+	<string id="32269" value="Malta" />
+	<string id="32270" value="Marshall Adaları" />
+	<string id="32271" value="Martinique" />
+	<string id="32272" value="Moritanya" />
+	<string id="32273" value="Mauritius" />
+	<string id="32274" value="Mayotte" />
+	<string id="32275" value="Meksika" />
+	<string id="32276" value="Mikronezya" />
+	<string id="32277" value="Moldova" />
+	<string id="32278" value="Monako" />
+	<string id="32279" value="Moğolistan" />
+	<string id="32280" value="Montserrat" />
+	<string id="32281" value="Fas" />
+	<string id="32282" value="Mozambik" />
+	<string id="32283" value="Myanmar" />
+	<string id="32284" value="Nambiya" />
+	<string id="32285" value="Nauru" />
+	<string id="32286" value="Nepal" />
+	<string id="32287" value="Hollanda Antilleri" />
+	<string id="32288" value="Hollanda" />
+	<string id="32289" value="Yeni Kaledonya" />
+	<string id="32290" value="Yeni Zellanda" />
+	<string id="32291" value="Nikaragua" />
+	<string id="32292" value="Nijer" />
+	<string id="32293" value="Nijerya" />
+	<string id="32294" value="Niue" />
+	<string id="32295" value="Norfolk Adası" />
+	<string id="32296" value="Kuzey Mariana Adaları" />
+	<string id="32297" value="Norveç" />
+	<string id="32298" value="Umman" />
+	<string id="32299" value="Pakistan" />
+	<string id="32300" value="Palau" />
+	<string id="32301" value="Filistin" />
+	<string id="32302" value="Panama" />
+	<string id="32303" value="Papua Yeni Gine" />
+	<string id="32304" value="Paraguay" />
+	<string id="32305" value="Peru" />
+	<string id="32306" value="Filipinler" />
+	<string id="32307" value="Pitcairn" />
+	<string id="32308" value="Polonya" />
+	<string id="32309" value="Portekiz" />
+	<string id="32310" value="Porto Rİko" />
+	<string id="32311" value="Katar" />
+	<string id="32312" value="Reunion" />
+	<string id="32313" value="Romanya" />
+	<string id="32314" value="Rusya" />
+	<string id="32315" value="Ruanda" />
+	<string id="32316" value="Saint Barthelemy" />
+	<string id="32317" value="Saint Helena" />
+	<string id="32318" value="Saint Kitts ve Nevis" />
+	<string id="32319" value="Saint Lucia" />
+	<string id="32320" value="Saint Martin (Fransız Kesimi)" />
+	<string id="32321" value="Saint Pierre ve Miquelon" />
+	<string id="32322" value="Saint Vincent ve The Grenadines" />
+	<string id="32323" value="Samoa" />
+	<string id="32324" value="San Marino" />
+	<string id="32325" value="Sao Tome ve Principe" />
+	<string id="32326" value="Suudi Arabistan" />
+	<string id="32327" value="Senegal" />
+	<string id="32328" value="Seyşeller" />
+	<string id="32329" value="Sierra Leone" />
+	<string id="32330" value="Singapur" />
+	<string id="32331" value="Slovakya" />
+	<string id="32332" value="Slovenya" />
+	<string id="32333" value="Solomon Adaları" />
+	<string id="32334" value="Somali" />
+	<string id="32335" value="Güney Afrika" />
+	<string id="32336" value="Güney Georgia ve Güney Sandwich Adaları" />
+	<string id="32337" value="İspanya" />
+	<string id="32338" value="Sri Lanka" />
+	<string id="32339" value="Sudan" />
+	<string id="32340" value="Surinam" />
+	<string id="32341" value="Svalbard ve Jan Mayen" />
+	<string id="32342" value="Svaziland" />
+	<string id="32343" value="İsveç" />
+	<string id="32344" value="İsviçre" />
+	<string id="32345" value="Suriye" />
+	<string id="32346" value="Tayvan" />
+	<string id="32347" value="Tacikistan" />
+	<string id="32348" value="Tanzanya" />
+	<string id="32349" value="Tayland" />
+	<string id="32350" value="Togo" />
+	<string id="32351" value="Tokelau" />
+	<string id="32352" value="Tonga" />
+	<string id="32353" value="Trinidad ve Tobago" />
+	<string id="32354" value="Tunus" />
+	<string id="32355" value="Türkiye" />
+	<string id="32356" value="Türkmenistan" />
+	<string id="32357" value="Turks ve Caicos Adaları" />
+	<string id="32358" value="Tuvalu" />
+	<string id="32359" value="Uganda" />
+	<string id="32360" value="Ukrayna" />
+	<string id="32361" value="Birleşik Arap Emirlikleri" />
+	<string id="32362" value="Birleşik Krallık" />
+	<string id="32363" value="ABD Küçük Dış Adaları" />
+	<string id="32364" value="Amerika Birleşik Devletleri" />
+	<string id="32365" value="Uruguay" />
+	<string id="32366" value="Özbekistan" />
+	<string id="32367" value="Vanuatu" />
+	<string id="32368" value="Venezuela" />
+	<string id="32369" value="Vietnam" />
+	<string id="32370" value="Britanya Virjin Adaları" />
+	<string id="32371" value="Amerika Virjin Adaları" />
+	<string id="32372" value="Wallis ve Futuna" />
+	<string id="32373" value="Batı Sahra" />
+	<string id="32374" value="Yemen" />
+	<string id="32375" value="Yugoslavya" />
+	<string id="32376" value="Zambiya" />
+	<string id="32377" value="Alabama" />
+	<string id="32378" value="Alaska" />
+	<string id="32379" value="Arizona" />
+	<string id="32380" value="Arkansas" />
+	<string id="32381" value="Kaliforniya" />
+	<string id="32382" value="Colorado" />
+	<string id="32383" value="Connecticut" />
+	<string id="32384" value="D.C." />
+	<string id="32385" value="Delaware" />
+	<string id="32386" value="Florida" />
+	<string id="32387" value="Georgia" />
+	<string id="32388" value="Hawaii" />
+	<string id="32389" value="Idaho" />
+	<string id="32390" value="Illinois" />
+	<string id="32391" value="Indiana" />
+	<string id="32392" value="Iowa" />
+	<string id="32393" value="Kansas" />
+	<string id="32394" value="Kentucky" />
+	<string id="32395" value="Louisiana" />
+	<string id="32396" value="Maine" />
+	<string id="32397" value="Maryland" />
+	<string id="32398" value="Massachusetts" />
+	<string id="32399" value="Michigan" />
+	<string id="32400" value="Minnesota" />
+	<string id="32401" value="Mississippi" />
+	<string id="32402" value="Missouri" />
+	<string id="32403" value="Montana" />
+	<string id="32404" value="Nebraska" />
+	<string id="32405" value="Nevada" />
+	<string id="32406" value="New Hampshire" />
+	<string id="32407" value="New Jersey" />
+	<string id="32408" value="New Mexico" />
+	<string id="32409" value="New York" />
+	<string id="32410" value="Kuzey Carolina" />
+	<string id="32411" value="Kuzey Dakota" />
+	<string id="32412" value="Ohio" />
+	<string id="32413" value="Oklahoma" />
+	<string id="32414" value="Oregon" />
+	<string id="32415" value="Pensilvanya" />
+	<string id="32416" value="Rhode Island" />
+	<string id="32417" value="Güney Carolina" />
+	<string id="32418" value="Güney Dakota" />
+	<string id="32419" value="Tennessee" />
+	<string id="32420" value="Teksas" />
+	<string id="32421" value="Utah" />
+	<string id="32422" value="Vermont" />
+	<string id="32423" value="Virjinya" />
+	<string id="32424" value="Washington" />
+	<string id="32425" value="Batı Virjinya" />
+	<string id="32426" value="Wisconsin" />
+	<string id="32427" value="Wyoming" />
+	<string id="32428" value="Alberta" />
+	<string id="32429" value="Britanya Kolombiyası" />
+	<string id="32430" value="Manitoba" />
+	<string id="32431" value="New Brunswick" />
+	<string id="32432" value="Newfoundland" />
+	<string id="32433" value="Kuzeybatı Toprakları" />
+	<string id="32434" value="Nova Scotia" />
+	<string id="32435" value="Nunavut" />
+	<string id="32436" value="Ontario" />
+	<string id="32437" value="Prince Edward Adası" />
+	<string id="32438" value="Quebec" />
+	<string id="32439" value="Saskatchewan" />
+	<string id="32440" value="Yukon" />
+	<string id="32441" value="Dili seçin" />
+	<string id="32442" value="Şu e-posta adresine COMODO haberlerini, teklifleri ve indirimleri gönder:" />
+	<string id="32443" value="Daha fazla güvenlik için DNS ayarlarımı COMODO Güvenli DNS sunucuları ile değiştir (daha hızlı sayfa yüklenmesi ve geliştirilmiş çevrimiçi güvenlik)." />
+	<string id="32444" value="Güvenilmeyen dosyalar için bulut tabanlı davranış analizini etkinleştir (&lt;a href=&quot;#&quot; id=&quot;id_policy&quot;&gt;Gizlilik İlkesi&lt;/a&gt;)" />
+	<string id="32445" value="Anasayfamı ve arama motoru sağlayıcımı Yahoo! olarak ayarlayarak COMODO 'ya yardımcı olmak istiyorum (Tüm desteklenen tarayıcılar için geçerlidir)" />
+	<string id="32446" value="&quot;Onayla ve Yükle&quot; düğmesine tıklyarak, aşağıdaki Kullanıcı Lisans Sözleşmesini kabul etmiş sayılırsınız:" />
+	<string id="32447" value="Kurulumu Özelleştir" />
+	<string id="32449" value="Lütfen kullanıcı lisans anlaşmasını okuyun:" />
+	<string id="32450" value="Yükleme Seçenekleri" />
+	<string id="32451" value="Yapılandırma Seçenekleri" />
+	<string id="32452" value="Dosya Konumları" />
+	<string id="32453" value="Ürün Boyutu:" />
+	<string id="32454" value="Toplam İndirme Boyutu:" />
+	<string id="32455" value="Güvenlik kararları ile ilgili uyarıları mümkün olduğunca gösterme" />
+	<string id="32456" value="Bu güvenlik yapılandırması Ağ Duvarı, Gelişmiş Koruma, Containment ve Antivirüs modüllerini açılır uyarıları mümkün olduğu kadar otomatik olarak cevaplayacak şekilde yapılandırır." />
+	<string id="32457" value="Yükleme yolunu seç:" />
+	<string id="32458" value="Bu yazılım &lt;span id=&quot;idProductName&quot;&gt;&lt;/span&gt; ürününün BETA versiyonudur" />
+	<string id="32459" value="BETA testine katılan özel kullanıcılar için tasarlanmıştır." />
+	<string id="32460" value="Bilgisayarınızda ciddi sorunlara sebep olabilecek önemli hatalar içerebilir." />
+	<string id="32461" value="Bu yazılımı çalışma bilgisayarlarınıza yüklemeyin." />
+	<string id="32462" value="Devam etmek ister misiniz?" />
+	<string id="32463" value="&quot;Onayla ve Güncelle&quot; düğmesine tıklayarak, aşağıdaki kurulum ve Kullanıcı Lisans Sözleşmesini kabul etmiş sayılırsınız:" />
+	<string id="32464" value="Bekle ve Devam et (%u)" />
+	<string id="32465" value="Sistem başka bir yükleme işlemi ile meşgul.\n\nLütfen bitmesini bekleyin ve yüklemenize devam etmek için 'Yeniden dene' tuşuna basınız.\nYükleminizi iptal etmek istiyorsanız 'İptal' tuşuna basınız.\nEğer 'Bekle ve Devam et' tuşuna basarsanız, yüklemeniz önceki yükleme işlemi bitiminden hemen sonra otomatik olarak devam edecektir." />
+	<string id="32466" value="Lisans Anahtarını Kopyala" />
+	<string id="32467" value="Lisans Anahtarını Yapıştır" />
+	<string id="32468" value="Tüm alanları temizle" />
+	<string id="32470" value="Yandex Elements yükle. " />
+	<string id="32471" value="Ana sayfamı Yandex olarak ayarla (Desteklenen tüm tarayıcılar için uygulanır)." />
+	<string id="32472" value="Arama motorumu Yandex olarak ayarla (Desteklenen tüm tarayıcılar için uygulanır)." />
+	<string id="32772" value="Garantiniz etkinleştirilirken lütfen bekleyiniz..." />
+	<string id="32775" value="Tebrikler!" />
+	<string id="32776" value="Kurulumu başarıyla tamamladınız." />
+	<string id="32777" value="&lt;strong class=&quot;green&quot;&gt;Sertifikalı bir teknisyen&lt;/strong&gt; şimdi&lt;br /&gt;&lt;strong&gt;yapılandırmanıza yardımcı olabilir, hemde&lt;/strong&gt; &lt;strong class=&quot;green&quot;&gt;BEDAVA&lt;/strong&gt;" />
+	<string id="32778" value="Sınırlı Teklif" />
+	<string id="32779" value="ara" />
+	<string id="32784" value="COMODO Internet Security &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="32785" value="Yandex Elements &lt;a href=&quot;#&quot; id=&quot;id_yandex_els_agreement_link&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="32786" value="Giriş en az %d karakter uzunluğunda olmalı" />
+	<string id="32787" value="Şifre en az %d karakter uzunluğunda olmalı" />
+	<string id="32788" value="Giriş ve şifre aynı olmamalı" />
+	<string id="32791" value="Ürün kalitesini arttırmak amacıyla anonim program kullanım (örn. çökme raporları, hatalar, tıklamalar) istatistiklerini COMODO'ya gönder." />
+	<string id="32793" value="Lütfen aşağıdaki IT and Security Manager Sunucu detaylarını yazın:" />
+	<string id="32794" value="IT and Security Manager Sunucu:" />
+	<string id="32795" value="IT and Security Manager Sunucu Portu:" />
+	<string id="32796" value="&lt;strong&gt;%s Etkinleştir&lt;/strong&gt;" />
+	<string id="32797" value="Lisans Anahtarı ile Etkinleştir" />
+	<string id="32798" value="Etkinleştirmek istediğiniz bileşenleri seçin:" />
+	<string id="32799" value="CCS Containment ve Antivirüs" />
+	<string id="32800" value="CCS Containment ve Ağ Duvarı" />
+	<string id="32801" value="CCS Containment" />
+	<string id="32802" value="CCS Paketi (Containment, Antivirüs ve Ağ Duvarı)" />
+	<string id="32803" value="IT and Security Manager Sunucu ile Etkinleştir" />
+	<string id="32804" value="Eğer geçerli bir lisans anahtarınız var ve kullanmak istiyorsanız bu seçeneği seçin" />
+	<string id="32805" value="Eğer bu istemciyi IT and Security Manager portal ile yönetmek istiyorsanız bu seçeneği seçin" />
+	<string id="32806" value="%s &lt;a id=&quot;id_agreement_link&quot; href=&quot;#&quot;&gt;Lisans Anlaşması&lt;/a&gt; ve &lt;a id=&quot;id_privacy_link&quot; href=&quot;#&quot;&gt;Gizlilik Sözleşmesini&lt;/a&gt;" />
+	<string id="32807" value="Kullanıcı Adı" />
+	<string id="32808" value="Parola" />
+	<string id="32809" value="&lt;strong&gt;Ürünü Kayıt Et&lt;/strong&gt;&lt;br /&gt;Lisans anahtarınızı COMODO hesabı ile etkinleştir" />
+	<string id="32810" value="Bir COMODO hesabım yok" />
+	<string id="32811" value="Bir COMODO hesabım var" />
+	<string id="32812" value="Tarayıcımın ayarlarını koruyacak olan Yandex Browser Manager uygulamasını yüklemek istiyorum." />
+	<string id="32813" value="Yandex Browser Manager &lt;a href=&quot;#&quot; id=&quot;id_yandex_bm_agreement_link&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="34028" value="Kopyala" />
+	<string id="34029" value="Tümünü Seç" />
+	<string id="34410" value="Geri Al" />
+	<string id="34411" value="Kes" />
+	<string id="34412" value="Yapıştır" />
+	<string id="34413" value="Seçili programları yüklemeden önce COMODO sunucularından daha güncel sürümlerinin olup olmadığını kontrol edin." />
+	<string id="34414" value="Yeni sürüm kontrol ediliyor..." />
+	<string id="34415" value="Bu adımı atla" />
+	<string id="34416" value="Yeni sürümler mevcut" />
+	<string id="34417" value="Diskte verilenin yerine seçili programların güncel sürümlerini indir ve kur:" />
+	<string id="34418" value="Sürüm" />
+	<string id="34419" value="Etkinleştirme sürecine devam etmek için bir COMODO hesabı gerekli. Zaten bir hesabınız varsa yeni bir tane oluşturmanıza gerek yok." />
+	<string id="34420" value="Eğer bir COMODO hesabınız yoksa bu seçeneği seçin. Bu sihirbaz yeni bir hesap oluşturmanıza yardım edecek." />
+	<string id="34421" value="Mevcut COMODO hesabınızı kullanmak için giriş bilgilerinizi giriniz." />
+	<string id="34422" value="Güncelleme hatası\n\nCIS sürüm 5.xx kullanıcıları, CIS v.8.0 güncellemesini yapmak için öncelikle CIS v.7.0 güncellemesi yapmalıdırlar. Lütfen v.8.0 güncellemesi yapabilmek için öncelikle 7.0 güncellemesini yapın." />
+	<string id="34423" value="Chromodo'yu varsayılan tarayıcım olarak ayarla." />
+	<string id="34424" value="Varolan Google Chrome kısayollarını masaüstünde ve başlangıç menüsünde Chromodo kısayolları ile değiştir." />
+	<string id="34425" value="Google Chrome ayarlarını (geçmiş, yer imleri, çerezler, v.b.) Chromodo tarayıcısına aktar." />
+	<string id="34426" value="Lisans anahtarınızı girin" />
+	<string id="34427" value="İndirme Başarıyla Tamamlandı" />
+	<string id="34428" value="Onayla ve Devam Et" />
+	<string id="34429" value="Eğer isterseniz paketi çevirimdışı yüklemek için internet bağlantınızı kesebilirsiniz." />
+	<string id="34430" value="&quot;Onayla ve Devam Et&quot; düğmesine tıklyarak, aşağıdaki Kullanıcı Lisans Sözleşmesini kabul etmiş sayılırsınız:" />
+	<string id="34431" value="Antivirüs, Ağ Duvarı ve Anti-Malware Koruması" />
+	<string id="34432" value="Yetkilendirilmemiş Erişim Koruması" />
+	<string id="34433" value="Bilinen ve bilinmeyen tüm zararlı yazılımlara karşı gerçek zamanlı koruma" />
+	<string id="34434" value="Günün herhangi bir saatinde yardım teknisyenlerimize anında erişin" />
+	<string id="34435" value="Hızlı ve Güvenli İnternet Deneyimi" />
+	<string id="34436" value="Veri Kaybı Koruması" />
+	<string id="34437" value="Chromodo web tabanlı tehditlere karşı güvenliği arttırmak için aşağıdaki eklentilerle birlikte yüklenir:" />
+	<string id="34438" value="Comodo Web Inspector." />
+	<string id="34439" value="AdSanitizer." />
+	<string id="34440" value="Chromodo &lt;a href=&quot;#&quot; id=&quot;id_chromodo_agreement_link&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="34441" value="Kolay kullanımlı, hepsi bir arada online yedekleme çözümü" />
+	<string id="34442" value="ile &lt;strong&gt;GeekBuddy&lt;/strong&gt; ve &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34443" value="ile &lt;strong&gt;GeekBuddy&lt;/strong&gt;" />
+	<string id="34444" value="ile &lt;strong&gt;Chromodo&lt;/strong&gt;" />
+	<string id="34445" value="Chromodo Tarayıcı, Comodo'nun eşsiz güvenliği ile geliştirilmiş Chromium tabanlı bir İnternet Tarayıcısıdır." />
+	<string id="34446" value="IE güvenlik ayarlarından TLS protokolünü etkinleştirmelisiniz." />
+	<string id="34447" value="TLS protokolünü etkinleştirmek için:\n1. Internet Explorer, Araçlar'a tıkayın -&gt; İnternet Seçenekleri.\n2. Gelişmiş tabına tıklayın.\n3. Aşağı kaydırıp Güvenlik ayarlarını bulun.\n4. Onay kutucuğunu seçin &quot;TLS 1 Kullan.xx&quot;\n5. Tamam butonuna tıklayın." />
+	<string id="34448" value="%s yüklenemedi çünkü COMODO Cloud AV bilgisayarınıza önceden yüklenmiş.\n\nLütfen %s yüklemeden önce COMODO Cloud Antivirusü kaldırın." />
+	<string id="34449" value="ile &lt;strong&gt;GeekBuddy&lt;/strong&gt; ve &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34450" value="ile &lt;strong&gt;Dragon&lt;/strong&gt;" />
+	<string id="34451" value="Bilinmeyen uygulamaları güvenli bir şekilde sisteminizden izole şekilde çalışıtırın" />
+	<string id="34452" value="Önemli ve hassas internet sitelerine güvenle bağlanın" />
+	<string id="34453" value="Hoşgeldiniz!" />
+	<string id="34454" value="Tüm cihazlarınızı korumak için %s %s yüklemek üzeresiniz" />
+	<string id="34455" value="&quot;%s&quot; düğmesine tıklayarak, %s &lt;a id=&quot;id_comodo_agreement&quot; area-label=&quot;License Agreement Link&quot; href=&quot;#&quot;&gt;Lisans Anlaşması&lt;/a&gt; ve &lt;a id=&quot;id_comodo_privacy_policy&quot; area-label=&quot;Privacy Policy Link&quot; href=&quot;#&quot;&gt;Gizlilik Sözleşmesini&lt;/a&gt; okuyup, kabul etmiş sayılırsınız" />
+	<string id="34456" value="Onayla" />
+	<string id="34457" value="ile Chromodo Tarayıcısı ve GeekBuddy" />
+	<string id="34458" value="ile Dragon Tarayıcısı, Güvenli Alışveriş ve GeekBuddy" />
+	<string id="34459" value="ile Chromodo Tarayıcısı" />
+	<string id="34460" value="ile Dragon Tarayıcısı" />
+	<string id="34461" value="ile GeekBuddy" />
+	<string id="34462" value="Yandex Elements yükle (tarayıcı eklentisi)" />
+	<string id="34463" value="Anasayfamı Yandex* olarak ayarla" />
+	<string id="34464" value="Arama motorunu Yandex* olarak ayarla" />
+	<string id="34465" value="Tarayıcılarımın yeni sekmesini Yandex* olarak ayarla" />
+	<string id="34466" value="* desteklenen tüm tarayıcılar için uygulanır" />
+	<string id="34467" value="&quot;%s&quot; düğmesine tıklayarak, okumuş ve kabul etmiş sayılırsınız" />
+	<string id="34470" value="Ücretsiz Sürümü Yükle" />
+	<string id="34471" value="PRO sürümü yükle" />
+	<string id="34472" value="30 günlük PRO sürümü deneyin" />
+	<string id="34473" value="30 günlük COMPLETE sürümü deneyin" />
+	<string id="34474" value="30 günlük PRO sürümü deneyin.&lt;br /&gt;Bu sürenin ardından ücretsiz sürüme geçebilirsiniz" />
+	<string id="34475" value="COMODO Internet Security" />
+	<string id="34476" value="30 günlük COMPLETE sürümü deneyin.&lt;br /&gt;Bu sürenin ardından ücretsiz sürüme geçebilirsiniz" />
+	<string id="34477" value="Antivirüs" />
+	<string id="34478" value="Ağ Duvarı" />
+	<string id="34479" value="Containment" />
+	<string id="34480" value="HIPS" />
+	<string id="34481" value="VirusScope" />
+	<string id="34482" value="Güvenli Alışveriş" />
+	<string id="34483" value="24/7 Canlı Destek" />
+	<string id="34484" value="COMODO Backup" />
+	<string id="34485" value="Trustconnect" />
+	<string id="34486" value="Kurulum Konumu" />
+	<string id="34487" value="Daha fazla güvenlik için DNS ayarlarımı COMODO Güvenli DNS sunucuları ile değiştir (daha hızlı sayfa yüklenmesi ve geliştirilmiş çevrimiçi güvenlik). &lt;a id=&quot;id_what_is_dns&quot; href=&quot;#&quot;&gt;Bu nedir?&lt;/a&gt;" />
+	<string id="34488" value="Güvenilmeyen dosyalar için &quot;Bulut Tabanlı Davranış Analizini&quot; etkinleştir (&lt;a id=&quot;id_comodo_privacy_policy&quot; href=&quot;#&quot;&gt;Gizlilik Politikası&lt;/a&gt;)" />
+	<string id="34489" value="Ürün kalitesini arttırmak amacıyla anonim program kullanım (örn. çökme raporları, hatalar, tıklamalar) istatistiklerini COMODO'ya gönder." />
+	<string id="34490" value="Özelleştir" />
+	<string id="34491" value="Toplam boyut:" />
+	<string id="34492" value="Containment" />
+	<string id="34493" value="Dosya Değerlendirme" />
+	<string id="34494" value="Web Filtreleme" />
+	<string id="34495" value="Güvenli Alışveriş" />
+	<string id="34496" value="COMODO Mobile Security" />
+	<string id="34497" value="COMODO Backup" />
+	<string id="34499" value="Trustconnect" />
+	<string id="34500" value="GeekBuddy 24/7 Canlı Destek" />
+	<string id="34501" value="Güvenli olun. Kontrol altında olun.&lt;br /&gt;Güvenli İzole Ortamda bilinmeyen uygulamalarınızı çalıştırın." />
+	<string id="34502" value="Güvenilir mi yoksa Zararlı mı?&lt;br /&gt;Dünya çapındaki veritabanımızda herhangi bir dosyanın itibarını kontrol edin." />
+	<string id="34503" value="Kötü amaçlı yazılım veya uygunsuz içerik barındıran sitelerden çocuklarınızı ve kendinizi koruyun" />
+	<string id="34504" value="Verilerinizi ve paranızı emniyete alın.&lt;br /&gt;Kimsenin hassas verilerinize ulaşamadığından emin olun" />
+	<string id="34505" value="Android cihazlarınız için Ücretsiz Mobil Antivirusü Edinin" />
+	<string id="34506" value="Hiçbir şekilde verinizi kaybetmeyin.&lt;br /&gt;Tüm verileriniz Şifrelenmiş bir şekilde bulutta kaydedilir." />
+	<string id="34507" value="Halka açık yerlerde Wi-Fi mı kullanıyorsunuz?&lt;br /&gt;Artık güvenle kullanabilirsiniz." />
+	<string id="34508" value="Yardıma mı ihtiyacınız var?&lt;br /&gt;7/24 uzmanlarımız ile iletişime geçin" />
+	<string id="34509" value="ÜCRETSİZ KURULUM" />
+	<string id="34510" value="Tebrikler!" />
+	<string id="34511" value="Kurulumu başarıyla tamamladınız." />
+	<string id="34512" value="Şu e-posta adresine COMODO haberlerini, teklifleri ve indirimleri gönder:" />
+	<string id="34513" value="Bilgisayar ve ağlardaki virüsleri algılar, engeller ve ortadan kaldırır. Gerçek zamanlı koruma ile sürekli olarak sisteminizi korur. Günlük, otomatik olarak virüs tanımlamalarını günceller." />
+	<string id="34514" value="Ödüllü Ağ Duvarı. Bilgisayarınızı saldırganlardan gizler. Bilgisayarınıza gelen/giden trafiği filtreler." />
+	<string id="34515" value="Bilinmeyen, güvenilmeyen ve şüpheli uygulamaları çalıştırmak için izole bir çalışma ortamı. Güvenilmeyen kaynaklardan aldığınız veya indirdiğiniz yazılımların test edilmesi için harikadır. Otomatik Containment özelliği uygulamaları ön ayarlarla ve özelleştirilebilir ayarlarınız doğrultusunda sistemden izole şekilde çalışmasını sağlar" />
+	<string id="34516" value="Host-tabanlı Saldırı Önleme Sistemi (HIPS) çalışan programların davranışlarını analiz eden ve herhangi şüpheli bir eylemi durdurmanızı sağlayan proaktif bir teknolojidir. HIPS otomatik olarak kötü amaçlı programlar tarafından yapılacak izinsiz değişiklikleri önlemek için kritik sistem dosyalarını, klasörleri ve kayıt defteri anahtarlarını korur." />
+	<string id="34517" value="Bilgisayarınızda çalışan işlemlerin faaliyetlerini izler ve kaydını tutar. Programı tamamen engellemek yerine, olası istenmeyen hareketleri tersine çevirme olanağı sağlar" />
+	<string id="34518" value="Son derece güvenli sanal bir ortamda internete bağlanarak internet bankacılığı ve alışverişiniz için yüksek güvenlik sağlar. Özel güvenlik ile güçlendirilmiş ortam içinde hassas web sitelerine bağlanın." />
+	<string id="34519" value="Bilgisayar sorunlarınız için uzaktan, canlı ve sınırsız destek. Yalnızca masaüstü simgesine tıklayarak destek uzmanınızla konuşun. Siz izlerken destek uzmanınız sorunlarınızı düzeltecektir. Bilgisayar ve Windows ayarlarının en iyi duruma getirilmesi. E-posta ve yazıcı kurulumu yardımı. Herhangi bir programın kurulması yardımı ve Daha fazlası..." />
+	<string id="34520" value="Kolay kullanımlı, hepsi bir arada online yedekleme çözümü. Tek bir dosyadan bütün işletim sistemine kadar yedeklemenize ve geri yüklemenize olanak tanır. En güncel şifreleme teknolojileri ile verilerinizi şifrelenmiş biçimde depolar. SSL şifreleme ile sisteminiz ve Comodo sunucuları arasındaki tüm iletişimi korur." />
+	<string id="34521" value="Bilgisayarınızla diğer bilgisayarlar arasındaki kablolu ve kablosuz iletişimi güvenli hale getirir. Havaalanı, otel ve kafeteryalar gibi ortak yerlerde internet bağlantılarınızı güvenli hale getirir. Sizi ve kişisel bilgilerinizi korur, çevrimiçi bağlantılarınız sırasında kötü niyetli kişilerin eline geçmesini engeller. Bilgisayarınıza gelen/giden trafiğin tümü için şifreleme sağlar." />
+	<string id="34522" value="Anasayfa, arama motoru ve tarayıcıların yeni sekmelerini Yandex* olarak ayarla" />
+	<string id="34524" value="İzinler" />
+	<string id="34525" value="Bileşenler" />
+	<string id="34526" value="Yandex Browser Manager Yükle" />
+	<string id="34527" value="Yandex Elements &lt;a id=&quot;id_ydx_elements_agreement&quot; href=&quot;#&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="34528" value="Yandex Browser Manager &lt;a id=&quot;id_ydx_bm_agreement&quot; href=&quot;#&quot;&gt;Lisans Anlaşması&lt;/a&gt;" />
+	<string id="34529" value="İnternette gezinti deneyimimi geliştirmek için anasayfa, arama motoru ve tarayıcıların yeni sekmelerini Yahoo! olarak ayarla (Tüm desteklenen tarayıcılar için geçerlidir)" />
+	<string id="34530" value="Bu uygulamayı kurarak, %s &lt;a id=&quot;id_comodo_agreement&quot; href=&quot;#&quot;&gt;Lisans Anlaşmasını&lt;/a&gt;, Yahoo! &lt;a id=&quot;id_yho_agreement&quot; href=&quot;#&quot;&gt;Lisans Anlaşmasını&lt;/a&gt; okuyup, kabul etmiş sayılırsınız" />
+	<string id="34531" value="Eğer bir Lisans Anahtarınız yoksa, edinebilirsiniz" />
+	<string id="34532" value="Lisans Anahtarı Al" />
+	<string id="34533" value="Lisansı Etkinleştir" />
+	<string id="34534" value="Setifikalı bir teknisyenin probleminizi çözmesi için &lt;strong&gt;+1888-258-7142&lt;/strong&gt; arayın" />
+	<string id="34535" value="&lt;strong&gt;Ürünü Kayıt Et&lt;/strong&gt;&lt;span&gt;Lisans anahtarınızı COMODO hesabı ile etkinleştir&lt;/span&gt;" />
+	<string id="34536" value="Belirtilen e-posta adresi geçersiz." />
+	<string id="34537" value="Parolalar eşleşmedi" />
+	<string id="34538" value="Lütfen ülke seçin" />
+	<string id="34539" value="&lt;strong&gt;Lisans Etkinleştir&lt;/strong&gt;&lt;span&gt;Ürününüzü etkinleştirmek için lisans anahtarınızı girin&lt;/span&gt;" />
+	<string id="34540" value="&lt;strong&gt;Ürünü Kayıt Et&lt;/strong&gt;&lt;span&gt;Lisans anahtarınızı COMODO hesabı ile etkinleştir&lt;/span&gt;" />
+	<string id="34541" value="Etkinleştirme sürecine devam etmek için bir COMODO hesabı gerekli." />
+	<string id="34542" value="Yeni hesap oluştur" />
+	<string id="34543" value="* Parolayı yeniden yazın" />
+	<string id="34544" value="E-posta" />
+	<string id="34545" value="Parola" />
+	<string id="34546" value="Parolanızı mı unuttunuz" />
+	<string id="34547" value="Giriş" />
+	<string id="34548" value="Ürün etkinleştirilirken bir hata meydana geldi" />
+	<string id="34549" value="&lt;ol&gt;&lt;li&gt;Internet Explorer, Araçlar'a tıkayın -&gt; İnternet Seçenekleri&lt;/li&gt;&lt;li&gt;Gelişmiş tabına tıklayın&lt;/li&gt;&lt;li&gt;Aşağı kaydırıp Güvenlik ayarlarını bulun&lt;/li&gt;&lt;li&gt;Onay kutucuğunu seçin &quot;TLS 1 Kullan.xx&quot;&lt;/li&gt;&lt;li&gt;Tamam butonuna tıklayın&lt;/li&gt;&lt;/ol&gt;" />
+	<string id="34550" value="Lütfen İnternet bağlantınızı kontrol edin" />
+	<string id="34551" value="Etkinleştiriliyor" />
+	<string id="34552" value="CIS hata tanılayıcı uygulaması bulunamıyor." />
+	<string id="34553" value="CIS hata tanılayıcısı çalıştırılamıyor. Hata kodu: %u" />
+	<string id="34554" value="%s kaldırılıyor..." />
+	<string id="34555" value="%s değiştiriliyor..." />
+	<string id="34556" value="Kaldırmayı iptal etmek istediğinizden emin misiniz?" />
+	<string id="34557" value="%s değiştirilemiyor" />
+	<string id="34558" value="%s kaldırılamıyor" />
+	<string id="34560" value="Düzelt" />
+	<string id="34561" value="Değiştir" />
+	<string id="34562" value="Kaldır" />
+	<string id="34563" value="Çökmeler ve yavaşlama problemleri ile ilgili hataları düzelt." />
+	<string id="34564" value="Yüklü olan program özelliklerini kontrol edin." />
+	<string id="34565" value="&lt;b&gt;%s&lt;/b&gt; yazılımını kaldır." />
+	<string id="34566" value="Ürün Seçimi" />
+	<string id="34567" value="%s bilgisayarınız için hayati güvenlik çözümlerinin bir koleksiyonu halinde gelir. Lütfen devam etmek için kurmak istediğiniz uygulamaların seçimini işaretleyin veya kaldırmak istediğiniz uygulamaların seçimini kaldırın." />
+	<string id="34568" value="COMODO Firewall Yükle (Önerilen)" />
+	<string id="34569" value="COMODO Firewall'u bilgisayarınıza kurmak için bu seçeneği işaretleyin. Başka bir güvenlik duvarı yazılımı kullanıyorsanız, devam etmeden önce kaldırmanız gerekir." />
+	<string id="34570" value="COMODO Antivirus Yükle (Önerilen)" />
+	<string id="34571" value="COMODO Antivirus'ü bilgisayarınıza kurmak için bu seçeneği işaretleyin. Başka bir antivirus yazılımı kullanıyorsanız, devam etmeden önce kaldırmanız gerekir." />
+	<string id="34572" value="Bu kadar." />
+	<string id="34573" value="%s değiştirildi." />
+	<string id="34574" value="Kaldırmaya hazırlanılıyor..." />
+	<string id="34575" value="COMODO Cloud Antivirus" />
+	<string id="34576" value="Korunmasız kalmak yanlıştır." />
+	<string id="34577" value="Hafif ve güçlü bulut tabanlı Antivirüsü denemek ister misiniz?" />
+	<string id="34578" value="COMODO Cloud Antivirus'ü İndir ve Kur" />
+	<string id="34579" value="Kaldırma işlemi tamamlandıktan sonra COMODO Cloud Antivirus kurulacaktır. Kaldırma işlemini tamamlamak için bilgisayarınızı yeniden başlatmanız gerekecek." />
+	<string id="34580" value="COMODO Cloud Antivirüs yazılımını kaldırmak istemenizin ana sebebi nedir?&lt;b&gt;(Uygulamak için seçiniz)&lt;/b&gt;" />
+	<string id="34581" value="COMODO bilgisayarımın kaynaklarını fazlasıyla kullanıyor" />
+	<string id="34582" value="Çok fazla uyarı veriyor" />
+	<string id="34583" value="Comodo çalıştırmak istediğim programları engelliyor" />
+	<string id="34584" value="Bu yazılım her anlamda beni tatmin etmedi" />
+	<string id="34585" value="Başka bir güvenlik yazılımı kullanacağım" />
+	<string id="34586" value="Diğer (lütfen belirtin)" />
+	<string id="34587" value="%s’ü kaldırdınız." />
+	<string id="34588" value="Ancak, size önerebileceğimiz farklı ürünlerimiz de var. Lütfen &lt;a href='#' id='id_products'&gt;diğer ürünlerimize&lt;/a&gt; göz atın ya da uzmanlarımız ile sorularınız için irtibata geçin" />
+	<string id="34589" value="+1-888-258-7142" />
+	<string id="34590" value="%s ile ne yapmak istediğinizi seçin" />
+	<string id="34591" value="Tekrar kurmak için kaldırıyorum" />
+	<string id="34592" value="Bu seçenek ile &lt;b&gt;%s&lt;/b&gt; bilgisayarınızdan kaldırılacak , bu şekilde daha sonra farklı bir sürümü tekrar kurabilirsiniz." />
+	<string id="34593" value="Tamamen kaldırmak istiyorum." />
+	<string id="34594" value="Bu seçenek ile &lt;b&gt;%s&lt;/b&gt; bilgisayarınızdan tamamen kaldırılacak, ama daha sonra tekrar yükleyebilirsiniz." />
+	<string id="34595" value="Değiştirilmeye hazırlanılıyor..." />
+	<string id="34596" value="İndirmeye hazırlanılıyor..." />
+	<string id="34597" value="COMODO Internet Security değiştirilirken hata" />
+	<string id="34598" value="COMODO Internet Security kaldırılırken hata" />
+	<string id="34599" value="Bileşenleri Ekleyin, Kaldırın veya Onarın" />
+	<string id="34600" value="Bileşenleri Kaldırın veya Onarın" />
+	<string id="34601" value="Çakışan yazılım kaldırılıyor: %s" />
+	<string id="34602" value="Bilgisayarınızı her zaman tehditlerden korumak için Comodo Internet Security yazılımını güncel tutmanızı öneririz" />
+	<string id="34603" value="Comodo Internet Security bilgisayarınızı tüm bilinen ve bilinmeyen tehditlerden anında korumak için virüs davranışlarını izleme, Oto-Containment ve davranışsal analiz teknolojilerinden oluşan güçlü bir kombinasyon kullanır." />
+	<string id="34604" value="Diğer bir kurulum işlemi devam ediyor. Lütfen bitene kadar bekleyin." />
+	<string id="34605" value="Diğer bir etkinleştirme işlemi devam ediyor. Lütfen bitene kadar bekleyin." />
+	<string id="34606" value="Şimdi aradaki adam saldırısına karşı da koruma sağlıyor!" />
+	<string id="34607" value="Kaldırmış olduğunuz yazılım paketi aradaki adam saldırılarına karşı sizi koruyan Comodo Internet Security Essentials (ISE) içermektedir. ISE ayrıca kaldırılmalıdır. Kaldırmak isterseniz, click &lt;a href='#' id='id_ise_how_to_remove'&gt;buraya&lt;/a&gt; tıklayarak nasıl yapacağınızı öğrenebilirsiniz." />
+	<string id="34608" value="Comodo Dragon'yu varsayılan tarayıcım olarak ayarla." />
+	<string id="34609" value="Google Chrome ayarlarını (geçmiş, yer imleri, çerezler, v.b.) Comodo Dragon tarayıcısına aktar." />
+	<dialog id="141">
+		<control id="1010" />
+	</dialog>
+	<dialog id="420">
+		<control id="1" class="BUTTON" />
+		<control id="2" class="BUTTON" />
+	</dialog>
+	<dialog id="425" />
+</resource>
