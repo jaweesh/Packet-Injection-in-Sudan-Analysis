@@ -1,16 +1,23 @@
+TL;DR
+All issues discussed here ARE a result of caching servers that served older versions of software over insecure protocols and channels.
+
 # Shady downloads and redirections
 
 To analyze samples downloaded over insecure channel and secure channels from Sudanese ISPs.
 
-## [Update] January 2019
-TL;DR
-All issues discussed here can be a result of a caching server.
 
 
 
-Some people started referencing this repo as a solid proof that the Sudanese government is using the APT vulnerability CVE-2019-3462 \(https://security-tracker.debian.org/tracker/CVE-2019-3462\) and maybe others like CVE-2016-1252 (https://security-tracker.debian.org/tracker/CVE-2016-1252\) to run malicous payloads. I do not support this theory without a solid proof and I don't have one. **SO DON'T REFERENCE THIS REPO AS A PROOF FOR THE USAGE OF APT-GET VULNERABILITY BY SUDANESE GOVT.**
+## [Update] January 2019 
 
-Someone pointed out to me that the hashes for the Comodo antivirus are the ligit ones, only old vs new hash difference which is a valid claim i can confirm
+Some people started referencing this repo as a solid proof that the Sudanese government is using the APT vulnerability 
+CVE-2019-3462 \(https://security-tracker.debian.org/tracker/CVE-2019-3462\) 
+and maybe others like 
+CVE-2016-1252 (https://security-tracker.debian.org/tracker/CVE-2016-1252\) 
+to run malicous payloads. I do not support this theory without a solid proof and I don't have one.
+**SO DON'T REFERENCE THIS REPO AS A PROOF FOR THE USAGE OF APT-GET VULNERABILITY BY SUDANESE GOVT.**
+
+Someone (Thank you!) pointed out to me that the hashes for the Comodo antivirus sample I had are the ligit ones, only old vs new hash difference which is a valid claim i can confirm
 ```
 #md5sum cav_installer-original.exe cav_installer-intercepted.exe
 7ac6a0bd1c5c0513b2a0bd800a52d084  cav_installer-original.exe
@@ -25,16 +32,15 @@ while this hash ``` 2a2cc463a03efd593ed0da875227cee4 ``` dates to 24 Nov 2017 \(
 
 As I found out there are only 5 different **installed files** between the two **installers** which is a good way to say that these installers had hotfixes.
 
+Moreover, when I ran 
+``` 
+apt-get update
+```
+a hash-mismatch error was generated because out of the box my kali linux supports only **HTTP** updates and my ISP servers happily served an older files with differnet hashes.
+
 
 As I said before, The sole purpose of this repository is just to try and shed some light of what was happening to me and others in Sudan.
 
-### How you can help?
-
-Please, if you live in Sudan and can provide me with a network capture or a memory dump of running
-```
-apt-get update
-```
-while you get a hash mismatch error I would be sure of if this is a threat or just a case of noisy caching servers.
 
 ## Introduction and Disclaimers
 
@@ -61,9 +67,10 @@ analysis will be on this page while samples will have their own folder, executab
 
 ## Observations and Analysis
 
-when updating linux repositories one notices a hash mismatch and have to connect to a VPN in order to successfully update the system repositories which indicate that ISPs like MTN, Zain and Sudani have some sort of caching proxies or packet injection on the fly, ~~however some people would say this is a caching proxy which is invalid claim as caching proxies does not tamper with the package, it may cache an older version but will not change a package structure so it is not the case here.~~
+when updating linux repositories one notices a hash mismatch and have to connect to a VPN in order to successfully update the system repositories which indicate that ISPs like MTN, Zain and Sudani have some sort of caching proxies or packet injection on the fly, ~~however some people would say this is a caching proxy which is invalid claim as caching proxies does not tamper with the package, it may cache an older version but will not change a package structure so it is not the case here.~~ 
+Indeed I was served an older versions of software.!
 
-running linux update from MTN network results in an mismatch size and ignored
+running linux update from MTN network results in an mismatch size and ignored (notice the **HTTP** connectins)
 
 ```
 apt-get update
@@ -93,14 +100,14 @@ E: Some index files failed to download. They have been ignored, or old ones used
 ![](/assets/2018-03-13_14h05_25.jpg)
 
 ## IP addresses in question
-
+caching servers IP addresses that I was redirected to
 | IP | net | Date reported | notes |
 | :--- | :--- | :--- | :--- |
 | 172.19.66.104 | PRIVATE IP SPACE | 13-March-2018 | indicates inside MTN network device |
 | 41.223.201.247 | Zain |  | IP is down |
 
 Trying to download an Antivirus software over unencrypted HTTP channel results in the same IP address redirection and size mismatch, however when downloading the same file over a VPN results in a proper safe download of the file
-
+**again a cahching server presenting older version**
 ```
 wget -d  "http://download.comodo.com/cis/download/installs/1000/standalone/cav_installer.exe"
 DEBUG output created by Wget 1.19.4 on linux-gnu.
@@ -192,28 +199,37 @@ an old WhatsApp download from a strange IP address
 
 ## Past stories and leaks
 
+**irrelevant after confirming caching servers**
 
-In 2013 reports found that Blue Coat's tools have been used to censor web sites and monitor the communications of dissidents, activists and journalists in Sudan, Iran and Syria. These countries are sanctioned and sales of such devices, technology and systems are prohibited by law but they managed to get them and utilize them.
- ``` https://www.washingtonpost.com/world/national-security/report-web-monitoring-devices-made-by-us-firm-blue-coat-detected-in-iran-sudan/2013/07/08/09877ad6-e7cf-11e2-a301-ea5a8116d211_story.html?utm_term=.01efb1ac0017 ```
+~~In 2013 reports found that Blue Coat's tools have been used to censor web sites and monitor the communications of dissidents, activists and journalists in Sudan, Iran and Syria. These countries are sanctioned and sales of such devices, technology and systems are prohibited by law but they managed to get them and utilize them.
+ ``` https://www.washingtonpost.com/world/national-security/report-web-monitoring-devices-made-by-us-firm-blue-coat-detected-in-iran-sudan/2013/07/08/09877ad6-e7cf-11e2-a301-ea5a8116d211_story.html?utm_term=.01efb1ac0017 ```~~
 
-In Sudan, the Citizen Lab identified the Blue Coat devices on the networks of commercial Internet service provider Canar Telecom. The country, which also faces U.S. sanctions, continues to use the Internet to restrict freedom of expression and crack down on journalists. Sudanese Internet service providers have censored Web sites covering sensitive political protests.
-``` same source ```
+~~In Sudan, the Citizen Lab identified the Blue Coat devices on the networks of commercial Internet service provider Canar Telecom. The country, which also faces U.S. sanctions, continues to use the Internet to restrict freedom of expression and crack down on journalists. Sudanese Internet service providers have censored Web sites covering sensitive political protests.
+``` same source ```~~
 
-In 2014 a Citizen Lab report revealed evidence that Hacking Team's RCS (Remote Control System) was being used by the Sudanese government, something the Italian company flat-out denied.
-``` https://citizenlab.ca/storage/bluecoat/CitLab-PlanetBlueCoatRedux-FINAL.pdf ```
+~~In 2014 a Citizen Lab report revealed evidence that Hacking Team's RCS (Remote Control System) was being used by the Sudanese government, something the Italian company flat-out denied.
+``` https://citizenlab.ca/storage/bluecoat/CitLab-PlanetBlueCoatRedux-FINAL.pdf ```~~
 
-In 2015 HackingTeam, an Italian based IT company that sells offensive intrusion and surveillance software to governments, law enforcement agencies and corporations was hacked and 400GB of data including internal emails, nvoices and source code was leaked and WikiLeaks has an indexed files you can lookup. However HackingTeam stated before that it has never done business with Sudan.
+~~In 2015 HackingTeam, an Italian based IT company that sells offensive intrusion and surveillance software to governments, law enforcement agencies and corporations was hacked and 400GB of data including internal emails, nvoices and source code was leaked and WikiLeaks has an indexed files you can lookup. However HackingTeam stated before that it has never done business with Sudan.
 On the leak a contract with Sudan valued at 480,000 Euro and dated July 2, 2012 was published as part of the 400GB cache, in addition, a maintenance list named Sudan as a customer, but one that was "not officially supported".
-``` https://www.csoonline.com/article/2944333/data-breach/hacking-team-responds-to-data-breach-issues-public-threats-and-denials.html ```
+``` https://www.csoonline.com/article/2944333/data-breach/hacking-team-responds-to-data-breach-issues-public-threats-and-denials.html ```~~
 
 
-In 2016 a friend of mine faced the same issue
-``` https://twitter.com/el_ammari/status/723555290550013957 ```
+~~In 2016 a friend of mine faced the same issue
+``` https://twitter.com/el_ammari/status/723555290550013957 ```~~
 
 ## Conclusions
 
+What was happening is ISPs was using caching server and serving older versions of any software downlaoded over insecure channels
+
 ~~there is some sort of packet interception and modification on the fly for unencrypted download and traffic,~~ however a VPN connection will prevent this from happening.
 
+### How you can help?
 
-## Contributions
-I would like to invite my fellow InfoSec folks to collaborate by PR so we can all be in the light
+Please, if you live in Sudan and can provide me with a network capture or a memory dump of running
+```
+apt-get update
+```
+while you get a hash mismatch error I would be sure of if this is a threat or just a case of noisy caching servers.
+
+
