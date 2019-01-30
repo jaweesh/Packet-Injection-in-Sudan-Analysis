@@ -11,10 +11,11 @@ To analyze samples downloaded over insecure channel and secure channels from Sud
 ## [Update] January 2019 
 
 Some people started referencing this repo as a solid proof that the Sudanese government is using the APT vulnerability 
-CVE-2019-3462 \(https://security-tracker.debian.org/tracker/CVE-2019-3462\) 
+CVE-2019-3462 \(https://security-tracker.debian.org/tracker/CVE-2019-3462 \) 
 and maybe others like 
-CVE-2016-1252 (https://security-tracker.debian.org/tracker/CVE-2016-1252\) 
+CVE-2016-1252 (https://security-tracker.debian.org/tracker/CVE-2016-1252 \) 
 to run malicous payloads. I do not support this theory without a solid proof and I don't have one.
+
 **SO DON'T REFERENCE THIS REPO AS A PROOF FOR THE USAGE OF APT-GET VULNERABILITY BY SUDANESE GOVT.**
 
 Someone (Thank you!) pointed out to me that the hashes for the Comodo antivirus sample I had are the ligit ones, only old vs new hash difference which is a valid claim i can confirm
@@ -24,11 +25,11 @@ Someone (Thank you!) pointed out to me that the hashes for the Comodo antivirus 
 2a2cc463a03efd593ed0da875227cee4  cav_installer-intercepted.exe
 ```
 
-this hash ``` 7ac6a0bd1c5c0513b2a0bd800a52d084 ``` dates to 22 feb 2018 \(the file downloaded over VPN hence it was over HTTPS and a caching proxy if any couldn't cache it\)
-\(https://malwaretips.com/threads/comodo-internet-security-v10-2-0-6514-released.80123/\)
+this hash ``` 7ac6a0bd1c5c0513b2a0bd800a52d084 ``` dates to 22 feb 2018 \(the file downloaded over VPN hence it was over HTTPS and a caching proxy if any couldn't cache it \)
+\(https://malwaretips.com/threads/comodo-internet-security-v10-2-0-6514-released.80123/ \)
 
-while this hash ``` 2a2cc463a03efd593ed0da875227cee4 ``` dates to 24 Nov 2017 \(the file that got redirected to an IP owned by ZAIN ISP, is probably a caching server with an old version\)
-\(https://malwaretips.com/threads/comodo-internet-security-v10-0-2-6420-hotfix-released.77556/\)
+while this hash ``` 2a2cc463a03efd593ed0da875227cee4 ``` dates to 24 Nov 2017 \(the file that got redirected to an IP owned by ZAIN ISP, is probably a caching server with an old version \)
+\(https://malwaretips.com/threads/comodo-internet-security-v10-0-2-6420-hotfix-released.77556/ \)
 
 As I found out there are only 5 different **installed files** between the two **installers** which is a good way to say that these installers had hotfixes.
 
@@ -44,12 +45,12 @@ As I said before, The sole purpose of this repository is just to try and shed so
 
 ## Introduction and Disclaimers
 
-I created this repository to analyze, collect samples and collaborate efforts towards what is now affecting all ISPs in Sudan \(Zain, MTN and Sudani\).
+I created this repository to analyze, collect samples and collaborate efforts towards what is now affecting all ISPs in Sudan \(Zain, MTN and Sudani \).
 
 I am not, and will not be held responsible for any illegal actions or misinterpretation of what comes next in the following analysis, this project started to shed some light on what is going on with internet usage and freedom in my country and nothing else. I am not carrying any illegal actions, any thing will be mentioned here is readily available on the internet with the respected mentioned sources.
 
 
-The story begins when noticing a mismatch hash when running `apt-get update` on most linux distributions, the issue was more clear when WhatsApp used to download APK files over HTTP, and the connection gets redirected and tampered with resulting in a different APK in size and hash when downloaded over a VPN connection. However since WhatsApp started using HTTPS for downloading and shifted to Google Play and Apple Store, we started collecting samples from AntiVirus software that is downloaded over un-encrpted channels \(HTTP\) for comparison purposes.
+The story begins when noticing a mismatch hash when running `apt-get update` on most linux distributions, the issue was more clear when WhatsApp used to download APK files over HTTP, and the connection gets redirected and tampered with resulting in a different APK in size and hash when downloaded over a VPN connection. However since WhatsApp started using HTTPS for downloading and shifted to Google Play and Apple Store, we started collecting samples from AntiVirus software that is downloaded over un-encrpted channels **HTTP** for comparison purposes.
 
 
 
@@ -68,7 +69,8 @@ analysis will be on this page while samples will have their own folder, executab
 ## Observations and Analysis
 
 when updating linux repositories one notices a hash mismatch and have to connect to a VPN in order to successfully update the system repositories which indicate that ISPs like MTN, Zain and Sudani have some sort of caching proxies or packet injection on the fly, ~~however some people would say this is a caching proxy which is invalid claim as caching proxies does not tamper with the package, it may cache an older version but will not change a package structure so it is not the case here.~~ 
-Indeed I was served an older versions of software.!
+
+**Indeed I was served an older versions of software!.**
 
 running linux update from MTN network results in an mismatch size and ignored (notice the **HTTP** connectins)
 
@@ -100,14 +102,18 @@ E: Some index files failed to download. They have been ignored, or old ones used
 ![](/assets/2018-03-13_14h05_25.jpg)
 
 ## IP addresses in question
+
 caching servers IP addresses that I was redirected to
+
 | IP | net | Date reported | notes |
 | :--- | :--- | :--- | :--- |
 | 172.19.66.104 | PRIVATE IP SPACE | 13-March-2018 | indicates inside MTN network device |
 | 41.223.201.247 | Zain |  | IP is down |
 
 Trying to download an Antivirus software over unencrypted HTTP channel results in the same IP address redirection and size mismatch, however when downloading the same file over a VPN results in a proper safe download of the file
+
 **again a cahching server presenting older version**
+
 ```
 wget -d  "http://download.comodo.com/cis/download/installs/1000/standalone/cav_installer.exe"
 DEBUG output created by Wget 1.19.4 on linux-gnu.
