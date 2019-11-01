@@ -6,6 +6,18 @@ All issues discussed here ARE a result of caching servers that served older vers
 To analyze samples downloaded over insecure channel and secure channels from Sudanese ISPs.
 
 
+## [Update] November 2019
+
+Turns out there is a dedicated website called why does apt not use https dot com...... yes that right [whydoesaptnotusehttps.com](https://whydoesaptnotusehttps.com/) 
+
+quotes from the site
+
+```
+https is used to prevent intruders from being able to listen to communications between you and websites you visit, as well as to avoid data being modified without your knowledge.
+
+HTTPS can not detect if malicious tampering has occurred on the disks of the server you are downloading from. There is little point “securely” transfering a compromised package.
+
+```
 
 
 ## [Update] January 2019 
